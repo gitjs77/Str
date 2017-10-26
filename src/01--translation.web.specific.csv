@@ -1,0 +1,16 @@
+en;ru;kk;translation_key;output_channel
+keyColumns=translation_key;actionType=modify
+Active;Активный;Активный;ps_Active;W
+Letter to client;Письмо клиенту;Письмо клиенту;letter_to;W
+Mailing to the clients;Рассылка пользовательской группе;Рассылка пользовательской группе;letter_distribution;W
+Client;Клиент;Клиент;common_organization;W
+Deposit number, client name, client tax code;№ депозитного договора, Клиент, ИН клиента;№ депозитного договора, Клиент, ИН клиента;depositNumberOrgNameOrgBin;W
+Credit number, client name, client tax code;№ кредитного договора, Клиент, ИН клиента;№ кредитного договора, Клиент, ИН клиента;creditNumberOrgNameOrgBin;W
+Account number, client name, client tax code;№ счёта, Клиент, ИН клиента;№ счёта, Клиент, ИН клиента;accountNumberOrgNameOrgBin;W
+Client tax code;ИН Клиента;ИН Клиента;common_orgTaxCode;W
+Transactions;Денежные операции;Денежные операции;navigation_transactions;W
+All accounts;Счета;Счета;navigation_products;W
+Tax code;ИИН;ИИН;common_tax_code;W
+Client tax code;ИИН/БИН Клиента;ИИН/БИН Клиента;common_organization_tax_code;W
+Name;Наименование;Наименование;intTransfer_payerName;W
+BIN/IIN;БИН/ИИН;БИН/ИИН;intTransfer_payerCode;W
