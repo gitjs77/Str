@@ -263,7 +263,7 @@ Download of accounts;Загрузка счетов;Шоттарды жүктеу
 Currency exchange request;Запрос курсов валют;Валюталар бағамын сұрату;job_EXCHANGE_RATE
 Document status request;Запрос состояния документа;Құжаттың күйі сұранымы;job_DOC_STATE_CHANGED
 International transfer;Международный перевод;Халықаралық аударым;job_EXPORT_INTERNATIONAL
-Transfer between own accounts ;Перевод между своими счетами;Өз шоттары арасындағы аударым;page_inner_transactions
+Transfer between own accounts;Перевод между своими счетами;Өз шоттары арасындағы аударым;page_inner_transactions
 Transfer in national currency;Перевод в национальной валюте;Ұлттық валютадағы аударым;job_EXPORT_DOMESTIC_TRANSFER
 Integration objectives;Задачи интеграции;Интеграция тапсырмалары;job_group_integration
 Tasks on documents;Задачи по документам;Құжаттар бойынша тапсырмалар;job_group_documents
@@ -1231,8 +1231,6 @@ View of transfers between own accounts /Currency conversions;Просмотр П
 Actions ;Действия;Әрекеттер;exchangeRates_operations
 Types of multifactor authorization;Типы многофакторной авторизации;Көпфакторлы авторландыру типтері;authFactorsTypes
 Mb;Мб;Мб;Mb
-Transfer between own accounts, Currency conversion;Перевод между своими счетами, Конвертация валюты;Өз шоттары арасындағы аударым,
-Валютаны конвертациялау;accTransfer_accountTransfer
 Document type;Тип документа;Құжат типі;signingrules_docType
 Your account has been temporarily blocked! Expected activation time of the account, min;Ваша учетная запись временно заблокирована! Ожидаемое время активации учетной записи, мин;Сіздің есеп жазбаңыз уақытша бұғатталған!  Есеп жазбаны белсендірудің күтілетін уақыты, мин;login.ProfileIsNotActive
 Update day;Обновить день;Кұнді жаңалау;updateDay

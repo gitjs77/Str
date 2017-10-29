@@ -1,0 +1,379 @@
+en;ru;kk;translation_key;is_preload
+keyColumns=translation_key;actionType=check
+Beeline (Кар-Тел);Beeline (Кар-Тел);Beeline (Кар-Тел);ps_1;0
+Kcell;Kcell;Kcell;ps_2;0
+Activ;Aсtiv;Aсtiv;ps_3;0
+TELE2;TELE2;TELE2;ps_4;0
+Altel;Алтел;Алтел;ps_5;0
+"Kazakhtelecom" JSC;АО "Казахтелеком";"Қазақтелеком" АҚ;ps_6;0
+"2DAY Telecom" LLP (Internet access "Internet at home" by Beeline);ТОО «2DAY Телеком» (Доступ в Интернет «Интернет Дома» от Beeline);"2DAY Телеком"  ЖШС  (Beeline-нан "Интернет Үйде" Интернетіне қол жеткізу);ps_7;0
+"TOPAZ-TELECOM" LLP;ТОО «ТОПАЗ-ТЕЛЕКОМ»; «ТОПАЗ-ТЕЛЕКОМ» ЖШС;ps_8;0
+Twinncom Network;Twinncom Network;Twinncom Network;ps_9;0
+OKTEL;ОКТЕЛ;ОКТЕЛ;ps_10;0
+SA-Telecom fixed communication;СА-Телком фиксированная связь;СА-Телеком тыянақты байланыс;ps_11;0
+Balkhash Electronic city. Internet;Балхаш Электронный Город. Интернет;Балқаш Электронды Қала. Интернет;ps_12;0
+"Metro Net" LLP;ТОО «Metro Net»;«Metro Net» ЖШС;ps_13;0
+"Promtel" LLP;ТОО «Promtel»;«Promtel» ЖШС;ps_14;0
+"System Line" LLP;ТОО «System Line»;«System Line» ЖШС;ps_15;0
+BeNetCom LLP;ТОО BeNetCom; BeNetCom ЖШС;ps_16;0
+Skype;Skype;Skype;ps_17;0
+Alter JET (Retail);Altel JET (Retail);Altel JET (Retail);ps_18;0
+AstanaMegaTel LLP;ТОО АстанаМегаТел; АстанаМегаТел ЖШС;ps_19;0
+"Transtelecom" JSC;АО «Транстелеком»; «Транстелеком» АҚ;ps_20;0
+Transtelecom" JSC (Direct);АО «Транстелеком» (Direct); «Транстелеком» (Direct) АҚ;ps_21;0
+"AlmaTV" LLP;ТОО «АлмаТВ»;«АлмаТВ» ЖШС;ps_22;0
+"TV company "43 cahnnel" LLP;ТОО «Телекомпания «43 канал»; «Телекомпания «43 канал» ЖШС;ps_23;0
+"Kazteleradio full package" JSC (OTAU TV);АО "Казтелерадио полный пакет" (OTAU TV);"Қазтелерадио толық пакет" АҚ (OTAU TV);ps_24;0
+"Kostanay cable networks" (Kabelnye seti Kostanay) LLP;ТОО "Кабельные сети Костаная"; "Қостанай Кабель желілері" ЖШС;ps_25;0
+TAU TV*;ТАУ TV*;ТАУ TV*;ps_26;0
+Bazis-Telecom of Almaty;Базис-Телеком г.Алматы;Базис-Телеком Алматы қ.;ps_27;0
+Tricolor TV;Триколор ТВ;Триколор ТВ;ps_28;0
+NTV-Plus;НТВ-Плюс;НТВ-Плюс;ps_29;0
+ALSECO*;АЛСЕКО*;АЛСЕКО*;ps_30;0
+Information computer center (ICC)*;ИВЦ*;АЕО*;ps_31;0
+EPC forfait;ЭПК forfait;ЭПК forfait;ps_32;0
+Zheskazgan EnergoSbyt;Жесказган ЭнергоСбыт;Жезқазған ЭнергоӨткізу;ps_33;0
+AlmatyEnergoSbyt (individuals)*;АлматыЭнергосбыт (физ. лица)*;АлматыЭнергосбыт (жеке тұлғалар)*;ps_34;0
+Batys Su Arnasy;Батыс Су Арнасы;Батыс Су Арнасы;ps_35;0
+Omega Xxi Shymkent (Energopotok, KazTransGazAimak, other);Омега XXI Шымкент [Энергопоток, КазТрансГазАймак, прочие];Омега XXI Шымкент [Энергоағын, ҚазТрансГазАймақ, өзгелер];ps_36;0
+(Omega XXI) Region;[Омега XXI] Область;[Омега XXI] Облыс;ps_37;0
+karagangy GorKomTrans LLP;ТОО Караганды ГорКомТранс;Қарағанды ҚалаКомТранс ЖШС;ps_38;0
+Mulе Service;Мюль Сервис;Мюль Сервис;ps_39;0
+Public house intercom;Народный домофон;Халықтық домофон;ps_40;0
+Zholaushy-SK;Жолаушы-СК;Жолаушы-СК;ps_41;0
+Koksheenergoservice *;Кокшеэнергосервис*;Кокшеэнергосервис*;ps_42;0
+CenterCommunPlat-ARS;ЦентрКоммунПлат-АРС;ОрталықКоммунПлат-АРС;ps_43;0
+Enterprise Speczavto-transport;Предприятие Спецавто-транспорта;Арнайы авто-көлік кәсіпорны;ps_44;0
+MCC (Main Clearing Center) Kapchagai;ЕРЦ Капчагай;Қапшағай БЕО;ps_45;0
+RCCG (Regional Center for Corporate Governance) Taraz [Zhambyl-zhylu, KazTransGas Aimak, others];РЦКУ Тараз [Жамбыл-жылу, КазТрансГаз Аймак, прочие];РЦКУ Тараз [Жамбыл-жылу, ҚазТрансГаз Аймақ, өзгелер];ps_46;0
+"Kostanay energy park" LLP (Kostanay Energocentr);ТОО «Костанайский ЭнергоЦентр»*;«Қостанай ЭнергоОрталығы» ЖШС*;ps_47;0
+AREK-Energosbyt. International*;АРЭК-Энергосбыт.Интернациональное*;АРЭК-Энергосбыт.Интернационалды*;ps_48;0
+AREK-Energosbyt. Koshchy*;АРЭК-Энергосбыт.Кощи*;АРЭК-Энергосбыт.Қосшы*;ps_49;0
+Astana Gas Service*;Астана Газ Сервис*;Астана Газ Сервис*;ps_50;0
+BalkhashEnergo. Electric power*;БалхашЭнерго.Электроэнергия*;БалқашЭнерго.Электр энергиясы*;ps_51;0
+Burabay Su Arnasy*;Бурабай Су Арнасы*;Бурабай Су Арнасы*;ps_52;0
+Gorelectroseti* LLP;ТОО Горэлектросети*;Қалаэлектржелілері ЖШС*;ps_53;0
+Pavlodarlift*;Павлодарлифт*;Павлодарлифт*;ps_54;0
+Kyzylzhar su JSC;АО Кызылжар су;Қызылжар су АҚ;ps_55;0
+Remstroyservice*;Ремстройсервис*;Ремжөндеусервис.;ps_56;0
+Ridder-HES*;Риддер-ТЭЦ*;Риддер-ЖЭЦ*;ps_57;0
+Calculations and Information Centre *;РСЦ*;РСЦ*;ps_58;0
+SevKazEnergo * (Akkayinsky power distribution zone );СевКазЭнерго* (Аккайынский РЭС);СолтҚазЭнерго* (Ақкайың РЭС);ps_59;0
+SevKazEnergo * (Blagoveshchensky EEO);СевКазЭнерго* (Благовещенский УСЭЭ) ;СолтҚазЭнерго* (Благовещенск УСЭЭ) ;ps_60;0
+SevKazEnergo * (the Vozvyshensky RPB);СевКазЭнерго* (Возвышенский РПБ) ;СолтҚазЭнерго* (Возвышенск РПБ) ;ps_61;0
+SevKazEnergo * (Yesilsky EEO);СевКазЭнерго* (Есильский УСЭЭ) ;СолтҚазЭнерго* (Есил  УСЭЭ) ;ps_62;0
+SevKazEnergo * (Zhambyl  power distribution zone );СевКазЭнерго* (Жамбыльский РЭС) ;СолтҚазЭнерго* (Жамбыл РЭС) ;ps_63;0
+SevKazEnergo * (Korneyevsky RPB);СевКазЭнерго* (Корнеевский РПБ) ;СолтҚазЭнерго* (Корнеевск РПБ) ;ps_64;0
+SevQazEnergo * (Kyzylzhar  power distribution zone );СевКазЭнерго* (Кызылжарский РЭС) ;СолтҚазЭнерго* (Қызылжар РЭС) ;ps_65;0
+SevKazEnergo * (M. Zhumabayeva  power distribution zone);СевКазЭнерго*  (М.Жумабаева РЭС) ;СолтҚазЭнерго*  (М.Жумабаева РЭС) ;ps_66;0
+SevKazEnergo * (Mamlyutsky  power distribution zone );СевКазЭнерго* (Мамлютский РЭС);СолтҚазЭнерго* (Мамлют РЭС);ps_67;0
+SevKazEnergo * (Petropavlovsk);СевКазЭнерго* (Петропавловск) ;СолтҚазЭнерго* (Петропавл) ;ps_68;0
+SevKazEnergo * (Sokolovsky USEE);СевКазЭнерго* (Соколовский УСЭЭ) ;СолтҚазЭнерго* (Соколов УСЭЭ) ;ps_69;0
+SevQazEnergo * (Timiryazev  power distribution zone );СевКазЭнерго* (Тимирязевский РЭС);СолтҚазЭнерго* (Тимирязев РЭС);ps_70;0
+ModusKZ Karagandy*;МодусKZ Караганды*;МодусKZ Қарағанды*;ps_71;0
+ModusKZ Kokshetau*;МодусKZ Кокшетау*;МодусKZ Көкшетау*;ps_72;0
+Termotranzit*;Термотранзит*;Термотранзит*;ps_73;0
+"GrKomTrans for Karaganda" LLP; ТОО «ГрКомТранс по г.Караганда» ;«Қарағанды қ. бойынша ГрКомТранс»  ЖШС;ps_74;0
+"Oskemen Vodokanal" MUS;ГКП «Оскемен Водоканал»;«Өскемен Су арнасы» МКК;ps_75;0
+"Danko" private apartment owners' cooperative;ПКСК "Данко";"Данко" ПКСК;ps_76;0
+Atyrau Heat Electical Station;Атырауская теплоэлектроцентраль ;Атырау жылуэлектроцентраль;ps_77;0
+"Astana-Tazartu" LLP;ТОО "Астана-Тазарту"; "Астана-Тазарту" ЖШС;ps_78;0
+Metacom-Semey;Метаком-Семей;Метаком-Семей;ps_79;0
+RCCG -Uralsk [Batys EnergoResources, Oral Taza Service, KazTransGas Aimak, others];РЦКУ-Уральск [Батыс ЭнергоРесурсы, Орал Таза Сервис, КазТрансГаз Аймак, прочие];РЦКУ-Орал [Батыс ЭнергоРесурстар, Орал Таза Сервис, ҚазТрансГаз Аймақ, өзгелер];ps_80;0
+Cyfral, Aktobe Taza Kala, KazTransGas, Aimak, other);[Цифрал, Актобе Таза Кала, КазТрансГаз Аймак, прочие];[Цифрал, Ақтөбе Таза Қала, ҚазТрансГаз Аймақ, басқалары];РЦКУ-Запад (Актобе) [Цифрал, Актобе Таза Кала, КазТрансГаз Аймак, прочие];0
+RCCG -Kostanay [KazTransGasAimak, in-house gas equipment, others];РЦКУ-Костанай [КазТрансГазАймак, ВДГО, прочие];РЦКУ-Қостанай [ҚазТрансГазАймақ, ВДГО, өзгелер];ps_82;0
+RCCG -Atyrau [KazTransGasAimak, in-house gas equipment, others];РЦКУ-Атырау [КазТрансГазАймак, ВДГО, прочие];РЦКУ-Атырау [ҚазТрансГазАймақ, ВДГО, өзгелер];ps_83;0
+RCCG -Aktau [KazTransGasAimak, in-house gas equipment, others];РЦКУ-Актау[КазТрансГазАймак, ВДГО, прочие];РЦКУ-Ақтау[ҚазТрансГазАймақ, ВДГО, өзгелер];ps_84;0
+Astana MCC;Астана ЕРЦ;Астана БЕО;ps_85;0
+UK Heating networks ; УК тепловые сети;УК жылу желілері;ps_86;0
+"Karagandyzhylsbyt" LLP;ТОО "Карагандыжылусбыт";"Қарағандыжылуөткізу" ЖШС;ps_87;0
+Tauekel-T;Тауекел-Т;Тәуекел-Т;ps_88;0
+Tauekel-N-Algabas;Тауекель-Н-Алгабас;Тәуекел-Н-Алғабас;ps_89;0
+Zhetisu Gas Kubyry;Жетісу газ кубыры;Жетісу газ құбыры;ps_90;0
+Kyzylordateploelektrotsentr;Кызылордатеплоэлектроцентр;Қызылорда жылу электр орталығы;ps_91;0
+UPD ASC Almaty Gas;ЕПД АРЦ Алматы газ;Алматы газ АЕО БТҚ;ps_92;0
+Rudnensky Vodokanal LLP; ТОО Рудненский Водоканал;Рудненск Су арнасы ЖШС;ps_93;0
+ "Shygysenergotrade" LLP;ТОО «Шыгысэнерготрэйд»;«Шығысэнерготрэйд» ЖШС;ps_94;0
+RCCG -Kyzylorda [KazTransGasAimak, in-house gas equipment, others];РЦКУ-Кызылорда [КазТрансГазАймак, ВДГО, прочие];РЦКУ-Қызылорда [ҚазТрансГазАймақ, ВДГО, өзгелер];ps_95;0
+Sogrinskaya HES APS;  Согринская ТЭЦ АЭС;Согринск ЖЭО  АЭС;ps_96;0
+Pavlodarenergosbyt MCC;  ПавлодарЭнергоСбыт ЕРЦ;ПавлодарЭнергоӨткізу  (ПавлодарЭнергоСбыт) БЕО;ps_97;0
+"Shakhtinskteploenergo" LLP;ТОО "Шахтинсктеплоэнерго";"Шахтинскжылуэнерго" ЖШС;ps_98;0
+"Pavlodar-Vodokanal" LLP;ТОО "Павлодар-водоканал";"Павлодар-суарнасы" ЖШС;ps_99;0
+Batys Energo resources ;Батыс Энерго Ресурсы;Батыс Энерго Ресурсы;ps_100;0
+RCCG Shymkent;РЦКУ Шымкент;Шымкент РЦКУ;ps_101;0
+ONAY-transport card of Almaty;ОҢАЙ – Транспортная карта г.Алматы;ОҢАЙ –  Алматы қ. көлік картасы;ps_102;0
+"SAPAR" LLP )www.avokzal.kz);ТОО «САПАР» (www.avokzal.kz);«САПАР» ЖШС (www.avokzal.kz);ps_103;0
+E-gov (Electronic Government)*;E-gov (Электронное правительство)*;E-gov (Электрондық үкімет)*;ps_104;0
+Payment of traffic penalties (Almaty city) *;Оплата штрафов ПДД (г.Алматы)*;ЖҚЕ айыппұлдарын төлеу (Алматы қ.)*;ps_105;0
+Payment for Driving Regulations fines (RK)*;Оплата штрафов ПДД (РК)*;ЖҚЕ айыппұлдарын төлеу (ҚР);ps_106;0
+Mamba.ru;Mamba.ru;Mamba.ru;ps_107;0
+Lava-Online, ;Lava-Online, ;Lava-Online, ;ps_108;0
+Watches,; Дозоры,;Барлаулар,;ps_109;0
+(AtomFishing) Extreme Server, ;[AtomFishing] Сервер Экстрим, ;[AtomFishing] Сервер Экстрим, ;ps_110;0
+(AtomFishing) Return Server, ;[AtomFishing] Сервер Возвращение, ;[AtomFishing] Сервер Қайтару ;ps_111;0
+Xcraft.ru,;Xcraft.ru,;Xcraft.ru,;ps_112;0
+GameXP,;GameXP,;GameXP,;ps_113;0
+The War Z, ;The War Z, ;The War Z, ;ps_114;0
+Battle of Immortals, ;Battle of Immortals, ;Battle of Immortals, ;ps_115;0
+Territoriya 2;Территория 2, ;Аумақ  2, ;ps_116;0
+Last limit,; Последний предел,;Соңғы шек,;ps_117;0
+ Tanki online, ; Tanki online, ;Tanki online, ;ps_119;0
+ Bloody World, ; Bloody World, ;Bloody World, ;ps_120;0
+Gamenet,;Gamenet, ;Gamenet, ;ps_121;0
+One World,;One World, ;One World, ;ps_122;0
+Molehill Empire ;Садовая империя, ;Бақ империясы,;ps_123;0
+Lordmancer;Лордмансер, ;Лордмансер, ;ps_124;0
+ Zzima.com,; Zzima.com,;Zzima.com,;ps_125;0
+Podnebesiye;Поднебесье, ;Аспан асты,;ps_126;0
+ Murclub.ru, ; Murclub.ru, ;Murclub.ru, ;ps_127;0
+Siege Online;Осада Онлайн, ;Осада Онлайн, ;ps_128;0
+Silkroad Online, ;Silkroad Online, ;Silkroad Online, ;ps_129;0
+Kw.rambler.ru, ;Kw.rambler.ru, ;Kw.rambler.ru,;ps_130;0
+Moja Derewnja;Моя деревня, ;Менің ауылым,;ps_131;0
+My lands, ;My lands, ;My lands, ;ps_132;0
+Barbarian;Варвары, ;Варварлар, ;ps_133;0
+JagPlay, ;JagPlay, ;JagPlay, ;ps_134;0
+Mgates, ;Mgates, ;Mgates, ;ps_135;0
+Mafia Wars,;Войны мафии, ;Мафия соғыстары;ps_136;0
+Islands ;  Острова, ;Аралдар,;ps_137;0
+Peredovaya, ;Peredovaya, ;Peredovaya, ;ps_138;0
+StarClashes;Звездные бои,;Жұлдыздар соғысы,;ps_139;0
+Garena;Гарена, ;Гарена, ;ps_140;0
+Korolevstvo (Kingdom);Королевство;Корольдік;ps_141;0
+Ganja Wars;Ганджубасовые войны;Ганджубастық соғыстар;ps_142;0
+Carnage;Carnage;Carnage;ps_143;0
+11x11 foorball Messenger ;11х11 футбольный Менеджер;11х11 футболдық  Менеджер;ps_144;0
+Sky2Fly;Sky2Fly;Sky2Fly;ps_145;0
+Heros of War and Money;Герои войны и денег;Соғыс пен ақша қаһарманы ;ps_146;0
+U.N.I.T.;U.N.I.T.;U.N.I.T.;ps_147;0
+NeverLands;Neverlands;Neverlands;ps_148;0
+Gladiators;Гладиаторы;Гладиаторлар;ps_149;0
+Банановые Войны (BananaWars);BananaWars;BananaWars;ps_150;0
+Overkings;Overkings;Overkings;ps_151;0
+Haddan;Haddan;Haddan;ps_152;0
+Reality faces;Грани реальности;Ақиқат шегі;ps_153;0
+Xsolla;Xsolla ;Xsolla ;ps_154;0
+VK advertising;VK реклама;VK жарнама;ps_155;0
+Steam (M);Steam (M);Steam (M);ps_156;0
+World of Tanks (M);World of Tanks (M);World of Tanks (M);ps_157;0
+"OLIMP KZ" Bookmaker Office" LLP;ТОО «Букмекерская контора «OLIMP KZ»;«Букмекер кеңсесі «OLIMP KZ» ЖШС;ps_158;0
+ Bookmaker's office "PROFIT Betting" LLP (www.profitbet.kz);Букмекерская контора ТОО «PROFIT Betting» ( www.profitbet.kz);«PROFIT Betting» ЖШС букмекерлік кеңсесі ( www.profitbet.kz);ps_159;0
+Bookmaker office Goal+Assist (gol+pass) LLP;ТОО Букмекерская контора Гол+Пас; Букмекер кеңсесі Гол+Пас ЖШС;ps_160;0
+Alpari;Альпари;Альпари;ps_161;0
+e-KZT;e-KZT;e-KZT;ps_162;0
+ "Redprice" LLP (chocolifeme.kz);ТОО «Редпрайс» (www.chocolifeme.kz);«Редпрайс» ЖШС (www.chocolifeme.kz);ps_163;0
+"Bismart" (besmart.kz) LLP;ТОО "БиСмарт" (besmart.kz); "БиСмарт" (besmart.kz) ЖШС;ps_164;0
+"Mir kuponov" LLP;ТОО Мир купонов;ТКупондар әлемі ЖШС;ps_165;0
+Flora Express;Flora Express;Flora Express;ps_166;0
+LR Health and Beauty Systems;LR Health and Beauty Systems;LR Health and Beauty Systems;ps_167;0
+ShopInfo.kz;ShopInfo.kz;ShopInfo.kz;ps_168;0
+"INFOSMS.KZ" LLP;ТОО «INFOSMS.KZ»;«INFOSMS.KZ» ЖШС;ps_169;0
+"Kolesa" LLP (www.kolesa.kz, www.krisha.kz);ТОО «Колёса» (www.kolesa,kz , www.krisha.kz);«Колёса»  ЖШС (www.kolesa,kz , www.krisha.kz);ps_170;0
+"Automania" newspaper;Газета Автомания;Автомания газеті;ps_171;0
+"Iz ruk v ruki" (from hand to hand) newspaper;Газета Из рук в руки;Из рук в руки газеті;ps_172;0
+"Rabota segodnya" (Work today) newspaper ;Газета Работа Сегодня;Работа Сегодня газеті;ps_173;0
+"EVBIKA" LLP;ТОО «ЭВБИКА»;«ЭВБИКА» ЖШС;ps_174;0
+ "Prometey-B" LLP;ТОО «Прометей-Б»;«Прометей-Б» ЖШС;ps_175;0
+"Zhedel-Sakshy" LLP;ТОО «Жедел-Сақшы»;«Жедел-Сақшы» ЖШС;ps_176;0
+Zhedel Kuzet;Жедел Кузет ;Жедел Күзет ;ps_177;0
+Kuzet-Motors LLP;ТОО Кузет-Моторс;Күзет-Моторс ЖШС;ps_178;0
+Kuzet-Techmontazh LLP;ТОО Кузет-Техмонтаж;Күзет-Техмонтаж ЖШС;ps_179;0
+OLX.kg;OLX.kz;OLX.kz;ps_180;0
+"Oriflame" LLP;ТОО "Орифлэйм";"Орифлэйм" ЖШС;ps_181;0
+AVON;AVON;AVON;ps_182;0
+"Faberlik-kazakhstan" LLP;ТОО "Фаберлик - Казахстан";"Фаберлик - Қазақстан" ЖШС;ps_183;0
+Mary Kay Kazakhstan;Mary Kay Kazakhstan;Mary Kay Kazakhstan;ps_184;0
+IS Paragraph;ИС Параграф;АЖ Параграф;ps_185;0
+Beeline (Кар-Тел);Beeline (Кар-Тел);Beeline (Кар-Тел);ps_full_1;0
+Kcell;Kcell;Kcell;ps_full_2;0
+Activ;Aсtiv;Aсtiv;ps_full_3;0
+TELE2;TELE2;TELE2;ps_full_4;0
+Altel;Алтел;Алтел;ps_full_5;0
+"Kazakhtelecom" JSC;АО "Казахтелеком";"Қазақтелеком" АҚ;ps_full_6;0
+"2DAY Telecom" LLP (Internet access "Internet at home" by Beeline);ТОО «2DAY Телеком» (Доступ в Интернет «Интернет Дома» от Beeline);"2DAY Телеком"  ЖШС  (Beeline-нан "Интернет Үйде" Интернетіне қол жеткізу);ps_full_7;0
+"TOPAZ-TELECOM" LLP;ТОО «ТОПАЗ-ТЕЛЕКОМ»; «ТОПАЗ-ТЕЛЕКОМ» ЖШС;ps_full_8;0
+Twinncom Network;Twinncom Network;Twinncom Network;ps_full_9;0
+OKTEL;ОКТЕЛ;ОКТЕЛ;ps_full_10;0
+SA-Telecom fixed communication;СА-Телком фиксированная связь;СА-Телеком тыянақты байланыс;ps_full_11;0
+Balkhash Electronic city. Internet;Балхаш Электронный Город. Интернет;Балқаш Электронды Қала. Интернет;ps_full_12;0
+"Metro Net" LLP;ТОО «Metro Net»;«Metro Net» ЖШС;ps_full_13;0
+"Promtel" LLP;ТОО «Promtel»;«Promtel» ЖШС;ps_full_14;0
+"System Line" LLP;ТОО «System Line»;«System Line» ЖШС;ps_full_15;0
+BeNetCom LLP;ТОО BeNetCom; BeNetCom ЖШС;ps_full_16;0
+Skype;Skype;Skype;ps_full_17;0
+Alter JET (Retail);Altel JET (Retail);Altel JET (Retail);ps_full_18;0
+AstanaMegaTel LLP;ТОО АстанаМегаТел; АстанаМегаТел ЖШС;ps_full_19;0
+"Transtelecom" JSC;АО «Транстелеком»; «Транстелеком» АҚ;ps_full_20;0
+Transtelecom" JSC (Direct);АО «Транстелеком» (Direct); «Транстелеком» (Direct) АҚ;ps_full_21;0
+"AlmaTV" LLP;ТОО «АлмаТВ»;«АлмаТВ» ЖШС;ps_full_22;0
+"TV company "43 cahnnel" LLP;ТОО «Телекомпания «43 канал»; «Телекомпания «43 канал» ЖШС;ps_full_23;0
+"Kazteleradio full package" JSC (OTAU TV);АО "Казтелерадио полный пакет" (OTAU TV);"Қазтелерадио толық пакет" АҚ (OTAU TV);ps_full_24;0
+"Kostanay cable networks" (Kabelnye seti Kostanay) LLP;ТОО "Кабельные сети Костаная"; "Қостанай Кабель желілері" ЖШС;ps_full_25;0
+TAU TV*;ТАУ TV*;ТАУ TV*;ps_full_26;0
+Bazis-Telecom of Almaty;Базис-Телеком г.Алматы;Базис-Телеком Алматы қ.;ps_full_27;0
+Tricolor TV;Триколор ТВ;Триколор ТВ;ps_full_28;0
+NTV-Plus;НТВ-Плюс;НТВ-Плюс;ps_full_29;0
+ALSECO*;АЛСЕКО*;АЛСЕКО*;ps_full_30;0
+Information computer center (ICC)*;ИВЦ*;АЕО*;ps_full_31;0
+EPC forfait;ЭПК forfait;ЭПК forfait;ps_full_32;0
+Zheskazgan EnergoSbyt;Жесказган ЭнергоСбыт;Жезқазған ЭнергоӨткізу;ps_full_33;0
+AlmatyEnergoSbyt (individuals)*;АлматыЭнергосбыт (физ. лица)*;АлматыЭнергосбыт (жеке тұлғалар)*;ps_full_34;0
+Batys Su Arnasy;Батыс Су Арнасы;Батыс Су Арнасы;ps_full_35;0
+Omega Xxi Shymkent (Energopotok, KazTransGazAimak, other);Омега XXI Шымкент [Энергопоток, КазТрансГазАймак, прочие];Омега XXI Шымкент [Энергоағын, ҚазТрансГазАймақ, өзгелер];ps_full_36;0
+(Omega XXI) Region;[Омега XXI] Область;[Омега XXI] Облыс;ps_full_37;0
+karagangy GorKomTrans LLP;ТОО Караганды ГорКомТранс;Қарағанды ҚалаКомТранс ЖШС;ps_full_38;0
+Mulе Service;Мюль Сервис;Мюль Сервис;ps_full_39;0
+Public house intercom;Народный домофон;Халықтық домофон;ps_full_40;0
+Zholaushy-SK;Жолаушы-СК;Жолаушы-СК;ps_full_41;0
+Koksheenergoservice *;Кокшеэнергосервис*;Кокшеэнергосервис*;ps_full_42;0
+CenterCommunPlat-ARS;ЦентрКоммунПлат-АРС;ОрталықКоммунПлат-АРС;ps_full_43;0
+Enterprise Speczavto-transport;Предприятие Спецавто-транспорта;Арнайы авто-көлік кәсіпорны;ps_full_44;0
+MCC (Main Clearing Center) Kapchagai;ЕРЦ Капчагай;Қапшағай БЕО;ps_full_45;0
+RCCG (Regional Center for Corporate Governance) Taraz [Zhambyl-zhylu, KazTransGas Aimak, others];РЦКУ Тараз [Жамбыл-жылу, КазТрансГаз Аймак, прочие];РЦКУ Тараз [Жамбыл-жылу, ҚазТрансГаз Аймақ, өзгелер];ps_full_46;0
+"Kostanay energy park" LLP (Kostanay Energocentr);ТОО «Костанайский ЭнергоЦентр»*;«Қостанай ЭнергоОрталығы» ЖШС*;ps_full_47;0
+AREK-Energosbyt. International*;АРЭК-Энергосбыт.Интернациональное*;АРЭК-Энергосбыт.Интернационалды*;ps_full_48;0
+AREK-Energosbyt. Koshchy*;АРЭК-Энергосбыт.Кощи*;АРЭК-Энергосбыт.Қосшы*;ps_full_49;0
+Astana Gas Service*;Астана Газ Сервис*;Астана Газ Сервис*;ps_full_50;0
+BalkhashEnergo. Electric power*;БалхашЭнерго.Электроэнергия*;БалқашЭнерго.Электр энергиясы*;ps_full_51;0
+Burabay Su Arnasy*;Бурабай Су Арнасы*;Бурабай Су Арнасы*;ps_full_52;0
+Gorelectroseti* LLP;ТОО Горэлектросети*;Қалаэлектржелілері ЖШС*;ps_full_53;0
+Pavlodarlift*;Павлодарлифт*;Павлодарлифт*;ps_full_54;0
+Kyzylzhar su JSC;АО Кызылжар су;Қызылжар су АҚ;ps_full_55;0
+Remstroyservice*;Ремстройсервис*;Ремжөндеусервис.;ps_full_56;0
+Ridder-HES*;Риддер-ТЭЦ*;Риддер-ЖЭЦ*;ps_full_57;0
+Calculations and Information Centre *;РСЦ*;РСЦ*;ps_full_58;0
+SevKazEnergo * (Akkayinsky power distribution zone );СевКазЭнерго* (Аккайынский РЭС);СолтҚазЭнерго* (Ақкайың РЭС);ps_full_59;0
+SevKazEnergo * (Blagoveshchensky EEO);СевКазЭнерго* (Благовещенский УСЭЭ) ;СолтҚазЭнерго* (Благовещенск УСЭЭ) ;ps_full_60;0
+SevKazEnergo * (the Vozvyshensky RPB);СевКазЭнерго* (Возвышенский РПБ) ;СолтҚазЭнерго* (Возвышенск РПБ) ;ps_full_61;0
+SevKazEnergo * (Yesilsky EEO);СевКазЭнерго* (Есильский УСЭЭ) ;СолтҚазЭнерго* (Есил  УСЭЭ) ;ps_full_62;0
+SevKazEnergo * (Zhambyl  power distribution zone );СевКазЭнерго* (Жамбыльский РЭС) ;СолтҚазЭнерго* (Жамбыл РЭС) ;ps_full_63;0
+SevKazEnergo * (Korneyevsky RPB);СевКазЭнерго* (Корнеевский РПБ) ;СолтҚазЭнерго* (Корнеевск РПБ) ;ps_full_64;0
+SevQazEnergo * (Kyzylzhar  power distribution zone );СевКазЭнерго* (Кызылжарский РЭС) ;СолтҚазЭнерго* (Қызылжар РЭС) ;ps_full_65;0
+SevKazEnergo * (M. Zhumabayeva  power distribution zone);СевКазЭнерго*  (М.Жумабаева РЭС) ;СолтҚазЭнерго*  (М.Жумабаева РЭС) ;ps_full_66;0
+SevKazEnergo * (Mamlyutsky  power distribution zone );СевКазЭнерго* (Мамлютский РЭС);СолтҚазЭнерго* (Мамлют РЭС);ps_full_67;0
+SevKazEnergo * (Petropavlovsk);СевКазЭнерго* (Петропавловск) ;СолтҚазЭнерго* (Петропавл) ;ps_full_68;0
+SevKazEnergo * (Sokolovsky USEE);СевКазЭнерго* (Соколовский УСЭЭ) ;СолтҚазЭнерго* (Соколов УСЭЭ) ;ps_full_69;0
+SevQazEnergo * (Timiryazev  power distribution zone );СевКазЭнерго* (Тимирязевский РЭС);СолтҚазЭнерго* (Тимирязев РЭС);ps_full_70;0
+ModusKZ Karagandy*;МодусKZ Караганды*;МодусKZ Қарағанды*;ps_full_71;0
+ModusKZ Kokshetau*;МодусKZ Кокшетау*;МодусKZ Көкшетау*;ps_full_72;0
+Termotranzit*;Термотранзит*;Термотранзит*;ps_full_73;0
+"GrKomTrans for Karaganda" LLP; ТОО «ГрКомТранс по г.Караганда» ;«Қарағанды қ. бойынша ГрКомТранс»  ЖШС;ps_full_74;0
+"Oskemen Vodokanal" MUS;ГКП «Оскемен Водоканал»;«Өскемен Су арнасы» МКК;ps_full_75;0
+"Danko" private apartment owners' cooperative;ПКСК "Данко";"Данко" ПКСК;ps_full_76;0
+Atyrau Heat Electical Station;Атырауская теплоэлектроцентраль ;Атырау жылуэлектроцентраль;ps_full_77;0
+"Astana-Tazartu" LLP;ТОО "Астана-Тазарту"; "Астана-Тазарту" ЖШС;ps_full_78;0
+Metacom-Semey;Метаком-Семей;Метаком-Семей;ps_full_79;0
+RCCG -Uralsk [Batys EnergoResources, Oral Taza Service, KazTransGas Aimak, others];РЦКУ-Уральск [Батыс ЭнергоРесурсы, Орал Таза Сервис, КазТрансГаз Аймак, прочие];РЦКУ-Орал [Батыс ЭнергоРесурстар, Орал Таза Сервис, ҚазТрансГаз Аймақ, өзгелер];ps_full_80;0
+Cyfral, Aktobe Taza Kala, KazTransGas, Aimak, other);[Цифрал, Актобе Таза Кала, КазТрансГаз Аймак, прочие];[Цифрал, Ақтөбе Таза Қала, ҚазТрансГаз Аймақ, басқалары];РЦКУ-Запад (Актобе) [Цифрал, Актобе Таза Кала, КазТрансГаз Аймак, прочие];0
+RCCG -Kostanay [KazTransGasAimak, in-house gas equipment, others];РЦКУ-Костанай [КазТрансГазАймак, ВДГО, прочие];РЦКУ-Қостанай [ҚазТрансГазАймақ, ВДГО, өзгелер];ps_full_82;0
+RCCG -Atyrau [KazTransGasAimak, in-house gas equipment, others];РЦКУ-Атырау [КазТрансГазАймак, ВДГО, прочие];РЦКУ-Атырау [ҚазТрансГазАймақ, ВДГО, өзгелер];ps_full_83;0
+RCCG -Aktau [KazTransGasAimak, in-house gas equipment, others];РЦКУ-Актау[КазТрансГазАймак, ВДГО, прочие];РЦКУ-Ақтау[ҚазТрансГазАймақ, ВДГО, өзгелер];ps_full_84;0
+Astana MCC;Астана ЕРЦ;Астана БЕО;ps_full_85;0
+UK Heating networks ; УК тепловые сети;УК жылу желілері;ps_full_86;0
+"Karagandyzhylsbyt" LLP;ТОО "Карагандыжылусбыт";"Қарағандыжылуөткізу" ЖШС;ps_full_87;0
+Tauekel-T;Тауекел-Т;Тәуекел-Т;ps_full_88;0
+Tauekel-N-Algabas;Тауекель-Н-Алгабас;Тәуекел-Н-Алғабас;ps_full_89;0
+Zhetisu Gas Kubyry;Жетісу газ кубыры;Жетісу газ құбыры;ps_full_90;0
+Kyzylordateploelektrotsentr;Кызылордатеплоэлектроцентр;Қызылорда жылу электр орталығы;ps_full_91;0
+UPD ASC Almaty Gas;ЕПД АРЦ Алматы газ;Алматы газ АЕО БТҚ;ps_full_92;0
+Rudnensky Vodokanal LLP; ТОО Рудненский Водоканал;Рудненск Су арнасы ЖШС;ps_full_93;0
+ "Shygysenergotrade" LLP;ТОО «Шыгысэнерготрэйд»;«Шығысэнерготрэйд» ЖШС;ps_full_94;0
+RCCG -Kyzylorda [KazTransGasAimak, in-house gas equipment, others];РЦКУ-Кызылорда [КазТрансГазАймак, ВДГО, прочие];РЦКУ-Қызылорда [ҚазТрансГазАймақ, ВДГО, өзгелер];ps_full_95;0
+Sogrinskaya HES APS;  Согринская ТЭЦ АЭС;Согринск ЖЭО  АЭС;ps_full_96;0
+Pavlodarenergosbyt MCC;  ПавлодарЭнергоСбыт ЕРЦ;ПавлодарЭнергоӨткізу  (ПавлодарЭнергоСбыт) БЕО;ps_full_97;0
+"Shakhtinskteploenergo" LLP;ТОО "Шахтинсктеплоэнерго";"Шахтинскжылуэнерго" ЖШС;ps_full_98;0
+"Pavlodar-Vodokanal" LLP;ТОО "Павлодар-водоканал";"Павлодар-суарнасы" ЖШС;ps_full_99;0
+Batys Energo resources ;Батыс Энерго Ресурсы;Батыс Энерго Ресурсы;ps_full_100;0
+RCCG Shymkent;РЦКУ Шымкент;Шымкент РЦКУ;ps_full_101;0
+ONAY-transport card of Almaty;ОҢАЙ – Транспортная карта г.Алматы;ОҢАЙ –  Алматы қ. көлік картасы;ps_full_102;0
+"SAPAR" LLP )www.avokzal.kz);ТОО «САПАР» (www.avokzal.kz);«САПАР» ЖШС (www.avokzal.kz);ps_full_103;0
+E-gov (Electronic Government)*;E-gov (Электронное правительство)*;E-gov (Электрондық үкімет)*;ps_full_104;0
+Payment of traffic penalties (Almaty city) *;Оплата штрафов ПДД (г.Алматы)*;ЖҚЕ айыппұлдарын төлеу (Алматы қ.)*;ps_full_105;0
+Payment for Driving Regulations fines (RK)*;Оплата штрафов ПДД (РК)*;ЖҚЕ айыппұлдарын төлеу (ҚР);ps_full_106;0
+Mamba.ru;Mamba.ru;Mamba.ru;ps_full_107;0
+Lava-Online, ;Lava-Online, ;Lava-Online, ;ps_full_108;0
+Watches,; Дозоры,;Барлаулар,;ps_full_109;0
+(AtomFishing) Extreme Server, ;[AtomFishing] Сервер Экстрим, ;[AtomFishing] Сервер Экстрим, ;ps_full_110;0
+(AtomFishing) Return Server, ;[AtomFishing] Сервер Возвращение, ;[AtomFishing] Сервер Қайтару ;ps_full_111;0
+Xcraft.ru,;Xcraft.ru,;Xcraft.ru,;ps_full_112;0
+GameXP,;GameXP,;GameXP,;ps_full_113;0
+The War Z, ;The War Z, ;The War Z, ;ps_full_114;0
+Battle of Immortals, ;Battle of Immortals, ;Battle of Immortals, ;ps_full_115;0
+Territoriya 2;Территория 2, ;Аумақ  2, ;ps_full_116;0
+Last limit,; Последний предел,;Соңғы шек,;ps_full_117;0
+ Tanki online, ; Tanki online, ;Tanki online, ;ps_full_119;0
+ Bloody World, ; Bloody World, ;Bloody World, ;ps_full_120;0
+Gamenet,;Gamenet, ;Gamenet, ;ps_full_121;0
+One World,;One World, ;One World, ;ps_full_122;0
+Molehill Empire ;Садовая империя, ;Бақ империясы,;ps_full_123;0
+Lordmancer;Лордмансер, ;Лордмансер, ;ps_full_124;0
+ Zzima.com,; Zzima.com,;Zzima.com,;ps_full_125;0
+Podnebesiye;Поднебесье, ;Аспан асты,;ps_full_126;0
+ Murclub.ru, ; Murclub.ru, ;Murclub.ru, ;ps_full_127;0
+Siege Online;Осада Онлайн, ;Осада Онлайн, ;ps_full_128;0
+Silkroad Online, ;Silkroad Online, ;Silkroad Online, ;ps_full_129;0
+Kw.rambler.ru, ;Kw.rambler.ru, ;Kw.rambler.ru, ;ps_full_130;0
+Moja Derewnja;Моя деревня, ;Менің ауылым,;ps_full_131;0
+My lands, ;My lands, ;My lands, ;ps_full_132;0
+Barbarian;Варвары, ;Варварлар, ;ps_full_133;0
+JagPlay, ;JagPlay, ;JagPlay, ;ps_full_134;0
+Mgates, ;Mgates, ;Mgates, ;ps_full_135;0
+Mafia Wars,;Войны мафии, ;Мафия соғыстары;ps_full_136;0
+Islands ;  Острова, ;Аралдар,;ps_full_137;0
+Peredovaya, ;Peredovaya, ;Peredovaya, ;ps_full_138;0
+StarClashes;Звездные бои,;Жұлдыздар соғысы,;ps_full_139;0
+Garena;Гарена, ;Гарена, ;ps_full_140;0
+Korolevstvo (Kingdom);Королевство;Корольдік;ps_full_141;0
+Ganja Wars;Ганджубасовые войны;Ганджубастық соғыстар;ps_full_142;0
+Carnage;Carnage;Carnage;ps_full_143;0
+11x11 foorball Messenger ;11х11 футбольный Менеджер;11х11 футболдық  Менеджер;ps_full_144;0
+Sky2Fly;Sky2Fly;Sky2Fly;ps_full_145;0
+Heros of War and Money;Герои войны и денег;Соғыс пен ақша қаһарманы ;ps_full_146;0
+U.N.I.T.;U.N.I.T.;U.N.I.T.;ps_full_147;0
+NeverLands;Neverlands;Neverlands;ps_full_148;0
+Gladiators;Гладиаторы;Гладиаторлар;ps_full_149;0
+Банановые Войны (BananaWars);BananaWars;BananaWars;ps_full_150;0
+Overkings;Overkings;Overkings;ps_full_151;0
+Haddan;Haddan;Haddan;ps_full_152;0
+Reality faces;Грани реальности;Ақиқат шегі;ps_full_153;0
+Xsolla;Xsolla ;Xsolla ;ps_full_154;0
+VK advertising;VK реклама;VK жарнама;ps_full_155;0
+Steam (M);Steam (M);Steam (M);ps_full_156;0
+World of Tanks (M);World of Tanks (M);World of Tanks (M);ps_full_157;0
+"OLIMP KZ" Bookmaker Office" LLP;ТОО «Букмекерская контора «OLIMP KZ»;«Букмекер кеңсесі «OLIMP KZ» ЖШС;ps_full_158;0
+ Bookmaker's office "PROFIT Betting" LLP (www.profitbet.kz);Букмекерская контора ТОО «PROFIT Betting» ( www.profitbet.kz);«PROFIT Betting» ЖШС букмекерлік кеңсесі ( www.profitbet.kz);ps_full_159;0
+Bookmaker office Goal+Assist (gol+pass) LLP;ТОО Букмекерская контора Гол+Пас; Букмекер кеңсесі Гол+Пас ЖШС;ps_full_160;0
+Alpari;Альпари;Альпари;ps_full_161;0
+e-KZT;e-KZT;e-KZT;ps_full_162;0
+ "Redprice" LLP (chocolifeme.kz);ТОО «Редпрайс» (www.chocolifeme.kz);«Редпрайс» ЖШС (www.chocolifeme.kz);ps_full_163;0
+"Bismart" (besmart.kz) LLP;ТОО "БиСмарт" (besmart.kz); "БиСмарт" (besmart.kz) ЖШС;ps_full_164;0
+"Mir kuponov" LLP;ТОО Мир купонов;ТКупондар әлемі ЖШС;ps_full_165;0
+Flora Express;Flora Express;Flora Express;ps_full_166;0
+LR Health and Beauty Systems;LR Health and Beauty Systems;LR Health and Beauty Systems;ps_full_167;0
+ShopInfo.kz;ShopInfo.kz;ShopInfo.kz;ps_full_168;0
+"INFOSMS.KZ" LLP;ТОО «INFOSMS.KZ»;«INFOSMS.KZ» ЖШС;ps_full_169;0
+"Kolesa" LLP (www.kolesa.kz, www.krisha.kz);ТОО «Колёса» (www.kolesa,kz , www.krisha.kz);«Колёса»  ЖШС (www.kolesa,kz , www.krisha.kz);ps_full_170;0
+"Automania" newspaper;Газета Автомания;Автомания газеті;ps_full_171;0
+"Iz ruk v ruki" (from hand to hand) newspaper;Газета Из рук в руки;Из рук в руки газеті;ps_full_172;0
+"Rabota segodnya" (Work today) newspaper ;Газета Работа Сегодня;Работа Сегодня газеті;ps_full_173;0
+"EVBIKA" LLP;ТОО «ЭВБИКА»;«ЭВБИКА» ЖШС;ps_full_174;0
+ "Prometey-B" LLP;ТОО «Прометей-Б»;«Прометей-Б» ЖШС;ps_full_175;0
+"Zhedel-Sakshy" LLP;ТОО «Жедел-Сақшы»;«Жедел-Сақшы» ЖШС;ps_full_176;0
+Zhedel Kuzet;Жедел Кузет ;Жедел Күзет ;ps_full_177;0
+Kuzet-Motors LLP;ТОО Кузет-Моторс;Күзет-Моторс ЖШС;ps_full_178;0
+Kuzet-Techmontazh LLP;ТОО Кузет-Техмонтаж;Күзет-Техмонтаж ЖШС;ps_full_179;0
+OLX.kg;OLX.kz;OLX.kz;ps_full_180;0
+"Oriflame" LLP;ТОО "Орифлэйм";"Орифлэйм" ЖШС;ps_full_181;0
+AVON;AVON;AVON;ps_full_182;0
+"Faberlik-kazakhstan" LLP;ТОО "Фаберлик - Казахстан";"Фаберлик - Қазақстан" ЖШС;ps_full_183;0
+Mary Kay Kazakhstan;Mary Kay Kazakhstan;Mary Kay Kazakhstan;ps_full_184;0
+IS Paragraph;ИС Параграф;АЖ Параграф;ps_full_185;0
+Kazakhstan’s Center for Interbank Settlements (KCIS);КЦМР;БЕҚО;kcmr;0
+Kazakhstan’s Center for Interbank Settlements (KCIS);КЦМР;БЕҚО;kcmr_full;0
+Accepted;Принят;Қабылдау;document.state.AcceptedInABS;0
+Verified;Проверен;Тексерілген;document.state.AcceptedInRBS;0
+Delivered;Доставлен;Жеткізілді;document.state.SentToRBS;0
+Executed;Исполнен;Орындалды;document.state.Executed;0
+Recalled;Отозван;Кері шақыртылды;document.state.Revoked;0
+Refused;Отказан;Бас тартылды;document.state.Refused;0
+Not accepted;Не принят;Қабылданған жоқ;document.state.NotAcceptedInABS;0
