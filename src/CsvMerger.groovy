@@ -32,8 +32,8 @@ class CsvMerger {
          * все строки из исходного старого файла, но при этом строки и совпадающими translation key
          * заменяются на строки из нового файла.
          */
-        String oldPath = "/home/jack/IdeaProjects/untitled1/src/01--translation.web.specific.csv";
-        String newPath = "/home/jack/IdeaProjects/untitled1/src/01--translation_241017 (1).csv"
+        String oldPath = "src/01--translation.web.specific.csv";
+        String newPath = "src/01--translation_241017 (1).csv"
 
         mergeCsvTranslationWebSpecific(oldPath, newPath);
     }

@@ -10,7 +10,7 @@ Account number, client name, client tax code;№ счёта, Клиент, ИН 
 Client tax code;ИН Клиента;ИН Клиента;common_orgTaxCode;W
 Transactions;Денежные операции;Денежные операции;navigation_transactions;W
 All accounts;Счета;Счета;navigation_products;W
-Tax code;ИИН;ИИН;common_tax_code;W
+Tax code;ИИН;ИИН;common_TaxCode;W
 Client tax code;ИИН/БИН Клиента;ИИН/БИН Клиента;common_organization_tax_code;W
 Name;Наименование;Наименование;intTransfer_payerName;W
 BIN/IIN;БИН/ИИН;БИН/ИИН;intTransfer_payerCode;W

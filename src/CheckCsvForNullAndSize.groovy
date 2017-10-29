@@ -20,10 +20,10 @@ class CheckCsvForNullAndSize {
 
         return Files.lines(Paths.get(csvForCheckPath))
                 .skip(2)
-                .peek { row -> row.tokenize(';').size() == 5 ? println("All rows have correct size.") : println("size() == 5: " + row) }
+                .peek { row -> row.tokenize(';').size() == 5 ? println("All rows have correct size.") : println("size() != 5: " + row) }
                 .peek { row ->
             row.tokenize(';').stream().anyMatch { cell -> !cell.isEmpty() && cell != null }.asBoolean() ?
-                    println("All cell are correct") : println("Row with incorrect cell: " + row)
+                    println("All cells are correct") : println("Row with incorrect cell: " + row)
         }
         .allMatch { row ->
             row.tokenize(';').size() == 5 &&
