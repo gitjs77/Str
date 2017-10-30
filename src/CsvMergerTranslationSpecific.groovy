@@ -9,8 +9,8 @@ import java.util.stream.Collectors
 class CsvMergerTranslationSpecific {
      static void main(String[] args) {
 
-         String oldPath = "src/01--translation.specific.csv";
-         String newPath = "src/01--translation_241017 (1).csv"
+         final String oldPath = "src/01--translation.specific.csv";
+         final String newPath = "src/01--translation_241017 (1).csv"
 
          mergeCsvTranslationSpecific(oldPath, newPath);
     }
