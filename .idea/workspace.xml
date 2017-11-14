@@ -2,20 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="93817f35-153e-4d3c-bbc1-13852d5b4929" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/RecursiveFileSearch/FileSearch.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/RecursiveFileSearch/FileSesrchGroovy$_writeResults_closure1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/RecursiveFileSearch/FileSesrchGroovy.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/csvCheck/CsvCheckByParameters$_checkCsvByParameters_closure1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/csvCheck/CsvCheckByParameters$_checkCsvByParameters_closure2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/csvCheck/CsvCheckByParameters$_checkCsvByParameters_closure3$_closure5.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/csvCheck/CsvCheckByParameters$_checkCsvByParameters_closure3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/csvCheck/CsvCheckByParameters$_checkCsvByParameters_closure4$_closure6.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/csvCheck/CsvCheckByParameters$_checkCsvByParameters_closure4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/csvCheck/CsvCheckByParameters.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/csvCheck/IncorrectDataException.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/ResultFiles/MiddleVersion/01--translation.specific.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/csvCheck/fake.csv" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/01--city.csv" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/01--document_type.csv" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/01--domestic_transfer_type.csv" />
@@ -334,24 +320,12 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/vpn_vtb/05--customer_user.dev.csv" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/vpn_vtb/06--company_person.dev.csv" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/vpn_vtb/07--app_sessions.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/testdir/1" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/testdir/2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/testdir/dir/inDir" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/testdir/dir2/inDir2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RecursiveFileSearch/FileSearch.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RecursiveFileSearch/FileSesrchGroovy.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/csvCheck/CsvCheckByParameters.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/csvCheck/IncorrectDataException.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/csvCheck/fake.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/result.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/testdir/1" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/testdir/2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/testdir/dir/inDir" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/testdir/dir2/inDir2" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/untitled1/RecursiveFileSearch/FileSesrchGroovy$_writeResults_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/untitled1/RecursiveFileSearch/FileSesrchGroovy.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/result.txt" afterPath="" />
       <change type="MOVED" beforePath="$PROJECT_DIR$/out/production/untitled1/01--translation.web.specific.csv" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/01--translation.web.specific.csv" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/production/untitled1/result.txt" afterPath="$PROJECT_DIR$/out/production/untitled1/01--translation.specific.csv" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/RecursiveFileSearch/FileSesrchGroovy.groovy" afterPath="$PROJECT_DIR$/src/RecursiveFileSearch/FileSearchGroovy.groovy" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/untitled1/ResultFiles/01--translation.specific.csv" afterPath="$PROJECT_DIR$/out/production/untitled1/ResultFiles/01--translation.specific.csv" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -367,7 +341,7 @@
       <file leaf-file-name="CsvMergerTranslationSpecific.groovy" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/CsvMergerTranslationSpecific.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="172">
+            <state relative-caret-position="342">
               <caret line="24" column="83" lean-forward="false" selection-start-line="23" selection-start-column="8" selection-end-line="24" selection-end-column="83" />
               <folding>
                 <element signature="e#90#136#0" expanded="false" />
@@ -392,52 +366,21 @@
       <file leaf-file-name="FileSearch.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/RecursiveFileSearch/FileSearch.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-134">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FileSesrchGroovy.groovy" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/RecursiveFileSearch/FileSesrchGroovy.groovy">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-975">
-              <caret line="12" column="37" lean-forward="true" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
-              <folding>
-                <element signature="e#29#59#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="result.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/result.txt">
-          <provider editor-type-id="text-editor">
-            <state relative-caret-position="504">
-              <caret line="28" column="46" lean-forward="true" selection-start-line="28" selection-start-column="46" selection-end-line="28" selection-end-column="46" />
-              <folding />
-            </state>
-          </provider>
-          <provider selected="true" editor-type-id="csv-data-editor">
-            <state>
-              <format>
-                <csv-format name="Comma-separated (CSV)_1">
-                  <data>
-                    <record-format prefix="" suffix="" nullText="" quotationPolicy="as needed" valueSeparator=";" recordSeparator="&#10;" />
-                  </data>
-                </csv-format>
-              </format>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="03--bank.csv" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/data/dev/03--bank.csv">
-          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FileSearchGroovy.groovy" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/RecursiveFileSearch/FileSearchGroovy.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="93" column="5" lean-forward="true" selection-start-line="93" selection-start-column="5" selection-end-line="93" selection-end-column="5" />
+              <folding>
+                <element signature="e#29#55#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -535,6 +478,7 @@
         <option value="$PROJECT_DIR$/src/result.txt" />
         <option value="$PROJECT_DIR$/src/testdir/dir2/inDir2" />
         <option value="$PROJECT_DIR$/src/RecursiveFileSearch/FileSesrchGroovy.groovy" />
+        <option value="$PROJECT_DIR$/src/RecursiveFileSearch/FileSearchGroovy.groovy" />
       </list>
     </option>
   </component>
@@ -564,6 +508,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -592,9 +537,8 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="PackagesPane" />
-      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -606,21 +550,21 @@
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="csvCheck" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/ResultFiles" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/ResultFiles" />
       <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/src/ResultFiles/MiddleVersion" />
-      <recent name="$PROJECT_DIR$/src/ResultFiles" />
       <recent name="$PROJECT_DIR$/src/Backups" />
       <recent name="$PROJECT_DIR$/src/Results" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="RecursiveFileSearch" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/ResultFiles" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="csvCheck" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -635,7 +579,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FileSesrchGroovy">
+  <component name="RunManager" selected="Application.FileSearchGroovy">
     <configuration default="false" name="CheckCsvForNullAndSize" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="CheckCsvForNullAndSize" />
@@ -671,54 +615,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="FileSesrchGroovy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="FileSearchGroovy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="RecursiveFileSearch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="RecursiveFileSearch.FileSesrchGroovy" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="untitled1" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="FileSesrchGroovy (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="RecursiveFileSearch.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="RecursiveFileSearch.FileSesrchGroovy" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="untitled1" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="FileSesrchGroovy (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="RecursiveFileSearch.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="RecursiveFileSearch.FileSesrchGroovy" />
+      <option name="MAIN_CLASS_NAME" value="RecursiveFileSearch.FileSearchGroovy" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -1104,18 +1008,16 @@
     <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
       <method />
     </configuration>
-    <list size="5">
+    <list size="3">
       <item index="0" class="java.lang.String" itemvalue="Application.CheckCsvForNullAndSize" />
       <item index="1" class="java.lang.String" itemvalue="Application.CsvCheckByParameters" />
-      <item index="2" class="java.lang.String" itemvalue="Application.FileSesrchGroovy" />
-      <item index="3" class="java.lang.String" itemvalue="Application.FileSesrchGroovy (1)" />
-      <item index="4" class="java.lang.String" itemvalue="Application.FileSesrchGroovy (2)" />
+      <item index="2" class="java.lang.String" itemvalue="Application.FileSearchGroovy" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.FileSesrchGroovy" />
-        <item index="1" class="java.lang.String" itemvalue="Application.FileSesrchGroovy (2)" />
-        <item index="2" class="java.lang.String" itemvalue="Application.FileSesrchGroovy (1)" />
+        <item index="0" class="java.lang.String" itemvalue="Application.FileSearchGroovy" />
+        <item index="1" class="java.lang.String" itemvalue="Application.FileSearchGroovy" />
+        <item index="2" class="java.lang.String" itemvalue="Application.FileSearchGroovy" />
         <item index="3" class="java.lang.String" itemvalue="Application.CsvCheckByParameters" />
         <item index="4" class="java.lang.String" itemvalue="Application.CheckCsvForNullAndSize" />
       </list>
@@ -1151,7 +1053,8 @@
       <workItem from="1509375012229" duration="5872000" />
       <workItem from="1510662287364" duration="1888000" />
       <workItem from="1510666336072" duration="737000" />
-      <workItem from="1510669022536" duration="5540000" />
+      <workItem from="1510669022536" duration="7584000" />
+      <workItem from="1510680648476" duration="374000" />
     </task>
     <task id="LOCAL-00001" summary="Refactored. Some fixes.">
       <created>1509303174334</created>
@@ -1167,11 +1070,18 @@
       <option name="project" value="LOCAL" />
       <updated>1509310931242</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added code for recursive search action type in 2 line in all csv.">
+      <created>1510674632930</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1510674632930</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="96078000" />
+    <option name="totallyTimeSpent" value="98496000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1189,12 +1099,12 @@
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290461" sideWeight="0.50213677" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="JRebel Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="JRebel Executor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1204,11 +1114,11 @@
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.333691" sideWeight="0.49786323" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.333691" sideWeight="0.49786323" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22532189" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14797008" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31545064" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14957266" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="JRebel" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -1263,7 +1173,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Refactored. Some fixes." />
     <MESSAGE value="Added new methods." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added new methods." />
+    <MESSAGE value="Added code for recursive search action type in 2 line in all csv." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added code for recursive search action type in 2 line in all csv." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1276,13 +1187,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="408" column="17" lean-forward="false" selection-start-line="408" selection-start-column="17" selection-end-line="408" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/КАЗ_список текста для перевода.csv" />
     <entry file="file://$PROJECT_DIR$/src/MapInit.groovy">
       <provider selected="true" editor-type-id="text-editor">
@@ -1610,7 +1514,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="2" lean-forward="false" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1618,7 +1521,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="3" lean-forward="false" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1626,7 +1528,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1646,17 +1547,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/data/dev/03--bank.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/RecursiveFileSearch/FileSearch.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-134">
+        <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
@@ -1666,7 +1559,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1674,7 +1566,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1682,7 +1573,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="24" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="24" />
-          <folding />
         </state>
       </provider>
       <provider editor-type-id="csv-data-editor">
@@ -1704,7 +1594,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/CsvMergerTranslationSpecific.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
+        <state relative-caret-position="342">
           <caret line="24" column="83" lean-forward="false" selection-start-line="23" selection-start-column="8" selection-end-line="24" selection-end-column="83" />
           <folding>
             <element signature="e#90#136#0" expanded="false" />
@@ -1712,10 +1602,25 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/data/dev/03--bank.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ResultFiles/result.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/result.txt">
       <provider editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="28" column="46" lean-forward="true" selection-start-line="28" selection-start-column="46" selection-end-line="28" selection-end-column="46" />
+        <state relative-caret-position="457">
+          <caret line="320" column="0" lean-forward="true" selection-start-line="320" selection-start-column="0" selection-end-line="320" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1731,12 +1636,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/RecursiveFileSearch/FileSesrchGroovy.groovy">
+    <entry file="file://$PROJECT_DIR$/src/RecursiveFileSearch/FileSearchGroovy.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-975">
-          <caret line="12" column="37" lean-forward="true" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
+        <state relative-caret-position="390">
+          <caret line="93" column="5" lean-forward="true" selection-start-line="93" selection-start-column="5" selection-end-line="93" selection-end-column="5" />
           <folding>
-            <element signature="e#29#59#0" expanded="true" />
+            <element signature="e#29#55#0" expanded="true" />
           </folding>
         </state>
       </provider>
