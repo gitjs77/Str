@@ -81,6 +81,11 @@ class FileSearchGroovy {
         };
     }*/
 
+    /**
+     * Recursive move trough the file tree and forms result.
+     * @param input - input file/dir
+     * @param result - result file
+     */
     static void method(final File input, final File result) {
         if (input.isDirectory()) {
             for (File file : input.listFiles().sort()) {
@@ -91,6 +96,11 @@ class FileSearchGroovy {
         }
     }
 
+    /**
+     * Forms results by needed parameters.
+     * @param input - input file/dir
+     * @param result - result file
+     */
     static void writeResults(final File file, final File result) {
         List<String> linesList = Files.lines(Paths.get(file.getPath())).collect(Collectors.toList());
         linesList.stream().skip(1).limit(1).forEach { line ->
