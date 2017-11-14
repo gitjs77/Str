@@ -1,0 +1,320 @@
+DIRRECTORY;FILE;ACTION
+src/data;01--city.csv;has a default action
+src/data;01--document_type.csv;has a default action
+src/data;01--domestic_transfer_type.csv;has a default action
+src/data;01--translation.csv;actionType=check
+src/data;01--translation.mobile.csv;actionType=check
+src/data;01--translation.web.csv;actionType=check
+src/data;02--country.csv;has a default action
+src/data;02--currency.csv;has a default action
+src/data;02--dictionary.csv;actionType=modify; translation=name_id
+src/data;02--exchange_rate_type.csv;has a default action
+src/data;02--manager_role.csv;has a default action
+src/data;02--notification_channel.csv;has a default action
+src/data;02--notification_choose_type.csv;has a default action
+src/data;02--page.csv;has a default action
+src/data;02--page_ms.csv;has a default action
+src/data;02--payment_purpose_code.csv;has a default action
+src/data;02--property_group.csv;has a default action
+src/data;03--bank.local.csv;actionType=check
+src/data;03--notification_channel_props.csv;has a default action
+src/data;10--job_group.csv;has a default action
+src/data;11--job.csv;has a default action
+src/data;49--letter_distribution.csv;has a default action
+src/data;50--auth_factor.csv;has a default action
+src/data;50--cperson_privilege.csv;has a default action
+src/data;50--cperson_role.csv;has a default action
+src/data;50--customer_payment_purpose.csv;actionType=check
+src/data;50--digital_signature_field.csv;has a default action
+src/data;50--district.csv;has a default action
+src/data;50--multicasting_package.csv;has a default action
+src/data;50--notification_subject_choice.csv;has a default action
+src/data;50--transfer_employee_requisites.csv;has a default action
+src/data;50--vc_tariff.csv;has a default action
+src/data;51--day.csv;has a default action
+src/data;51--multicasting_package_text.csv;has a default action
+src/data;51--role_privilege_map.csv;actionType = ignore_not_empty
+src/data;51--vc_tariff_detail.csv;has a default action
+src/data;53--custom_field.csv;has a default action
+src/data/asiacredit;01--locale_entity.csv;has a default action
+src/data/asiacredit;01--login_chain.csv;has a default action
+src/data/asiacredit;01--translation.specific.csv;actionType=check
+src/data/asiacredit;01--translation.web.specific.csv;actionType=modify
+src/data/asiacredit;02--displayed_document_state.csv;has a default action
+src/data/asiacredit;02--notification_type.csv;has a default action
+src/data/asiacredit;02--otp_token.csv;has a default action
+src/data/asiacredit;02--validation_object.csv;has a default action
+src/data/asiacredit;03--bank_branch.csv;has a default action
+src/data/asiacredit;03--document_state.csv;has a default action
+src/data/asiacredit;03--manager.csv;has a default action
+src/data/asiacredit;03--manager_privilege.csv;has a default action
+src/data/asiacredit;03--property.csv;actionType=check
+src/data/asiacredit;03--validation_constraint.csv;has a default action
+src/data/asiacredit;04--correspondent_bank.csv;has a default action
+src/data/asiacredit;04--customer.csv;has a default action
+src/data/asiacredit;04--service_point.csv;has a default action
+src/data/asiacredit;04--workflow_state.csv;has a default action
+src/data/asiacredit;05--accounts.csv;has a default action
+src/data/asiacredit;05--customer_user.csv;has a default action
+src/data/asiacredit;05--workflow_action.csv;has a default action
+src/data/asiacredit;06--company_person.csv;has a default action
+src/data/asiacredit;10--manager_customer_map.csv;has a default action
+src/data/asiacredit;12--job_schedule.csv;has a default action
+src/data/asiacredit;50--calendar.csv;has a default action
+src/data/asiacredit;50--certificate.csv;has a default action
+src/data/asiacredit;50--counterparty.csv;has a default action
+src/data/asiacredit;50--currency_issuance.csv;has a default action
+src/data/asiacredit;50--currency_reception.csv;has a default action
+src/data/asiacredit;50--demand_category.csv;has a default action
+src/data/asiacredit;50--employee.csv;has a default action
+src/data/asiacredit;50--letterdistribution_customer.csv;has a default action
+src/data/asiacredit;50--news.csv;has a default action
+src/data/asiacredit;50--password_history.csv;has a default action
+src/data/asiacredit;50--product_action.csv;has a default action
+src/data/asiacredit;50--rolem_privilege_map.csv;has a default action
+src/data/asiacredit;50--schedule_day.csv;has a default action
+src/data/asiacredit;50--signature_rule.csv;has a default action
+src/data/asiacredit;50--system_event.csv;has a default action
+src/data/asiacredit;50--transaction_limit.csv;has a default action
+src/data/asiacredit;51--comp_person_auth.csv;actionType = ignore_not_empty
+src/data/asiacredit;51--counterparty_account.csv;has a default action
+src/data/asiacredit;51--counterparty_account.local.csv;actionType=check
+src/data/asiacredit;51--counterparty_currency_contract.csv;has a default action
+src/data/asiacredit;51--custom_request_type.csv;has a default action
+src/data/asiacredit;51--employee_data.csv;has a default action
+src/data/asiacredit;51--notification.csv;has a default action
+src/data/asiacredit;51--notification_user_properties.csv;has a default action
+src/data/asiacredit;51--notiftypes_subjecttype_map.csv;has a default action
+src/data/asiacredit;51--person_privilege_map.csv;has a default action
+src/data/asiacredit;51--person_role_map.csv;has a default action
+src/data/asiacredit;53--custom_field.csv;has a default action
+src/data/asiacredit/dev;03--exchange_rate.csv;has a default action
+src/data/asiacredit/dev;03--property.csv;actionType=check
+src/data/asiacredit/dev;03--property.dev.csv;actionType=check; actionType=modify
+src/data/asiacredit/dev;06--company_person.dev.csv;actionType=check
+src/data/asiacredit/dev;07--app_sessions.csv;has a default action
+src/data/asiacredit/prod;03--property.prod.csv;actionType=check
+src/data/asiacredit/prod;04--customer.csv;actionType=check
+src/data/asiacredit/prod;05--accounts.csv;actionType=check
+src/data/asiacredit/prod;05--customer_user.csv;actionType=check
+src/data/asiacredit/prod;06--company_person.csv;actionType=check
+src/data/asiacredit/prod;10--manager_customer_map.csv;has a default action
+src/data/asiacredit/prod;50--certificate.csv;actionType=check
+src/data/asiacredit/prod;50--counterparty.csv;has a default action
+src/data/asiacredit/prod;50--customer_payment_purpose.csv;actionType=check
+src/data/asiacredit/prod;50--employee.csv;has a default action
+src/data/asiacredit/prod;50--letterdistribution_customer.csv;has a default action
+src/data/asiacredit/prod;50--password_history.csv;has a default action
+src/data/asiacredit/prod;50--signature_rule.csv;has a default action
+src/data/asiacredit/prod;50--system_event.csv;has a default action
+src/data/asiacredit/prod;50--transaction_limit.csv;has a default action
+src/data/asiacredit/prod;51--comp_person_auth.csv;has a default action
+src/data/asiacredit/prod;51--counterparty_account.csv;has a default action
+src/data/asiacredit/prod;51--counterparty_account.local.csv;actionType=check
+src/data/asiacredit/prod;51--counterparty_currency_contract.csv;has a default action
+src/data/asiacredit/prod;51--employee_data.csv;has a default action
+src/data/asiacredit/prod;51--notification.csv;has a default action
+src/data/asiacredit/prod;51--notification_user_properties.csv;has a default action
+src/data/asiacredit/prod;51--person_privilege_map.csv;has a default action
+src/data/asiacredit/prod;51--person_role_map.csv;has a default action
+src/data/default;01--locale_entity.csv;has a default action
+src/data/default;01--login_chain.csv;has a default action
+src/data/default;01--translation.specific.csv;actionType=check
+src/data/default;01--translation.web.specific.csv;actionType=modify
+src/data/default;02--displayed_document_state.csv;has a default action
+src/data/default;02--notification_type.csv;has a default action
+src/data/default;02--otp_token.csv;has a default action
+src/data/default;02--validation_object.csv;has a default action
+src/data/default;03--bank_branch.csv;has a default action
+src/data/default;03--document_state.csv;has a default action
+src/data/default;03--exchange_rate.csv;has a default action
+src/data/default;03--manager.csv;has a default action
+src/data/default;03--manager_privilege.csv;has a default action
+src/data/default;03--property.csv;actionType=check
+src/data/default;03--validation_constraint.csv;has a default action
+src/data/default;04--correspondent_bank.csv;has a default action
+src/data/default;04--customer.csv;has a default action
+src/data/default;04--service_point.csv;has a default action
+src/data/default;04--workflow_state.csv;has a default action
+src/data/default;05--accounts.csv;has a default action
+src/data/default;05--customer_user.csv;has a default action
+src/data/default;05--workflow_action.csv;has a default action
+src/data/default;06--account_balance_history.csv;actionType = ignore_not_empty
+src/data/default;06--company_person.csv;has a default action
+src/data/default;07--app_sessions.csv;has a default action
+src/data/default;10--manager_customer_map.csv;has a default action
+src/data/default;12--job_schedule.csv;has a default action
+src/data/default;50--calendar.csv;has a default action
+src/data/default;50--card.csv;has a default action
+src/data/default;50--certificate.csv;has a default action
+src/data/default;50--counterparty.csv;actionType=check
+src/data/default;50--credit.csv;has a default action
+src/data/default;50--currency_issuance.csv;has a default action
+src/data/default;50--currency_reception.csv;has a default action
+src/data/default;50--customer_payment_purpose.spesific.csv;actionType=check
+src/data/default;50--demand_category.csv;has a default action
+src/data/default;50--deposit.csv;has a default action
+src/data/default;50--employee.csv;has a default action
+src/data/default;50--letterdistribution_customer.csv;has a default action
+src/data/default;50--password_history.csv;has a default action
+src/data/default;50--product_action.csv;has a default action
+src/data/default;50--rolem_privilege_map.csv;has a default action
+src/data/default;50--schedule_day.csv;has a default action
+src/data/default;50--signature_rule.csv;has a default action
+src/data/default;50--system_event.csv;has a default action
+src/data/default;50--transaction_limit.csv;has a default action
+src/data/default;51--card_lock_history.csv;has a default action
+src/data/default;51--card_transaction_history.csv;has a default action
+src/data/default;51--comp_person_auth.csv;actionType = ignore_not_empty
+src/data/default;51--counterparty_account.csv;actionType=check
+src/data/default;51--counterparty_account.local.csv;actionType=check
+src/data/default;51--custom_request_type.csv;has a default action
+src/data/default;51--document.csv;has a default action
+src/data/default;51--employee_data.csv;has a default action
+src/data/default;51--notification.csv;has a default action
+src/data/default;51--notification_user_properties.csv;has a default action
+src/data/default;51--notiftypes_subjecttype_map.csv;has a default action
+src/data/default;51--person_privilege_map.csv;has a default action
+src/data/default;51--person_role_map.csv;has a default action
+src/data/default;51--provider.csv;has a default action
+src/data/default;51--provider_category.csv;has a default action
+src/data/default;52--payment.csv;has a default action
+src/data/default;52--provider_service.csv;actionType=modify
+src/data/default;53--custom_field.csv;has a default action
+src/data/default;53--document_withdraw.csv;has a default action
+src/data/default;53--domestic_transfer.csv;has a default action
+src/data/default;53--exposed_order.csv;has a default action
+src/data/default;53--international_transfer.csv;has a default action
+src/data/default;53--invoice.csv;has a default action
+src/data/default;53--provider_svc_category.csv;has a default action
+src/data/default;53--provider_svc_field.csv;actionType=modify
+src/data/default;53--transfer_employee.csv;has a default action
+src/data/default;54--account_transfer.csv;has a default action
+src/data/dev;03--bank.csv;actionType = ignore_not_empty
+src/data/dev;03--manager.dev.csv;actionType=check
+src/data/dev;05--customer_user.dev.csv;actionType=check
+src/data/expocredit;01--locale_entity.csv;has a default action
+src/data/expocredit;01--login_chain.csv;has a default action
+src/data/expocredit;01--translation.specific.csv;actionType=check
+src/data/expocredit;01--translation.web.specific.csv;actionType=modify
+src/data/expocredit;02--dictionary.csv;actionType=modify; translation=name_id
+src/data/expocredit;02--displayed_document_state.csv;has a default action
+src/data/expocredit;02--notification_type.csv;has a default action
+src/data/expocredit;02--otp_token.csv;has a default action
+src/data/expocredit;02--page_ms.csv;has a default action
+src/data/expocredit;02--validation_object.csv;has a default action
+src/data/expocredit;03--bank_branch.csv;has a default action
+src/data/expocredit;03--document_state.csv;has a default action
+src/data/expocredit;03--exchange_rate.csv;has a default action
+src/data/expocredit;03--manager.csv;has a default action
+src/data/expocredit;03--manager_privilege.csv;has a default action
+src/data/expocredit;03--property.csv;actionType=check
+src/data/expocredit;03--validation_constraint.csv;has a default action
+src/data/expocredit;04--correspondent_bank.csv;has a default action
+src/data/expocredit;04--customer.csv;has a default action
+src/data/expocredit;04--service_point.csv;has a default action
+src/data/expocredit;04--workflow_state.csv;has a default action
+src/data/expocredit;05--accounts.csv;has a default action
+src/data/expocredit;05--customer_user.csv;has a default action
+src/data/expocredit;05--workflow_action.csv;has a default action
+src/data/expocredit;06--account_balance_history.csv;has a default action
+src/data/expocredit;06--company_person.csv;has a default action
+src/data/expocredit;10--manager_customer_map.csv;actionType = ignore_not_empty
+src/data/expocredit;12--job_schedule.csv;has a default action
+src/data/expocredit;50--calendar.csv;has a default action
+src/data/expocredit;50--certificate.csv;has a default action
+src/data/expocredit;50--currency_issuance.csv;has a default action
+src/data/expocredit;50--currency_reception.csv;has a default action
+src/data/expocredit;50--demand_category.csv;has a default action
+src/data/expocredit;50--employee.csv;has a default action
+src/data/expocredit;50--letterdistribution_customer.csv;has a default action
+src/data/expocredit;50--news.csv;has a default action
+src/data/expocredit;50--password_history.csv;has a default action
+src/data/expocredit;50--product_action.csv;has a default action
+src/data/expocredit;50--rolem_privilege_map.csv;actionType = ignore_not_empty
+src/data/expocredit;50--schedule_day.csv;has a default action
+src/data/expocredit;50--signature_rule.csv;has a default action
+src/data/expocredit;50--system_event.csv;has a default action
+src/data/expocredit;50--transaction_limit.csv;has a default action
+src/data/expocredit;51--comp_person_auth.csv;actionType = ignore_not_empty
+src/data/expocredit;51--custom_request_type.csv;has a default action
+src/data/expocredit;51--document.csv;has a default action
+src/data/expocredit;51--employee_data.csv;has a default action
+src/data/expocredit;51--notification.csv;has a default action
+src/data/expocredit;51--notification_user_properties.csv;has a default action
+src/data/expocredit;51--notiftypes_subjecttype_map.csv;actionType = ignore_not_empty
+src/data/expocredit;51--person_privilege_map.csv;actionType = ignore_not_empty
+src/data/expocredit;51--person_role_map.csv;actionType = ignore_not_empty
+src/data/expocredit;52--payment.csv;has a default action
+src/data/expocredit;53--custom_field.csv;has a default action
+src/data/expocredit;53--domestic_transfer.csv;has a default action
+src/data/expocredit;53--international_transfer.csv;has a default action
+src/data/expocredit;54--account_transfer.csv;has a default action
+src/data/expocredit/dev;06--company_person.dev.csv;actionType=check
+src/data/expocredit/dev;07--app_sessions.csv;has a default action
+src/data/prod;03--bank.csv;actionType = ignore_not_empty
+src/data/vtb;01--locale_entity.csv;has a default action
+src/data/vtb;01--login_chain.csv;has a default action
+src/data/vtb;01--translation.mob.csv;actionType=modify
+src/data/vtb;01--translation.specific.csv;actionType=modify
+src/data/vtb;01--translation.web.specific.csv;actionType=modify
+src/data/vtb;01--translation.z.csv;actionType=modify
+src/data/vtb;02--country.csv;has a default action
+src/data/vtb;02--dictionary.z.csv;actionType=modify; translation=name_id
+src/data/vtb;02--displayed_document_state.csv;has a default action
+src/data/vtb;02--notification_channel.csv;has a default action
+src/data/vtb;02--notification_type.csv;has a default action
+src/data/vtb;02--otp_token.csv;has a default action
+src/data/vtb;02--page_ms.csv;has a default action
+src/data/vtb;02--validation_object.csv;has a default action
+src/data/vtb;03--bank_branch.csv;has a default action
+src/data/vtb;03--document_state.csv;has a default action
+src/data/vtb;03--manager.csv;has a default action
+src/data/vtb;03--manager_privilege.csv;has a default action
+src/data/vtb;03--notification_channel_props.csv;has a default action
+src/data/vtb;03--property.csv;actionType=check
+src/data/vtb;03--validation_constraint.csv;has a default action
+src/data/vtb;04--correspondent_bank.csv;has a default action
+src/data/vtb;04--customer.csv;actionType=check
+src/data/vtb;04--service_point.csv;has a default action
+src/data/vtb;04--workflow_state.csv;has a default action
+src/data/vtb;05--customer_user.csv;has a default action
+src/data/vtb;05--workflow_action.csv;has a default action
+src/data/vtb;06--company_person.csv;has a default action
+src/data/vtb;10--manager_customer_map.csv;actionType = ignore_not_empty
+src/data/vtb;12--job_schedule.csv;has a default action
+src/data/vtb;50--calendar.csv;has a default action
+src/data/vtb;50--certificate.csv;has a default action
+src/data/vtb;50--currency_issuance.csv;has a default action
+src/data/vtb;50--currency_reception.csv;has a default action
+src/data/vtb;50--customer_payment_purpose.csv;has a default action
+src/data/vtb;50--demand_category.csv;has a default action
+src/data/vtb;50--password_history.csv;has a default action
+src/data/vtb;50--product_action.csv;has a default action
+src/data/vtb;50--rolem_privilege_map.csv;actionType = ignore_not_empty
+src/data/vtb;50--schedule_day.csv;has a default action
+src/data/vtb;50--signature_rule.csv;has a default action
+src/data/vtb;51--comp_person_auth.csv;actionType = ignore_not_empty
+src/data/vtb;51--custom_request_type.csv;has a default action
+src/data/vtb;51--multicasting_package_text.csv;has a default action
+src/data/vtb;51--notiftypes_subjecttype_map.csv;actionType = ignore_not_empty
+src/data/vtb;51--person_role_map.csv;actionType = ignore_not_empty
+src/data/vtb;51--provider.csv;has a default action
+src/data/vtb;51--provider_category.csv;has a default action
+src/data/vtb;51--role_privilege_map.csv;has a default action
+src/data/vtb;52--provider_service.csv;actionType=modify
+src/data/vtb;53--provider_svc_category.csv;has a default action
+src/data/vtb;53--provider_svc_field.csv;actionType=modify
+src/data/vtb/dev;03--exchange_rate.csv;has a default action
+src/data/vtb/dev;05--accounts.csv;has a default action
+src/data/vtb/dev;06--company_person.dev.csv;actionType=check
+src/data/vtb/dev;07--app_sessions.csv;has a default action
+src/data/vtb/dev;50--card.csv;has a default action
+src/data/vtb/dev;50--credit.csv;has a default action
+src/data/vtb/dev;50--deposit.csv;has a default action
+src/data/vtb/dev;54--credit_schedule.csv;has a default action
+src/data/vtb/vpn_vtb;03--bank.csv;actionType = ignore_not_empty
+src/data/vtb/vpn_vtb;03--manager.dev.csv;actionType=check
+src/data/vtb/vpn_vtb;05--customer_user.dev.csv;actionType=check
+src/data/vtb/vpn_vtb;06--company_person.dev.csv;actionType=check
+src/data/vtb/vpn_vtb;07--app_sessions.csv;has a default action
