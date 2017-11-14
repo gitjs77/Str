@@ -68,9 +68,7 @@ class FileSearchGroovy {
                 file.isDirectory() ? method(file, result) : writeResults(file, result);
             }
         } else {
-            for (File file : input.listFiles()) {
-                writeResults(input, result);
-            }
+            writeResults(input, result);
         }
     }
 
