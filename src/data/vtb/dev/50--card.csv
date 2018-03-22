@@ -1,0 +1,3 @@
+﻿is_deleted;external_id;customer_id;account_id;currency;card_number;start_date;display_order;finish_date;alias;card_product_type;product_name;card_type;status;credit_limit;balance;block_unblock_reason;is_visible
+references=account_id:accounts(account_number), customer_id:customer(name); keyColumns=external_id
+0;4893336249192964;ДЕНИСКО ВИКТОР АЛЕКСАНДРОВИЧ;KZ174322204398A00000;KZT;4893336249192964;;1;2019-05-31;;VISA CLASSIC DEBIT;VISA CLASSIC DEBIT;489333700;Active;0;4933634;;0

@@ -1,0 +1,7 @@
+is_deleted;property_name_id;is_multi_language;property_value;property_group_id;hand_book_type;property_type;code;allowed_type;validation_constraint;multi_language_value_id
+references=property_group_id:property_group(name), property_name_id:translation(translation_key), multi_language_value_id:translation(translation_key); keyColumns=code; actionType=check; actionType=modify
+
+0;property_EDS_URL_OCSP;0;http://betaca.kisc.kz:62255;Электронно-цифровая подпись;;VALUE;EDS_URL_OCSP;VALUE;^.*$;null
+0;property_EDS_URL_LDAP;0;ldap://betaca.kisc.kz:62222;Электронно-цифровая подпись;;VALUE;EDS_URL_LDAP;VALUE;^.*$;null
+0;property_EDS_URL_WEBRA;0;https://betaca.kisc.kz:443/webra/Service;Электронно-цифровая подпись;;VALUE;EDS_URL_WEBRA;VALUE;^.*$;null
+0;property_EDS_DEFAULT_PERSON_PROFILE;0;FSystem;Логин;;VALUE;EDS_DEFAULT_PERSON_PROFILE;VALUE;^.*$;null

@@ -1,0 +1,7 @@
+is_deleted;secret;status;serial;case_model;model;production_date;product_name;connector_id;moving_factor;token_type;import_date;incorrect_attempts
+keyColumns=serial
+0;3132;ACTIVE;12345678;test;test;2016-10-11;test;test;null;TOTP;2016-10-11;0
+0;3132;ACTIVE;12345677;test;test;2016-10-11;test;test;-1;HOTP;2016-10-11;0
+0;3132;INACTIVE;12345676;test;test;2016-10-11;test;test;-1;HOTP;2016-10-11;0
+0;3132;INACTIVE;12345675;test;test;2016-10-11;test;test;-1;HOTP;2016-10-11;0
+0;10EA79D81AA7F124C650B2EE91CC529A7E391F9D;ACTIVE;AJ097968;5;6.2;2013-06-21;eToken-PASS-ES;{a61c4073-2fc8-4170-99d1-9f5b70a2cec6};1;HOTP;2016-02-10;0

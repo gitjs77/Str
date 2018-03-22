@@ -1,0 +1,10 @@
+id;is_deleted;expire_date;manager;bank_message;beneficiary_name;beneficiary_account;beneficiary_tax_code;residency_economic_code;beneficiary_bank_code
+references=id:document(document_number); keyColumns=id
+
+12/6E;0;2017-01-31;Иванов;срочный платеж;Рога и копыта;KZ75125KZT2069100333;;;
+12/7E;0;2017-03-31;Петров;за услуги;ЧП Петров;KZ75125KZT2069100444;;;
+12/8E;0;2017-04-15;Сидоров;за товары;Завод запчастей;KZ75125KZT2069100555;;;
+12/9E;0;2017-04-12;не указано;предоплата;Мастер сервис;KZ75125KZT2069100777;;;
+12/10E;0;2017-04-09;null;комиссия;Брокер 1;KZ75125KZT2069100888;;;
+12/11E;0;2017-04-08;Попов;по договору;Консалтинг Линк;KZ75125KZT2069100999;;;
+12/12E;0;2017-02-12;Павелко;задодженность;ОСББ;KZ75125KZT2069100222;;;

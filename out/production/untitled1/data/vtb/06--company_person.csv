@@ -1,0 +1,20 @@
+external_id;company_id;user_account_id;manager_id;valid_from;valid_to;sign_level;otp_id;is_registered_on_vc;dn;organization_role;quick_links;is_default_person_for_user
+references=company_id:customer(name), user_account_id:customer_user(login), manager_id:manager(login), otp_id:otp_token(serial); keyColumns=external_id
+
+22;ДЕНИСКО ВИКТОР АЛЕКСАНДРОВИЧ;aa;null;null;null;A;null;0;;head;;0
+24;ДЕНИСКО ВИКТОР АЛЕКСАНДРОВИЧ;user;null;null;null;A;null;0;;head;;0
+26;ДЕНИСКО ВИКТОР АЛЕКСАНДРОВИЧ;oks;null;null;null;A;null;0;;head;;0
+28;ДЕНИСКО ВИКТОР АЛЕКСАНДРОВИЧ;user3;null;null;null;A;null;0;;head;;0
+45;ДЕНИСКО ВИКТОР АЛЕКСАНДРОВИЧ;yyy;null;null;null;A;12345677;0;;head;;0
+51;ДЕНИСКО ВИКТОР АЛЕКСАНДРОВИЧ;aibek;null;null;null;A;null;0;;head;;0
+53;ДЕНИСКО ВИКТОР АЛЕКСАНДРОВИЧ;vvv;null;null;null;A;null;0;;head;;0
+55;ДЕНИСКО ВИКТОР АЛЕКСАНДРОВИЧ;vv;null;null;null;A;12345677;0;;head;;0
+58;ДЕНИСКО ВИКТОР АЛЕКСАНДРОВИЧ;anara;null;null;null;A;12345677;0;;head;;0
+61;ДЕНИСКО ВИКТОР АЛЕКСАНДРОВИЧ;sergey;null;null;null;A;12345677;0;;head;;0
+62;ДЕНИСКО ВИКТОР АЛЕКСАНДРОВИЧ;user4;null;null;null;A;null;0;;head;;0
+64;ДЕНИСКО ВИКТОР АЛЕКСАНДРОВИЧ;7777777777;null;null;null;A;null;0;;head;;0
+66;ДЕНИСКО ВИКТОР АЛЕКСАНДРОВИЧ;lex2;null;null;null;A;null;0;;head;;0
+68;ДЕНИСКО ВИКТОР АЛЕКСАНДРОВИЧ;lex3;null;null;null;A;null;0;;head;;0
+71;ДЕНИСКО ВИКТОР АЛЕКСАНДРОВИЧ;qqq;null;null;2017-01-01 23:00:00;A;null;0;;head;;1
+74;ДЕНИСКО ВИКТОР АЛЕКСАНДРОВИЧ;user2;null;null;null;A;null;0;;head;;0
+77;ДЕНИСКО ВИКТОР АЛЕКСАНДРОВИЧ;user1;null;null;null;A;null;0;;head;;0

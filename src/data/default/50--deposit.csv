@@ -1,0 +1,10 @@
+is_deleted;name_deposit;num;status;current_amount;deposit_percent;currency;finish_date;deposit_type;term;effective_reward;account_id;deposit_date;is_visible;bank_branch_id;current_percent_amount;reward_account_id;display_order
+references=account_id:accounts(account_number), bank_branch_id:bank_branch(code), reward_account_id:accounts(account_number); keyColumns=name_deposit, deposit_date
+
+0;Вклад "Сберегательный";TS-1122;Active;100000;3;USD;2019-01-01;Сберегательные депозиты;5;5;KZ75125USD2069100114;2016-03-15;1;11;6000;KZ75125USD2069100114;1
+0;Вклад "Сберегательный";TS-1133;Closed;2000000;4;RUB;2019-01-01;Специализированные депозиты;5;5;KZ75125RUB2069100101;2016-03-16;0;22;20000;KZ75125RUB2069100101;5
+0;Вклад "Накопительный";TS-1144;Active;300000;5;KZT;2019-01-01;Накопительные депозит;5;5;KZ75125KZT2069100104;2016-03-17;1;33;2000;KZ75125KZT2069100104;2
+0;Вклад "Накопительный";TS-1155;Closed;400000;6;USD;2019-01-01;Валютные депозиты;5;5;KZ75125USD2069100112;2016-03-18;0;44;10000;KZ75125USD2069100112;4
+0;Вклад "Образовательный";TS-1166;Active;500000;7;RUB;2019-01-01;Накопительные депозит;5;5;KZ75125RUB2069100101;2016-03-19;1;11;2000;KZ75125RUB2069100101;3
+0;Вклад "Образовательный";TS-1177;Closed;6000000;8;KZT;2019-01-01;Сберегательные депозиты;5;5;KZ75125USD2069100114;2016-03-20;0;22;1000;KZ75125USD2069100114;6
+0;Вклад "Образовательный";TS-1999;Active;6000000;8;KZT;2019-01-01;Сберегательные депозиты;5;5;KZ75125KZT2069101108;2016-03-21;0;22;1000;KZ75125KZT2069101108;6

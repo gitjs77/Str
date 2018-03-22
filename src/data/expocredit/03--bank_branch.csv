@@ -1,0 +1,6 @@
+id_1;is_deleted;code;short_name;full_name;int_short_name;int_full_name;mail_address;int_mail_address;telephone;fax;swift_code;bik
+keyColumns=code
+1;0;11;Центральный филиал;Центральный филиал 1;Central Branch;Central Branch1;mailAddress;intMailAddress1;+1111111;+11122211;11;11
+2;0;22;Восточный филиал;Центральный филиал 2;Central Branch;Central Branch2;mailAddress;intMailAddress2;+2222222;+11122211;22;33
+3;0;33;Южный филиал;Центральный филиал 3;Central Branch;Central Branch3;mailAddress;intMailAddress3;+3333333;+11133311;33;44
+4;0;44;Северный филиал;Центральный филиал 4;Central Branch;Central Branch4;mailAddress;intMailAddress4;+4444444;+11124411;44;55

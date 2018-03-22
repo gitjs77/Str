@@ -1,0 +1,2 @@
+person_id;privilege_id
+references=person_id:company_person(external_id), privilege_id:cperson_privilege(code)

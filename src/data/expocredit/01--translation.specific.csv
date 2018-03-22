@@ -1,0 +1,9 @@
+en;ru;kk;translation_key;is_preload
+keyColumns=translation_key;actionType=check
+Accepted;Принят;Принят;document.state.AcceptedInABS;0
+Verified;Проверен;Проверен;document.state.AcceptedInRBS;0
+Delivered;Доставлен;Доставлен;document.state.SentToRBS;0
+Fulfilled;Исполнен;Исполнен;document.state.Executed;0
+Revoked;Отозван;Отозван;document.state.Revoked;0
+Refused;Отказан;Отказан;document.state.Refused;0
+Not accepted;Не принят;Не принят;document.state.NotAcceptedInABS;0

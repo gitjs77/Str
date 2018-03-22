@@ -1,0 +1,15 @@
+﻿is_deleted;external_id;customer_id;account_number;account_type;alias;default_alias;currency;display_order;is_visible;bank_branch_id;opened;closed;balance;planned_balance;updated;fine_amount;arrested_amount;blocked_amount;block_reason;status
+references=bank_branch_id:bank_branch(code), customer_id:customer(name); keyColumns=account_number
+
+0;;ДЕНИСКО ВИКТОР АЛЕКСАНДРОВИЧ;KZ844321417398B01923;Credit;KZ844321417398B01923;;KZT;1;0;null;;;0;0;;;0;0;;Active
+0;;ДЕНИСКО ВИКТОР АЛЕКСАНДРОВИЧ;KZ164321417398B01595;Credit;KZ164321417398B01595;;KZT;1;0;null;;;0;0;;;0;0;;Active
+0;KZ124322204840A02158-USD;ДЕНИСКО ВИКТОР АЛЕКСАНДРОВИЧ;KZ124322204840A02158;Current;ДЕНИСКО ВИКТОР АЛЕКСАНДРОВИЧ;;USD;1;0;11;;;1500;;;;;;;Active
+0;KZ734322204398A03030-KZT;ДЕНИСКО ВИКТОР АЛЕКСАНДРОВИЧ;KZ734322204398A03030;Current;ДЕНИСКО ВИКТОР АЛЕКСАНДРОВИЧ;;KZT;1;0;11;;;10971653.4;;;;;;;Active
+0;;ДЕНИСКО ВИКТОР АЛЕКСАНДРОВИЧ;KZ174322204398A00000;Current;KZ174322204398A00000;;KZT;1;0;null;;;4933634;0;;;0;0;;Active
+0;KZ674322204978A00671-EUR;ДЕНИСКО ВИКТОР АЛЕКСАНДРОВИЧ;KZ674322204978A00671;Current;ДЕНИСКО ВИКТОР АЛЕКСАНДРОВИЧ;;EUR;1;0;11;;;5000;;;;;;;Active
+0;KZ874322204840A01972-USD;ДЕНИСКО ВИКТОР АЛЕКСАНДРОВИЧ;KZ874322204840A01972;Current;ДЕНИСКО ВИКТОР АЛЕКСАНДРОВИЧ;;USD;1;0;11;;;132473;;;;;;;Active
+0;KZ974322204398A03471-KZT;ДЕНИСКО ВИКТОР АЛЕКСАНДРОВИЧ;KZ974322204398A03471;Current;ДЕНИСКО ВИКТОР АЛЕКСАНДРОВИЧ;;KZT;1;0;11;;;1885.77;;;;;;;Active
+0;KZ554322206398M00042-KZT;ДЕНИСКО ВИКТОР АЛЕКСАНДРОВИЧ;KZ554322206398M00042;Deposit;ДЕНИСКО ВИКТОР АЛЕКСАНДРОВИЧ;;KZT;1;0;012;2017-05-25;2018-05-25;203411.78;;;;;;;Active
+0;KZ604322207398A00304-KZT;ДЕНИСКО ВИКТОР АЛЕКСАНДРОВИЧ;KZ604322207398A00304;Deposit;ДЕНИСКО ВИКТОР АЛЕКСАНДРОВИЧ;;KZT;1;0;11;2017-07-14;2019-07-14;625756.89;;;;;;;Active
+0;null;ДЕНИСКО ВИКТОР АЛЕКСАНДРОВИЧ;KZ164322204398B06682;Credit;KZ164322204398B06682;null;KZT;1;0;null;null;null;0;0;null;null;0;0;null;Active
+0;null;ДЕНИСКО ВИКТОР АЛЕКСАНДРОВИЧ;KZ164322204398B18613;Credit;KZ164322204398B18613;null;KZT;1;0;null;null;null;0;0;null;null;0;0;null;Active

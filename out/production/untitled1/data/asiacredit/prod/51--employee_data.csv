@@ -1,0 +1,2 @@
+employee_id;employee_account
+references=employee_id:employee(iin); keyColumns=employee_id, employee_account

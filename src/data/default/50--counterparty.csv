@@ -1,0 +1,16 @@
+is_national;name;international_name;bin;beneficiary_code;country_id;city;address;notes;kpp;customer_id
+references=country_id:country(two_letter_code), customer_id:customer(name); keyColumns=bin, name; actionType=check
+
+1;ТОО Финансы1;Finance1 LLC;081240013779;11;KZ;Астана;улица.1;;;ТОО БЕТОН
+1;АО Самсунг-Казахстан;Finance2 LLC;981140001115;11;KZ;Астана;улица.1;;;ТОО БЕТОН
+1;ТОО Финансы3;Finance3 LLC;981140001105;11;KZ;Астана;улица.1;;;ТОО БЕТОН
+0;GeneralMotors corp.;GeneralMotors corp.;111240013779;11;US;Чикаго;улица.1;;aaaaaa;ТОО БЕТОН
+0;Toyota Motor Corporation;Toyota Motor Corporation;111140001105;11;JP;Токио;улица.1;;qqqqqq;ТОО БЕТОН
+0;Bayerische Motoren Werke AG;Bayerische Motoren Werke AG;111140001115;11;DE;Мюнхен;Мюнхен.1;;111111;ТОО БЕТОН
+1;ТОО Банк;Bank LLC;020440002422;11;KZ;Астана;улица.1;;;Частный клиент
+
+0;GeneralMotors corp.;GeneralMotors corp.;221240013779;11;US;Чикаго;улица.1;;aaaaaa;Частный клиент
+0;Toyota Motor Corporation;Toyota Motor Corporation;221140001105;11;JP;Токио;улица.1;;qqqqqq;Частный клиент
+0;Bayerische Motoren Werke AG;Bayerische Motoren Werke AG;221140001115;11;DE;Мюнхен;Мюнхен.1;;111111;Частный клиент
+
+

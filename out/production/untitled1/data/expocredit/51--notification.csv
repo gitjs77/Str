@@ -1,0 +1,26 @@
+id;channel_code;channel_sub_code;company_person_id;recipient_id;message_text;generate_time;status;error_message;sent_time;notification_level;subject_type
+references=company_person_id:company_person(external_id)
+1;internal;null;2;null;Поступление на счет KZ2545678979797;2017-04-18 12:51:12;NEW;null;null;info;Account
+2;internal;null;2;null;Срок действия ключа ЭЦП истек;2017-04-18 09:51:12;NEW;null;null;error;UserAccount
+3;internal;null;2;null;Остаток на счете ниже 50 000;2017-04-17 12:51:12;NEW;null;null;warning;Account
+4;internal;null;2;null;Поступление на счет KZ45648484648644;2017-04-16 12:51:12;NEW;null;null;info;Account
+5;internal;null;2;null;Списание со счета 2565464654654;2017-04-15 12:51:12;NEW;null;null;info;Account
+6;internal;null;2;null;Остаток на счете выше 1 млн. USD;2017-04-14 12:51:12;NEW;null;null;success;Account
+7;internal;null;2;null;Срок действия пароля на вход истекает;2017-04-13 12:51:12;NEW;null;null;protect;UserAccount
+8;internal;null;2;null;Остаток на счете ниже 50 000 USD;2017-04-13 10:51:12;NEW;null;null;warning;Account
+11;internal;null;2;null;Срок действия ключа ЭЦП истекает;2017-04-19 08:24:12;NEW;null;null;protect;UserAccount
+12;internal;null;2;null;Новое сообщение в ленте новостей банка;2017-04-18 12:51:12;NEW;null;null;info;News
+13;internal;null;2;null;Срок действия пароля истек;2017-04-19 13:11:12;NEW;null;null;error;UserAccount
+14;internal;null;2;null;Смена статуса документа 64654/45-55;2017-04-10 12:51:12;NEW;null;null;info;Document
+15;internal;null;2;null;Смена статуса документа номер 2323-2;2017-04-12 12:51:12;NEW;null;null;info;Document
+16;sms;null;2;+1234567891234;New sms message;2017-04-18 12:51:12;NEW;null;null;protect;null
+18;internal;null;23;null;Поступление на счет KZ2545678979797;2017-04-18 12:51:12;NEW;null;null;info;Account
+19;internal;null;23;null;Срок действия ключа ЭЦП истек;2017-04-18 09:51:12;NEW;null;null;error;UserAccount
+20;internal;null;23;null;Остаток на счете ниже 50 000;2017-04-17 12:51:12;NEW;null;null;warning;Account
+21;internal;null;23;null;Поступление на счет KZ45648484648644;2017-04-16 12:51:12;NEW;null;null;info;Account
+22;internal;null;23;null;Списание со счета 2565464654654;2017-04-15 12:51:12;NEW;null;null;info;Account
+23;internal;null;23;null;Остаток на счете выше 1 млн. USD;2017-04-14 12:51:12;NEW;null;null;success;Account
+24;internal;null;23;null;Срок действия пароля на вход истекает;2017-04-13 12:51:12;NEW;null;null;protect;UserAccount
+25;internal;null;23;null;Остаток на счете ниже 50 000 USD;2017-04-13 10:51:12;NEW;null;null;warning;Account
+26;internal;null;62;null;Остаток на счете ниже 50 000 USD;2017-05-20 10:10:11;NEW;null;null;info;Account
+27;internal;null;62;null;Поступление на счет KZ75125USD2069101105;2017-05-21 11:05:10;NEW;null;null;info;Account

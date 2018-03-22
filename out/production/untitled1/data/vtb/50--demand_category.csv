@@ -1,0 +1,7 @@
+id_1;code;is_deleted;name_id
+references=name_id:translation(translation_key); keyColumns=code
+
+1;Счета;0;page_accounts
+2;Кредиты;0;demand_credits
+3;Депозиты;0;demand_deposits
+4;Карты;0;cards

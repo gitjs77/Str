@@ -1,0 +1,4 @@
+tax_code;name;residency_code;employee_account;bank_code;bank_name;ter_type
+keyColumns=ter_type
+160440007161;НАО "Гос. корпорация "Правительство для граждан";11;KZ12009NPS0413609816;GCVPKZ2A;НАО "Гос.корпорация "Правительство для граждан";PensionContribution
+160440007161;НАО "Гос. корпорация "Правительство для граждан";11;KZ67009SS00368609110;GCVPKZ2A;НАО "Гос.корпорация "Правительство для граждан";SocialContribution

@@ -1,0 +1,82 @@
+external_id;company_id;user_account_id;manager_id;valid_from;valid_to;sign_level;otp_id;is_registered_on_vc;dn;organization_role;quick_links;is_default_person_for_user
+references=company_id:customer(name), user_account_id:customer_user(login), manager_id:manager(login), otp_id:otp_token(serial); keyColumns=external_id
+
+1;Ахметов Асылхан Ералиевич;login;null;null;null;A;null;0;;head;;0
+2;Ахметов Асылхан Ералиевич;user;null;null;null;A;null;1;C=KZ, O=ТОО InFin-IT Solution, CN=Ходусов Сергей, UID=IIN850901300252;operator;;1
+3;Ахметов Асылхан Ералиевич;test;null;null;null;B;null;0;;operator;;0
+5;Жауатова Сара Исмаиловна;cus;null;null;null;C;null;0;;operator;;0
+6;Ахметов Асылхан Ералиевич;ss;null;null;null;C;null;0;;operator;;0
+7;Ахметов Асылхан Ералиевич;lex;null;null;null;C;null;0;;operator;;0
+8;Ахметов Асылхан Ералиевич;a;null;null;null;C;null;0;;operator;;0
+9;Ахметов Асылхан Ералиевич;konst;null;null;null;C;null;0;;operator;;0
+10;Ахметов Асылхан Ералиевич;evg;null;null;null;C;null;0;;operator;;0
+11;Ахметов Асылхан Ералиевич;oks;null;null;null;C;null;0;;operator;;0
+12;Ахметов Асылхан Ералиевич;lex2;null;null;null;C;null;0;;operator;;0
+13;Ахметов Асылхан Ералиевич;lex3;null;null;null;C;null;0;;operator;;0
+14;Ахметов Асылхан Ералиевич;lex4;null;null;null;C;null;0;;operator;;0
+15;Ахметов Асылхан Ералиевич;aa;null;null;null;C;null;0;;operator;;0
+16;Ахметов Асылхан Ералиевич;aaa;null;null;null;C;null;0;;operator;;0
+17;Ахметов Асылхан Ералиевич;aaaa;null;null;null;C;null;0;;operator;;0
+18;Ахметов Асылхан Ералиевич;oks1;null;null;null;C;null;0;;operator;;0
+19;Ахметов Асылхан Ералиевич;oks2;null;null;null;C;null;0;;operator;;0
+20;Ахметов Асылхан Ералиевич;oks3;null;null;null;C;null;0;;operator;;0
+21;Жауатова Сара Исмаиловна;aa;null;null;null;C;null;0;;operator;;0
+22;Таванов Турлан Ахметкалиевич;aa;null;null;null;C;null;0;;operator;;0
+23;Жауатова Сара Исмаиловна;user;null;null;2017-01-01 23:00:00;A;null;0;;head;;0
+24;Таванов Турлан Ахметкалиевич;user;null;null;null;C;null;0;;operator;;0
+25;Жауатова Сара Исмаиловна;oks;null;null;null;A;null;0;;head;;0
+26;Таванов Турлан Ахметкалиевич;oks;null;null;null;B;null;0;;accountant;;0
+27;Жауатова Сара Исмаиловна;oks1;null;null;null;C;null;0;;operator;;0
+28;Таванов Турлан Ахметкалиевич;oks1;null;null;null;A;null;0;;head;;0
+29;Жауатова Сара Исмаиловна;oks2;null;null;null;B;null;0;;accountant;;0
+30;Таванов Турлан Ахметкалиевич;oks2;null;null;null;C;null;0;;operator;;0
+31;Жауатова Сара Исмаиловна;oks3;null;null;null;A;null;0;;head;;0
+32;Таванов Турлан Ахметкалиевич;oks3;null;null;null;B;null;0;;accountant;;0
+33;Ахметов Асылхан Ералиевич;test1;null;null;null;B;null;0;;accountant;;0
+34;Ахметов Асылхан Ералиевич;lengard;null;null;null;A;null;0;;operator;;0
+35;Ахметов Асылхан Ералиевич;makarov;null;null;null;A;null;0;;operator;;0
+36;Ахметов Асылхан Ералиевич;borodin;null;null;null;B;null;0;;operator;;0
+37;Ахметов Асылхан Ералиевич;sautov;null;null;null;C;null;0;;operator;;0
+38;Ахметов Асылхан Ералиевич;kaibar;null;null;null;C;null;0;;operator;;0
+39;Ахметов Асылхан Ералиевич;alena;null;null;null;C;null;1;C=KZ, O=ТОО InFin-IT Solution, CN=Зарецкая Алёна, UID=IIN680121450185;operator;;0
+40;Ахметов Асылхан Ералиевич;k;null;null;null;C;null;0;;operator;;0
+41;Ахметов Асылхан Ералиевич;kk;null;null;null;C;null;0;;operator;;0
+42;Ахметов Асылхан Ералиевич;kkk;null;null;null;C;null;0;;operator;;0
+43;Ахметов Асылхан Ералиевич;y;null;null;null;B;null;0;;operator;;0
+44;Жауатова Сара Исмаиловна;yy;null;null;null;B;null;0;;operator;;0
+45;Таванов Турлан Ахметкалиевич;yyy;null;null;null;B;null;0;;operator;;0
+46;Ахметов Асылхан Ералиевич;v;null;null;null;C;null;0;;operator;;0
+47;Жауатова Сара Исмаиловна;vv;null;null;null;C;null;0;;operator;;0
+48;Ахметов Асылхан Ералиевич;vvv;null;null;null;C;null;0;;operator;;0
+49;Ахметов Асылхан Ералиевич;aibek;null;null;null;A;null;0;;operator;;0
+50;Жауатова Сара Исмаиловна;aibek;null;null;null;B;null;0;;accountant;;0
+51;Таванов Турлан Ахметкалиевич;aibek;null;null;null;C;null;0;;operator;;0
+52;Жауатова Сара Исмаиловна;vvv;null;null;null;B;null;0;;accountant;;0
+53;Таванов Турлан Ахметкалиевич;vvv;null;null;null;C;null;0;;operator;;0
+54;Ахметов Асылхан Ералиевич;vv;null;null;null;C;null;0;;operator;;1
+55;Таванов Турлан Ахметкалиевич;vv;null;null;null;C;null;0;;operator;;0
+56;Ахметов Асылхан Ералиевич;anara;null;null;null;C;null;0;;operator;;0
+57;Жауатова Сара Исмаиловна;anara;null;null;null;C;null;0;;operator;;0
+58;Таванов Турлан Ахметкалиевич;anara;null;null;null;C;null;0;;operator;;0
+59;Ахметов Асылхан Ералиевич;sergey;null;null;null;C;null;0;;operator;;0
+60;Жауатова Сара Исмаиловна;sergey;null;null;null;C;null;0;;operator;;0
+61;Таванов Турлан Ахметкалиевич;sergey;null;null;null;C;null;0;;operator;;0
+62;Омаров Алихан Арсенович;77081338567;null;null;null;A;null;0;;head;;0
+63;Жауатова Сара Исмаиловна;lex;null;null;null;B;null;0;;operator;;0
+64;Таванов Турлан Ахметкалиевич;lex;null;null;null;C;null;0;;operator;;0
+65;Жауатова Сара Исмаиловна;lex2;null;null;null;A;null;0;;operator;;0
+66;Таванов Турлан Ахметкалиевич;lex2;null;null;null;B;null;0;;operator;;0
+67;Жауатова Сара Исмаиловна;lex3;null;null;null;C;null;0;;operator;;0
+68;Таванов Турлан Ахметкалиевич;lex3;null;null;null;A;null;0;;operator;;0
+69;Ахметов Асылхан Ералиевич;qqq;null;null;null;B;null;0;;operator;;0
+70;Жауатова Сара Исмаиловна;qqq;null;null;null;B;null;0;;operator;;0
+71;Таванов Турлан Ахметкалиевич;qqq;null;null;2017-01-01 23:00:00;B;null;0;;operator;;1
+72;Ахметов Асылхан Ералиевич;m;null;null;null;B;null;0;;operator;;0
+73;Жауатова Сара Исмаиловна;m;null;null;null;B;null;0;;operator;;0
+74;Таванов Турлан Ахметкалиевич;m;null;null;null;B;null;0;;operator;;0
+75;Ахметов Асылхан Ералиевич;mm;null;null;null;B;null;0;;operator;;0
+76;Жауатова Сара Исмаиловна;mm;null;null;null;B;null;0;;operator;;0
+77;Таванов Турлан Ахметкалиевич;mm;null;null;null;B;null;0;;operator;;0
+78;Ахметов Асылхан Ералиевич;mmm;null;null;null;B;null;0;;operator;;0
+79;Жауатова Сара Исмаиловна;mmm;null;null;null;B;null;0;;operator;;0
+80;Таванов Турлан Ахметкалиевич;mmm;null;null;null;B;null;0;;operator;;0

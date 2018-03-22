@@ -1,0 +1,6 @@
+is_deleted;name_id;type_code;ert_position;external_id
+references=name_id:translation(translation_key); keyColumns=type_code
+0;exchange_rate_cash;CASH;1;CASH
+0;exchange_rate_cashless;CASHLESS;1;CASHLESS
+0;exchange_rate_national;NATIONAL;1;
+0;exchange_rate_cross;CROSS;1;

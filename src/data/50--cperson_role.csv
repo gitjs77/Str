@@ -1,0 +1,7 @@
+name;code
+keyColumns=code
+
+Директор;dir
+Бухгалтер;acc
+Главный бухгалтер;gacc
+Физ. лицо;pers

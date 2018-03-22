@@ -1,0 +1,13 @@
+is_deleted;document_number;contract_date;credit_name;amount;credit_percent;effective_percent;finish_date;currency_amount;status;account_id;is_visible;credit_limit;currency;credit_type;bank_branch_id;currency_balance;credit_term;display_order;amount_remuneration
+references=account_id:accounts(account_number), bank_branch_id:bank_branch(code); keyColumns=document_number, contract_date
+
+0;1-EUR;2015-01-01;Ипотека;0;5;5;2019-01-01;0;Closed;KZ75125KZT2069100115;0;0;EUR;экспресс-кредит;11;0;24;11;1000
+0;2-USD;2015-01-01;Ипотека;100000;5;5;2019-01-01;75000;Active;KZ75125USD2069100116;1;10000;USD;микрокредит;22;75000;24;2;1100
+0;3-KZT;2015-01-01;Кредит под залог депозита;0;5;5;2019-01-01;0;Closed;KZ75125EUR2069100117;0;0;KZT;малый кредит;33;0;24;32;1200
+0;4-KZT;2015-01-01;Потребительский кредит;100000;5;5;2019-01-01;75000;Active;KZ75125KZT2069100118;1;10000;KZT;экспресс-кредит;44;75000;24;4;1300
+0;5-EUR;2015-01-01;Потребительский кредит;0;5;5;2019-01-01;0;Closed;KZ75125EUR2069100119;0;0;EUR;микрокредит;11;0;24;52;1400
+0;7-CNY;2015-01-01;Кредит наличными;100000;5;5;2019-01-01;75000;Active;KZ75125EUR2069100103;1;10000;EUR;малый кредит;22;75000;24;6;1500
+0;9-EUR;2015-01-01;Кредит наличными;150000;5;5;2019-01-01;150000;Active;KZ75125EUR2069101121;0;0;EUR;экспресс-кредит;33;150000;24;22;1600
+0;6-EUR;2015-01-01;Автокредит;100000;5;5;2019-01-01;75000;Closed;KZ75125EUR2069100125;0;10000;EUR;малый кредит;22;75000;24;23;2000
+0;8-EUR;2015-01-01;Кредит под залог депозита;150000;5;5;2019-01-01;150000;Overdue;KZ75125EUR2069101103;1;0;EUR;экспресс-кредит;33;150000;24;8;2000
+

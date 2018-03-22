@@ -1,0 +1,6 @@
+code;name_id
+references=name_id:translation(translation_key); keyColumns=code
+paymentOrder;domTransfer_paymentOrder
+transfer;document_transfer
+conversion;document_conversion
+intTransfer;intTransfer_title

@@ -1,0 +1,16 @@
+is_deleted;name;int_name;country_id
+references=country_id:country(two_letter_code); keyColumns=name
+0;Акмолинская;Akmola Region;KZ
+0;Актюбинская;Aktobe Region;KZ
+0;Алматинская;Almaty Region;KZ
+0;Атырауская;Atyrau Region;KZ
+0;Восточно-Казахстанская;East Kazakhstan Region;KZ
+0;Жамбылская;Jambyl Region;KZ
+0;Западно-Казахстанская;West Kazakhstan Region;KZ
+0;Карагандинская;Karaganda Region;KZ
+0;Костанайская;Kostanay Region;KZ
+0;Кызылординская;Kyzylorda Region;KZ
+0;Мангистауская;Mangystau Region;KZ
+0;Павлодарская;Pavlodar Region;KZ
+0;Северо-Казахстанская;North Kazakhstan Region;KZ
+0;Южно-Казахстанская;South Kazakhstan Region;KZ

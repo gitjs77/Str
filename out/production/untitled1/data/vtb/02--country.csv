@@ -1,0 +1,257 @@
+country_code;country_name;two_letter_code;three_letter_code;country_name_en;full_country_name
+keyColumns=two_letter_code
+004;Афганистан;AF;AFG;AFGHANISTAN;Афганистан
+008;Албания;AL;ALB;ALBANIA;Албания
+012;Алжир;DZ;DZA;ALGERIA;Алжир
+016;Американское самоа;AS;ASM;AMERICAN SAMOA;Американское самоа
+020;Андорра;AD;AND;ANDORRA;Андорра
+024;Ангола;AO;AGO;ANGOLA;Ангола
+028;Антигуа и Барбуда;AG;ATG;ANTIGUA AND BARBUDA;Антигуа и Барбуда
+031;Азербайджан;AZ;AZE;AZERBAIJAN;Азербайджан
+032;Аргентина;AR;ARG;ARGENTINA;Аргентина
+036;Австралия;AU;AUS;AUSTRALIA;Австралия
+040;Австрия;AT;AUT;AUSTRIA;Австрия
+044;Багамы;BS;BHS;BAHAMAS;Багамы
+048;Бахрейн;BH;BHR;BAHRAIN;Бахрейн
+050;Бангладеш;BD;BGD;BANGLADESH;Бангладеш
+051;Армения;AM;ARM;ARMENIA;Армения
+052;Барбадос;BB;BRB;BARBADOS;Барбадос
+056;Бельгия;BE;BEL;BELGIUM;Бельгия
+060;Бермуды;BM;BMU;BERMUDA;Бермуды
+064;Бутан;BT;BTN;BHUTAN;Бутан
+068;Боливия;BO;BOL;BOLIVIA, PLURINATIONAL STATE OF;Боливия
+070;Босния и Герцеговина;BA;BIH;BOSNIA AND HERZEGOVINA;Босния и Герцеговина
+072;Ботсвана;BW;BWA;BOTSWANA;Ботсвана
+074;Остров Буве;BV;BVT;Bouvet;Остров Буве
+076;Бразилия;BR;BRA;BRAZIL;Бразилия
+084;Белиз;BZ;BLZ;BELIZE;Белиз
+090;Соломоновы о-ва;SB;SLB;SOLOMON ISLANDS;Соломоновы острова
+092;Виргинские острова (Брит.);VG;VGB;VIRGIN ISLANDS, BRITISH;Виргинские острова  (Брит.)
+096;Бруней-Даруссалам;BN;BRN;BRUNEI DARUSSALAM;Бруней-Даруссалам
+100;Болгария;BG;BGR;BULGARIA;Болгария
+104;Мьянма;MM;MMR;MYANMAR;Мьянма
+108;Бурунди;BI;BDI;BURUNDI;Бурунди
+112;Беларусь;BY;BLR;BELARUS;Беларусь
+116;Камбоджа;KH;KHM;CAMBODIA;Камбоджа
+120;Камерун;CM;CMR;CAMEROON;Камерун
+124;Канада;CA;CAN;CANADA;Канада
+132;Кабо-Верде;CV;CPV;CABO VERDE;Кабо-Верде
+136;Острова Кайман;KY;CYM;CAYMAN ISLANDS;Острова Кайман
+140;Центрально-африканская республика;CF;CAF;CENTRAL AFRICAN REPUBLIC;Центрально-африканская республика
+144;Шри-Ланка;LK;LKA;SRI LANKA;Шри-Ланка
+148;Чад;TD;TCD;CHAD;Чад
+152;Чили;CL;CHL;CHILE;Чили
+156;Китай;CN;CHN;CHINA;Китай
+158;Тайвань, провинция Китая;TW;TWN;TAIWAN;Тайвань, провинция Китая
+170;Колумбия;CO;COL;COLOMBIA;Колумбия
+174;Коморы;KM;COM;COMOROS;Коморы
+175;Майотта;YT;MYT;MAYOTTE;Майотта
+178;Конго;CG;COG;CONGO;Конго
+180;Конго,Демокр. респ.;CD;COD;CONGO, THE DEMOCRATIC REPUBLIC OF THE;Конго,Демократическая республика
+184;Острова Кука;CK;COK;COOK ISLANDS;Острова Кука
+188;Коста-Рика;CR;CRI;COSTA RICA;Коста-Рика
+191;Хорватия;HR;HRV;CROATIA;Хорватия
+192;Куба;CU;CUB;CUBA;Куба
+196;Кипр;CY;CYP;CYPRUS;Кипр
+203;Чешская Республика;CZ;CZE;CZECHIA;Чешская Республика
+204;Бенин;BJ;BEN;BENIN;Бенин
+208;Дания;DK;DNK;DENMARK;Дания
+212;Доминика;DM;DMA;DOMINICA;Доминика
+214;Доминиканск. республ.;DO;DOM;DOMINICAN REPUBLIC;Доминиканская республика
+218;Эквадор;EC;ECU;ECUADOR;Эквадор
+222;Эль-Сальвадор;SV;SLV;EL SALVADOR;Эль-Сальвадор
+226;Экваториальная Гвинея;GO;GNQ;EQUATORIAL GUINEA;Экваториальная Гвинея
+231;Эфиопия;ET;ETH;ETHIOPIA;Эфиопия
+232;Эритрея;ER;ERI;ERITREA;Эритрея
+233;Эстония;EE;EST;ESTONIA;Эстония
+234;Фарерские о-ва;FO;FRO;FAROE ISLANDS;Фарерские острова
+238;Фолклендские о-ва ( Мальвинские);FK;FLK;FALKLAND ISLANDS (MALVINAS);Фолклендские о-ва ( Мальвинские)
+242;Фиджи;FJ;FJI;FIJI;Фиджи
+246;Финляндия;FI;FIN;FINLAND;Финляндия
+248;Аландские о-ва;AX;ALA;ALAND ISLANDS;Аландские острова
+250;Франция;FR;FRA;FRANCE;Франция
+254;Французская Гвиана;GF;GUF;FRENCH GUIANA;Французская Гвиана
+258;Французская Полинезия;PF;PYF;FRENCH POLYNESIA;Французская Полинезия
+262;Джибути;DJ;DJI;DJIBOUTI;Джибути
+266;Габон;GA;GAB;GABON;Габон
+268;Грузия;GE;GEO;GEORGIA;Грузия
+270;Гамбия;GM;GMB;GAMBIA;Гамбия
+275;Палестинская территория, оккупированная;PS;PSE;PALESTINE, STATE OF;Палестинская территория, оккупированная
+276;Германия;DE;DEU;GERMANY;Германия
+288;Гана;GH;GHA;GHANA;Гана - Республика Гана
+292;Гибралтар;GI;GIB;GIBRALTAR;Гибралтар
+296;Кирибати;KI;KIR;KIRIBATI;Кирибати
+300;Греция;GR;GRC;GREECE;Греция
+304;Гренландия;GL;GRL;GREENLAND;Гренландия
+308;Гренада;GD;GRD;GRENADA;Гренада
+312;Гваделупа;GP;GLP;GUADELOUPE;Гваделупа
+316;Гуам;GU;GUM;GUAM;Гуам
+320;Гватемала;GT;GTM;GUATEMALA;Гватемала
+324;Гвинея;GN;GIN;GUINEA;Гвинея
+328;Гайана;GY;GUY;GUYANA;Гайана
+332;Гаити;HT;HTI;HAITI;Гаити
+336;Папский престол (Государство-город Ватикан);VA;VAT;HOLY SEE;Папский престол (Государство-город Ватикан)
+340;Гондурас;HN;HND;HONDURAS;Гондурас
+344;Гонконг;HK;HKG;HONG KONG;Гонконг
+348;Венгрия;HU;HUN;HUNGARY;Венгрия
+352;Исландия;IS;ISL;ICELAND;Исландия
+356;Индия;IN;IND;INDIA;Индия
+360;Индонезия;ID;IDN;INDONESIA;Индонезия
+364;Иран, исламская республика;IR;IRN;IRAN (ISLAMIC REPUBLIC OF);Иран, исламская республика
+368;Ирак;IQ;IRQ;IRAQ;Ирак
+372;Ирландия;IE;IRL;IRELAND;Ирландия
+376;Израиль;IL;ISR;ISRAEL;Израиль
+380;Италия;IT;ITA;ITALY;Италия
+384;КОТ-Д ИВУАР;CI;CIV;COTE D'IVOIRE;КОТ-Д ИВУАР
+388;Ямайка;JM;JAM;JAMAICA;Ямайка
+392;Япония;JP;JPN;JAPAN;Япония
+398;Казахстан;KZ;KAZ;KAZAKHSTAN;Казахстан
+400;Иордания;JO;JOR;JORDAN;Иордания
+404;Кения;KE;KEN;KENYA;Кения
+408;Корея, Народно-Демократическая  республика;KP;PRK;KOREA (DEMOCRATIC PEOPLE'S REPUBLIC OF);Корея, Народно-Демократическая  республика
+410;Корея, Республика;KR;KOR;KOREA, REPUBLIC OF;Корея, Республика
+414;Кувейт;KW;KWT;KUWAIT;Кувейт
+417;Кыргызстан;KG;KGZ;KYRGYZSTAN;Кыргызстан
+418;Лаосская народно-демократическая  республика;LA;LAO;LAO PEOPLE'S DEMOCRATIC REPUBLIC;Лаосская народно-демократическая  республика
+422;Ливан;LB;LBN;LEBANON;Ливан
+426;Лесото;LS;LSO;LESOTHO;Лесото
+428;Латвия;LV;LVA;LATVIA;Латвия
+430;Либерия;LR;LBR;LIBERIA;Либерия
+434;Ливийская Арабская Джамахирия;LY;LBY;LIBYA;Ливийская Арабская Джамахирия
+438;Лихтенштейн;LI;LIE;LIECHTENSTEIN;Лихтенштейн
+440;Литва;LT;LTU;LITHUANIA;Литва
+442;Люксембург;LU;LUX;LUXEMBOURG;Люксембург
+446;Макао - Спец. адм. регион в Китае;MO;MAK;MACAO;Макао - Специальный административный регион в Китае
+450;Мадагаскар;MG;MDG;MADAGASCAR;Мадагаскар
+454;Малави;MW;MWI;MALAWI;Малави
+458;Малайзия;MY;MYS;MALAYSIA;Малайзия
+462;Мальдивы;MV;MDV;MALDIVES;Мальдивы
+466;Мали;ML;MLI;MALI;Мали
+470;Мальта;MT;MLT;MALTA;Мальта
+474;Мартиника;MQ;MTQ;MARTINIQUE;Мартиника
+478;Мавритания;MR;MRT;MAURITANIA;Мавритания
+480;Маврикий;MU;MUS;MAURITIUS;Маврикий
+484;Мексика;MX;MEX;MEXICO;Мексика
+492;Монако;MC;MCO;MONACO;Монако
+496;Монголия;MN;MNG;MONGOLIA;Монголия
+498;Молдова республика;MD;MDA;MOLDOVA, REPUBLIC OF;Молдова республика
+499;Черногория;ME;MNE;MONTENEGRO;Черногория
+500;Монтсеррат;MS;MSR;MONTSERRAT;Монтсеррат
+504;Марокко;MA;MAR;MOROCCO;Марокко
+508;Мозамбик;MZ;MOZ;MOZAMBIQUE;Мозамбик
+512;Оман;OM;OMN;OMAN;Оман
+516;Намибия;NA;NAM;NAMIBIA;Намибия
+520;Науру;NR;NRU;NAURU;Науру
+524;Непал;NP;NPL;NEPAL;Непал
+528;Нидерланды;NL;NLD;NETHERLANDS;Нидерланды
+531;Кюрасао;CW;CUW;CURACAO;Кюрасао
+533;Аруба;AW;ABW;ARUBA;Аруба
+534;Сен-Мартен (нидерландская часть);SX;SXM;SINT MAARTEN (DUTCH PART);Сен-Мартен (нидерландская часть)
+535;Бонэйр, Синт-Эстатиус и Саба;BQ;BES;BONAIRE, SINT EUSTATIUS AND SABA;Бонэйр, Синт-Эстатиус и Саба
+540;Новая Каледония;NC;NCL;NEW CALEDONIA;Новая Каледония
+548;Вануату;VU;VUT;VANUATU;Вануату
+554;Новая Зеландия;NZ;NZL;NEW ZEALAND;Новая Зеландия
+558;Никарагуа;NI;NIC;NICARAGUA;Никарагуа
+562;Нигер;NE;NER;NIGER;Нигер
+566;Нигерия;NG;NGA;NIGERIA;Нигерия
+570;Ниуэ;NU;NIU;NIUE;Ниуэ
+574;Остров Норфолк;NF;NFK;NORFOLK ISLAND;Остров Норфолк
+578;Норвегия;NO;NOR;NORWAY;Норвегия
+580;Северные Марианские о-ва;MP;MNP;NORTHERN MARIANA ISLANDS;Северные Марианские о-ва
+583;Микронезия, Федеративные штаты;FM;FSM;MICRONESIA (FEDERATED STATES OF);Микронезия, Федеративные штаты
+584;Маршалловы острова;MH;MHL;MARSHALL ISLANDS;Маршалловы острова
+585;Палау;PW;PLW;PALAU;Палау
+586;Пакистан;PK;PAK;PAKISTAN;Пакистан
+591;Панама;PA;PAN;PANAMA;Панама
+598;Папуа-Новая Гвинея;PG;PNG;PAPUA NEW GUINEA;Папуа-Новая Гвинея
+600;Парагвай;PY;PRY;PARAGUAY;Парагвай
+604;Перу;PE;PER;PERU;Перу
+608;Филиппины;PH;PHL;PHILIPPINES;Филиппины
+612;Питкэрн;PN;PCN;PITCAIRN;Питкэрн
+616;Польша;PL;POL;POLAND;Польша
+620;Португалия;PT;PRT;PORTUGAL;Португалия
+624;Гвинея-Бисау;GW;GNB;GUINEA-BISSAU;Гвинея-Бисау
+626;Тимор Лоросае;TL;TLS;TIMOR LOROSAE;Тимор Лоросае
+630;Пуэрто-Рико;PR;PRI;PUERTO RICO;Пуэрто-Рико
+634;Катар;QA;QAT;QATAR;Катар
+638;Реюньон;RE;REU;REUNION;Реюньон
+642;Румыния;RO;ROU;ROMANIA;Румыния
+643;Российская Федерация;RU;RUS;RUSSIAN FEDERATION;Российская Федерация
+646;Руанда;RW;RWA;RWANDA;Руанда
+654;Святая Елена;SH;SHN;ST HELENA,ASCENSION AND TRISTAN DA CUNHA;Святая Елена
+659;Сент-Китс и Невис;KN;KNA;SAINT KITTS AND NEVIS;Сент-Китс и Невис
+660;Ангилья;AI;AIA;ANGUILLA;Ангилья
+662;Сент-Люсия;LC;LCA;SAINT LUCIA;Сент-Люсия
+666;Сент-Пьер и  Микелон;PM;SPM;SAINT PIERRE AND MIQUELON;Сент-Пьер и  Микелон
+670;Сент-Винсент и Гренадины;VC;VCT;SAINT VINCENT AND THE GRENADINES;Сент-Винсент и Гренадины
+674;Сан-Марино;SM;SMR;SAN MARINO;Сан-Марино
+678;Сан-Томе и Принсипи;ST;STP;SAO TOME AND PRINCIPE;Сан-Томе и Принсипи
+682;Саудовская Аравия;SA;SAU;SAUDI ARABIA;Саудовская Аравия
+686;Сенегал;SN;SEN;SENEGAL;Сенегал
+688;Сербия;RS;SRB;SERBIA;Сербия
+690;Сейшелы;SC;SYC;SEYCHELLES;Сейшелы
+694;Сьерра-Леоне;SL;SLE;SIERRA LEONE;Сьерра-Леоне
+702;Сингапур;SG;SGP;SINGAPORE;Сингапур
+703;Словакия;SK;SVK;SLOVAKIA;Словакия
+704;Вьетнам;VN;VNM;VIET NAM;Вьетнам
+705;Словения;SI;SVN;SLOVENIA;Словения
+706;Сомали;SO;SOM;SOMALIA;Сомали
+710;Южная Африка;ZA;ZAF;SOUTH AFRICA;Южная Африка
+716;Зимбабве;ZW;ZWE;ZIMBABWE;Зимбабве
+724;Испания;ES;ESP;SPAIN;Испания
+732;Западная Сахара;EH;ESH;WESTERN SAHARA;Западная Сахара
+736;Судан;SD;SDN;SUDAN;Судан
+740;Суринам;SR;SUR;SURINAME;Суринам
+744;Шпицберген и Ян Майен;SJ;SJM;SVALBARD AND JAN MAYEN;Шпицберген и Ян Майен
+748;Свазиленд;SZ;SWZ;SWAZILAND;Свазиленд
+752;Швеция;SE;SWE;SWEDEN;Швеция
+756;Швейцария;CH;CHE;SWITZERLAND;Швейцария
+760;Сирийская Арабская республика;SY;SYR;SYRIAN ARAB REPUBLIC;Сирийская Арабская республика
+762;Таджикистан;TJ;TJK;TAJIKISTAN;Таджикистан
+764;Таиланд;TH;THA;THAILAND;Таиланд
+768;Того;TG;TGO;TOGO;Того
+772;Токелау;TK;TKL;TOKELAU;Токелау
+776;Тонга;TO;TON;TONGA;Тонга
+780;Тринидад и Тобаго;TT;TTO;TRINIDAD AND TOBAGO;Тринидад и Тобаго
+784;Объединен. Арабские Эмираты;AE;ARE;UNITED ARAB EMIRATES;Объединенные Арабские Эмираты
+788;Тунис;TN;TUN;TUNISIA;Тунис
+792;Турция;TR;TUR;TURKEY;Турция
+795;Туркменистан;TM;TKM;TURKMENISTAN;Туркменистан
+796;Острова Теркс и Кайкос;TC;TCA;TURKS AND CAICOS ISLANDS;Острова Теркс и Кайкос
+798;Тувалу;TV;TUV;TUVALU;Тувалу
+800;Уганда;UG;UGA;UGANDA;Уганда
+804;Украина;UA;UKR;UKRAINE;Украина
+807;Македония, бывшая Югославск. республ.;MK;MKD;MACEDONIA,THE FORMER YUGOSLAV REPUBL. OF;Македония, бывшая Югославская республика
+818;Египет  - Арабская Республика Египет;EG;EGY;EGYPT;Египет  - Арабская Республика Египет
+826;Соединеное Королевство;GB;GBR;UNITED KINGDOM;Соединеное Королевство
+831;О-в Гернси;GG;GGY;GUERNSEY;О-в Гернси
+832;О-в Джерси;JE;JEY;JERSEY;О-в Джерси
+833;О-в Мэн;IM;IMN;ISLE OF MAN;Остров Мэн
+834;Танзания, объединенная республика;TZ;TZA;TANZANIA, UNITED REPUBLIC OF;Танзания, объединенная республика
+840;Соединенные Штаты;US;USA;UNITED STATES OF AMERICA;Соединенные Штаты
+850;Виргинские острова, США;VI;VIR;VIRGIN ISLANDS (U.S.);Виргинские острова, США
+854;Буркина-Фасо;BF;BFA;BURKINA FASO;Буркина-Фасо
+858;Уругвай;UY;URY;URUGUAY;Уругвай
+860;Узбекистан;UZ;UZB;UZBEKISTAN;Узбекистан
+862;Венесуэла;VE;VEN;VENEZUELA (BOLIVARIAN REPUBLIC OF);Венесуэла
+876;Уоллис и Футуна;WF;WLF;WALLIS AND FUTUNA;Уоллис и Футуна
+882;Самоа;WS;WSM;SAMOA;Самоа
+887;Йемен;YE;YEM;YEMEN;Йемен
+894;Замбия;ZM;ZMB;ZAMBIA;Замбия
+999;Междунар.финанс.орган.;ZZ;ZZZ;;Международные финансовые организации
+;г. Дубай;AE-DU*1;;Dubai;г. Дубай
+;Канарияс;ES-CN*;;Las Islas Canarias;Канарияс
+;Острова Кергелен;FR-KER;;Kerguelen;Острова Кергелен
+;Остров Олдерни;GB-ALDE;;Alderney;Остров Олдерни
+;Остров Чагос;GB-CHAG;;Chagos;Остров Чагос
+;Остров Сарк;GB-SARK;;Sark;Остров Сарк
+;Вайоминг;US-WY;;Wyoming;Вайоминг
+;г. Дублин;IE-D1;;Dublin;г. Дублин
+;г.Танжер;MA-TNG*;;Tanger;г.Танжер
+;Лабуан;MY-L;;Labuan;Лабуан
+;Мадейра;PT-30;;Madeira;Мадейра
+;Делавэр;US-DE;;Delaware;Делавэр
+;г. Шеннон;IE-CE1;;Shannon;г. Шеннон
+728;Южный Судан;SS;SSD;Republic of South Sudan;Южный Судан
+226;Экваториальная Гвинея;GQ;GEQ;EQUATORIAL GUINEA;Экваториальная Гвинея
+383;Косово;XK;KOS;KOSOVO;Республика Косово

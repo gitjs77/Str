@@ -1,0 +1,13 @@
+is_deleted;customer_id;amount_from;amount_to;currency;schema_list;is_schema_order;is_active
+references=customer_id:customer(name)
+0;ТОО ЦЕМЕНТ;0;null;USD;[{"letter":"A","factors":["Signature","SMS"]},{"letter":"B","factors":["Signature","SMS"]}];0;1
+0;ТОО ЦЕМЕНТ;null;10;EUR;[{"letter":"A","factors":["SMS"]},{"letter":"B","factors":["SMS"]},{"letter":"C","factors":["SMS"]},{"letter":"D","factors":["SMS"]}];0;1
+0;ТОО ЦЕМЕНТ;10;20;EUR;[{"letter":"A","factors":["Signature"]},{"letter":"B","factors":["Signature"]}];1;1
+0;ТОО ЦЕМЕНТ;0;30;KZT;[{"letter":"A","factors":["SMS","Generator"]}];1;1
+0;null;null;null;null;[{"letter":"A","factors":["Signature"]} ];0;1
+0;АО Самсунг-Казахстан;null;null;null;[{"letter":"B","factors":["SMS"]}];0;1
+0;АО Самсунг-Казахстан;0;null;USD;[{"letter":"A","factors":["Signature","SMS"]},{"letter":"B","factors":["SMS"]}];1;1
+0;АО Самсунг-Казахстан;null;10000;EUR;[{"letter":"A","factors":["SMS"]},{"letter":"B","factors":["SMS"]},{"letter":"C","factors":["SMS"]},{"letter":"D","factors":["Signature"]}];0;1
+0;АО Самсунг-Казахстан;10000;5000000;EUR;[{"letter":"A","factors":["SMS"]},{"letter":"B","factors":["Signature"]}];0;1
+0;АО Самсунг-Казахстан;0;20000;KZT;[{"letter":"A","factors":["SMS","Generator"]}];0;1
+0;АО Самсунг-Казахстан;null;null;null;[{"letter":"A","factors":["Signature","SMS"]},{"letter": "B","factors":["SMS"]}];1;1

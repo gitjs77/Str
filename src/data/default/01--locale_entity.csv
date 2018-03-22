@@ -1,0 +1,6 @@
+is_deleted;name;language_code;is_active
+keyColumns=name
+0;EntityPath;--;0
+0;ҚАЗ;kk;1
+0;РУС;ru;1
+0;ENG;en;1

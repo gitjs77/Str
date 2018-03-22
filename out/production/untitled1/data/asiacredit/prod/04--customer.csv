@@ -1,0 +1,11 @@
+external_id;name;intl_name;ownership;is_locked;bank_branch_id;country_id;region;tax_code;residency_and_economic_code;person_type
+references=bank_branch_id:bank_branch(code), country_id:country(two_letter_code); keyColumns=name; actionType=check
+
+IP_ASANOVA_AA;ИП Асанова А.А.;IP ASANOVA A.A.;ownership9;0;11;KZ;Центральный;821016402241;17;LegalEntity
+OTRAR_TRAVEL;ТОО "ОТРАР ТРЕВЕЛ";OTRAR TRAVEL;ownership10;0;11;KZ;Центральный;970740000134;17;LegalEntity
+W1_Kazakhstan;ТОО "W1 Kazakhstan";W1 Kazakhstan;ownership10;0;11;KZ;Центральный;150840011439;17;LegalEntity
+balkhash_geo_artel;ТОО "Балхашская геологическая артель";LLP "Balkhash geological artel";ownership10;0;11;KZ;Центральный;010540001592;17;LegalEntity
+infin_it;ТОО "InFin-IT Solution";LLP "InFin-IT Solution";ownership10;0;11;KZ;Центральный;081140003103;17;LegalEntity
+
+3894305375;ТОО Арти-ЭК - test;TOO ARTI-AK;test;0;11;KZ;Центральный;051040012778;17;LegalEntity
+2731378150;АО "Компания по страхованию жизни "Азия Life" - test;AO "KOMPANIYA PO STRAHOVANIYU JIZNI "AZIYA LIFE";test;0;11;KZ;Центральный;140940003807;17;LegalEntity

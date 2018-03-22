@@ -1,0 +1,4 @@
+is_deleted;is_first;factor_type;next_id;is_optional
+references=next_id:login_chain(factor_type)
+0;0;Signature;null;0
+0;1;Password;Signature;0

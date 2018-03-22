@@ -1,0 +1,2 @@
+company_person_id;transaction_limit_type;amount;currency
+references=company_person_id:company_person(external_id)

@@ -1,0 +1,6 @@
+package_id;channel_code;message_text
+references=package_id:multicasting_package(create_time)
+2017-03-20 07:00:00.0;email;Поздравляем с подключением к системе. Вы можете пользоваться услугами банка дистанционно
+2017-03-20 07:00:00.0;sms;Pozdravlyaem s podklyucheniem k sisteme
+2017-04-11 13:00:01.0;internal;Вам кредит
+2017-04-11 13:00:01.0;email;Вы можете воспользоваться кредитом на развитие бизнеса

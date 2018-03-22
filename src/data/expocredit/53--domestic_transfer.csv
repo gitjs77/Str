@@ -1,0 +1,17 @@
+id;vat;budget_classification_code;employee_transfer_category;employee_transfer_period;vin_code;domestic_transfer_type
+references=id:document(document_number);  keyColumns=id
+
+11/46A;1071.43;201508;;null;;PaymentOrder
+17/1D;1071.43;201508;;null;;PaymentOrder
+11/45B;1071.43;201508;;null;;PaymentOrder
+11/46B;1071.43;201508;;null;;PaymentOrder
+11/45A;null;201508;;null;;PaymentOrder
+1-17/1D;1071.43;201508;;null;;PaymentOrder
+2-17/1D;1071.43;201508;;null;;PaymentOrder
+3-17/1D;1071.43;201508;;null;;PaymentOrder
+4-17/1D;1071.43;201508;;null;;PaymentOrder
+5-17/1D;1071.43;201508;;null;;PaymentOrder
+6-17/1D;1071.43;201508;;null;;PaymentOrder
+7-17/1D;1071.43;201508;;null;;PaymentOrder
+8-17/1D;1071.43;201508;;null;;PaymentOrder
+9-17/1D;1071.43;201508;;null;;PaymentOrder

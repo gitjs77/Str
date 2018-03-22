@@ -1,0 +1,6 @@
+id_1;service_point_type;name;bank_id;region;geoposition;city;address;full_name_id;city_id;geo_latitude;geo_longitude
+references=bank_id:bank(national_bank_bik), full_name_id:translation(translation_key), city_id:city(google_id); keyColumns=name
+
+1;DEPARTMENT;Филиал в г.Атырау;ABNAKZKX;Центральный;47.1048889, 51.8965816;Атырау;г. Атырау, ул. Сатпаева 15Б, здание гостиницы Ренессанс, 1 этаж;sp_Branch_Atyrau;ChIJDd2y9Sbqo0ERLY0mDlwSSj4;47.1048889;51.8965816
+2;DEPARTMENT;Филиал в г.Астана;ABNAKZKX;Центральный;51.1473997, 71.4219622;Астана;г.Астана, ул.Космонавтов 62;sp_Branch_Astana;ChIJCUa1fcSARUIRKJKx3Y0U-Zc;51.1473997;71.4219622
+3;DEPARTMENT;Филиал в г.Алматы;ABNAKZKX;Центральный;43.2254692, 76.9570929;Алматы;г.Алматы 050059, ул.Кажымукана 45;sp_Branch_Almaty;ChIJq8vFFn1ugzgRdm2YrY9mRD0;43.2254692;76.9570929

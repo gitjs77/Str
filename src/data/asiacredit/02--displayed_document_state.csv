@@ -1,0 +1,12 @@
+code;name_id
+references=name_id:translation(translation_key); keyColumns=code
+all;user_status_all
+new;user_status_new
+awaits_signature;user_status_awaits_signature
+waiting;user_status_waiting
+in_work;user_status_in_work
+executed;user_status_executed
+revoked;user_status_revoked
+with_errors;user_status_with_errors
+sendtobank;user_status_sendtobank
+suspended;user_status_suspended

@@ -1,0 +1,2 @@
+customer_id;last_name;first_name;father_name;iin;birth_date
+references=customer_id:customer(name); keyColumns=iin

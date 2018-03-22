@@ -1,0 +1,7 @@
+domestic_transfer_type;name_id_ru;name_id_kk;name_id_en
+keyColumns=domestic_transfer_type;translation=name_id
+PaymentOrder;Платежное поручение;Платежное поручение;Payment order
+Payroll;Заработная плата;Заработная плата;Payroll
+PensionContribution;Пенсионный платеж;Пенсионный платеж;Pension payment
+SocialContribution;Социальный платеж;Социальный платеж;Social payment
+P2P;Перевод на карту другого клиента;Перевод на карту другого клиента;Transfer to card another client

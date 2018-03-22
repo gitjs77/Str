@@ -1,0 +1,11 @@
+external_id;company_id;user_account_id;manager_id;valid_from;valid_to;sign_level;otp_id;is_registered_on_vc;dn;organization_role;quick_links;is_default_person_for_user
+references=company_id:customer(name), user_account_id:customer_user(login), manager_id:manager(login), otp_id:otp_token(serial); keyColumns=external_id; actionType=check
+
+asanova_aasanov3;ИП Асанова А.А.;aasanov3;null;null;null;A;null;0;;head;;1
+otrar_adosmuh1;ТОО "ОТРАР ТРЕВЕЛ";adosmuh1;null;null;null;A;null;0;;head;;1
+otrar_gauelbae;ТОО "ОТРАР ТРЕВЕЛ";gauelbae;null;null;null;B;null;0;;operator;;1
+W1_Kazakhstan_asnurpei;ТОО "W1 Kazakhstan";asnurpei;null;null;null;A;null;0;;head;;1
+W1_Kazakhstan_ebertol1;ТОО "W1 Kazakhstan";ebertol1;null;null;null;null;null;0;;operator;;1
+balkhash_geo_artel_ebertol1;ТОО "Балхашская геологическая артель";ebertol1;null;null;null;A;null;0;;operator;;0
+balkhash_geo_artel_amustafaev;ТОО "Балхашская геологическая артель";amustafaev;null;null;null;A;null;0;;head;;1
+infin_it_kibraimov;ТОО "InFin-IT Solution";kibraimov;null;null;null;A;null;0;;head;;1

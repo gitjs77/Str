@@ -1,0 +1,18 @@
+service_point_type;name;bank_id;region;geoposition;city;address;city_id;geo_latitude;geo_longitude
+references=bank_id:bank(national_bank_bik), city_id:city(google_id); keyColumns=name
+
+DEPARTMENT;Алматы;LARIKZKA;Центральный;43.229039, 76.958023;Алматы;050059, пр. Аль-Фараби, 17/1, блок 5 "Б" (Бизнес-Центр «Нурлы Тау»);ChIJq8vFFn1ugzgRdm2YrY9mRD0;43.229039;76.958023
+DEPARTMENT;Алматы СПФ 1;LARIKZKA;Центральный;43.198078, 76.880401;Алматы;050062 , г.Алматы мкр 4 дом 10 "а" Торговый центр "РӘШ";ChIJq8vFFn1ugzgRdm2YrY9mRD0;43.198078;76.880401
+DEPARTMENT;Алматы СПФ 3;LARIKZKA;Центральный;43.259053, 76.932863;Алматы;050000, г.Алматы ул.Гоголя 95/70;ChIJq8vFFn1ugzgRdm2YrY9mRD0;43.259053;76.932863
+DEPARTMENT;Алматы СПФ 4;LARIKZKA;Центральный;43.229963, 76.890922;Алматы;050060, ул. Розыбакиева, д. 181А;ChIJq8vFFn1ugzgRdm2YrY9mRD0;43.229963;76.890922
+DEPARTMENT;Астана;LARIKZKA;Южный;51.109273, 71.431140;Астана;010000, район Есиль, проспект Мангилик Ел, д.27;ChIJCUa1fcSARUIRKJKx3Y0U-Zc;51.109273;71.431140
+DEPARTMENT;Астана СПФ 1;LARIKZKA;Южный;51.170197, 71.442099;Астана;010000, пр. Абая, д 53;ChIJCUa1fcSARUIRKJKx3Y0U-Zc;51.170197;71.442099
+DEPARTMENT;Караганда;LARIKZKA;Южный;49.800013, 73.097327;Караганда;100008, район им.Казыбек би, ул.Ермекова 29;ChIJWQUt0lpGQ0IRM9RE0uBrC6k;49.800013;73.097327
+DEPARTMENT;Актау;LARIKZKA;Западный;43.639485, 51.163260;Актау;130000, мкр-н 5, д. 46;ChIJ13W8MhcytEERaXcKY-bhFHY;43.639485;51.163260
+DEPARTMENT;Актобе;LARIKZKA;Западный;50.288743, 57.158843;Актобе;030000, пр.А.Молдагуловой, 45;ChIJ-YkcuEshgkERLXxMcoE_4P8;50.288743;57.158843
+DEPARTMENT;Атырау;LARIKZKA;Западный;47.104879, 51.888466;Атырау;060011, ул. Сатпаева, д. 23 Б;ChIJDd2y9Sbqo0ERLY0mDlwSSj4;47.104879;51.888466
+DEPARTMENT;Павлодар;LARIKZKA;Северный;52.264259, 76.971260;Павлодар;140008, ул. Ломова 135/1;ChIJHYFPB9bK-UIRm4FBjAOeDkg;52.264259;76.971260
+DEPARTMENT;Петропавловск;LARIKZKA;Северный;54.867504, 69.149788;Петропавловск;150000, ул. Абая 65;ChIJ3aOaPTg6skMRb4-TlWwiSVM;54.867504;69.149788
+DEPARTMENT;Усть-Каменогорск;LARIKZKA;Восточный;49.946245, 82.630465;Усть-Каменогорск;070004, ул. Горького,21;ChIJqck09tBF60IR5QRki6uN-ns;49.946245;82.630465
+DEPARTMENT;Шымкент;LARIKZKA;Южный;42.322496, 69.611620;Шымкент;160011, ул.Толстого, 57;ChIJu4FmVFbyqDgRmzZb54K1Z6E;42.322496;69.611620
+

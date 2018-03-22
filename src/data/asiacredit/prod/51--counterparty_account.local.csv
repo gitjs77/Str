@@ -1,0 +1,2 @@
+counterparty_id;iban;bank_id;international_bank_city;international_bank_address;international_bank_account;international_agent_id;international_agent_city;international_agent_address;international_agent_account
+references=counterparty_id:counterparty(bin), bank_id:bank(national_bank_bik), international_agent_id:bank(international_bank_bik); keyColumns=counterparty_id, iban, bank_id; actionType=check

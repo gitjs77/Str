@@ -1,0 +1,9 @@
+code;description
+keyColumns=code
+days;Выбор дней до
+certificate;Выбор сертификата
+accounts;Выбор счета
+documentTypes;Выбор типа документа
+statuses;Выбор статуса
+channels;Выбор канала доставки
+amount;Сумма

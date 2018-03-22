@@ -1,0 +1,9 @@
+is_deleted;company_person_id;type_id;is_all_accounts;document_types;document_statuses;is_all_statuses;is_all_document_types;certificate_id;amount
+references=company_person_id:company_person(external_id), type_id:notification_type(notification_type), certificate_id: certificate(certificate_sn); keyColumns=type_id
+0;infin_it_kibraimov;CreditAccount;1;;;1;1;null;null
+0;infin_it_kibraimov;DebitAccount;0;;;1;1;null;null
+0;infin_it_kibraimov;BalanceLessThen;1;;Draft,AwaitsSignature;0;1;null;50000
+0;infin_it_kibraimov;BalanceGreaterThen;1;DomesticTransfer,DocumentWithdraw;;1;0;null;100000
+0;infin_it_kibraimov;StatusChanging;1;;;1;1;null;null
+0;infin_it_kibraimov;PasswordExpiring;0;;;1;1;null;null
+0;infin_it_kibraimov;NewsUpdate;0;;;1;1;null;null

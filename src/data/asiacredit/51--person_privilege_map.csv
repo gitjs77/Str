@@ -1,0 +1,6 @@
+person_id;privilege_id
+references=person_id:company_person(external_id), privilege_id:cperson_privilege(code)
+3;account_toClose
+3;account_payment
+3;account_transfer
+3;deposits_view

@@ -1,0 +1,6 @@
+id;is_deleted;expire_date;currency;bank_message;beneficiary_name;beneficiary_account;beneficiary_tax_code;residency_economic_code;beneficiary_bank_code
+references=id:document(document_number); keyColumns=id
+11/13inv;0;2017-02-15;KZT;qqq;Пекарня очень вкусных;KZ416390122030000365;81240013779;12;KKMFKZ2C222
+11/14inv;0;2017-03-02;KZT;qqq;ТОО Финансы2;KZ416390122030000365;981140001115;11;KKMFKZ2A
+11/15inv;0;2017-04-01;KZT;qqq;ТОО Гранд;DE89370400440532013000;3232323;11;323989
+11/16inv;0;2017-04-22;KZT;qqq;Bayerische Motoren Werke AG;KZ2342342342323;981140001115;11;ZZZZZZZZZ

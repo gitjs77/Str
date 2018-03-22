@@ -1,0 +1,7 @@
+name;currency;working_time_from;working_time_to;calendar_year;status;is_deleted
+keyColumns=name
+
+Calendar 1;KZT;2017-01-01 07:00:00.0;2017-01-01 16:00:00.0;2017;APPROVED;0
+Calendar 2;EUR;2017-01-01 07:00:00.0;2017-01-01 16:00:00.0;2017;APPROVED;0
+Calendar 3;USD;2017-01-01 07:00:00.0;2017-01-01 16:00:00.0;2017;APPROVED;0
+Calendar 4;RUB;2017-01-01 07:00:00.0;2017-01-01 16:00:00.0;2017;APPROVED;0

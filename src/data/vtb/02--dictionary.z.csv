@@ -1,0 +1,18 @@
+category;code;name_id_ru;name_id_en;name_id_kk
+keyColumns= category, code; actionType=modify; translation=name_id
+
+StandingType;Weekly;Раз в неделю;Weekly;Раз в неделю
+StandingType;Monthly;Раз в месяц;Monthly;Раз в месяц
+StandingType;Every3Months;Раз в 3 месяца;Every 3 months;Раз в 3 месяца
+StandingType;Annual;Раз в год;Annualy;Раз в год
+
+DomesticTransferType;PaymentOrder;Перевод в пользу 3-х лиц в тенге;Transfer in favor of 3 persons in tenge;Перевод в пользу 3-х лиц в тенге
+DomesticTransferType;P2P;Перевод между картами ВТБ Казахстан;Transfer between VTB cards;Перевод между картами ВТБ Казахстан
+
+DocumentType;DomesticTransfer;Перевод в пользу 3-х лиц в тенге;Transfer in favor of 3 persons in tenge;Перевод в пользу 3-х лиц в тенге
+DocumentType;InternationalTransfer;Перевод в пользу 3-х лиц в инвалюте;Transfer in favor of 3 persons in foreign currency;Перевод в пользу 3-х лиц в инвалюте
+
+AccountTransferType;CurrencyBuy;Конвертация;Conversion;Конвертация
+AccountTransferType;CurrencySell;Конвертация;Conversion;Конвертация
+AccountTransferType;CurrConversion;Конвертация;Conversion;Конвертация
+AccountTransferType;CurrTransfer;Перевод между своими счетами;Transfer between own accounts;Перевод между своими счетами

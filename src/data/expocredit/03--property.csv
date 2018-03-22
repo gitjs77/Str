@@ -1,0 +1,59 @@
+id_1;is_deleted;property_name_id;is_multi_language;property_value;property_group_id;hand_book_type;property_type;code;allowed_type;validation_constraint;multi_language_value_id;visibility_area
+references=property_group_id:property_group(name), property_name_id:translation(translation_key), multi_language_value_id:translation(translation_key); keyColumns=code; actionType=check
+
+1;0;VAT_CODE;0;12;Финансовые;;VALUE;VAT_CODE;VALUE,VALUES;^[0-9]{1,2}([\n|,][0-9]{1,2})*$;null;CUSTOMER
+2;0;CURRENCY_CODE;0;KZT;Финансовые;CURRENCY;HANDBOOK_VALUE;CURRENCY_CODE;VALUE,VALUES,HANDBOOK_VALUE,HANDBOOK_MULTI_VALUE,LOGICAL_VALUE;^[^\n\t ]{1,1000}([\n|,][^\n\t ]{1,1000})*$;null;CUSTOMER
+3;0;LOOK_AHEAD_RESYNCHRONIZATION_WINDOW;0;3;ОТП токен;;VALUE;LOOK_AHEAD_RESYNCHRONIZATION_WINDOW;VALUE;^[0-9]*$;null;MANAGER
+4;0;OTP_TOKEN_LENGTH;0;6;ОТП токен;;VALUE;OTP_TOKEN_LENGTH;VALUE;^[6-8]$;null;ANONYMOUS
+5;0;INCORRECT_ATTEMPTS;0;3;ОТП токен;;VALUE;INCORRECT_ATTEMPTS;VALUE;^[0-9]*$;null;ANONYMOUS
+6;0;FULL_BANK_NAME;1;null;Реквизиты системного банка;;VALUE;FULL_BANK_NAME;VALUE;^.{1,255}$;translation_24;ANONYMOUS
+7;0;SHORT_BANK_NAME;1;null;Реквизиты системного банка;;VALUE;SHORT_BANK_NAME;VALUE;^.{1,255}$;translation_25;ANONYMOUS
+8;0;property_BIK;0;ABNAKZKX;Реквизиты системного банка;;VALUE;BIK;VALUE;^.{1,1000}$;null;ANONYMOUS
+9;0;property_BIN;0;940140000513;Реквизиты системного банка;;VALUE;BIN;VALUE;^[0-9]*$;null;ANONYMOUS
+10;0;property_KBE;0;14;Реквизиты системного банка;;VALUE;KBE;VALUE;^[0-9]*$;null;ANONYMOUS
+11;0;property_OKPO_CODE;0;30129547;Реквизиты системного банка;;VALUE;OKPO_CODE;VALUE;^[0-9]*$;null;ANONYMOUS
+12;0;property_BANK_ADDRESS;0;Республика Казахстан, 050059, г. Алматы, ул. Кажымукана, 45;Реквизиты системного банка;;VALUE;BANK_ADDRESS;VALUE;^.{1,1000}$;null;ANONYMOUS
+13;0;property_MIN_LOGIN_LENGTH;0;1;Логин;;VALUE;MIN_LOGIN_LENGTH;VALUE;^[0-9]*$;null;ANONYMOUS
+14;0;property_MAX_LOGIN_LENGTH;0;100;Логин;;VALUE;MAX_LOGIN_LENGTH;VALUE;^[0-9]*$;null;ANONYMOUS
+15;0;property_MIN_PWD_LENGTH;0;8;Логин;;VALUE;MIN_PWD_LENGTH;VALUE;^[0-9]*$;null;ANONYMOUS
+16;0;property_MAX_PWD_LENGTH;0;100;Логин;;VALUE;MAX_PWD_LENGTH;VALUE;^[0-9]*$;null;ANONYMOUS
+17;0;property_ALLOWED_PWD_SYMBOLS;0;a-z,A-Z -_;Логин;;VALUE;ALLOWED_PWD_SYMBOLS;VALUE;(?=^.{2,}$)((?=.*\d)|(?=.*\W+))(?![.\n])(?=.*[A-Z])(?=.*[a-z]).*$;null;ANONYMOUS
+18;0;property_PWD_HISTORY_DEEP;0;10;Логин;;VALUE;PWD_HISTORY_DEEP;VALUE;^[0-9]*$;null;ANONYMOUS
+19;0;property_PWD_INCORRECT_ATTEMPTS;0;3;Логин;;VALUE;PWD_INCORRECT_ATTEMPTS;VALUE;^[0-9]*$;null;ANONYMOUS
+20;0;property_PWD_LIFE;0;60;Логин;;VALUE;PWD_LIFE;VALUE;^[0-9]*$;null;ANONYMOUS
+21;0;property_PWD_NOTIFICATION;0;10;Логин;;VALUE;PWD_NOTIFICATION;VALUE;^[0-9]*$;null;CUSTOMER
+22;0;property_FILE_TYPE;0;application/pdf,image/jpeg,image/jpg,image/png,application/msword,application/vnd.openxmlformats-officedocument.wordprocessingml.document;Письма;;PREDEFINED_VALUE;FILE_TYPE;PREDEFINED_VALUE;^(application/pdf|image/jpg|image/png|application/msword|,)+$;null;CUSTOMER
+23;0;property_FILE_SIZE;0;5;Письма;;VALUE;FILE_SIZE;VALUE;^[1-9][0-9]*$;null;CUSTOMER
+24;0;property_SESSION_TIME;0;1200;Логин;;VALUE;SESSION_TIME;VALUE;^[0-9]*$;null;CUSTOMER
+25;0;property_PROFILE;0;FSystemMGR;DS;;VALUE;PROFILE;VALUE;^.*$;null;MANAGER
+26;0;property_PROFILE_PASSWORD;0;;DS;;VALUE;PROFILE_PASSWORD;VALUE;^.*$;null;MANAGER
+27;0;property_KEY_SERIAL_NUMBER;0;1D7F21D3F6A7272045CE5CD0C8973CD612C052E7257CE6021E6FCD8731E81653;DS;;VALUE;KEY_SERIAL_NUMBER;VALUE;^.*$;null;MANAGER
+28;0;property_SESSION_AMOUNT;0;2;Логин;;VALUE;SESSION_AMOUNT;VALUE;^[0-9]*$;null;MANAGER
+29;0;property_DEFAULT_TARIFF;0;1;DS;;VALUE;DEFAULT_TARIFF;VALUE;^[0-9]*$;null;MANAGER
+30;0;property_LETTER_BODY_SIZE;0;2000;Письма;;VALUE;LETTER_BODY_SIZE;VALUE;^([1-9][0-9]?|[1-9][0-9][0-9]|1[0-9][0-9][0-9]|2000)$;null;CUSTOMER
+31;0;property_NEWS_ACTUALITY;0;30;Новости;;VALUE;NEWS_ACTUALITY;VALUE;^[0-9]*$;null;MANAGER
+32;0;property_MAX_VALUE_DAYS;0;10;Финансовые;;VALUE;MAX_VALUE_DAYS;VALUE;^[0-9]*$;null;MANAGER
+33;0;translation_27;0;Осущевляется вход в интернет-банкинг. Код подтверждения: Никому не говорите код!;СМС-уведомления;;VALUE;SMS_NOTIFY_ENTRY;VALUE;^.{1,1000}$;null;ANONYMOUS
+34;0;translation_28;0;Подтверждение документа № на сумму: Код подтверждения: Никому не говорите код!;СМС-уведомления;;VALUE;SMS_NOTIFY_DOCUMENT_VERIFY;VALUE;^.{1,1000}$;null;ANONYMOUS
+35;0;translation_29;0;Смена пароля для входа в систему интернет-банкинга. Код подтверждения: Никому не говорите код!;СМС-уведомления;;VALUE;SMS_NOTIFY_CHANGE_PASSWORD;VALUE;^.{1,1000}$;null;ANONYMOUS
+36;0;translation_30;0;213;Реквизиты системного банка;;VALUE;CURRENCY_BUY_PURPOSE_CODE;VALUE;^[0-9]*$;null;MANAGER
+37;0;translation_31;0;223;Реквизиты системного банка;;VALUE;CURRENCY_SELL_PURPOSE_CODE;VALUE;^[0-9]*$;null;MANAGER
+39;0;translation_33;0;180;СМС-уведомления;;VALUE;SMS_VALID_PERIOD;VALUE;^[0-9]*$;null;ANONYMOUS
+40;0;translation_34;0;212.124.121.186;СМС-уведомления;;VALUE;SMSC_HOST;VALUE;^.{1,1000}$;null;MANAGER
+41;0;translation_35;0;9500;СМС-уведомления;;VALUE;SMSC_PORT;VALUE;^[0-9]*$;null;MANAGER
+42;0;translation_36;0;expobank;СМС-уведомления;;VALUE;SMSC_USER;VALUE;^.{1,1000}$;null;MANAGER
+43;0;translation_37;0;tqv7g6;СМС-уведомления;;VALUE;SMSC_PASSWORD;VALUE;^.{1,1000}$;null;MANAGER
+44;0;translation_38;0;5;СМС-уведомления;;VALUE;SMSC_TON;VALUE;^[0-9]*$;null;MANAGER
+45;0;translation_39;0;0;СМС-уведомления;;VALUE;SMSC_NPI;VALUE;^[0-9]*$;null;MANAGER
+46;0;property_USER_BLOCK_TIME;0;5;Финансовые;;VALUE;USER_BLOCK_TIME;VALUE;^[0-9]+$;null;MANAGER
+50;0;property_SMS_PASSWORD_LENGTH;0;6;СМС-уведомления;;VALUE;SMS_PASSWORD_LENGTH;VALUE;^[1-9][0-9]*$;null;MANAGER
+51;0;property_EDS_DEFAULT_PERSON_PROFILE;0;FSystem;Логин;;VALUE;EDS_DEFAULT_PERSON_PROFILE;VALUE;^.*$;null;MANAGER
+52;0;sign_level;0;A;Логин;;VALUE;SIGN_LEVEL;VALUE;^.*$;null;MANAGER
+53;0;sign_allow;0;true;Логин;;VALUE;SIGN_ALLOW;VALUE;^.*$;null;MANAGER
+54;0;organization_role;0;head;Логин;;VALUE;ORGANIZATION_ROLE;VALUE;^.*$;null;MANAGER
+55;0;role;0;1;Логин;;VALUE;ROLE;VALUE;^.*$;null;MANAGER
+56;0;factor;0;1;Логин;;VALUE;FACTOR;VALUE;^.*$;null;MANAGER
+57;0;is_sign_allow;0;true;Логин;;VALUE;IS_SIGN_ALLOW;VALUE;^.*$;null;MANAGER
+58;0;is_sms_required;0;false;Логин;;VALUE;IS_SMS_REQUIRED;VALUE;^.*$;null;MANAGER
+59;0;key_expired;0;44000;Логин;;VALUE;DATE_EXPIRED;VALUE;^.*$;null;MANAGER
+0;0;default_country;0;KZ;Финансовые;;VALUE;COUNTRY_CODE;VALUE;^[A-Z]{2}$;null;MANAGER

@@ -1,0 +1,7 @@
+name;code
+keyColumns=code
+Администратор пользователей;userAdmin
+Администратор клиентов;customerAdmin
+Служба поддержки;supportAdmin
+Content администратор;contentAdmin
+Офицер безопасности;securityAdmin

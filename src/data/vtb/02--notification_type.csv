@@ -1,0 +1,12 @@
+id_1;is_deleted;description;is_editable_by_client;notification_type;is_product;notification_level
+keyColumns=notification_type
+1;0;Поступление на счет;1;CreditAccount;1;info
+2;0;Списание со счета;1;DebitAccount;1;info
+3;0;Остаток на счете ниже определенной суммы;1;BalanceLessThen;1;warning
+4;0;Остаток на счете выше определенной суммы;1;BalanceGreaterThen;1;success
+5;0;Смена статуса документа;1;StatusChanging;1;info
+6;0;Срок действия ключа ЭЦП истекает;1;CertificateExpiring;0;protect
+7;0;Срок действия пароля на вход истекает;1;PasswordExpiring;0;protect
+8;0;Новое сообщение в ленте новостей банка;1;NewsUpdate;0;info
+10;0;Срок действия ключа ЭЦП истек;0;CertificateExpired;0;error
+11;0;Срок действия пароля истек;0;PasswordExpired;0;error

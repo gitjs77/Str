@@ -1,0 +1,2 @@
+counterparty_id;contract_number;contract_date;accounting_contract_number;accounting_contract_date;currency;amount
+references=counterparty_id:counterparty(bin)

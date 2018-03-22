@@ -1,0 +1,11 @@
+manager_id;customer_id
+references=manager_id:manager(login), customer_id:customer(name)
+admin;ТОО БЕТОН
+admin;АО Самсунг-Казахстан
+demoa;Омаров Алихан Арсенович
+security;ТОО БЕТОН
+security;АО Самсунг-Казахстан
+PYelena;ТОО STATUS PLAST
+PYelena;Арти-ЭК
+PYelena;Рауан
+PYelena;Анега-Казахстан

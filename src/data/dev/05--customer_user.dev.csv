@@ -1,0 +1,15 @@
+login;user_password;salt;is_deleted;is_locked;short_name;user_position;phone;email;password_expiry;first_name;last_name;middle_name;is_force_password_change;iin
+keyColumns=login; actionType=check
+
+mob1;YSXhLYKUS4aVkcky77IKvq60oZBGbMeMJRO59drf6ec1ELMjKdEPTZ2PbHBViq/zEo+Lxmcnju2zcv0UG6ipJA==;6fcqQGtQjQY6SXlBQHKYJw==;0;0;Иванов И.И.;Должность 5;+7777777772;email2@gmail.com;2020-01-02;Иван;Иванов;Иванович;0;680121450000
+mob2;YSXhLYKUS4aVkcky77IKvq60oZBGbMeMJRO59drf6ec1ELMjKdEPTZ2PbHBViq/zEo+Lxmcnju2zcv0UG6ipJA==;6fcqQGtQjQY6SXlBQHKYJw==;0;0;Петров П.П.;Должность 2;+7777777772;email2@gmail.com;2020-01-02;Петр;Петров;Петрович;0;680121450001
+mob3;YSXhLYKUS4aVkcky77IKvq60oZBGbMeMJRO59drf6ec1ELMjKdEPTZ2PbHBViq/zEo+Lxmcnju2zcv0UG6ipJA==;6fcqQGtQjQY6SXlBQHKYJw==;0;0;Петров И.П.;Должность 2;+7777777772;email2@gmail.com;2020-01-02;Иван;Петров;Петрович;0;680121450002
+mob4;YSXhLYKUS4aVkcky77IKvq60oZBGbMeMJRO59drf6ec1ELMjKdEPTZ2PbHBViq/zEo+Lxmcnju2zcv0UG6ipJA==;6fcqQGtQjQY6SXlBQHKYJw==;0;0;Петров П.И.;Должность 2;+7777777772;email2@gmail.com;2020-01-02;Петр;Петров;Иванович;0;680121450003
+mob5;YSXhLYKUS4aVkcky77IKvq60oZBGbMeMJRO59drf6ec1ELMjKdEPTZ2PbHBViq/zEo+Lxmcnju2zcv0UG6ipJA==;6fcqQGtQjQY6SXlBQHKYJw==;0;0;Петров И.И.;Должность 5;+7777777772;email2@gmail.com;2020-01-02;Иван;Петров;Иванович;0;680121450004
+mob6;YSXhLYKUS4aVkcky77IKvq60oZBGbMeMJRO59drf6ec1ELMjKdEPTZ2PbHBViq/zEo+Lxmcnju2zcv0UG6ipJA==;6fcqQGtQjQY6SXlBQHKYJw==;0;0;Королев И.И.;Должность 5;+7777777772;email2@gmail.com;2020-01-02;Иван;Королев;Иванович;0;680121450005
+mob7;YSXhLYKUS4aVkcky77IKvq60oZBGbMeMJRO59drf6ec1ELMjKdEPTZ2PbHBViq/zEo+Lxmcnju2zcv0UG6ipJA==;6fcqQGtQjQY6SXlBQHKYJw==;0;0;Королев И.П.;Должность 5;+7777777772;email2@gmail.com;2020-01-02;Иван;Королев;Петрович;0;680121450006
+mob8;YSXhLYKUS4aVkcky77IKvq60oZBGbMeMJRO59drf6ec1ELMjKdEPTZ2PbHBViq/zEo+Lxmcnju2zcv0UG6ipJA==;6fcqQGtQjQY6SXlBQHKYJw==;0;0;Королев П.И.;Должность 2;+7777777772;email2@gmail.com;2020-01-02;Петр;Королев;Иванович;0;680121450007
+mob9;YSXhLYKUS4aVkcky77IKvq60oZBGbMeMJRO59drf6ec1ELMjKdEPTZ2PbHBViq/zEo+Lxmcnju2zcv0UG6ipJA==;6fcqQGtQjQY6SXlBQHKYJw==;0;0;Королев П.П.;Должность 2;+7777777772;email2@gmail.com;2020-01-02;Петр;Королев;Петрович;0;680121450008
+mob10;YSXhLYKUS4aVkcky77IKvq60oZBGbMeMJRO59drf6ec1ELMjKdEPTZ2PbHBViq/zEo+Lxmcnju2zcv0UG6ipJA==;6fcqQGtQjQY6SXlBQHKYJw==;0;0;Гагарин И.И.;Должность 2;+7777777772;email2@gmail.com;2020-01-02;Иван;Гагарин;Иванович;0;680121450009
+test_customer;YSXhLYKUS4aVkcky77IKvq60oZBGbMeMJRO59drf6ec1ELMjKdEPTZ2PbHBViq/zEo+Lxmcnju2zcv0UG6ipJA==;6fcqQGtQjQY6SXlBQHKYJw==;0;0;Иванов И.И.;Должность 2;+7777777772;email2@gmail.com;2020-01-02;Иван;Иванов;Иванович;0;680121450010
+

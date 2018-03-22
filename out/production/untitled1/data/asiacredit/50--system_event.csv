@@ -1,0 +1,9 @@
+is_deleted;executor_customer_id;executor_manager_id;event_time;channel;terminal;osversion;manager_action;customer_action;status;subject_id;subject_customer_id;subject_manager_id;event_comment
+
+references=executor_customer_id:customer_user(login), executor_manager_id:manager(login),  subject_customer_id:customer_user(login),  subject_manager_id:customer_user(login)
+
+0;null;admin;2016-09-19 15:24:01.0;mobile;127.0.0.1;ANDROID;deleteCustomerUser;null;status1;null;lex;null;null
+0;null;admin;2016-10-19 09:05:02.0;web;127.0.0.1;Windows 7;createCustomerUser;null;status2;null;ss;null;null
+0;null;admin;2016-10-21 12:45:03.0;web;127.0.0.2;Windows 8;createCustomerUser;null;status3;null;cus;null;comment
+
+

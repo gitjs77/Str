@@ -1,0 +1,15 @@
+login;user_password;salt;is_deleted;external_id;short_name;full_name;phone;email;subdivision;role_id;status;is_bank_signer;is_available_for_chat;is_locked
+references=role_id:manager_role(code); keyColumns=login
+admin;QHTaPb2dX4FTsaRNvGp22Or+t9UzDwnMHeNFV6w4T4ZoJoLF/lylpkWCYtK8LcgvqJ7ESvJMEQci2Tjg8UQkqg==;MTqZn/KcgdqvUkWhkNPYHA==;0;1;onv;иванов иван иваныч;077777777;ivan@gmail.com;subdivision;userAdmin;active;0;0;0
+oks;s60U2N02cAiRnP/TxZqub0wxdPtZVkWKxlvp/09O3ffFn4mE/V5AbW/q6d/F3yaJqCtCcB1pFox1Tumlq9IX8A==;PMx64ZGx/+8Wrz3nhRQ6Pw==;0;2;oks;Оксана;+77777777777;oks@talantarium.com;subdivision;userAdmin;active;0;0;0
+err;s60U2N02cAiRnP/TxZqub0wxdPtZVkWKxlvp/09O3ffFn4mE/V5AbW/q6d/F3yaJqCtCcB1pFox1Tumlq9IX8A==;PMx64ZGx/+8Wrz3nhRQ6Pw==;0;3;sk;Соколов Константин;+77777777777;;subdivision;userAdmin;active;0;0;0
+admin2;QHTaPb2dX4FTsaRNvGp22Or+t9UzDwnMHeNFV6w4T4ZoJoLF/lylpkWCYtK8LcgvqJ7ESvJMEQci2Tjg8UQkqg==;MTqZn/KcgdqvUkWhkNPYHA==;0;4;onv;иванов иван иваныч;077777777;ivan@gmail.com;subdivision;customerAdmin;active;1;0;0
+admin3;QHTaPb2dX4FTsaRNvGp22Or+t9UzDwnMHeNFV6w4T4ZoJoLF/lylpkWCYtK8LcgvqJ7ESvJMEQci2Tjg8UQkqg==;MTqZn/KcgdqvUkWhkNPYHA==;0;5;onv;иванов иван иваныч;077777777;ivan@gmail.com;subdivision;supportAdmin;active;0;0;0
+admin4;QHTaPb2dX4FTsaRNvGp22Or+t9UzDwnMHeNFV6w4T4ZoJoLF/lylpkWCYtK8LcgvqJ7ESvJMEQci2Tjg8UQkqg==;MTqZn/KcgdqvUkWhkNPYHA==;0;6;onv;иванов иван иваныч;077777777;ivan@gmail.com;subdivision;contentAdmin;active;0;0;0
+aibek2;QHTaPb2dX4FTsaRNvGp22Or+t9UzDwnMHeNFV6w4T4ZoJoLF/lylpkWCYtK8LcgvqJ7ESvJMEQci2Tjg8UQkqg==;MTqZn/KcgdqvUkWhkNPYHA==;0;7;aibek2;Айбек;077777777;ivan@gmail.com;subdivision;userAdmin;active;0;0;0
+aaaa;QHTaPb2dX4FTsaRNvGp22Or+t9UzDwnMHeNFV6w4T4ZoJoLF/lylpkWCYtK8LcgvqJ7ESvJMEQci2Tjg8UQkqg==;MTqZn/KcgdqvUkWhkNPYHA==;0;8;aaaa;aaaa;077777777;ivan@gmail.com;subdivision;userAdmin;active;0;0;0
+demoa;QHTaPb2dX4FTsaRNvGp22Or+t9UzDwnMHeNFV6w4T4ZoJoLF/lylpkWCYtK8LcgvqJ7ESvJMEQci2Tjg8UQkqg==;MTqZn/KcgdqvUkWhkNPYHA==;0;9;Ворамов А.А. ;Омаров А.А. ;077777777;ivan@gmail.com;subdivision;userAdmin;active;0;0;0
+security;QHTaPb2dX4FTsaRNvGp22Or+t9UzDwnMHeNFV6w4T4ZoJoLF/lylpkWCYtK8LcgvqJ7ESvJMEQci2Tjg8UQkqg==;MTqZn/KcgdqvUkWhkNPYHA==;0;10;onv;Rudis Bob;380631234567;rudis@mail.domain;subdivision;securityAdmin;active;0;0;0
+PYelena;0UYoDTQSSUYUrBml4lBpqIi/ZGm5pkoE+gpuCdpJTiT7r1rdaxfksK7G0Ef/TDp8+QiYlhivwSOLg8mw/gc+6g==;MTqZn/KcgdqvUkWhkNPYHA==;0;11;Yelena;Перфильева Елена Викторовна;87017227197;Perfilyeva.ye@asiacreditbank.kz;subdivision;customerAdmin;active;0;0;0
+NJUMABAEV;bzBx0qa1+rf3/L+DpB2Dr5vi2Gw2l/Gvdh4XvCEIEaBzjqxyVbkOWhOlRrJqS96R5YlWH2J0pu+OJPEEv7XMHg==;MTqZn/KcgdqvUkWhkNPYHA==;0;12;NURBOL;Жумабаев Нурбол Серикович;87757876020;Jumabayev.N@asiacreditbank.kz;subdivision;userAdmin;active;0;0;0
+ZHSAUKHANBAEVA;bzBx0qa1+rf3/L+DpB2Dr5vi2Gw2l/Gvdh4XvCEIEaBzjqxyVbkOWhOlRrJqS96R5YlWH2J0pu+OJPEEv7XMHg==;MTqZn/KcgdqvUkWhkNPYHA==;0;13;ZHIBEK;Сауханбаева Жибек Борибековна;87755602829;Saukhanbayeva.Z@asiacreditbank.kz;subdivision;userAdmin;active;0;0;0

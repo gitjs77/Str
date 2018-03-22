@@ -1,0 +1,5 @@
+is_deleted;name;language_code;is_active
+keyColumns=name
+
+0;EntityPath;--;0
+0;РУС;ru;1

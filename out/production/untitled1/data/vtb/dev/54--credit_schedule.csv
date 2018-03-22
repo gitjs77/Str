@@ -1,0 +1,7 @@
+credit_id;schedule_date;amount;schedule_status
+references=credit_id:credit(document_number); keyColumns=credit_id
+
+КН-2261/019;2017-11-10;24.5;EXECUTED
+КН-2261/019;2017-11-11;245.5;EXECUTED
+КН-2261/019;2017-11-12;2455.5;EXECUTED
+

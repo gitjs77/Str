@@ -1,0 +1,8 @@
+manager_id;customer_id
+references=manager_id:manager(login), customer_id:customer(name)
+admin;ТОО БЕТОН
+admin;АО Самсунг-Казахстан
+demoa;Частный клиент
+security;ТОО БЕТОН
+security;АО Самсунг-Казахстан
+test_manager;ТОО БЕТОН

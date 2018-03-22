@@ -1,0 +1,14 @@
+id_1;external_id;name;intl_name;ownership;is_locked;bank_branch_id;country_id;region;tax_code;residency_and_economic_code;person_type
+references=bank_branch_id:bank_branch(code), country_id:country(two_letter_code); keyColumns=name
+
+1;1;Ахметов Асылхан Ералиевич;Ahmetov Asyilhan;физ. лицо;0;11;KZ;Центральный;820427302366;12;PrivatePerson;0
+2;2;Жауатова Сара Исмаиловна;Zhauatova Sara;физ. лицо;0;11;KZ;Восточный;770804402240;15;PrivatePerson;0
+3;3;Таванов Турлан Ахметкалиевич;Tavanov Turlan;физ. лицо;0;11;KZ;Южный;880316300258;19;PrivatePerson;0
+4;4;Омаров Алихан Арсенович;mr. Omator Alihan;физ. лицо;0;11;KZ;Центральный;680121450185;12;PrivatePerson;0
+5;5;Абдрахманова Ардак Токтасынова;Abdrahmanova Ardak;физ. лицо;0;11;KZ;Центральный;710416400819;12;PrivatePerson;0
+6;6;Еренов Азат Давлаевич;Erenov Azat;физ. лицо;0;11;KZ;Центральный;691116302190;12;PrivatePerson;0
+8;8;Сарсенова Рахима Конратбаевна;Sarsenova Rahima;физ. лицо;0;11;KZ;Центральный;710212400790;12;PrivatePerson;0
+9;9;Байкенова Акку Николаевна;Baykenova Akku;физ. лицо;0;11;KZ;Восточный;700725402645;12;PrivatePerson;0
+10;10;Тостикова Шолпан Есимбековна;Tostikova Sholpan;физ. лицо;0;11;KZ;Южный;770406400697;12;PrivatePerson;0
+11;11;Ескендиров Ермек Акрамович;Eskendirov Ermek;физ. лицо;0;11;KZ;Восточный;820411302001;12;PrivatePerson;0
+12;12;Кулдашев Оралбек Утегалиевич;Kuldashev Oralbek;физ. лицо;0;11;KZ;Южный;800816302842;12;PrivatePerson;0

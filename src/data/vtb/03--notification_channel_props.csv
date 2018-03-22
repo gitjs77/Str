@@ -1,0 +1,31 @@
+id_1;notification_type_id;channel_code;is_active;template
+references=notification_type_id:notification_type(notification_type)
+1;CreditAccount;sms;1;Поступление на счет
+2;CreditAccount;email;1;Поступление на счет
+3;CreditAccount;push;1;Поступление на счет
+4;DebitAccount;sms;1;Списание со счета
+5;DebitAccount;push;1;Списание со счета
+6;DebitAccount;email;1;Списание со счета
+7;BalanceLessThen;push;1;Остаток на счете ниже определенной суммы
+8;BalanceLessThen;sms;1;Остаток на счете ниже определенной суммы
+10;BalanceLessThen;email;1;Остаток на счете ниже определенной суммы
+12;BalanceGreaterThen;email;1;Остаток на счете выше определенной суммы
+13;BalanceGreaterThen;push;1;Остаток на счете выше определенной суммы
+14;BalanceGreaterThen;sms;1;Остаток на счете выше определенной суммы
+16;StatusChanging;push;1;Смена статуса документа
+17;StatusChanging;sms;1;Смена статуса документа
+18;StatusChanging;email;1;Смена статуса документа
+19;CertificateExpiring;email;1;Срок действия ключа ЭЦП истекает
+21;CertificateExpiring;sms;1;Срок действия ключа ЭЦП истекает
+22;CertificateExpiring;push;1;Срок действия ключа ЭЦП истекает
+24;PasswordExpiring;sms;1;Срок действия пароля на вход истекает
+25;PasswordExpiring;email;1;Срок действия пароля на вход истекает
+26;PasswordExpiring;push;1;Срок действия пароля на вход истекает
+31;CertificateExpired;email;1;Срок действия ключа ЭЦП истек
+33;CertificateExpired;push;1;Срок действия ключа ЭЦП истек
+34;CertificateExpired;sms;1;Срок действия ключа ЭЦП истек
+35;PasswordExpired;email;1;Срок действия пароля истек
+36;PasswordExpired;push;1;Срок действия пароля истек
+37;PasswordExpired;sms;1;Срок действия пароля истек
+40;NewsUpdate;push;1;Новость 2
+39;NewsUpdate;sms;1;Новость 2

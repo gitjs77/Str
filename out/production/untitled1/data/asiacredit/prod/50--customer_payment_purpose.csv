@@ -1,0 +1,12 @@
+company_person_id;purpose
+references=company_person_id:company_person(external_id); keyColumns=purpose, company_person_id; actionType=check
+infin_it_kibraimov;Оплата за поставку оборудования
+infin_it_kibraimov;Оплата за услуги
+infin_it_kibraimov;Оплата за ремонтные работы
+infin_it_kibraimov;Оплата за финансовый аудит
+infin_it_kibraimov;Оплата за строительные работы
+infin_it_kibraimov;Оплата за поставку бытовых товаров
+infin_it_kibraimov;Оплата налоговых платежей
+infin_it_kibraimov;Оплата пенсионных платежей
+infin_it_kibraimov;Оплата социальных платежей
+

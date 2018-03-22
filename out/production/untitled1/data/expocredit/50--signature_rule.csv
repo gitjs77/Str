@@ -1,0 +1,5 @@
+id_1;is_deleted;customer_id;amount_from;amount_to;currency;schema_list;is_schema_order;is_active
+references=customer_id:customer(name); keyColumns=schema_list
+
+5;0;null;null;null;null;[{"letter":"A","factors":["SMS"]}];0;1
+

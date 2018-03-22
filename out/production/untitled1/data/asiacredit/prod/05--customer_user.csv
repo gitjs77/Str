@@ -1,0 +1,10 @@
+login;user_password;salt;is_deleted;is_locked;short_name;user_position;phone;email;password_expiry;first_name;last_name;middle_name;is_force_password_change;iin;lock_time
+keyColumns=login; actionType=check
+
+aasanov3;YSXhLYKUS4aVkcky77IKvq60oZBGbMeMJRO59drf6ec1ELMjKdEPTZ2PbHBViq/zEo+Lxmcnju2zcv0UG6ipJA==;6fcqQGtQjQY6SXlBQHKYJw==;0;0;АСАНОВА А.А.;Директор;+7013605603;email2@gmail.com;;АСЕЛЬ;АСАНОВА;АЙТКЕЛЬДЫЕВНА;0;821016402241;null
+adosmuh1;YSXhLYKUS4aVkcky77IKvq60oZBGbMeMJRO59drf6ec1ELMjKdEPTZ2PbHBViq/zEo+Lxmcnju2zcv0UG6ipJA==;6fcqQGtQjQY6SXlBQHKYJw==;0;0;ДОСМУХАМБЕТОВА А.Т.;Директор;+7777777772;email2@gmail.com;;АЛИЯ;ДОСМУХАМБЕТОВА;ТЕМЕРКАНОВНА;0;751212400027;null
+gauelbae;YSXhLYKUS4aVkcky77IKvq60oZBGbMeMJRO59drf6ec1ELMjKdEPTZ2PbHBViq/zEo+Lxmcnju2zcv0UG6ipJA==;6fcqQGtQjQY6SXlBQHKYJw==;0;0;АУЕЛБАЕВА Г.С.;Главбух;+7777777772;email2@gmail.com;;ГУЛЬМИРА;АУЕЛБАЕВА;СЕКСЕМБАЕВНА;0;660520400387;null
+asnurpei;YSXhLYKUS4aVkcky77IKvq60oZBGbMeMJRO59drf6ec1ELMjKdEPTZ2PbHBViq/zEo+Lxmcnju2zcv0UG6ipJA==;6fcqQGtQjQY6SXlBQHKYJw==;0;0;НУРПЕИСОВ А.К.;Директор;+7777777772;email2@gmail.com;;АСЕТ;НУРПЕИСОВ;КАНАТОВИЧ;0;880729350170;null
+ebertol1;YSXhLYKUS4aVkcky77IKvq60oZBGbMeMJRO59drf6ec1ELMjKdEPTZ2PbHBViq/zEo+Lxmcnju2zcv0UG6ipJA==;6fcqQGtQjQY6SXlBQHKYJw==;0;0;БЕРТОЛЕУОВ Е.Б.;Пользователь;+7777777772;email2@gmail.com;;ЕРМЕК;БЕРТОЛЕУОВ;БЕКБОЛАТОВИЧ;0;780714300092;null
+amustafaev;YSXhLYKUS4aVkcky77IKvq60oZBGbMeMJRO59drf6ec1ELMjKdEPTZ2PbHBViq/zEo+Lxmcnju2zcv0UG6ipJA==;6fcqQGtQjQY6SXlBQHKYJw==;0;0;МУСТАФАЕВ А.Т.;Пользователь;+7777777772;email2@gmail.com;;АЯТБЕК;МУСТАФАЕВ;ТОРЕХАНОВИЧ;0;800414302292;null
+kibraimov;YSXhLYKUS4aVkcky77IKvq60oZBGbMeMJRO59drf6ec1ELMjKdEPTZ2PbHBViq/zEo+Lxmcnju2zcv0UG6ipJA==;6fcqQGtQjQY6SXlBQHKYJw==;0;0;Ибраимов К.;Пользователь;+7777777772;email2@gmail.com;;Канат;Ибраимов;;0;840923302267;null

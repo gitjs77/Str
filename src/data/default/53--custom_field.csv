@@ -1,0 +1,56 @@
+is_deleted;custom_request_type_id;name;field_type;field_size;options_id;source;source_code;fields_reference;is_prefill;is_editable;is_required;auto_filling;validation_rules;full_name_id
+references=custom_request_type_id:custom_request_type(document_type), full_name_id:translation(translation_key)
+
+0;Открытие Счета;Название Организации;AutoFilling;0;null;null;null;null;0;0;0;OrgName;NONE;withdraw_org_name
+0;Открытие Счета;ИНН Организации;AutoFilling;0;null;null;null;null;0;0;0;TaxCode;NONE;common_orgTaxCode
+0;Открытие Счета;Согласие с условием открытия счета;Checkbox;0;null;null;null;null;0;0;1;null;NONE;agreementOpeningAccounts
+0;Открытие Счета;Валюта Счета;Select;0;null;Reference;currency;наименование;0;0;1;null;NONE;accountCurrency
+0;Открытие Счета;Текст соглашения;Description;0;2313;null;null;null;0;0;0;null;NONE;agreementText
+0;Открытие Счета;Назначение счета;Text;1000;null;null;null;null;0;0;1;null;NONE;accountPurpose
+0;Закрытие Счета;Название Организации;AutoFilling;0;null;null;null;null;0;0;0;OrgName;NONE;withdraw_org_name
+0;Закрытие Счета;ИНН Организации;AutoFilling;0;null;null;null;null;0;0;0;TaxCode;NONE;paymentOrder_vat12
+0;Закрытие Счета;Счет;Select;0;null;Reference;Accounts;наименование;0;0;1;null;NONE;custom_field_account
+0;Закрытие Счета;Условие Закрытия;Description;0;2316;null;null;null;0;0;0;null;NONE;custom_field_close_condition
+0;Закрытие Счета;Номера неиспользованных листов в чековой;MultiLine;255;null;null;null;null;0;0;0;null;NONE;custom_field_unused_sheet
+0;Закрытие Счета;Причина закрытия счета;Text;1000;null;null;null;null;0;0;0;null;NONE;custom_field_acc_closure_reason
+0;Открытие депозита;Название Организации;AutoFilling;0;null;null;null;null;0;0;0;OrgName;NONE;withdraw_org_name
+0;Открытие депозита;ИНН Организации;AutoFilling;0;null;null;null;null;0;0;0;TaxCode;NONE;common_orgTaxCode
+0;Открытие депозита;Вид вклада;Select;0;null;Reference;kind deposit product;наименование;0;0;1;null;NONE;custom_field_deposit_type
+0;Открытие депозита;Валюта вклада;Select;0;null;Reference;currency;наименование;0;0;1;null;NONE;custom_field_deposit_currency
+0;Открытие депозита;Срок вклада;Select;0;null;Reference;term of deposit/loan;наименование;0;0;1;null;NONE;custom_field_loan_term
+0;Открытие депозита;Подтверждение;Checkbox;0;2317;null;null;null;0;0;1;null;NONE;custom_field_confirmation
+0;Открытие депозита;Текст Соглашения;Description;0;2313;null;null;null;0;0;0;null;NONE;custom_field_text_agreement
+0;Открытие депозита;Назначение вклада;Text;1000;null;null;null;null;0;0;0;null;NONE;custom_field_deposit_agreement
+0;Закрытие депозита;Название Организации;AutoFilling;0;null;null;null;null;0;0;0;OrgName;NONE;withdraw_org_name
+0;Закрытие депозита;ИНН Организации;AutoFilling;0;null;null;null;null;0;0;0;TaxCode;NONE;common_orgTaxCode
+0;Закрытие депозита;Депозит;Select;0;null;Reference;Deposits;наименование;0;0;1;null;NONE;custom_field_deposit
+0;Закрытие депозита;Счет для перечисления;Select;0;null;Reference;Accounts;наименование;0;0;1;null;NONE;custom_field_account_for_transfer
+0;Закрытие депозита;Причина закрытия;Text;1000;null;null;null;null;0;0;1;null;NONE;custom_field_close_reason
+0;Выдача займа;Название Организации;AutoFilling;0;null;null;null;null;0;0;0;OrgName;NONE;withdraw_org_name
+0;Выдача займа;ИНН Организации;AutoFilling;0;null;null;null;null;0;0;0;TaxCode;NONE;common_orgTaxCode
+0;Выдача займа;Вид займа;Select;0;null;Reference;kind credit product;наименование;0;0;1;null;NONE;custom_field_loan_type
+0;Выдача займа;Валюта займа;Select;0;null;Reference;currency;наименование;0;0;1;null;NONE;custom_field_loan_currency
+0;Выдача займа;Срок займа;Select;0;null;Reference;term of deposit/loan;наименование;0;0;1;null;NONE;custom_field_loan_term_2
+0;Выдача займа;Сумма Займа;Number;0;null;null;null;null;0;0;1;null;NONE;custom_field_loan_amount
+0;Выдача займа;Сканированные копии документов;Files;0;null;Reference;term of deposit/loan;наименование;0;0;0;null;NONE;custom_field_scanned_copies
+0;Выдача займа;Подтверждение займа;Checkbox;0;null;null;null;null;0;0;1;null;NONE;custom_field_confirmation_loan
+0;Выдача займа;Текст соглашения;Description;0;2313;null;null;null;0;0;0;null;NONE;custom_field_text_agreement_2
+0;Выдача займа;Назнаения займа;Text;1000;null;null;null;null;0;0;0;null;NONE;custom_field_loan_purpose
+0;досрочное погашение кредита;Название Организации;AutoFilling;0;null;null;null;null;0;0;0;OrgName;NONE;withdraw_org_name
+0;досрочное погашение кредита;ИНН Организации;AutoFilling;0;null;null;null;null;0;0;0;TaxCode;NONE;common_orgTaxCode
+0;досрочное погашение кредита;Кредит;Select;0;null;Reference;credits;наименование;0;0;1;null;NONE;custom_field_credit
+0;досрочное погашение кредита;Сумма погашения;Number;0;null;null;null;null;0;0;1;null;NONE;custom_field_maturity_value
+0;досрочное погашение кредита;Сумма основного долга;Number;0;null;null;null;null;0;0;1;null;NONE;custom_field_principal_debt
+0;досрочное погашение кредита;Сумма вознаграждения;Number;0;null;null;null;null;0;0;1;null;NONE;accrued_compensation
+0;досрочное погашение кредита;Изменение графика платежа;Select;0;2314;UserList;;;0;0;0;null;NONE;custom_field_payment_schedule
+0;выпуск карты;Название Организации;AutoFilling;0;null;null;null;null;0;0;0;OrgName;NONE;withdraw_org_name
+0;выпуск карты;ИНН Организации;AutoFilling;0;null;null;null;null;0;0;0;TaxCode;NONE;common_orgTaxCode
+0;выпуск карты;Вид карточного продукта;Select;0;null;Reference;card kind;наименование;0;0;1;null;NONE;custom_field_type_card_products
+0;выпуск карты;Валюта карты;Select;0;null;Reference;currency;наименование;0;0;1;null;NONE;custom_field_currency_card
+0;выпуск карты;Подтверждение;Checkbox;0;2318;null;null;null;0;0;1;null;NONE;custom_field_confirmation_2
+0;выпуск карты;Текст соглашения;Description;0;2313;null;null;null;0;0;0;null;NONE;custom_field_text_agreement_3
+0;выпуск карты;Назначение карты;Text;1000;null;null;null;null;0;0;0;null;NONE;custom_field_appointment_cards
+0;Перевыпуск карты;Название Организации;AutoFilling;0;null;null;null;null;0;0;0;OrgName;NONE;withdraw_org_name
+0;Перевыпуск карты;ИНН Организации;AutoFilling;0;null;null;null;null;0;0;0;TaxCode;NONE;common_orgTaxCode
+0;Перевыпуск карты;Карта;Select;0;null;Reference;cards;наименование;0;0;1;null;NONE;custom_field_card
+0;Перевыпуск карты;Причина перевыпуска карты;Text;1000;null;null;null;null;0;0;0;null;NONE;custom_field_reason_reissue

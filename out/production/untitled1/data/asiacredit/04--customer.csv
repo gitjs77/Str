@@ -1,0 +1,12 @@
+external_id;name;intl_name;ownership;is_locked;bank_branch_id;country_id;region;tax_code;residency_and_economic_code;person_type
+references=bank_branch_id:bank_branch(code), country_id:country(two_letter_code); keyColumns=name
+
+1;ТОО БЕТОН;BETON LLC;ownership1;0;11;KZ;Центральный;100940000885;12;LegalEntity
+2;АО Самсунг-Казахстан;Samsung-Kazakhstan corp.;ownership2;0;11;KZ;Восточный;981140001115;15;LegalEntity
+3;ТОО ЦЕМЕНТ;CEMENT LLC;ownership3;0;11;KZ;Южный;100940000887;19;LegalEntity
+4;Омаров Алихан Арсенович;mr. Omator Alihan;физ. лицо;0;11;KZ;Центральный;680121450185;12;PrivatePerson
+5;ТОО STATUS PLAST;status plast;ownership4;0;11;KZ;Филиал в г.Алматы;091240002488;12;LegalEntity
+6;Арти-ЭК;Arti EK;ownership5;0;11;KZ;Усть-Каменогорского филиал;051040012778;15;LegalEntity
+7;Рауан;Rauan;ownership6;0;11;KZ;Филиал в г. Шымкент;980340000131;12;LegalEntity
+8;Анега-Казахстан;Anega-Kazakhstan;ownership7;0;11;KZ;Филиал в г. Актау;041140003929;17;LegalEntity
+9;ТОО Сигма-М;Sigma;ownership8;0;11;KZ;Филиал в г. Шымкент;70640002446;17;LegalEntity

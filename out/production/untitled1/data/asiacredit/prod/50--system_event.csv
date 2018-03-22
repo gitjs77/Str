@@ -1,0 +1,2 @@
+is_deleted;executor_customer_id;executor_manager_id;event_time;channel;terminal;osversion;manager_action;customer_action;status;subject_id;subject_customer_id;subject_manager_id;event_comment
+references=executor_customer_id:customer_user(login), executor_manager_id:manager(login),  subject_customer_id:customer_user(login),  subject_manager_id:customer_user(login)

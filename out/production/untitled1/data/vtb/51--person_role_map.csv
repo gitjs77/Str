@@ -1,0 +1,21 @@
+person_id;role_id
+references=person_id:company_person(external_id), role_id:cperson_role(code); actionType = ignore_not_empty
+
+22;dir
+24;dir
+26;dir
+28;dir
+45;dir
+51;dir
+53;dir
+55;dir
+58;dir
+61;dir
+62;dir
+64;dir
+66;dir
+68;dir
+71;dir
+74;dir
+77;dir
+

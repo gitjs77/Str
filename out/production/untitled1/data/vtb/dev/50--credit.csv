@@ -1,0 +1,5 @@
+﻿is_deleted;external_id;document_number;contract_date;display_order;finish_date;credit_name;credit_type;amount;currency;credit_percent;effective_percent;bank_branch_id;payment_type;currency_amount;amount_overdue_debt;amount_remuneration;amount_overdue_remuneration;status;credit_term;currency_balance;currency_balance_remuneration;credit_limit;account_id;is_visible
+references=account_id:accounts(account_number), bank_branch_id:bank_branch(code); keyColumns=document_number, contract_date
+
+0;c=MB,o=vtb,cn=841101300680-KZ844321417398B01923КН-999/002KZT;КН-999/002;2013-05-22;1;2018-05-22;2569939620;;3000000;KZT;17.5;17.5;null;;;0;;0;Active;0;564449.93;;;KZ164322204398B06682;0
+0;c=MB,o=vtb,cn=841101300680-KZ164321417398B01595КН-2261/019KZT;КН-2261/019;2017-07-01;1;2020-07-01;1674104600;;2000000;KZT;18.5;18.5;null;;;0;;0;Active;0;0;;;KZ164322204398B18613;0

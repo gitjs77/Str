@@ -1,0 +1,6 @@
+is_deleted;schedule;max_execution_time;job_id
+references=job_id:job(code);keyColumns=job_id
+
+0;1 1 1 * * *;1000;NOTIFICATIONS
+0;1 * * * * *;1000;PUSH_MESSAGES
+0;1 1 1 * * *;7200;STANDING_ORDERS

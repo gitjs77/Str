@@ -1,0 +1,14 @@
+external_id;company_id;user_account_id;manager_id;valid_from;valid_to;sign_level;otp_id;is_registered_on_vc;dn;organization_role;quick_links;is_default_person_for_user
+references=company_id:customer(name), user_account_id:customer_user(login), manager_id:manager(login), otp_id:otp_token(serial); keyColumns=external_id;actionType=check
+
+9001;ДЕНИСКО ВИКТОР АЛЕКСАНДРОВИЧ;mob1;null;null;null;A;12345677;1;0;head;;0
+9002;ДЕНИСКО ВИКТОР АЛЕКСАНДРОВИЧ;mob2;null;null;null;A;null;0;;head;;0
+9003;ДЕНИСКО ВИКТОР АЛЕКСАНДРОВИЧ;mob3;null;null;null;A;null;0;;head;;0
+9004;ДЕНИСКО ВИКТОР АЛЕКСАНДРОВИЧ;mob4;null;null;null;A;null;0;;head;;0
+9005;ДЕНИСКО ВИКТОР АЛЕКСАНДРОВИЧ;mob5;null;null;null;A;null;0;;head;;0
+9006;ДЕНИСКО ВИКТОР АЛЕКСАНДРОВИЧ;mob6;null;null;null;A;null;0;;head;;0
+9007;ДЕНИСКО ВИКТОР АЛЕКСАНДРОВИЧ;mob7;null;null;null;A;null;0;;head;;0
+9008;ДЕНИСКО ВИКТОР АЛЕКСАНДРОВИЧ;mob8;null;null;null;A;null;0;;head;;0
+9009;ДЕНИСКО ВИКТОР АЛЕКСАНДРОВИЧ;mob9;null;null;null;A;null;0;;head;;0
+9010;ДЕНИСКО ВИКТОР АЛЕКСАНДРОВИЧ;mob10;null;null;null;A;null;0;;head;;0
+9011;ДЕНИСКО ВИКТОР АЛЕКСАНДРОВИЧ;test_customer;null;null;null;A;null;0;;head;;1

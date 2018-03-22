@@ -1,0 +1,26 @@
+is_deleted;schedule;max_execution_time;job_id
+references=job_id:job(code); keyColumns=job_id
+
+0;1 0/20 * * * *;1000;ORGANIZATION
+0;1 0/20 * * * *;1000;ACCOUNT
+0;1 0/20 * * * *;1000;CREDIT
+0;1 0/20 * * * *;1000;DEPOSIT
+0;1 0/20 * * * *;1000;CARD
+0;1 0/20 * * * *;1000;PAYMENT_CODE
+0;1 0/20 * * * *;1000;BUDGET_CLASSIFICATION_CODE
+0;1 0/20 * * * *;1000;BENEFICIARY_CODE
+0;1 0/20 * * * *;1000;EXCHANGE_RATE
+0;1 0/20 * * * *;1000;REGION
+0;1 0/20 * * * *;1000;DEPOSIT_KIND
+0;1 0/20 * * * *;1000;CREDIT_KIND
+0;1 0/20 * * * *;1000;CREDIT_PAYMENT_KIND
+0;1 0/20 * * * *;1000;CARD_PRODUCT_KIND
+0;1 0/20 * * * *;1000;CARD_KIND
+0;1 0/20 * * * *;1000;CREDIT_SCHEDULE
+0;1 0/20 * * * *;1000;CURRENCY
+0;1 0/20 * * * *;1000;COUNTRY
+0;1 0/20 * * * *;1000;BANK_BRANCH
+0;1 0/20 * * * *;1000;CALENDAR
+0;1 0/20 * * * *;1000;SERVICE_POINT
+0;1 0/20 * * * *;1000;SERVICE_POINT_SCHEDULE
+0;1 0/20 * * * *;1000;LOCAL_BANK

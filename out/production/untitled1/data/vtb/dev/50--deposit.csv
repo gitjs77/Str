@@ -1,0 +1,5 @@
+is_deleted;external_id;name_deposit;display_order;num;status;current_amount;current_percent_amount;deposit_percent;currency;finish_date;deposit_type;term;effective_reward;account_id;reward_account_id;unreach_balance;deposit_date;is_visible;bank_branch_id
+references=account_id:accounts(account_number), bank_branch_id:bank_branch(code), reward_account_id:accounts(account_number); keyColumns=name_deposit, deposit_date
+
+0;KZ554322206398M00042-KZT;ДЕНИСКО ВИКТОР АЛЕКСАНДРОВИЧ;1;;Active;392048.22;0;9;KZT;2018-05-25;;0;0;KZ554322206398M00042;;0;2017-05-25;0;012
+0;KZ604322207398A00304-KZT;ДЕНИСКО ВИКТОР АЛЕКСАНДРОВИЧ;1;;Active;546159.02;0;8;KZT;2019-07-14;;0;0;KZ604322207398A00304;;0;2017-07-14;0;11

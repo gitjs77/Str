@@ -1,0 +1,8 @@
+is_deleted;customer_id;amount_from;amount_to;currency;schema_list;is_schema_order;is_active
+references=customer_id:customer(name)
+
+0;ИП Асанова А.А.;0;null;null;[{"letter":"A","factors":["Signature"]} ];0;1
+0;ТОО "ОТРАР ТРЕВЕЛ";0;null;null;[{"letter":"A","factors":["Signature"]},{"letter":"B","factors":["Signature"]}];1;1
+0;ТОО "W1 Kazakhstan";0;null;null;[{"letter":"A","factors":["Signature"]} ];0;1
+0;ТОО "Балхашская геологическая артель";0;null;null;[{"letter":"A","factors":["Signature"]} ];0;1
+0;ТОО "InFin-IT Solution";0;null;null;[{"letter":"A","factors":["Signature"]} ];0;1

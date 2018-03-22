@@ -1,0 +1,6 @@
+code;description
+keyColumns=code
+email;Email
+sms;SMS
+push;Push
+internal;Внутрисистемные

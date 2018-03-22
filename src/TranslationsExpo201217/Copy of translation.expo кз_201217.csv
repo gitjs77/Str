@@ -1,0 +1,1643 @@
+en;ru;kk;translation_key;output_channel
+;;;;
+Accrued compensation;Начисленное вознаграждение;Есептелген сыйақы;accrued_compensation;W
+Create keys;Создать ключи;Кілт жасау;vc_keysRequest;W
+New document type;Добавить тип;Түрді қосу;signingrules_addDocType;W
+Symbol;Символ;Таңба;currency_currencycode;W
+Value;Значение;Мән;global_settings.constants.table.col.value;W
+A calendar name;Название календаря;Күнтізбенің атауы;calendarName;W
+Approved;Утверждён;Бекітілді;approved;W
+Creating a Document type;Создание Типа документа;Құжат түрін жасау;creatingDocType;W
+Payer detail;Плательщик;Төлеуші;paymentOrder_payerDetail;W
+Terminal IP;IP терминала;Терминалдың IP;requests_terminal;W
+Incorrect email;Неверный email;Қате email;common_incorrectEmail;W
+Started;Старт;Бастау;jobs.started;W
+Password confirmation;Подтверждение пароля;Құпиясөзді растау;customeruser_passwordConfirmation;W
+Details;Просмотреть;Қарап шығу;organizations_details;W
+Create a new System module;Создать новый Модуль системы;Жүйенің жаңа модулін жасау;createNewSystemModule;W
+The first and second characters should be KZ.;Первый и второй символы должны быть KZ.;Бірінші және екінші таңбалар KZ болуы тиіс.;paymentOrder_valid_firstCharsKZ;W
+Common;Общее;Жалпы;companyPersonEdit_maintabTitle;W
+First name;Имя;Аты;paymentOrder_firstName;W
+Sending notifications channel;Канал отправки уведомлений;Хабарламаны жіберу арнасы;sendingNotificationsChannel;W
+Country creating;Создание страны;Ел жасау;countryCreating;W
+Confirm Action:;Подтвердите действие:;Әрекетті растаңыз:;common_confirmAction;W
+Information from bank;Информация из Банка;Банктен алынған ақпарат;paymentOrder_bankInfo;W
+Operations with the Card product type;Действия;Әрекеттер;operationsWithCardProductType;W
+Arrest/block reason;Причина блокировки/ареста;Бұғаттау/тыйым салу себебі;common_arrestBlockReason;W
+Add new currency;Добавить новую валюту;Жаңа валюта қосу;currency_addnewcurrency;W
+View Edit Pension Template;Просмотр / Редактирование Шаблона  Пенсионного отчисления;Зейнетақы аударымының үлгісін қарау / редакциялау;paymentOrder_viewEditPensionTemplate;W
+Create a bank;Создание банка;Банк жасау;bankCreating;W
+Create auth factor;Создание многофакторной авторизации;Көпфакторлы қуаттауды жасау;authfactorcreate_title;W
+Name;Наименование;Атауы;paymentOrder_payerName;W
+Operations with the Document status;Действия;Әрекеттер;operationsWithDocStatus;W
+User certificates;Сертификаты пользователя;Пайдаланушының сертификаттары;userCertificates;W
+Document Type;Тип документа;Құжат түрі;createDemandType_documentType;W
+Bank details - Pension, social contributionsv;Реквизиты - Пенсионные, социальные отчисления;Деректемелер - Зейнетақы, әлеуметтік аударымдар;detailsPensionSocialContributions;W
+CSC with this code already exists;КБК с таким кодом уже существует;Коды осындай БСК бар ;kbkCodeAlreadyExists;W
+Credit state;Состояние кредита;Кредиттің жағдайы;creditState;W
+Loan currency;Валюта займа;Қарыз валютасы;loanCurrency;W
+Receiver;Получатель;Алушы;invoice_receiver;W
+A current calendar loading error. Please reload the page or try again later;Ошибка загрузки текущего календаря. Перезагрузите страницу или попробуйте позже;Ағымдағы күнтізбені жүктеу қателігі. Бетті қайта қотарыңыз немесе кейін тағы бір рет талпынып көріңіз;currentCalendarLoadingErrorReload;W
+Done;Выполнен;Орындалды;common_done;W
+International post address;Международный почтовый адрес;Халықаралық пошта мекенжайы;intPostAddress;W
+Create a new reason for the card block;Создать новую Причину блокировки карты;Картаны бұғаттаудың жаңа себебін жасаңыз;createCardBlockReason;W
+Default organization;Организация по умолчанию;Әдепкі қалпы бойынша ұйымдастыру;personal_default_org;W
+This field should not exceed 128 characters!;Это поле не должно превышать 128 символа!;Бұл жол 128 таңбадан аспауы тиіс!;noMore128Symbols;W
+Jobs Type;Типы работ;Жұмыс түрлері;navigation_jobsType;W
+view Edit Order Template;Просмотр / Редактирование Шаблона Платежного поручения;Төлем тапсырмасының үлгісін қарау / редакциялау;paymentOrder_viewEditTemplate;W
+Cancel selection;Отменить выделение;Бөліп көрсетуді болдырмау;grid_cancelselection;W
+Error loading currency. Refresh the page or try again later;Ошибка загрузки текущей валюты. Перезагрузите страницу или попробуйте позже;Ағымдағы валютаны қотару қателігі. Бетті қайта қотарыңыз немесе кейін тағы бір рет талпынып көріңіз;currency_error3;W
+Error creating currency. Refresh the page or try again later;Ошибка создания валюты. Перезагрузите страницу или попробуйте позже;Валюта жасау қателігі. Бетті қайта қотарыңыз немесе кейін тағы бір рет талпынып көріңіз;currency_error2;W
+Error updating currency. Refresh the page or try again later;Ошибка обновления валюты. Перезагрузите страницу или попробуйте позже;Валютаны жаңарту қателігі. Бетті қайта қотарыңыз немесе кейін тағы бір рет талпынып көріңіз;currency_error1;W
+Any;Не важен;Маңызды емес;signingrules_withoutorder;W
+The code must not exceed 6 digits;Код не должен превышать 6-х цифр;Код 6 саннан аспауы тиіс;noMore6Digits;W
+The System module with this code already exists;Модуль системы с таким кодом уже существует;Коды осындай жүйенің модулі бар;systemModuleWithSameCodeAlreadyExists;W
+Multicasting packages;Массовая рассылка;Көпшілікке жіберу;multicasting_packTitle;W
+Add New Pension Template;Создание Шаблона Пенсионного отчисления;Зейнетақы аударымының үлгісін жасау;paymentOrder_addNewPensionTemplate;W
+Subject user name;Ф.И.О. измененного пользователя;Өзгертілген пайдаланушының Т.А.Ә.;events_subjectname;W
+Payers account;Счет плательщика;Төлеушінің шоты;domTransfer_payerAccount;W
+Customize issued currency;Настроить выдаваемые валюты;Берілетін валюталарды баптау;customizeIssuedCurrency;W
+Fee currency;Валюта счета взимания комиссии;Комиссия өндіріп алу шотының валютасы;intTransfer_feeCurrency;W
+Status published : false;Статус публикации: не опубликовано;Жариялау күйі: жарияланбаған;createDemandType_statusPublishedFalse;W
+Current email;Текущий email;Ағымдағы email;personal_currentEmail;W
+Events history;История действия;Әрекет тарихы;events_title;W
+Chapter;Раздел;Бөлімі;page_menudetailstitle;W
+Status;Статус;Мәртебесі;common_status;W
+Viewing/Editing the Card product type;Просмотр и редактирование Вида карточных продуктов;Карта өнімдерінің түрін қарау және редакциялау;viewingEditingCardProductType;W
+Name;Наименование;Атауы;paymentOrder_recipientName;W
+Filter settings;Настройки фильтра счетов;Шоттар сүзгісінің баптаулары;demandType_filterSettings;W
+Block requisites: document;Block requisites: document;Деректемелер блогы: Құжаттың;documentBlock;W
+Privileges;Привилегии;Артықшылықтар;companyPersonEdit_privilegestabTitle;W
+New;Новый;Жаңа;ps_New;W
+Organization's managers;Менеджеры организации;Ұйымның менеджерлері;common_managers;W
+Create employee;Создать сотрудника;Қызметкер жасау;employee_createEmployee;W
+Organization;Организация;Ұйым;common_organization;W
+Message from Bank;Сообщение из банка;Банктен келген хабарлама;common_MasageFromBank;W
+Viewing/Editing the Letter type;Просмотр и редактирование Типа письма;Хат түрін қарау және редакциялау;viewingEditingLetterType;W
+Сумма возврата;Сумма возврата;Қайтару сомасы;refunds.amount;W
+Incorrect passwords count;Количество неправильных паролей;Қате құпиясөздердің саны;customeruser_incorrectPasswordCount;W
+Edit job;Редактирование задачи;Мақсатты редакциялау;jobs.edit_job.title;W
+Document Date;Дата создания документа;Құжаттың жасалған күні;common_documentDate;W
+First name;Имя;Аты;customeruser_firstName;W
+Deposit account;Счет депозита;Депозит шоты;depositAccount;W
+Reject;Отказать;Қабылдамау;action_reject;W
+Payment order;Платежное поручение;Төлем тапсырмасы;domTransfer_paymentOrder;W
+Respnse;Содержание ответа;Жауаптың мазмұны;requests_response;W
+Account;Счет;Шот;senderAccount;W
+Account balance;Остаток на счете;Шоттағы қалдық;paymentOrder_accountBalanceKZT;W
+Demand Category;Категории заявлений;Өтініштер санаттары;CodeCategory_labelReference;W
+Payer;Плательщик;Төлеуші;invoice_payer;W
+Receiver's BIN;БИН получателя;Алушының БСН;receiversBIN;W
+Notifications type;Тип уведомлений;Хабарламалар түрі;alertsType;W
+debit amount to;Сумма списания по;... бойынша есептен шығару сомасы;accTransfer_debitAmountTo;W
+Status;Статус;Мәртебесі;customeruser_status;W
+Document status;Статус документа;Құжаттың мәртебесі;common_docStatus;W
+Receivers name;Имя получателя;Алушының аты;domTransfer_receiverName;W
+Blocked amount details;Детали заблокированой суммы;Бұғатталған соманың егжей-тегжейі;blockedAmountDetails;W
+Calendar creating error. Is it a duplicate?;Ошибка при создании календаря. Возможно это дубликат?;Күнтізбені жасаған кездегі қателік. Бұл телнұсқасы емес пе?;savingCalendarError;W
+field type;тип поля;жолдың түрі;field_type;W
+id;ид;ID;CodeCategory_id;W
+Add account;Добавить счет;Шот қосу;signingrules_addAccount;W
+Creaition date;Дата создания;Жасалған күні;news_createDate;W
+Closed;Закрытый;Жабық;ps_Closed;W
+Amount;Сумма;Сомасы;invoice_amount;W
+Exchange rates;Курсы валют;Валюталар бағамдары;navigation_handbookExchangeRates;W
+Manager action;Действие менеджера;Менеджердің әрекеті;events_manageraction;W
+Jobs List;Список работ;Жұмыстар тізімі;jobs.List;W
+Name;Наименование получателя;Алушының атауы;transferRequisites_recipientName;W
+VAT KZT;НДС сумма KZT;ҚҚС KZT сомасы;paymentOrder_vatKZT;W
+Session was blocked by administrator;Ваша сессия закрыта администратором банка;Сессияңызды банк әкімшісі жауып қойған;errorpage419_title;W
+All events selected;Все события выбраны;Барлық оқиғалар таңдалды;events_allselected;W
+New manager;Регистрация нового менеджера;Жаңа менеджерді тіркеу;managers_add;W
+Demand Detail;Детали заявления;Өтініштің егжей-тегжейі;demandCreate_demandDetail;W
+Finish date;Заканчивая датой;Күнімен аяқталады;standing.order.to.date;W
+Create new payment order;Создание Платежного поручения;Төлем тапсырмасын жасау;paymentOrder_addNewOrder;W
+Account number, the organization name, the organization BIN;№ счёта, Наименование организации, БИН организации;Шот №, Ұйымның атауы, Ұйымның БСН;accountNumberOrgNameOrgBin;W
+Commission;Комиссия;Комиссиясы;paymentOrder_commission;W
+OTP tokens statuses;Статус OTP токенов;OTP токендердің күйі;otpTokensStatus;W
+Ip address;IP адрес;IP мекенжайы;sessions_terminalip;W
+Documents;Документы;Құжаттар;navigation_documents;W
+Viewing/Editing the System module;Просмотр и редактирование Модуля системы;Жүйенің модулін қарау және редакциялау;viewingEditingSystemModule;W
+Input Template Name;Введите имя шаблона;Үлгінің атын енгізіңіз;Payment_action_inputTemplateName;W
+Security tooltips;Советы по безопасности;Қауіпсіздік жөніндегі кеңестер;login_tips;W
+Current phone;Текущий телефон;Ағымдағы телефон;personal_currentPhone;W
+Budget payment code description;Описание КБК;БСК сипаттамасы;paymentOrder_budgetCodeDescription;W
+Maximum incorrect passwords count;Максимальное количество неправильных паролей;Қате құпиясөздердің максималды саны;customeruser_maxIncorrectPasswordCount;W
+Validity of the account;Срок действия счета;Шоттың қолданыс мерзімі;accountValidity;W
+New user;Новый пользователь;Жаңа пайдаланушы;customerUser_add;W
+Amount;Сумма;Сомасы;paymentOrder_amount;W
+Deposit products types;Виды депозитных продуктов;Депозит өнімдерінің түрлері;depositProductTypes;W
+Viewing card blocking/unblocking history;Просмотр истории блокировок/разблокировок карты;Картаны бұғаттау/бұғаттан шығару тарихын қарау;viewHistoryCardLockUnlock;W
+Re-issuance certificate requests;Запросы на перевыпуск сертификатов;Сертификаттарды қайта шығаруға сұратымдар;certificationRequests;W
+Сlient editable;Настраивается клиентом;Клиент баптайды;notificationtype_iseditablebyclient;W
+Rate;Курс;Бағамы;accTransfer_rate;W
+Course scale;Масштаб курса;Бағамның ауқымы;exchangeRates_courseScale;W
+Are you sure you want to delete the Deposit product type №  ?;Вы действительно хотите удалить Вид депозитных продуктов №  ?;Сіз № депозит өнімдерінің түрін шынымен жойғыңыз келеді ме?;sureYouWantDeleteDepositProductType;W
+Fees types;Типы комиссий;Комиссия түрлері;feesTypes;W
+Provileges;Привилегии;Артықшылықтар;roles_privileges;W
+Payers tax code;ИИН/БИН плательщика;Төлеушінің ЖСН/БСН;domTransfer_payerTaxCode;W
+KBE:;КБЕ:;БеК:;KBE;W
+Login up to;Вход до;дейін кіру;companyperson_validto;W
+National name;Национальное название;Ұлттық атауы;district_name;W
+No exchange rate;Курс валют отсутствует;Валюталар бағамы жоқ;paymentOrder_exchangeRateEmpty;W
+Amount;Сумма;Сомасы;notification_amount;W
+Incorrect password;Неверный пароль;Қате құпиясөз;personal_incorrectPass;W
+Name;Наименование;Атауы;global_settings.constants.table.col.name;W
+Dictionaries;Справочники;Анықтамалықтар;navigation_handbooks;W
+Budget payment code;КБК;БСК;paymentOrder_budgetCode;W
+Direction;Направление;Бағыты;direction;W
+Withdraw number;№ отзыва;Қайтарып алу №;withdraw_num;W
+Create signature rule;Создать правило для подписи;Қол қоюға арналған ережені жасау;signingrules_add;W
+Payer bank's BIK;БИК Банка Плательщика;Төлеуші банктің БСК;transferRequisites_payerBankCode;W
+The City with the same code already exists;Город с таким кодом уже существует;Коды осындай қала бар;cityWithSameCodeAlreadyExists;W
+Order;Порядок;Тәртібі;signingrules_order;W
+Branch;Подразделение;Бөлімі;manager_subdivision;W
+Document date;Дата документа;Құжаттың күні;withdraw_doc_date;W
+Organization TaxCode;ИИН Организации;Ұйымның ЖСН;common_orgTaxCode;W
+Auth factors;Факторы авторизации;Қуаттау факторлары;companyPersonEdit_authtabTitle;W
+International transfer;Международный перевод валюты;Халықаралық валюта аударымы;intTransfer_title;W
+ИИН/БИН отправителя;ИИН/БИН отправителя;Жіберушінің ЖСН/БСН;invoice.payer.bin;W
+Templates;Шаблоны;Үлгілер;common_Templates;W
+Enter the password for the key store;Введите пароль для хранилища ключей;Кілттер сақтайтын орынға арналған құпиясөзді енгізіңіз;docSigning_inputProfilePassword;W
+Current balance;Текущий остаток;Ағымдағы қалдық;currentBalance;W
+Constant groups;Группы констант;Констант топтары;navigation_group_constants;W
+Balance of remuneration in the currency of the loan;Остаток вознаграждения в валюте займа;Қарыз валютасындағы сыйақының қалдығы;balanceRemunerationCurrencyLoan;W
+Blocked;Блокирован;Бұғатталған;signingrules_notactive;W
+The three-symbol code;Трехсимвольный код;Үш таңбалы код;threeSymbolCode;W
+Accounts types;Виды счетов;Шот түрлері;accountTypes;W
+Short name;Сокращенное название;Қысқартылған аты;shortName;W
+Updating district;Изменение области;Облысты өзгерту;districts_update;W
+Customize accepted currency;Настроить принимаемые валюты;Қабылданатын валюталарды баптау;customizeAcceptedCurrency;W
+This field should not exceed 255 characters!;Это поле не должно превышать 255 символа!;Бұл жол 255 таңбадан аспауы тиіс!;noMore255Symbols;W
+Receiver's bank;Банк получателя;Алушының банкі;receiversBank;W
+Values;Массив значений;Мәндер ауқымы;global_settings.constants.values;W
+Exist field with wrong data, save unavailable;Есть неправильно заполненные поля, сохранение выполнено не будет;Қате толтырылған жолдар болғандықтан сақталу орындалмайды;createDemandType_saveMassage;W
+Error Code;Код ошибки;Қателіктің коды;jobs.errorCode;W
+Passwords do not match;Пароли не совпадают;Құпиясөздер сәйкеспейді;customeruser_passwordsnotequals;W
+Operations with ATMs/Branches/Terminals;Действия;Әрекеттер;operationsWithAtmsBranchesTerminals;W
+An import date;Дата импорта;Импорттау күні;importDate;W
+User id;ID пользователя;Пайдаланушының ID;events_executorId;W
+This field can have no more than 255 characters;Это поле не должно превышать 255 символов!;Бұл жол 255 таңбадан аспауы тиіс!;common_field_max255chars;W
+Get from handbook;Заполнить из справочника;Анықтамалықтан толтыру;paymentOrder_getFromHandbook;W
+National payments;Платежные поручения в национальной валюте;Ұлттық валютадағы төлем тапсырмалары;domTransfer_nationalPayments;W
+All calendars are selected;Все календари выбраны;Барлық күнтізбелер таңдалды;allCalendarsAreSelected;W
+Working documents;Документы в работу;Құжаттарды жұмысқа;navigation_workingDocs;W
+Type;Тип;Түрі;withdraw_doc_type;W
+Payment details;Детали платежа;Төлемнің егжей-тегжейі;paymentOrder_paymentDetail;W
+Should not be 0;0 недопустимо;0 жарамайды;common_greaterThanZero;W
+View payroll;Просмотр Зарплатного отчисления;Еңбекақы аударымын қарау;paymentOrder_viewPayroll;W
+Constants;Константы;Константтар;navigation_constants;W
+Pension requisites;Реквизиты - Пенсионные отчисления;Деректемелер - Зейнетақы аударымдары;transferRequisites_pensionRequisites;W
+Blocked amounts;Заблокированые суммы;Бұғатталған сомалар;blockedAmounts;W
+Exchange rate;Курс сделки;Мәміле бағамы;paymentOrder_exchangeRate;W
+Add New Social Template;Создание Шаблона Социального отчисления;Әлеуметтік аударымның үлгісін жасау;paymentOrder_addNewSocialTemplate;W
+Message template;Шаблон сообщения;Хабар үлгісі;notification_template;W
+Contract number;Номер договора;Шарттың нөмірі;contractNumber;W
+Districts;Области;Облыстар;district_districts;W
+Money sender code/beneficiary code (CODE/KBE);Код отправителя денег/Код бенефициара(КОД/КБЕ);Ақша жіберушінің коды/Бенефициардың коды (АЖК/БеК);senderCode;W
+Status;Состояние документа;Құжаттың күйі;withdraw_doc_status;W
+Clear settings;Сброс настроек;Баптауларды ысыру;clear_settings;W
+Card currency;Валюта карты;Картаның валютасы;cardCurrency;W
+Accounts;Счета;Шоттар;signingrules_accounts;W
+Arrested sum;Арестованная сумма;Тыйым салынған сома;common_arrestedSum;W
+OTP tokens;ОТП токены;ОТП токендері;otpTokens;W
+Receiver;Получатель;Алушы;domTransfer_receiver;W
+Server time for sync;Время сервера для синхронизации;Қадамдастыруға кететін сервердің уақыты;serverTimeForSync;W
+Contract number;№ контракта;Келісім-шарттың №;common_contractNumber;W
+Create new client;Создать нового клиента;Жаңа клиент жасау;organizationsCreate_create;W
+Managers roles;Роли менеджеров;Менеджерлердің рөлдері;navigation_managersroles;W
+Cards;Карты;Карталар;cards;W
+Main;Главная;Басты бет;common_main;W
+Card products types;Виды карточных продуктов;Карта өнімдерінің түрлері;cardProductTypes;W
+Add;Добавить;Қосу;common_add;W
+Debit currency;Валюта списания;Есептен шығару валютасы;accTransfer_debitCurrency;W
+Payment from account;Платеж со счета;Шоттан төлеу;actions_paymentFromAccount;W
+Amount in account currency;Сумма в валюте счёта;Шот валютасындағы сомасы;amountInAccountCurrency;W
+Loan payment;Платеж по кредиту;Кредит бойынша төлем;actions_loanPayment;W
+Amount;Сумма;Сомасы;domTransfer_amountKZT;W
+Channel;Канал;Арнасы;sessions_channel;W
+Deposits;Депозиты;Депозиттер;navigation_deposits;W
+Bank branch;Филиал банка;Банктің филиалы;bankBranch;W
+start;начало;басы;start;W
+Document Type;Тип Документа;Құжат түрі;DocumentType;W
+View and edit user;Просмотр и редактирование данных пользователя;Пайдаланушының деректерін қарау және редакциялау;customeruser_editor_title;W
+Blocked;Заблокирован;Бұғатталған;ps_Blocked;W
+Available limit;Доступный лимит;Қолжетімді лимит;availableLimit;W
+View social contribution;Просмотр Социального отчисления;Әлеуметтік аударымды қарау;paymentOrder_viewSocialContribution;W
+End of action;Конец действия;Әрекет аяқталды;exchangeRates_end;W
+Multilanguage flag;Признак мультиязычности;Көптілділік белгісі;global_settings.constants.table.col.multi_lang;W
+Incorrect input;Данные введены некорректно;Деректер қате енгізілді;common_incorrectSymbol;W
+Published;Опубликовано;Жарияланды;demandType_public;W
+Populated Locality;Населённый пункт;Елді мекен;banks_populatedLocality;W
+Account closing date;Дата закрытия счёта;Шоттың жабылған күні;account_closingDate;W
+National bank BIK;БИК Национального банка;Ұлттық банктің БСК;banks_bikBankNat;W
+Error Message;Сообщение об ошибке;Қателік туралы хабар;jobs.errorMessage;W
+Clear notification settings;Удалить настройки уведомлений;Хабарландыру баптауларын жою;clear_notification_settings;W
+operatingSystem;Операционная система;Амалдық жүйе;events_operatingSystem;W
+The amount of the loan agreement in the currency of the loan;Сумма кредитного договора в валюте займа;Қарыз валютасындағы кредит шартының сомасы;amountAgreementCurrencyLoan;W
+Rows per page;Записей на странице;Беттегі жазбалар;grid_rowsperpage;W
+Payment;Платеж;Төлем;payment;W
+Date to;Период до;дейінгі кезең;invoice_date_to;W
+rate from;Курс исполнения с;орындау бағамы ... бастап;accTransfer_rateFrom;W
+Limit name;Название лимита;Лимиттің аты;limit_name;W
+Request for re-issuance of card;Заявка на перевыпуск карты;Картаны қайта шығаруға өтінім;reIssuanceCardRequest;W
+Auto Filling;Автозаполнение реквизитов;Деректемелерді автотолтыру;AutoFilling;W
+Код Отправителя;Код Отправителя;Жіберушінің коды;refunds.sender.kod;W
+;1 событие выбрано;1 оқиға таңдалды;events_1selected;W
+ID;ID;ID;currency_currencyid;W
+class name;Название класса;Cыныбының аты;jobs.class_name;W
+Create demand type;Создать тип заявления;Өтініш түрін жасау;create_demand_type;W
+Amount from;Сумма от;Сома ... бастап;invoice_amount_from;W
+Device category;Категория устройства;Құрылғы санаты;events_deviceCategory;W
+Blocked sum;Сумма в блоке;Блоктағы сомасы;common_blockedSum;W
+Creating a Letter type;Создание Типа письма;Хат түрін жасау;creatingLetterType;W
+Clear all settings;Удалить все настройки;Барлық баптауларды жою;clear_all_settings;W
+A credit status;Статус кредита;Кредит мәртебесі;creditStatus;W
+New card;Новая карта;Жаңа карта;applyForNewCard;W
+Shipping requisites;Отправка реквизитов;Деректемелерді жіберу;common_shippingRequisites;W
+Value date;Дата валютирования;Валюталандыру күні;paymentOrder_valueDate;W
+Close the account;Закрыть счёт;Шотты жабу;actions_closeAccount;W
+Чтобы войти в систему, нажмите;Чтобы войти в систему, нажмите;Жүйеге кіру үшін басыңыз;errorpage420_message;W
+Category Change;Изменить категорию;Санатты өзгерту;CodeCategory_Change;W
+Save the day;Сохранить день;Күнді сақтау;saveDay;W
+Information;Информация;Ақпарат;common_information;W
+Import;Импортировать;Импорттау;common.import;W
+Invoices;Выставленные мне счета;Маған ұсынылған шоттар;invoice_name;W
+Period;Период;Кезеңі;paymentOrder_period;W
+Active;Включено;Қосулы;notification_active;W
+Viewing and editing the Channel;Просмотр и редактирование канала;Арнаны қарау және редакциялау;viewingEditingChannel;W
+Create a new Deposit product type;Создать новый Вид депозитных продуктов;Депозит өнімдерінің жаңа түрін жасау;createNewDepositProductType;W
+Are you sure you want to delete the System module № ?;Вы действительно хотите удалить Модуль системы № ?;Сіз шынымен № жүйенің модулін жойғыңыз келеді ме?;sureYouWantDeleteSystemModule;W
+Multicasting;Массовая рассылка;Көпшілікке жіберу;multicasting_packEditTitle;W
+Manager;Менеджер;Менеджері;managers_user;W
+events selected;событий выбрано;таңдалған оқиғалар;events_X5selected;W
+Last name;Фамилия;Тегі;customeruser_lastName;W
+Cards;Карты;Карталар;navigation_corporatecards;W
+New deposit;Новый депозит;Жаңа депозит;applyForNewDeposit;W
+New;Новый;Жаңа;common_new;W
+All;Все;Барлығы;common_all;W
+Credit details;Детали кредита;Кредиттің егжей-тегжейі;creditDetails;W
+Are you sure you want to delete the letter type?;Вы действительно хотите удалить тип письма?;Сіз шынымен хат түрін жойғыңыз келеді ме?;sureYouWantDeleteLetterType;W
+Card details;Детали карты;Картаның егжей-тегжейі;cardDetails;W
+Organization BIN;БИН организации;Ұйымның БСН;withdraw_org_bin;W
+Document number;Номер;Нөмірі;paymentOrder_documentNumber;W
+Delete;Удалить;Жою;common_delete;W
+Deactivate;Деактивировать;Белсенсіздендіру;common_deactivate;W
+Activate;Активировать;Белсендіру;common_activate;W
+Code;Код;Коды;role_code;W
+Available;Доступно;Қолжетімді;is_available;W
+Ask period;Задать период;Кезеңді белгілеу;standing_order_interval;W
+Wrong format;Неверный формат;Қате формат;invalidFormat;W
+Approve;Утвердить;Бекіту;approve;W
+Can't sign the document! Possible password incorrect.;Не удалось подписать документ! Возможно, пароль введен неправильно.;Құжатқа қол қою мүмкін болмады! Бәлкім, құпиясөз қате енгізілген шығар.;docSigning_signErr;W
+ABS id;Идентификатор в АБС;АБС-дағы сәйкестендіргіш;manager_externalId;W
+Clear all;Очистить все;Барлығын тазалау;common_allItems;W
+International full name;Международное наименование;Халықаралық атауы;common_intFullName;W
+demand checked;заявление выбрано;өтініш таңдалды;demand_demandChecked;W
+Creating a Card unblocking reason;Создание Причины разблокировки карты;Карты бұғаттан шығару себебін жасау;creatingCardUnblockreason;W
+International address. District;Международный адрес. Область;Халықаралық мекенжайы. Облысы;common_addressIntDistrict;W
+New signature rule;Создание правила для подписи;Қол қоюға арналған ереже жасау;signingrules_new_title;W
+Temporary blocking;Временная блокировка;Уақытша бұғаттау;temporaryBlockage;W
+To use all the features of Internet banking, click "Login".;Чтобы воспользоваться всеми функциями интернет-банкинга, нажмите "Вход".;Интернет-банкингтің барлық қызметтерін пайдалану үшін "Кіруді" басыңыз.;loginToUse;W
+Social contribution;Социальное отчисление;Әлеуметтік аударым;domTransfer_socialContribution;W
+Request;Содержание запроса;Сұратымның мазмұны;requests_request;W
+Creating a ATM/Branch/Terminal;Создание Банкомата/отделения/терминала;Банкоматты/бөлімшені/терминалды жасау;creatingAtmBranchesTerminals;W
+Update client;Изменение клиента;Клиентті өзгерту;organizationsCreate_update;W
+Viewing/Editing the Document type;Просмотр и редактирование Типа документа;Құжат түрін қарау және редакциялау;viewingEditingDocType;W
+Not pair passwords;Пароли не совпадают;Құпиясөздер сәйкеспейді;personal_notPairPass;W
+Edit an exchange rate type;Изменить тип курса валют;Валюталар бағамын өзгерту;editExchangeRateType;W
+Card lock reason;Причина блокировки карты;Картаны бұғаттау себебі;cardBlockingReason;W
+Calendar management;Управление календарём;Күнтізбені басқару;calendarManagement;W
+Day off;Выходной день;Демалыс күні;DayResource.DayOff;W
+Close;Закрыть;Жабу;common_close;W
+Requisites;Реквизиты;Деректемелері;withdraw_requisites;W
+Account;Счет;Шоты;transferRequisites_recipientAccount;W
+Cards type with this code already exists;Вид карт с таким кодом уже существует;Коды осындай карталардың түрі бар;suchCardTypeAlreadyExist;W
+Address (Agent bank);Адрес (Банка Посредника);Мекенжайы (Делдал банктің);intTransfer_agentBankAddress;W
+Events types;Тип событий;Оқиғалар түрі;eventsType;W
+Job group;Группа типов задач для запуска по расписанию;Кесте бойынша іске қосуға арналған түрлер тобы;navigation_jobsGroup;W
+Accounts statuses;Статусы счетов;Шоттардың күйі;accountStatuses;W
+Type;Тип;Түрі;common_type;W
+Letter subject;Тема письма;Хаттың тақырыбы;letterSubject;W
+Post zip;Почтовый индекс;Пошта индексі;common_zip;W
+Blocking;Блокировка;Бұғаттау;blocking;W
+Requests log;Журнал запросов;Сұратымдар журналы;navigation_requests;W
+New user;Регистрация нового пользователя;Жаңа пайдаланушыны тіркеу;customeruser_new_title;W
+Online chat;Онлайн-чат;Онлайн-чат;onlineChat;W
+Term;Срок;Мерзімі;term;W
+Country;Страна;Елі;district_countryFullName;W
+Error In Save Data;Произошла ошибка при сохранении данных;Деректерді сақтаған кезде қате кетті;common_ErrorInSaveData;W
+Manager roles;Роли менеджеров;Менеджерлердің рөлдері;managerroles_title;W
+KNP;КНП;ТТК;paymentOrder_purposeCode;W
+IIN;ИИН;ЖСН;common_iin;W
+Creating a budget classification code (BCC);Создание кода бюджетной классификации(КБК);Бюджеттік сыныптама кодын (БСК) жасау;kbkCreating;W
+Edit filter;Настройки фильтра;Сүзгінің баптары;common_editFilter;W
+Today;За сегодня;Бүгінге;common_today;W
+Revoke;Отозвать;Қайтарып алу;personal_revoke;W
+Назначение платежа;Назначение платежа;Төлемнің тағайындалуы;paymentOrder_purpose;W
+Enter SMS password;Укажите СМС пароль;СМС құпиясөзін көрсетіңіз;login_enter_sms_password;W
+Demand Type;Тип заявления;Өтініштің түрі;demandCreate_demandType;W
+Privileges;Привилегии;Артықшылықтар;rolePermissions_title;W
+Login;Вход;Кіру;login_enter;W
+Day update error;Ошибка при обновления дня;Күнді жаңартқандағы қателік;dayUpdateError;W
+Delete;Удалить;Жою;common.remove;W
+calendars selected;календари выбраны;күнтізбелер таңдалды;calSelected;W
+Week;За неделю;Аптасына;common_week;W
+Наименование Отправителя;Наименование Отправителя;Жіберушінің атауы;refunds.sender.name;W
+Bank dictionaries;Банковские справочники;Банк анықтамалықтары;bankHandbooks;W
+Sending notifications channels;Каналы отправки;Жіберу арналары;sendingNotificationsChannels;W
+Country code (Agent bank);Код страны (Банка Посредника);Елдің коды (Делдал банктің);intTransfer_agentBankCountryCode;W
+BIN/IIN;БИН/ИИН;БСН/ЖСН;paymentOrder_payerCode;W
+Reply;Ответить;Жауап беру;reply;W
+Recipient detail;Получатель;Алушы;paymentOrder_recipientDetail;W
+This field must have at least 6 digits!;Это поле должно содержать 6 цифр!;Бұл жолда 6 сан болуы тиіс!;common_field_atleast6digits;W
+users selected;пользователей выбрано;пайдаланушы таңдалды;customeruser_X5selected;W
+The currency;Валюта;Валюта;exchangeRates_currency;W
+Wrong pair;Неправильная пара;Қате жұп;exchangeRates_wrongPair;W
+Category name;Имя категории;Санаттың аты;CodeCategory_name;W
+Valid from;Действует с;...бастап қолданыста;authfactor_from;W
+Open filter;Открыть фильтр;Сүзгіні ашу;requests_openfiler;W
+Fee type;Тип комиссии;Комиссия түрі;intTransfer_feeType;W
+Ordering details:;Отправитель;Жіберуші:;senderDetailsBlock;W
+I confirm that this payment/money transfer is not related to the financing of terrorist or extremist activities and otherwise supporting terrorism or extremism.;Подтверждаю, что данный платеж и (или) перевод денег не связан с финансированием террористической или экстремистской деятельности и иным пособничеством терроризму либо экстремизму.;Осы төлемнің және (немесе) ақша аударымының террористiк немесе экстремистiк әрекетті қаржыландыру және терроризмге не экстремизмге өзге де дем берушілікпен байланысты емес екендігін растаймын.;intTransfer_isNotLinkTerrorism;W
+Document history;История документа;Құжаттың тарихы;documentHistory_documentHistory;W
+Create a new bank;Создать новый банк;Жаңа банк жасау;createNewBank;W
+Card product type;Вид карточного продукта;Карта өнімінің түрі;cardProductType;W
+Date;Дата;Күні;common_date;W
+Identificator;Идентификатор;Сәйкестендіргіш;common_id2;W
+Export to Excel;Экспорт в Excel;Excel-ге экспорттау;CodeCategory_exportToExcel;W
+Working time: from;Рабочее время: с;Жұмыс уақыты: ...бастап;workingTimeFrom;W
+Operations;Действия;Әрекеттер;common_documentOperations;W
+Agent bank cor. account;Кор. счет Банка Посредника;Делдал банктің кор. Шоты;intTransfer_agentBankAccount;W
+Type;Тип константы;Констант түрі;global_settings.constants.table.col.type;W
+Export;Экспорт;Экспорттау;common_export;W
+I confirm that this payment/money transfer is not related to any foreign currency transaction which requires registration certificate, notification certificate or contract registration number.;Подтверждаю, что данный платеж и (или) перевод денег не связан с осуществлением физическим лицом валютной операции, требующей получения регистрационного свидетельства, свидетельства об уведомлении, учетного номера контракта.;Осы төлемнің және (немесе) ақша аударымының жеке тұлғаның тіркеу куәлігін, хабарландыру туралы куәлікті, келісім-шарттың есептік нөмірін алуды талап ететін валюта амалын жүзеге асырумен байланысты емес екендігін растаймын.;intTransfer_confirmation;W
+Status;Статус;Мәртебесі;signingrules_status;W
+Delete Current Row;Удалить текущее поле;Ағымдағы жолды жою;demandType_deleteCurrentRow;W
+create Key For Translate;Ключ для перевода;Аударуға арналған кілт;demandType_createKeyForTranslate;W
+Cancel;Отмена;Болдырмау;common_cancel;W
+Role;Роль;Рөлі;manager_role;W
+Purpose code description;Описание КНП;ТТК сипаттамасы;paymentOrder_purposeCodeDescription;W
+Currency;Валюта;Валютасы;signingrules_currency;W
+View / Edit;Просмотр/Изменение;Қарау/Өзгерту;common_viewEdit;W
+Tax Code;БИН;БСН;common_TaxCode;W
+Payer;Плательщик;Төлеуші;standing.order.payer;W
+New email;Новая электронная почта;Жаңа электрондық пошта;personal_newEmail;W
+Create a new Letter type;Создать новый тип письма;Хаттың жаңа түрін жасау;createNewLetterType;W
+Save purpose of payment;Запомнить назначение;Тағайындалуды еске сақтау;paymentOrder_savePaymentPurpose;W
+Sign;Подписать;Қол қою;paymentOrder_sign;W
+VIN code;VIN код;VIN коды;paymentOrder_vinCode;W
+Add new role;Добавить новую роль;Жаңа рөлді қосу;roles_add;W
+Middle name;Отчество;Әкесінің аты;customeruser_middleName;W
+Registration date;Признак блокировки;Бұғаттау белгісі;organizationsCreate_lockingIndication;W
+Payer;Плательщик;Төлеуші;payer;W
+Active;Активный;Белсенді;signingrules_active;W
+Application version;Версия приложения;Қосымшаның нұсқасы;events_applicationVersion;W
+An organization rank;Ранг организации;Ұйымның дәрежесі;orgRank;W
+Letters;Письма;Хаттар;letters;W
+Are you sure you want to delete the Card type № ?;Вы действительно хотите удалить Вид карт № ?;Сіз шынымен № карталардың түрін жойғыңыз келеді ме?;sureYouWantDeleteCardType;W
+Transaction currency;Валюта транзакции;Транзакция валютасы;transactionCurrency;W
+Session will expire in;Сессия завершится через;Сессия ... кейін аяқталады;mainbar_sessionWillExpire;W
+Search;Поиск по содержимому запроса;Сұратымның мазмұны бойынша іздестіру;requests_filtertitle;W
+International Bank Name;Международное наименование банка;Банктің халықаралық атауы;common_bankIntName;W
+Urgent payment;Срочный платеж;Мерзімді төлем;paymentOrder_urgentPayment;W
+Document to withdraw number;Номер отзываемого документа;Кері қайтарылатын құжаттың нөмірі;withdraw_doc_num_full;W
+Pre Import;Подготовить импорт;Импортты дайындау;upload_prepare;W
+Last name;Фамилия;Тегі;paymentOrder_lastName;W
+International full name;Международное полное название;Халықаралық толық аты;intFullName;W
+Send;Отправить;Жіберу;login_send;W
+Banks;Банки;Банктер;navigation_banks;W
+Code;БИН/ИИН Получателя;Алушының БСН/ЖСН;paymentOrder_recipientCode;W
+DS certificates;Сертификаты ЭЦП;ЭСҚ сертификаттары;certificate.ds;W
+Registration date;Дата регистрации;Тіркелген күні;organizationsCreate_registrationDate;W
+Minimum balance;Неснимаемый остаток;Алынбайтын қалдық;minimumBalance;W
+Phone;Телефон;Телефоны;common_phone;W
+The card product type already exists;Вид карточных продуктов с таким кодом уже существует;Коды осындай карта өнімдерінің түрі жоқ;cardProductTypeAlreadyExists;W
+Operations with district;Действия;Әрекеттер;districts_operations;W
+Job state;Состояние модуля;Модульдің күйі;jobs.jobState;W
+Status;Статус;Мәртебесі;EventsExcelCreator.Status;W
+Payment detail;Детали платежа;Төлемнің егжей-тегжейі;paymentOrder_detail;W
+debit amount from;Сумма списания с;…-ден есептен шығару сомасы;accTransfer_debitAmountFrom;W
+Calendar operations;Действия;Әрекеттер;calendarOperation;W
+Issue tranche;Выдать транш;Транш беру;actions_issueTranche;W
+Pension contribution;Пенсионное отчисление;Зейнетақы аударымдары;domTransfer_pensionContribution;W
+SMS;SMS;SMS;customeruser_sms;W
+Ownership Type;Форма собственности;Меншік нысаны;common_ownership;W
+Notification properties;Настройки оповещений;Хабарландыру баптаулары;notification_title;W
+Publication date;Дата публикации;Жарияланған күні;multicasting_publicationDate;W
+Create new pension contribution;Создание Пенсионного отчисления;Зейнетақы аударымын жасау;paymentOrder_addNewPensionContribution;W
+Payer's BIN;БИН плательщика;Төлеушінің БСН;payersBIN;W
+Password id;Идентификатор пароля;Құпиясөздің сәйкестендіргіші;customeruser_passwordId;W
+Subject;Тема;Тақырыбы;subject;W
+New;Новое;Жаңасы;itNew;W
+Base currency and second currency should not have the same isoCode;Базовая валюта и вторая валюта не могут иметь один и тот же isoCode;Базалық валютаның және екінші валютаның iso коды бірдей болмауы тиіс;exchangeRate.currency.id.conflict;W
+№ Document , type demand;№ документа, тип заявления;Құжаттың №, өтініш түрі;demand_serchHint;W
+IP;IP;IP;events_terminal;W
+Position;Должность;Лауазымы;customeruser_position;W
+Intermediary bank details;Банк Посредник;Делдал банк;intTransfer_agentBankRequisites;W
+Constants;Константы;Константтар;global_settings.constants.screen.list;W
+Deposit details;Детали депозита;Депозиттің егжей-тегжейі;depositDetails;W
+Debit details;Реквизиты продажи (Списания);Сату (Есептен шығару) деректемелері;paymentOrder_debitRequisites;W
+The initial amount shall not exceed the final;Начальная сумма не должна превышать конечную;Бастапқы сома соңғысынан аспауы тиіс;domTransfer_comparison;W
+Select Type Document;По типу документа:;Құжаттың түрі бойынша:;standingOder_selectTypeDoc;W
+Full Name;ФИО;Т.А.Ә.;customeruser_fullName;W
+Jobs history;История по задачам;Мақсаттар бойынша тарихы;jobs.history;W
+Credit account;Счет зачисления;Есептеу шоты;accTransfer_creditAccount;W
+Login date/time;Вход;Кіру;sessions_valid_from;W
+Interest payment account;Счет выплаты вознаграждения;Сыйақы төлеу шоты;interestPaymentAccount;W
+Credit details;Реквизиты покупки (Зачисления);Сатып алынған заттың (Есеп) деректемелері ;paymentOrder_creditRequisites;W
+No news;Новостей нет;Жаңалық жоқ;noNews;W
+Certificate;Сертификат;Сертификаты;certificate;W
+SWIFT code;SWIFT код;SWIFT коды;swiftCode;W
+Information about;Информация о;... туралы ақпарат;personal_informationAbout;W
+The cards status with this code already exists;Статус карт с таким кодом уже существует;Коды осындай карталар мәртебесі бар;cardStatusWithSameCodeAlreadyExists;W
+Configure document withdraw filter;Настройка фильтра отзыва платежей;Төлемдерді қайтару сүзгісін баптау;withdraw_filter;W
+Group Name;Название группы типов задач;Мақсат түрлері тобының аты;jobs.nameGroup;W
+International address. City;Международный адрес. Город;Халықаралық мекенжайы. Қаласы;common_addressIntCity;W
+Viewing currency;Просмотр Валюты;Валютаны қарау;currency_viewtitle;W
+Operation with demand;Действия;Әрекеттер;demand_operation;W
+Description;Описание;Сипаттамасы;global_settings.constants.table.col.desc;W
+Director;Руководитель;Басшысы;paymentOrder_payerDirector;W
+Payments revokes;Отзывы платежей;Төлемдерді қайтару;navigation_paymentsRevokes;W
+Daily schedule;Недельный график работы;Апталық жұмыс кестесі;dailySchedule;W
+My Dictionaries;Мои справочники;Менің анықтамалықтарым;navigation_myHandbooks;W
+Register in the VC;Зарегистрировать в УЦ;ЕО-нда тіркеу;vc_register;W
+Сообщение из банка;Сообщение из банка;Банктен келген хабар;refunds.msg.from.bank;W
+VIN code not provide;VIN код не предусмотрен;VIN коды қарастырылмаған;paymentOrder_vinCodeNotProvide;W
+Are you sure you want to delete the сity?;Вы действительно хотите удалить город?;Сіз шынымен қаланы жойғыңыз келеді ме?;sureYouWantDeleteCity;W
+List for print is empty;Список для печати документов пуст;Құжаттарды басып шығару тізімі бос;document.printError.emptyList;W
+Actions;Действия;Әрекеттер;rolePermissions_actions;W
+Credits;Кредиты;Кредиттер;navigation_credits;W
+view Edit Payroll Template;Просмотр / Редактирование Шаблона  Зарплатного отчисления;Еңбекақы аударымының үлгісін қарау / редакциялау;paymentOrder_viewEditPayrollTemplate;W
+Session expired;Срок сессии истек;Сессияның мерзімі өтіп кетті;errorpage420_title;W
+Schedule;Расписание;Кесте;jobs.cron.title;W
+Bank name;Наименование банка;Банктің атауы;common_bankName;W
+Standing order;Длительные поручения;Ұзақ тапсырмалар;standing.order.title;W
+Add a new exchange rate type;Добавить новый тип курса валют;Валюталар бағамының жаңа түрін қосу;addExchangeRateType;W
+Request view;Просмотр запроса;Сұратымды қарау;requestview_title;W
+Full name;Полное название;Толық аты;currency_currencyfullname;W
+Operations with the card block reasons;Действия;Әрекеттер;operationsCardBlockReason;W
+Bank;Банк;Банк;bank;W
+Save;Сохранить;Сақтау;common_save;W
+International counterparty;Иностранные контрагенты;Шетелдік контрагенттер;counterparty_intCounterparties;W
+Repeat;Повторить;Қайталау;paymentOrder_repeat;W
+Head;Заголовок;Тақырыпаты;news_head;W
+International address. Address;Международный адрес. Адрес;Халықаралық мекенжайы. Мекенжайы;common_addressIntAddress;W
+Payroll;Зарплатное отчисление;Еңбекақы аударымы;domTransfer_payroll;W
+Exchange rates types;Типы курсов валют;Валюталар бағамдарының түрлері;currencyExchangeTypes;W
+Calendar status;Статус календаря;Күнтізбенің мәртебесі;calendarStatus;W
+Sent to RBS;Отправить в банк;Банкке жіберу;common.sentToRBS;W
+Deposit name;Название депозита;Депозиттің аты;depositName;W
+Payment type;Вид платежа;Төлем түрі;paymentType;W
+Incompressible balance;неснимаемый остаток;Алынбайтын қалдық;incompressibleBalance;W
+Customer menu;Меню пользователя;Пайдаланушының мәзірі;page_customermenutitle;W
+Are you sure you want to delete the Card status;Вы действительно хотите удалить Статус карт;Сіз шынымен карталардың мәртебесін жойғыңыз келеді ме?;sureYouWantDeleteCardStatus;W
+Deactivate;Деактивировать;Белсенсіздендіру;sessions_deactivate;W
+Contribution type;Тип отчисления;Аударым түрі;paymentOrder_employeeTransferCategory;W
+Create a new KBK;Создать новый КБК;Жаңа БСК жасау;createNewKBK;W
+Signature rules;Правила подписи;Қол қою ережесі;signatureRules;W
+The nominal interest rate;Номинальная ставка вознаграждения;Сыйақының атаулы мөлшерлемесі;nominalInterestRate;W
+New phone;Новый телефон;Жаңа телефоны;personal_newPhone;W
+Full name;Полное название;Толық аты;organizationsCreate_fullName;W
+Blocked;Блокирован;Бұғатталған;customeruser_blocked;W
+Account;Счет;Шот;paymentOrder_account;W
+Operation;Операция;Амал;operation;W
+Create new demand;Создать новое заявление;Жаңа өтініш жасау;demand_createNewDemand;W
+Are you sure you want to delete the ATM/Branch/Terminal;Вы действительно хотите удалить Банкомат/отделение/терминал;Сіз шынымен банкоматты/бөлімшені/терминалды жойғыңыз келеді ме?;sureYouWantDeleteAtmBranchTerminal;W
+code;Код типа задачи;Мақсат түрінің коды;jobs.code;W
+include VAT =;в том числе НДС =;оның ішінде ҚҚС =;paymentOrder_withVat;W
+Add auth factor;Добавить фактор авторизации;Қуаттау факторын қосу;authfactor_add;W
+Document date;Дата документа;Құжаттың күні;paymentOrder_documentDate;W
+Password;Пароль;Құпиясөз;login_password;W
+Operations with credit;Действия;Әрекеттер;creditOperations;W
+Reset;Сбросить;Ысыру;common_reset;W
+Choose File;Выберите файл;Файлды таңдаңыз;upload_chooseFile;W
+Purpose;Назначение;Тағайындалуы;invoice_paymentPurpouse;W
+Currency;Валюта;Валютасы;limit_currency;W
+Cron Schedule;Строка cron;Сron жолы;jobs.schedule;W
+БИК Банка;БИК Банка;Банктің БСК;refunds.sender.bik;W
+credit amount from;Сумма зачисления с;...-ден есептеу сомасы;accTransfer_creditAmountFrom;W
+Update menu;Обновить меню;Мәзірді жаңарту;common_updateMenu;W
+Operation with Type;Действия;Әрекеттер;demandType_operetionWithType;W
+Organization name;Наименование организации;Ұйымдардың атауы;withdraw_org_name;W
+Status;Статус;Мәртебесі;invoice_status;W
+Operations with the account;Действия;Әрекеттер;common_accountOperations;W
+Quick links;Быстрые ссылки;Жылдам сілтемелер;quickLinks;W
+beneficiary Account;Счет бенифициара;Бенифициардың шоты;common_benefAccount;W
+Просмотр/редактирование группы констант;Просмотр/редактирование группы констант;Константтар тобын қарау/редакциялау;global_settings.constants.group.screen.view_edit;W
+Viewing and editing the Region;Просмотр и редактирование Региона;Өңірді қарау және редакциялау;viewingEditingRegion;W
+District;Область;Облыс;district_district;W
+Error while getting data, please reloud page;Произошла ошибка при получении данных с сервера, перегрузите страницу;Серверден деректерді алған кезде қателік кетті, бетті қайта қотарыңыз;common_ErrorInGetData;W
+Expiration date;Дата окончания;Аяқталған күні;expirationDate;W
+from;от;… бастап;intTransfer_from;W
+Create a new Document status;Создать новый Статус документа;Құжаттың жаңа мәртебесін жасау;createDocStatus;W
+Code group;Код группы типов задач;Мақсат түрлері тобының коды;jobs.codeGroup;W
+Delete category;Удалить категорию;Санатты жою;CodeCategory_Delete;W
+Value repeat;Значение повторяется;Мән қайталанады;paymentOrder_valueRepeat;W
+No data;Нет данных;Деректер жоқ;common_noData;W
+Email;Электронная почта;Электрондық поштасы;common_email;W
+Type Jobs List;Список типов задач;Мақсат түрлерінің тізімі;jobs.TypesList;W
+Short name;Краткое имя;Қысқаша аты;manager_shortName;W
+Import;Импортировать;Импорттау;upload_import;W
+Roles;Роли;Рөлдер;manager_roles;W
+Session timeout;Завершение сессии;Сессияның аяқталуы;mainbar_timeoutTitle;W
+Signature  allowed;Подпись разрешена;Қолтаңба рұқсат етілді;authfactor_signAllowed;W
+The exchange rate is not actual;Обменный курс не актуален;Айырбастау бағамы өзекті емес;exchangeRates_notActual;W
+City;Город;Қаласы;intTransfer_recipientBankCity;W
+Currency operations;Действия;Әрекеттер;currency_operations;W
+Are you sure you want to delete the Card unblock reason;Вы действительно хотите удалить Причину разблокировки карты;Сіз шынымен картаны бұғаттан шығару себебін жойғыңыз келеді ме?;sureYouWantDeleteCardUnblockType;W
+Password;Пароль;Құпиясөз;customeruser_password;W
+Day data loading error;Ошибка при загрузке данных дня!;Күннің деректерін қотарған кезде қате кетті!;dayDataLoadingError;W
+add New Payroll Template;Создание Шаблона Зарплатного отчисления;Еңбекақы аударымының үлгісін жасау;paymentOrder_addNewPayrollTemplate;W
+Loan payments types;Виды платежей по кредитам;Кредиттер бойынша төлем түрлері;loanPaymentsTypes;W
+Operation with Type;Действия;Әрекеттер;CodeCategory_OperationWithType;W
+Login to;Вход до;... дейін кіру;sessions_filterto;W
+Purchase course;Курс покупки;Сатып алынған заттың бағамы;exchangeRates_coursePurchase;W
+SMS password;Смс пароль;Смс құпиясөзі;login_sms_password;W
+Category code;Код категории;Санаттың коды;CodeCategory_code;W
+View/edit payroll;Просмотр/редактирование Зарплатного отчисления;Еңбекақы аударымын қарау/редакциялау;paymentOrder_viewEditPayroll;W
+Internet banking for corporate clients;Интернет-банкинг для корпоративных клиентов;Корпоративтік клиенттерге арналған Интернет-банкинг;login_head;W
+Not active;Не активный;Белсенді емес;sessions_notactive;W
+Event date, time;Дата и время совершения действия;Әрекеттердің жасалған күні мен уақыты;events_eventdatetime;W
+Regions;Регионы;Өңірлер;regions;W
+Currency course;Курс валюты;Валюта бағамы;exchangeRates_course;W
+source field;Источник автозаполнения;Автотолтыру көзі;temp_sourceField;W
+The Card blocking reason already exists;Причина разблокировки карты с таким кодом уже существует;Коды осындай картаны бұғаттан шығару себебі бар;cardUnblockReasonAlreadyExists;W
+Amount from;Сумма с;... сома;domTransfer_amountFrom;W
+Counterparties;Контрагенты;Контрагенттер;counterparty_counterparties;W
+Invoicing for payment;Выставление счета на оплату;Шотты төлемге ұсыну;actions_invoicingForPayment;W
+Document: Demand type;Документы:типы заявлений;Құжаттар: өтініштер түрі;demandType_document_typedemand;W
+Create standing order;Создание длительного поручения;Ұзақ тапсырма жасау;standing_order_create;W
+The status has been changed successful!;Статус изменен успешно!;Мәртебесі табысты өзгертілді!;statusChangedSuccessful;W
+Файл не может быть обработан ;Файл не может быть обработан ;Файлды өңдеу мүмкін емес ;payment.import.error.common;W
+Creating a new deposit;Создание нового депозита;Жаңа депозит жасау;newDepositCreating;W
+Dictionary: Auth factors;Справочник: Типы многофакторной авторизации;Анықтамалық: Көпфакторлы қуаттау түрлері;authfactors_title;W
+Cash transactions;Действия;Әрекеттер;exchangeRates_cashTransactions;W
+Password;Пароль;Құпиясөз;authfactorcreate_password;W
+Residency code;Код;Коды;senderResidencyCode;W
+Order the statement;Заказать выписку;Үзінді-көшірмеге тапсырыс беру;common_orderTheExcerpt;W
+Inbox;Входящие;Кіріс құжаттары;inbox;W
+Contract date;Дата договора;Шарттың күні;contractDate;W
+Password expiry date;Срок действия пароля;Құпиясөздің қолданыс мерзімі;customeruser_passwordExpiry;W
+Letter types;Типы письма;Хат түрлері;lettersTypes;W
+Cards types;Виды карт;Карта түрлері;cardTypes;W
+Every;Каждые;Әрқайсысы;standing.order.every;W
+Users;Пользователи;Пайдаланушылар;navigation_users;W
+Credit type;Вид кредита;Кредит түрі;creditType;W
+Deposit number, the organization name, the organization BIN;№ депозитного договора, Наименование организации, БИН организации;Депозит шартының № , ұйымның атауы, ұйымның БСН;depositNumberOrgNameOrgBin;W
+Recivers list Setings;Настроить список получателей;Алушылар тізімін баптау;createDemandType_reciversSetings;W
+Outbox;Исходящие;Шығыс құжаттары;outbox;W
+symbols;символов;... таңба;common_symbolsForMaxLength;W
+Create Cron String;Создать строку cron;Сron жолын жасау;jobs.createCronString;W
+EDS;ЭЦП;ЭСҚ;eds;W
+Page;Страница;Бет;grid_page;W
+Country code;Код страны;Елдің коды;common_countryCode;W
+Date from;Период от;... басталатын кезең;invoice_date_from;W
+Demand;Заявления;Өтініштер;navigation_demand;W
+Message;Сообщение;Хабар;multicasting_text;W
+Debit;Списание;Есептен шығару;accTransfer_debit;W
+Non-cash transactions;Безналичные операции;Қолма-қол ақшасыз жасалатын амалдар;exchangeRates_nonCashTransactions;W
+The two-symbol code;Двухсимвольный код;Екі таңбалы коды;twoSymbolCode;W
+Dictionary: Banks;Справочник: Банки;Анықтамалық: Банктер;banks_handbookBanks;W
+Refill deposit;Пополнить депозит;Депозитті толықтыру;refillDeposit;W
+Operations with the Document type;Действия;Әрекеттер;operationsWithDocType;W
+Credit currency;Валюта зачисления;Есептеу валютасы;accTransfer_creditCurrency;W
+Filter settings;Настройки фильтра менеджеров;Менеджерлер сүзгісінің баптаулары;managers_filtertitle;W
+The currency pair;Валютная пара;Валюта сыңары;exchangeRates_currencyPair;W
+Serial;Серийный номер;Сериялық нөмірі;serial;W
+Internet banking;Интернет банкинг;Интернет банкинг;internetBanking;W
+The page is not found;Страница не найдена;Бет табылмады;notFound_not_found;W
+Payment to budget;Платёж в бюджет;Бюджетке төлем;paymentOrder_budgetPaymentDetail;W
+Purpose;Назначение платежа;Төлемді тағайындау;domTransfer_purpose;W
+to;до;… дейін;TOLowerCase;W
+Finished;Окончание;Аяқталуы;jobs.finished;W
+New account;Новый счет;Жаңа шот;new_account;W
+error;ошибка;қателік;common_error;W
+Year;Год;Жылы;year;W
+Create copy;Создать копию;Көшірме жасау;common_createCopy;W
+Month;За месяц;Бір ай бұрын;common_month;W
+events selected;события выбрано;оқиға таңдалды;events_X4selected;W
+Export to Excel;Экспорт в Excel;Excel-ге экспорттау;common_exporttoexcel;W
+Edit Demand;Редактировать заявление;Өтінішті редакциялау;demandCreate_EditDemand;W
+International short name;Международное краткое название;Қысқаша халықаралық аты;intShortName;W
+Accrued % amount;Сумма начисленных %;Есептелген % сомасы;amountAccruedPercentage;W
+Add a new exchange rate;Добавить новый курс валют;Валюталардың жаңа бағамын қосу;addExchangeRate;W
+Edit an exchange rate;Изменить курс валют;Валюталардың бағамын өзгерту;editExchangeRate;W
+Operations with the Card unblock reason;Действия;Әрекеттер;operationsWithCardUnblockReason;W
+;Создание Шаблона Платежного поручения;Төлем тапсырмасының үлгісін жасау;paymentOrder_addNewOrderTemplate;W
+Cancel search;Отменить поиск;Іздеуді болдырмау;grid_cancelsearch;W
+Activate;Активировать;Белсендіру;common_activate;W
+1 calendar is selected;1 календарь выбран;1 күнтізбе таңдалды;oneCalendarIsSelected;W
+Kind;Вид;Көрініс;common_kind;W
+demands cheked;заявлений выбрано;... өтініш таңдалды;demand_demandsChecked;W
+The certificate is missing;Сертификат отсутствует;Сертификат жоқ;certificate.missing;W
+Agent bank swift;БИК/SWIFT Банка Посредника;Делдал банктің БСК/SWIFT;intTransfer_agentBankSwift;W
+This field must have at least 3 chars!;Это поле должно содержать 3 символа!;Бұл жолақта 3 таңба болуы тиіс!;common_field_atleast3chars;W
+Worng Number Format;Не правильный формат числа;Санның форматы қате;common_WorngNumberFormat;W
+The code must only consist of digits;Код должен состоять только из цифр;Код сандардан ғана тұруы тиіс;onlyDigitsCode;W
+Card number;Номер карты;Карта нөмірі;cardNumber;W
+System modules;Модули системы;Жүйенің модулі;systemModules;W
+Account;Счет;Шот;paymentOrder_recipientAccount;W
+This currency is not available to pay, contact the bank support;Данная валюта недоступна для оплаты, обратитесь в службу поддержки банка;Бұл валюта төлеу үшін қолжетімсіз, банкті қолдау қызметіне жүгініңіз;intTransfer_errorCurrencyUnavailable;W
+Course type;Тип курса;Бағам түрі;exchangeRates_courseType;W
+Geoposition;Геопозиция;Геопозициясы;geoposition;W
+Current password;Текущий пароль;Ағымдағы құпиясөз;personal_currentPass;W
+City (Agent bank);Город (Банка Посредника);Қаласы (Делдал банктің);intTransfer_agentBankCity;W
+BIK nat.;БИК национальный;Ұлттық банктің БСК;bikNat;W
+1 user selected;1 пользователь выбран;1 пайдаланушы таңдалды;customeruser_1selected;W
+Accounts;Счета;Шоттар;navigation_accounts;W
+Creating a Card status;Создание Статуса карт;Карталардың мәртебесін жасау;creatingCardStatus;W
+Credit number, the organization name, the organization BIN;№ кредитного договора, Наименование организации, БИН организации;Кредит шартының №, Ұйымның атауы, Ұйымның БСН;creditNumberOrgNameOrgBin;W
+Requests log;Журнал запросов;Сұратымдар журналы;requests_title;W
+Exchange rates are not known;Курс не известен;Бағам белгісіз;exchangeRates_exchangeRatesAreNotKnown;W
+Demands Constructor;Конструктор заявлений;Өтініштер құраушы;navigation_demand_constructor;W
+This field must contains only digits;Это поле должно содержать только цифры!;Бұл жолақта тек сандар ғана болуы тиіс!;common_field_onlydigits;W
+Account number;Номер счета;Шоттың нөмірі;accountNumber;W
+Loan amount;Сумма займа;Қарыз сомасы;loanAmount;W
+Method;Метод;Әдісі;requests_method;W
+Creating a System module;Создание Модуля системы;Жүйенің модулін жасау;creatingSystemModule;W
+Value;Значение;Мәні;global_settings.constants.value;W
+Individual exchange rate;Индивидуальный курс;Жеке бағамы;paymentOrder_individualExchangeRate;W
+Information from payer to recipient;Информация отправителя получателю;Жіберушінің алушыға ақпараты;intTransfer_recipientInfo;W
+ ; ; ;common_blank;W
+Digital code;Цифровой код;Сандық коды;currency_field_digitcode;W
+This field must have at least 3 digits!;Это поле должно содержать 3 цифры!;Бұл жолақта 3 сан болуы тиіс!;common_field_atleast3digits;W
+Credit limit;Кредитный лимит;Кредит лимиті;creditLimit;W
+Login;Логин;Логин;customeruser_login;W
+Sessions limit;Количество сессий;Сессия саны;customeruser_sessionsLimit;W
+Creating new district;Создание новой области;Жаңа облыс жасау;districts_create;W
+beneficiary Name;наименование бенефициара;Бенефициардың атауы;common_benefName;W
+Viewing/Editing the Card status;Просмотр и редактирование Статуса карт;Карталардың мәртебесін қарау және редакциялау;viewingEditingCardsStatus;W
+Demands Type;Типы Заявлений;Өтініштер түрі;navigation_demandType;W
+Birth date;Дата рождения;Туған күні;paymentOrder_birthDate;W
+Role name;Название роли;Рөлдердің аты;role_name;W
+Filter setting;Настройки фильтра событий;Оқиғалар сүзгісінің баптаулары;events_filtertitle;W
+fields Reference Field;Поле справочника;Анықтамалық жолағы;temp_fieldsReferenceField;W
+Bank response;Сообщение из банка;Банктен келген хабар;paymentOrder_bankResponse;W
+Account;Счет;Шот;signingrules_account;W
+change_custom_field;Изменить текущее поле типа заявления;Өтініштер түрінің ағымдағы жолағын өзгерту;change_custom_field;W
+Receiver;Получатель;Алушы;standing.order.receiver;W
+The Letter type with this code already exists;Тип письма с таким кодом уже существует;Коды осындай хат түрі бар;letterTypeWithSameCodeAlreadyExists;W
+Curent demand saved;Текущее заявление сохранено;Ағымдағы өтініш сақталды;demandCreate_Curent_demand_saved;W
+Category;Категория;Санаты;demandType_category;W
+Account;Счет;Шот;common_account;W
+Employee details;Детали сотрудника;Қызметкердің егжей-тегжейі;employee_detailsEmployee;W
+Valid to;Действует по;... дейін қолданыста болады;authfactor_to;W
+credit amount to;Сумма зачисления по;Есептеу сомасы ... дейін;accTransfer_creditAmountTo;W
+Manager;Менеджер;Менеджер;paymentOrder_manager;W
+Transaction details;Детали транзакции;Транзакция егжей-тегжейі;transactionDetails;W
+Вы были удалены администратором банка;Вы были удалены администратором банка;Сізді банк әкімшісі жойды;errorpage418_title;W
+This bank does not exist;Такой банк не существует;Ондай банк жоқ;paymentOrder_valid_bankNotExist;W
+Budget classification code (BCC);Код бюджетной классификации(КБК);Бюджеттік сыныптама коды (БСК);budgetClassificationCode;W
+1 symbol;1 символ;1 таңба;common_field_1symbol;W
+The request for re-issue of the certificate has been created. Expect the manager's response;Запрос на перевыпуск сертификата создан. Ожидайте ответ менеджера;Сертификатты қайта шығаруға сұратым жасалды. Менеджердің жауабын күтіңіз;certReqCreated;W
+Manager initials;ФИО менеджера;Менеджердің Т.А.Ә.;managerInitials;W
+Save And Go to List;Сохранить и перейти в список;Сақтау және тізімге өту;createDemandType_saveAndGo;W
+Viewing/Editing the Bank;Просмотр и редактирование банка;Банкті қарау және редакциялау;viewingEditingBank;W
+Name;Название;Аты;common_name;W
+The base currency;Базовая валюта;Базалық валютасы;exchangeRates_baseCurrency;W
+options default;Значение по умолчанию;Мәні әдепкі қалпы бойынша;options_default;W
+Dictionaries;Справочники;Анықтамалықтар;navigation_commonHandbooks;W
+View;Просмотр;Қарау;common_view;W
+First value;Первое значение;Бірінші мәні;firstValue;W
+End state;Конечное состояние;Ақырғы күйі;documentHistory_endState;W
+Days with a special Schedule;Дни со специальным графиком;Арнайы графигі бар күндер;daysWithASpecialSchedule;W
+Contract audit date;Дата учетного номера контракта;Келісім-шарттың есептік нөмірінің күні;common_contractAuditDate;W
+Search;Поиск;Іздеу;common_search;W
+Create a new City;Создать новый Город;Жаңа қала жасау;createNewCity;W
+Account;Счет;Шот;invoice_account;W
+Sale course;Курс продажи;Сату бағамы;exchangeRates_courseSale;W
+Yes;Да;Иә;boolean_true;W
+Creating/Processing date;Дата создания/обработки;Жасау/өңдеу күні;dateCreateProcessing;W
+Address;Адрес;Мекенжайы;common_address;W
+Status;Статус;Мәртебесі;sessions_isactive;W
+The authority will be replaced after;Полномочия сменятся через;Өкілеттіктер ... кейін ауысады;mainbar_authorityChanges;W
+Standing orders;Длительные поручения;Ұзақ тапсырмалар;navigation_standingOrders;W
+Regular payments;Регулярные платежи;Тұрақты төлемдер;navigation_standingOrders_person;W
+Status;Признак блокировки;Бұғатталу белгісі;organization.grid.column.status;W
+External system;Внешняя система;Сыртқы жүйе;externalSystem;W
+Employees list empty;Список сотрудников не заполнен;Қызметкерлер тізімі толтырылмаған;paymentOrder_employeesListEmpty;W
+Customer menu;Меню пользователя;Пайдаланушының мәзірі;navigation_menutree_customer;W
+Standing Orders filter settings;Настройки фильтра длительных поручений;Ұзақ тапсырмалар сүзгісінің баптаулары;standing_order_filter;W
+Login from;Вход после;... кейін кіру;sessions_filterfrom;W
+Channel (Web, mob);Канал обслуживания (Web, mob);Қызмет көрсету арнасы (Web, mob);events_servicechannel;W
+BIN/IIN;ИИН/БИН;ЖСН/БСН;paymentOrder_taxCode;W
+create key for translation;ключ для перевода;аударуға арналған кілт;demandType_createkeyForTranslate;W
+Description;Содержание;Мазмұны;news_desc;W
+Viewing/Editing;Просмотр/редактирование;Қарау/редакциялау;viewingEditingDeposit;W
+Read;Прочитано;Оқылды;read;W
+Organizations;Организации;Ұйымдар;organizations_organizations;W
+Events history;История действий;Әрекеттердің тарихы;navigation_events;W
+View account transfer;Просмотр Перевода между своими счетами / Конвертации валюты;Өзінің шоттары/Валюта айырбастау арасындағы аударымды қарау;paymentOrder_viewAccountTransfer;W
+Operations;Действия;Әрекеттер;exchangeRates_operations;W
+Multifactor authentication types;Типы многофакторной авторизации;Көп факторлы қуаттау түрлері;authFactorsTypes;W
+Account transfer/currency exchange;Перевод между своими счетами/Конвертация валюты;Өзінің шоттары/Валюта айырбастау арасындағы аударым;accTransfer_accountTransfer;W
+Account transfer, currency exchange;Перевод между своими счетами, Конвертация валюты;Өзінің шоттары, Валюта айырбастау арасындағы аударым;accTransfer_accountTransfer1;W
+Document type;Тип документа;Құжат түрі;signingrules_docType;W
+Update the day;Обновить день;Күнді жаңарту;updateDay;W
+Account name;Название счёта;Шоттың аты;accountName;W
+Work;Рабочие;Жұмыс;common_workDocument;W
+Credit currency;Валюта зачисления;Есептеу валютасы;paymentOrder_creditCurrency;W
+Name;Наименование;Атауы;demandType_name;W
+Account opening date;Дата открытия счёта;Шоттың ашылған күні;account_openingDate;W
+Add limit;Добавление лимита;Лимитті қосу;limit_add;W
+delete impossible, bcause exist linked data;Удаление невозможно из-за свзанных данных;Байланысты деректер себепті жою мүмкін емес;common_deleteimpossible;W
+Theme;Тема;Тақырыбы;multicasting_theme;W
+Errors:;Ошибки:;Қателіктері:;common_hasError;W
+Dictionary;Справочник;Анықтамалық;temp_sourceCodeField;W
+Card type;Вид карты;Карта түрі;cardType;W
+Director;Руководитель;Басшы;CompanyPerson_Director;W
+ISO code;Код ISO;ISO коды;currency_ISOcode;W
+Group;Группа получателей;Алушылар тобы;multicasting_group;W
+Create a new Card type;Создать новый Вид карт;Карталардың жаңа түрін жасау;createCardType;W
+Limit;Лимит;Лимит;signingrules_limit;W
+Document statuses;Статусы документа;Құжаттың мәртебелері;documentStatuses;W
+Reason;Причина;Себебі;reason;W
+Can attache file;Возможность прикреплять файл;Файлды бекіту мүмкіндігі;Can_attache_file;W
+Max Execution Time;Максимальное время работы( в сек);Максималды жұмыс уақыты (Секундтарна);jobs.maxExecutionTime;W
+Types;Типы;Түрлер;authfactorcreate_types;W
+Serial number;Серийный номер;Сериялық нөмірі;companyperson_certificate_sn;W
+Amount;Сумма;Сомасы;limit_amount;W
+Second value;Второе значение;Екінші мәні;secondValue;W
+Constant groups;Группы констант;Константтар топтары;global_settings.constants.group.screen.list;W
+Conversion;Конвертация;Айырбастау;navigation_conversion;W
+This code already exist;Такой код не существует;Ондай код жоқ;paymentOrder_valid_codeNotExist;W
+Save Template;Сохранить шаблон;Үлгіні сақтау;paymentOrder_updateTemplate;W
+Brought forward balance;Входящий остаток;Кіріс қалдық;broughtForwardBalance;W
+incorrect Password mask;Пароль не соответствует маске;Құпиясөз маскаға сәйкес келмейді;common_incorrectPass;W
+Notification receivers;Получатели  уведомления;Хабарламаны алушылар;Notification_receivers;W
+Block requisites: Payment details;Блок реквизитов: Детали платежа;Деректемелер блогы: Төлем егжей-тегжейі;paymentDetailsBlock;W
+Valid to;Действует по;... дейін қолданыста болады;companyperson_certificate_to;W
+No;Нет;Жоқ;boolean_false;W
+Счет Отправителя;Счет Отправителя;Жіберушінің шоты;refunds.sender.acc;W
+Account;Счет;Шот;paymentOrder_payerAccount;W
+Fee details;Детали комисии;Комиссия егжей-тегжейі;intTransfer_feeDetail;W
+Invoiced bills for payment;Invoiced bills for payment;Төлемге ұсынылған шоттар;invoiced.title;W
+to;До;… дейін;common_to;W
+Social contribution refund;Возврат по социальному отчислению;Әлеуметтік аударым бойынша қайтару;refunds.socialcontribution;W
+Card unblocking reason;Причина разблокировки карты;Картаны бұғаттан шығару себебі;cardUnblockingReason;W
+KBE;КБЕ;БеК;paymentOrder_recipientResidencyCode;W
+Hide;Скрыть;Жасыру;common_hide;W
+The day is updated!;День обновлён!;Күн жаңартылды!;dayIsUpdated;W
+New password;Новый пароль;Жаңа құпиясөз;personal_newPass;W
+rate to;Курс исполнения по;... орындау бағамы;accTransfer_rateTo;W
+Chief Accountant;Главный Бухгалтер;Бас бухгалтер;CompanyPerson_ChiefAccountant;W
+Balance of principal in the loan currency;Остаток основного долга в валюте займа;Қарыз валютасындағы негізгі борыштың қалдығы;balanceLoanCurrency;W
+Manager;Менеджер;Менеджер;common_manager;W
+Payers name;Наименование плательщика;Төлеушінің атауы;domTransfer_payerName;W
+Name;Имя;Аты;login_name;W
+Confirm;Подтвердить;Растау;common_confirm;W
+Calendars;Календари;Күнтізбелер;calendars;W
+Dictionary: Calendars;Справочник: Календари;Анықтамалық: Күнтізбелер;handbookCalendars;W
+This field must have at least 1 char!;Это поле должно содержать 1 символ!;Бұл жолақта 1 таңба болуы тиіс!;common_field_atleast1char;W
+Dictionary: Payment purpose;Справочник: Назначение платежа;Анықтамалық: Төлемді тағайындау;paymentOrder_handbookPaymentPurpose;W
+ABS number;Номер АБС;АБС нөмірі;AbsNumber;W
+Change phone;Изменить телефон;Телефонды өзгерту;personal_changePhone;W
+Parameters;Параметры;Параметрлер;jobs.parameter.title;W
+Last update time;Дата последнего обновления курсов;Бағамдардың соңғы жаңартылу күні;exchangeRates_lastUpdDateTime;W
+Expiry;Действует до;... дейін қолданыста болады;sessions_expiry;W
+BIN/TAX;БИН/ИИН;БСН/ЖСН;refunds.tax.code;W
+Date to;Дата по;Күні ... дейін;common_periodTo;W
+The card block reason already exists;Причина блокировки карты с таким кодом уже существует;Коды осындай картаны бұғаттау себебі бар;cardBlockReasonExists;W
+Social requisites;Реквизиты - Социальные отчисления;Деректемелер - Әлеуметтік аударымдар;transferRequisites_socialRequisites;W
+News;Новости;Жаңалықтар;navigation_news;W
+Multiple values from the dictionary;Несколько значений из справочника;Анықтамалықтан алынған бірнеше мағына;global_settings.constants.handbook_multi_value;W
+ATMs/Branches/Terminals;Банкоматы/отделения/терминалы;Банкоматтар/бөлімшелер/терминалдар;atmBranchesTerminals;W
+Length should be 20 characters.;Длина должна составлять 20 символов.;Ұзындық 20 ... таңбадан тұруы тиіс;paymentOrder_valid_20chars;W
+Update;Обновить;Жаңарту;common_update;W
+Changing the purpose of payment;Изменение назначения платежа;Төлемді тағайындаун өзгерту;paymentOrder_changingThePurpose;W
+BIC;БИК банка;Банктің БСК;common_bankCode;W
+Sync;Синхронизировать;Қадамдастыру;sync;W
+Change name;Изменить название;Атын өзгерту;changeName;W
+Notification term;Дней до события;Оқиғаға дейін қалған күн;notification_period;W
+Print;Печатать;Басып шығару;common_Print;W
+Region;Регион;Өңір;common_region;W
+Operations with the System module;Действия;Әрекеттер;operationsWithSystemModule;W
+Fee account;Счет взимания комиссии;Комиссия өндіріп алу шоты;intTransfer_feeAccount;W
+View and edit auth factors;Просмотр и редактирование типов многофакторной авторизации;Көп факторлы қуаттау түрлерін қарау және редакциялау;authfactoredit_title;W
+Reason;Причина отзыва;Кері қайтару себебі;withdraw_reason;W
+Middle name;Отчество;Әкесінің аты;paymentOrder_middleName;W
+Customer initials;ФИО пользователя;Пайдаланушының Т.А.Ә.;customerInitials;W
+Filter settings;Настройки фильтра;Сүзгінің баптаулары;filterSettings;W
+Demand Print;Печать заявления;Өтініштерді басып шығару;demandCreate_print;W
+Creating a Document status;Создание Статуса документа;Құжаттың мәртебесін жасау;creatingDocStatus;W
+Operations;Операции;Амалдар;common_operations;W
+Sign;Подписать;Қол қою;common_sign;W
+View and edit manager;Просмотр и редактирование данных менеджера;Менеджердің деректерін қарау және редакциялау;manager_editor_title;W
+All;Все;Барлығы;global_settings.constants.group.all;W
+The Document status with the same code already exists;Статус документа с таким кодом уже существует;Коды осындай құжаттың мәртебесі бар;docStatusWithSameCodeAlreadyExists;W
+Bank name;Наименование Банка;Банктің атауы;transferRequisites_recipientBankName;W
+Edit;Редактировать;Редакциялау;common_edit;W
+Card replenishment;Пополнение карты;Картаны толықтыру;cardReplenishment;W
+International name;Интернациональное название;Халықаралық аты;district_intName;W
+The day is saved!;День сохранён!;Күн сақталды!;dayIsSaved;W
+Executor name;Ф.И.О. Пользователя;Пайдаланушының Т.А.Ә.;events_executorname;W
+Working day;Рабочий день;Жұмыс күні;DayResource.WorkingВay;W
+User;Пользователь;Пайдаланушы;customerUser_user;W
+Deposit type;Вид депозита;Депозит түрі;depositType;W
+Dictionary: Currency;Справочник: Валюта;Анықтамалық: Валюта;currency_handBooktitle;W
+KOD;Код;Коды;common_code;W
+calendars selected;календарей выбрано;күнтізбе таңдалды;calendarsSelected;W
+Operations with the Letter type;Действия;Әрекеттер;operationsWithLetterType;W
+Confirmation new password;Повтор нового пароля;Жаңа құпиясөзді қайталау;personal_confirmNewPass;W
+Product name;Название продукта;Өнімнің аты;productName;W
+Amount to;Сумма до;... дейінгі сома;invoice_amount_to;W
+Schema;Схема;Сұлба;signingrules_schema;W
+Amount to;Сумма по;... бойынша сома;domTransfer_amountTo;W
+Create a new Card unblock reason;Создать новую Причину разблокировки карты;Картаны бұғаттан шығарудың жаңа себебін жасау;createCardUnblockReason;W
+Exposed orders;Выставленные мной счета;Мен ұсынған шоттар;exposedorder_name;W
+Quick Link;Быстрая ссылка;Жылдам сілтеме;quick_link;W
+Fax;Факс;Факс;fax;W
+Jobs;Задачи;Мақсаттар;navigation_jobs;W
+Manager registration;Регистрация нового менеджера;Жаңа менеджерді тіркеу;manager_new_title;W
+Address;Адрес;Мекенжайы;intTransfer_recipientBankAddress;W
+Error. Digital Signature is not valid;Ошибка. Цифровая подпись не прошла проверку!;Қателік. Сандық қолтаңба тексерістен өтпеді!;docSigning_errorSignatureInvalid;W
+Category Demands;Категории заявлений;Өтініштер санаты;navigation_labelReference;W
+Viewing and editing the country;Просмотр и редактирование страны;Елді қарау және редакциялау;viewingEditingCountry;W
+Country;Страна;Елі;common_country;W
+This field should not exceed 500 characters!;Наименование не должно превышать 500 символов;Атау 500 ... таңбадан аспауы тиіс;nameNoMore500Symbols;W
+Currency transfer/conversion;Перевод/конвертация валюты;Аударым/Валюта айырбастау;actions_currencyTransferConversion;W
+Request for early repayment;Заявка на досрочное погашение кредита;Кредитті мерзімінен бұрын өтеуге өтінім;actions_earlyRepaymentOrder;W
+User type;Тип пользователя;Пайдаланушы түрі;sessions_usertype;W
+Date of repeat;Дата повторения;Қайталауға дейін ... күн;standing.order.standingDate;W
+International address. Post zip;Международный адрес. Почтовый индекс;Халықаралық мекенжайы. Пошта индексі;common_addressIntZip;W
+View pension contribution;Просмотр Пенсионноого отчисления;Зейнетақы аударымын қарау;paymentOrder_viewPensionContribution;W
+Common balance;Общий остаток;Жалпы қалдық;common_balance;W
+Редактировать;Редактировать;Редакциялау;organization.grid.change;W
+Активен;Активен;Белсенді;organization.grid.active;W
+Заблокирован;Заблокирован;Бұғатталған;organization.grid.blocked;W
+Calculate Vat;Рассчитать НДС;ҚҚС есептеу;paymentOrder_calculateVat;W
+Viewing/Editing the Card blocking reason;Просмотр и редактирование Причины блокировки карты;Картаны бұғаттау себебін қарау және редакциялау;viewingEditingCardBlockReason;W
+Subject DN;Владелец (DN);Иесі (DN);companyperson_certificate_subjectDN;W
+Sessions;Сессии пользователей;Пайдаланушының сессиялары;navigation_sessions;W
+Invalid format;Неверный формат;Қате формат;paymentOrder_valid_wrongFormat;W
+Add authorized person;Добавить уполномоченное лицо;Уәкілетті тұлғаны қосу;companyPersons_add;W
+Date;Дата и время;Күні мен уақыты;documentHistory_date;W
+Credit name;Название кредита;Кредиттің аты;creditName;W
+Deactivate;Заблокировать;Бұғаттау;common_deactivate;W
+Number;Номер;Нөмірі;common_number;W
+Viewing the exchange rate;Просмотр Курсов валют;Валюталар бағамдарын қарау;exchangeRates_view;W
+publish;Опубликовать;Жариялау;createDemandType_publish;W
+Cashless cross course;Кросс-курс безналичный;Қолма-қол ақшасыз кросс-бағам;exchangeRates_cross;W
+Debts repayment account;Счет погашения задолженности;Берешекті өтеу шоты;debtsRepaymentAccount;W
+SMS;SMS;SMS;authfactorcreate_SMS;W
+Demand filter settings;Настройки фильтра заявлений;Өтініштер сүзгісінің баптаулары;demand_filter;W
+Creating a City;Создание Города;Қала жасау;creatingCity;W
+Chief accountant;Гл. бухгалтер;Бас бухгалтер;paymentOrder_payerChiefAccountant;W
+Correspondent bank account;Корреспондентский счёт банка;Банктің корреспонденттік шоты;banks_correspondentBankAccount;W
+Contract date;Дата контракта;Келісім-шарттың күні;common_contractDate;W
+Login after;Вход с;... кіру;companyperson_validfrom;W
+Agent bank name;Наименование Банка Посредника;Делдал банктің атауы;intTransfer_agentBankName;W
+Blocked;Блокирован;Бұғатталған;common_blocked;W
+Client data;Клиентские данные;Клиенттің деректері;clientData;W
+All users selected;Все пользователи выбраны;Пайдаланушылардың барлығы таңдалды;customeruser_allselected;W
+OK;Применить;Қолдану;common_ok;W
+Operations with the Card type;Действия;Әрекеттер;operationsWithCardType;W
+users selected;пользователя выбрано;пайдаланушы таңдалды;customeruser_X4selected;W
+Force password change;Сменить пароль;Құпиясөзді ауыстыру;customeruser_forcePasswordChange;W
+Fix amount;Зафиксировать сумму;Соманы белгілеу;fix_amount;W
+Updating error. Is it a duplicate?;Ошибка при обновлении. Возможно это дубликат?;Жаңарту кезіндегі қателік. Бәлкім бұл дубликат шығар?;updatingCalendarError;W
+Cannot make certificate request to the VC;Ошибка при запросе на Удостоверяющий Центр;Куәландырушы орталыққа сұрау салу кезіндегі қателік;vcReqError;W
+Counterparty bank requisites;Реквизиты Банка контрагента;Контрагент банктің деректемелері;counterparty_bankRequisites;W
+Events to;События до;... дейінгі оқиғалар;events_eventsto;W
+Viewing and editing the Notification type;Просмотр и редактирование типа уведомления;Хабарлама түрін қарау және редакциялау;viewingEditingNotificationType;W
+Payroll refund;Возврат по зарплатному отчислению;Еңбекақы аударымы бойынша қайтарым;refunds.payroll;W
+Версия броузера;Версия броузера;Браузер нұсқасы;events_browser;W
+Details / Edit;Просмотр деталей / редактировать;Егжей-тегжейді қарау/редакциялау;common_detailsEdit;W
+Delivery Point;Точка доставки;Жеткізу нүктесі;demandType_delivery;W
+Sender's name or tax code;Наименование или ИИН/БИН организации отправителя;Жіберуші ұйымның атауы немесе ЖСН/БСН;refunds.filter.sender;W
+Permissions;Настройка доступа;Қолжетімділікті баптау;navigation_permissions;W
+Create new category;Создать новую категорию;Жаңа санат жасау;CodeCategory_createNewCategory;W
+User type;Тип пользователя;Пайдаланушы түрі;events_usertype;W
+Include VAT (12%);C НДС (12%);ҚҚС (12%) қосқанда;paymentOrder_vat12;W
+The card blocking history;История блокировок карты;Картаны бұғаттау тарихы;cardBlockingHistory;W
+View/Edit Social Template;Просмотр/Редактирование Шаблона  Социального отчисления;Әлеуметтік аударымның үлгісін қарау/редакциялау;paymentOrder_viewEditSocialTemplate;W
+Bank account;Кор. счет Банка;Банктің корреспонденттік шоты;counterparty_bankAccount;W
+Code VO;Код VO;VO коды;intTransfer_codeVo;W
+Viewwing and editing Card Type;Просмотр и редактирование Вида карт;Карта түрін қарау және редакциялау;viewingAndEditingCardType;W
+Synchronized successful!;Синхронизировано успешно!;Табысты қадамдастырылды!;syncSuccessful;W
+Exit;Выход;Шығу;login_exit;W
+View International transfer;Просмотр международного перевода валюты;Халықаралық валюта аударымын қарау;intTransfer_view;W
+Operations;Действия;Әрекеттер;common_depositOperations;W
+System Job;Задачи;Мақсаттар;system_job;W
+Start date;Начиная с даты;... күнінен бастап;standing.order.from.date;W
+Filter settings;Настройки фильтра пользователей;Пайдаланушылар сүзгісінің баптаулары;customerUser_filtertitle;W
+Jobs history;История по задачам;Мақсаттар бойынша тарихы;navigation_jobs_history;W
+Filter settings;Настройки фильтра;Сүзгінің баптаулары;common.filter.settings;W
+Wrong code;Неправильный код;Қате код;paymentOrder_valid_wrongCode;W
+Receiver's name or tax code;Наименование или ИИН/БИН организации получателя;Жіберуші ұйымның атауы немесе ЖСН/БСН;refunds.filter.receiver;W
+Receivers account;Счет получателя;Алушының шоты;domTransfer_receiverAccount;W
+invoice date;Дата инвойса;Инвойстың күні;intTransfer_invoiceDate;W
+Edit authorized preson:;Редактирование параметров уполномоченного лица:;Уәкілетті тұлғаның параметрлерін редакциялау;companyPersonEdit_title;W
+Create International transfer;Создать международный перевод валюты;Халықаралық валюта аударымын жасау;intTransfer_create;W
+в строке;в строке;жолда;payment.import.result.document.line.number;W
+Base document number;№ основного документа;Негізгі құжаттың №;withdraw_doc_num;W
+Managers;Менеджеры;Менеджерлер;organizations_managers;W
+In processing;В процессе обработки;Өңдеу барысында;common_inProcessing;W
+Sign right;Признак права подписи от имени банка;Банктің атынан қол қою құқығының белгісі;manager_isBankSign;W
+KPP;КПП;ЕҚСК;intTransfer_recipientKpp;W
+Import messages;Сообщения импорта;Импорт хабарламалары;upload_documentForUpload;W
+from;От;Кімнен;common_from;W
+Managers list;Список менеджеров;Менеджерлер тізімі;managers_title;W
+Follow;Важен;Маңызды;signingrules_inorder;W
+Comment;Комментарий;Түсінік;events_comment;W
+Creating a Card Type;Создание Вида карт;Карта түрін жасау;creatingCardType;W
+Are you sure you want to delete the Document status;Вы действительно хотите удалить Статус документа;Сіз шынымен құжаттың мәртебесін жойғыңыз келеді ме?;sureYouWantDeleteDocStatus;W
+Post address;Почтовый адрес;Пошта мекенжайы;postAddress;W
+Account Details;Детали счёта;Шоттың егжей-тегжейі;common_accountDetails;W
+Change email;Изменить email;Электрондық поштаны өзгерту;personal_changeEmail;W
+Account status;Статус счёта;Шоттың мәртебесі;accountStatus;W
+Invalid_email;не правильный email;Қате электрондық пошта;common_Invalid_email;W
+Payer's bank;Банк плательщика;Төлеушінің банкі;payersBank;W
+Onset of action;Начало действия;Әрекеттердің басы;exchangeRates_start;W
+This is mandatory field !;Обязательное поле!;Міндетті жолақ!;common_mandatory_field;W
+Clean;Очистить;Аластау;common_clean;W
+Block requisites: Recipient;Блок реквизитов: Получатель;Деректемелер блогы: Алушы;recipientDetailsBlock;W
+Document Number;Номер документа;Құжаттың нөмірі;common_documentNumber;W
+This field should not exceed 64 characters!;Это поле не должно превышать 64 символа!;Бұл жолақ 64 таңбадан аспауы тиіс!;noMore64Symbols;W
+Clear;Очистить;Аластау;common_clear;W
+Transaction type;Тип транзакции;Транзакция түрі;transactionType;W
+Valid from;Действует с;... бастап қолданыста болады;companyperson_certificate_from;W
+Payment purpose code (PPC);Код назначения платежа(КНП);Төлем тағайындау коды (ТТК);purposeCode;W
+Viewing/Editing the Document status;Просмотр и редактирование Статуса документа;Құжаттың мәртебесін қарау және редакциялау;viewingEditingDocStatus;W
+Create new payroll;Создание Зарплатного отчисления;Еңбекақы аударымын жасау;paymentOrder_addNewPayroll;W
+ИИН/БИН получателя;ИИН/БИН получателя;Алушының ЖСН/БСН;invoice.receiver.bin;W
+Croup Job List;Список Групп задач;Мақсаттар тобының тізімі;jobs.CroupList;W
+Wrong file type. Available:;Неверный тип файла. Допустимы:;Файл түрі қате. Қолжетімді:;common_WrongFileType;W
+Managers;Менеджеры;Менеджерлер;navigation_managers;W
+Branch;Филиал;Филиал;common_branch;W
+Local banks;Локальные банки;Жергілікті банктер;navigation_localBanks;W
+Warning;Предупреждение;Ескерту;warning;W
+Residency code;КБЕ Получателя;Алушының БеК;transferRequisites_recipientResidencyCode;W
+Country code;Код страны;Елдің коды;intTransfer_recipientBankCountryCode;W
+Add;Добавить;Қосу;paymentOrder_add;W
+Id;ИД;ID;common_id;W
+User action;Действие пользователя;Пайдаланушының әрекеті;events_useraction;W
+Account type;Вид счёта;Шот түрі;accountType;W
+Job Type;Название типа задачи;Мақсат түрінің аты;jobs.jobType;W
+Change password;Смена пароля;Құпиясөзді ауыстыру;changepassword__title;W
+Country;Страна;Елі;intTransfer_recipientBankCountry;W
+Change password;Смена пароля;Құпиясөзді ауыстыру;customeruser_changepassword;W
+Exchange rates;Курсы валют;Валюталар бағамдары;exchangeRates_exchangeRates;W
+Request URL;URL запроса;Сұратымның URL;requests_url;W
+Allowed roles;Разрешенные роли;Рұқсат етілген рөлдер;authfactor_rolesAllowed;W
+Agent bank requisites;Реквизиты Банка посредника;Делдал банктің деректемелері;counterparty_agentRequisites;W
+Signature rules;Правила подписи документов;Құжаттарға қол қою ережесі;signingrules_title;W
+Add a new calendar;Добавить новый календарь;Жаңа күнтізбені қосу;addNewCalendar;W
+Результат импорта документа №;Результат импорта документа №;№ құжатты импорттау нәтижесі;payment.import.result.document;W
+User roles;Роли пользователей;Пайдаланушылардың рөлдері;roles_title;W
+View/edit constant;Просмотр/редактирование константы;Константты қарау/редакциялау;global_settings.constants.screen.view_edit;W
+Client;Клиент;Клиент;client;W
+Invoice;Выставленный мне счет;Маған ұсынылған шот;intTransfer_invoice;W
+Release date;Дата выпуска;Шығарылған күні;releaseDate;W
+Search;Поиск;Іздеу;grid_search;W
+Email;Email;Электрондық поштасы;customeruser_email;W
+Amount in transaction currency;Сумма в валюте транзакции;Транзакция валютасындағы сомасы;amountInTransactionCurrency;W
+field name;имя поля;Жолақтың аты;field_name;W
+Code;БИН/ИИН Получателя;Алушының БСН/ЖСН;transferRequisites_recipientCode;W
+Limits;Лимиты;Лимиттер;companyPersonEdit_limittabTitle;W
+Description;Название;Аты;notification_description;W
+Working with OTP tokens;Работа с ОТП токенами;ОТП токендермен жұмыс;workingWithOtpTokens;W
+BIK;БИК;БСК;bik;W
+Create a new Card product type;Создать новый Вид карточных продуктов;Карта өнімдерінің жаңа түрін жасау;createNewCardProductType;W
+Create new social contribution;Создание Социального отчисления;Әлеуметтік аударым жасау;paymentOrder_addNewSocialContribution;W
+Subdivision;Подразделение;Бөлімшесі;managerView_subdivision;W
+All demand checked;Все заявления выбраны;Барлық өтініштер таңдалды;demand_allDemandChecked;W
+Amount to;Сумма до;... дейінгі сома;signingrules_amountTo;W
+Sender;Наименование;Атауы;senderName;W
+Users roles;Роли пользователей;Пайдаланушылардың рөлдері;navigation_usersroles;W
+Status;Статус;Мәртебесі;events_status;W
+Beneficiary bank details;Банк Получателя;Алушының банкі;intTransfer_beneficiaryBankDetails;W
+OTP token;ОТП пароль;ОТП құпиясөзі;auth.opt.token;W
+Signature Level;Тип подписи;Қолтаңба түрі;companyperson_signLevel;W
+Create a new Document type;Создать новый Тип документа;Жаңа құжат түрін жасау;createDocType;W
+International bank BIK;БИК банка интернациональный;Банктің халықаралық БСК;banks_bikBankIntNat;W
+Action;Действие;Әрекет;events_action;W
+unpublish;Отменить публикацию;Жариялауды болдырмау;createDemandType_unpublish;W
+Bank code;БИК Банка Получателя;Алушы банктің БСК;transferRequisites_recipientBankCode;W
+Related Button;Связанные кнопка;Байланысты батырма;CustomRequestType_relatedButton;W
+Create;Создать;Жасау;common_create;W
+This field should not exceed 20 characters!;Это поле не должно превышать 20 символа!;Бұл жолақ 20 таңбадан аспауы тиіс!;noMore20Symbols;W
+Required Field;Обязательность заполнения;Толтырылуға міндетті;requiredField;W
+Deleted;Удален;Жойылды;customeruser_deleted;W
+Status published : true;Статус публикации: опубликовано;Жариялау мәртебесі: жарияланды;createDemandType_statusPublishedTrue;W
+Withdraw;Отозвать;Кері қайтару;common_withdraw;W
+Bank name;Наименование;Атауы;paymentOrder_recipientBankName;W
+The Document type with the same code already exists;Тип документа с таким кодом уже существует;Коды осындай құжат түрі бар;docTypeWithSameCodeAlreadyExists;W
+type name;Название типа задачи;Мақсат түрінің аты;jobs.type_name;W
+Name;Название;Аты;currency_currencyname;W
+Operations with bank;Действия;Әрекеттер;operationsWithBank;W
+Interest rate;Процентная ставка;Пайыздық мөлшерлемесі;interestRate;W
+KPP;КПП;ЕҚСК;counterparty_kpp;W
+Active;Активный;Белсенді;sessions_active;W
+Completed;Завершенный;Аяқталған;ps_Completed;W
+Creating payment purpose;Создание назначения платежа;Төлемді тағайындауды жасау;paymentOrder_createPaymentPurpose;W
+Attach file;Прикрепить файл;Файлды бекіту;intTransfer_uploadFile;W
+Date from;Дата с;Күні ... бастап;common_periodFrom;W
+Sign;Подписать;Қол қою;common.sign;W
+Login;Логин;Логин;login_login;W
+The organization is not defined;Организация не определена;Ұйым анықталмаған;common_orgIsNotDefined;W
+Add role;Добавить роль;Рөлді қосу;role_add;W
+Pay;Оплатить;Төлеу;action_pay;W
+Log in;Войти;Кіру;login_to_enter;W
+Effective interest rate;Эффективная процентная ставка;Тиімді пайыздық мөлшерлемесі;effectiveInterestRate;W
+Canceled;Отмененный;Болдырылмаған;ps_Canceled;W
+Card block/unblock;Блокирование/Разблокирование карты;Картаны бұғаттау/Бұғаттан шығару;cardBlockUnblock;W
+Users list;Список пользователей;Пайдаланушылар тізімі;customeruser_userslist;W
+View/edit social contribution;Просмотр/редактирование Социального отчисления;Әлеуметтік аударымды қарау/редакциялау;paymentOrder_viewEditSocialContribution;W
+No exchange rate types;Типы курсов валют отсутствуют;Валюталар бағамдарының түрлері жоқ;noExchangeRateTypes;W
+Get;Получить;Алу;common_get;W
+Account managers;Менеджеры счёта;Шоттың менеджерлері;common_accountManagers;W
+Card status;Статус карты;Картаның мәртебесі;cardStatus;W
+Country (Agent bank);Страна (Банка Посредника);Елі (Делдал банктің);intTransfer_agentBankCountry;W
+A point type;Тип точки;Нүкте түрі;pointType;W
+Details;Просмотр деталей;Егжей-тегжейді қарау;common_details;W
+Authorized persons;Уполномоченные лица;Уәкілетті тұлғалар;companyPersons_title;W
+Response code;Код ответа;Жауаптың коды;requests_responseCode;W
+Mail;Почта;Поштасы;navigation_mail;W
+Operations with cards;Действия;Әрекеттер;cardsOperations;W
+Edit role;Редактирование роли;Рөлдерді редакциялау;role_editTitle;W
+Create role;Создание роли;Рөлдер жасау;role_createTitle;W
+Quick Links;Быстрые ссылки;Жылдам сілтемелер;quick_links;W
+Display keyboard;Показать клавиатуру;Пернетақтаны көрсету;login_display_keyboard;W
+Issuer DN;Издатель (DN);Баспагер (DN);companyperson_certificate_issuerDN;W
+Massage;Сообщение;Хабар;documentHistory_massage;W
+Generator;Автономный генератор;Автономды генератор;authfactorcreate_generator;W
+Save as template;Создать шаблон;Үлгі жасау;paymentOrder_createTemplate;W
+Change password;Изменить пароль;Құпиясөзді өзгерту;personal_changePassword;W
+Manager role;Роль менеджера;Менеджердің рөлі;managerView_role;W
+Type already exist!;Тип с таким кодом уже существует;Коды осындай түр бар;authfactoredit_alreadyexist;W
+Locality;Населённый пункт;Елді мекен;common_locality;W
+Group;Группа констант;Константтар тобы;global_settings.constants.table.col.group;W
+Short name;Краткое имя;Қысқаша аты;customeruser_shortName;W
+Clear quick links settings;Удалить настройки быстрых ссылок;Жылдам сілемелер баптауларын жою;clear_links_settings;W
+Completition date;Дата завершения;Аяқталған күні;completionDate;W
+City;Город;Қаласы;common_city;W
+Countries;Страны;Елдер;navigation_countries;W
+Closed;Закрытые;Жабық;common_closed;W
+Operations with the City;Действия;Әрекеттер;operationsWithCity;W
+Cards statuses;Статусы карт;Карталардың мәртебесі;cardsStatuses;W
+Print;Печать;Басып шығару;paymentOrder_print;W
+Requisites;Реквизиты;Деректемелері;invoice_requisites;W
+Bank code;БИК Банка Получателя;Алушы банктің БСК;paymentOrder_recipientBankCode;W
+Expiration date;Срок действия;Қолданыс мерзімі;invoice_expire;W
+BIN;БИН/ИИН;БСН/ЖСН;common_bin;W
+Accept;Принять;Қабылдау;accept;W
+Sale;Продажа;Сату;exchangeRates_sale;W
+Credit;Зачисление;Есептеу;accTransfer_credit;W
+New Demand type;Создать новый тип заявлени;Өтініштің жаңа түрін жасау;demandType_newDemand;W
+Purpose of payment;Назначение платежа;Төлемді тағайындау;paymentOrder_paymentPurpose;W
+Менеджер;Менеджер;Менеджер;refunds.manager;W
+Are you sure you want to delete the Card product type №;Вы действительно хотите удалить Вид карточных продуктов №;Сіз шынымен № карта өнімдерінің түрін жойғыңыз келеді ме?;sureYouWantDeleteCardProductType;W
+New credit;Новый кредит;Жаңа кредит;credit_addNewDemand;W
+Currency;Валюта;Валютасы;common_currency;W
+State;Состояние;Күйі;common_state;W
+job group;Группа типа задачи;Мақсат түрінің тобы;jobs.job_group;W
+Choosen File:;Выбранный Файл;Таңдалған файл;upload_choosenFile;W
+Create a new ATM/Branch/Terminal;Создать новый Банкомат/отделение/терминал;Жаңа банкомат/бөлімше/терминал жасау;createAtmBranchTerminal;W
+User account;Учетная запись;Тіркелгі;companyPersons_useraccount;W
+View/edit payment order;Просмотр/редактирование Платежного поручения;Төлем тапсырмасын қарау/редакциялау;paymentOrder_viewEditOrder;W
+Statement;Выписка;Үзінді-көшірме;navigation_statement;W
+Publication date;Дата публикации;Жарияланған күні;news_publDate;W
+demand end point;Точка доставки заявления;Өтінішті жеткізілу нүктесі;CustomRequestType_demandEndPoint;W
+Signature;ЭЦП;ЭСҚ;authfactorcreate_signature;W
+Balance;Остаток;Қалдық;common_plannedBalance;W
+User management;Менеджмент;Менеджмент;navigation_management;W
+Edit signature rule;Редактирование правила для подписи;Қол қоюға арналған ережені редакциялау;signingrules_edit_title;W
+No currencies;Валюты отсутствуют;Валюталар жоқ;noCurrencies;W
+Viewing/Editing the Card unblocking reason;Просмотр и редактирование Причины разблокировки карты;Картаны бұғаттан шығару себептерін қарау және редакциялау;viewingEditingCardUnblockReason;W
+Type;Тип;Түрі;limit_type;W
+Submit;Отправить на подпись;Қол қоюға жіберу;common.submit;W
+Transaction history filter settings;Настройки фильтра истории транзакций;Транзакциялар тарихы сүзгісінің баптаулары;transactionsHistoryFilterSettings;W
+size field;размерность поля;жолақтың өлшемділігі;temp_sizeField;W
+Debit currency;Валюта списания;Есептен шығару валютасы;paymentOrder_debitCurrency;W
+Currency;Валюта;Валютасы;intTransfer_currency;W
+Employees list;Список сотрудников;Қызметкерлер тізімі;paymentOrder_employeeList;W
+Executor;Исполнитель;Орындаушы;events_executor;W
+Refunds;Возвраты;Қайтарымдар;navigation_returns;W
+Previous state;Начальное состояние;Бастапқы күйі;documentHistory_previousState;W
+Sessions;Сессии пользователей;Пайдаланушының сессиялары;sessions_title;W
+Create a new Card status;Создать новый Статус карт;Карталардың жаңа мәртебесін жасау;createCardStatus;W
+Event;Событие;Оқиға;eventview_title;W
+Are you sure you want to delete the Document type;Вы действительно хотите удалить Тип документа;Сіз шынымен құжат түрін жойғыңыз келеді ме?;sureYouWantDeleteDocType;W
+Dictionary: Exchange rates;Справочник: Курс валют;Анықтамалық: Валюталар бағамы;exchangeRates_handbook;W
+Invalid characters;Недопустимые символы;Рұқсат етілмеген таңбалар;paymentOrder_valid_invalidCharacters;W
+Viewing and editing the budget classification code (CSC);Просмотр и редактирование Кода бюджетной классификации(КБК);Бюджеттік сыныптама кодын (БСК) қарау және редакциялау;viewingEditingKBK;W
+Events from;События с;... бастап оқиғалар;events_eventsfrom;W
+field value;значение поля;Жолақтың мәні;common_fieldValue;W
+Transaction history;История транзакций;Транзакциялар тарихы;common_transactionHistory;W
+Document with this number already exist, we recommend use another number;Документ с таким номером уже существует, рекомендуем указать следующий номер;Нөмірі осындай құжат бар, келесі нөмірді көрсетуіңізді ұсынамыз;paymentOrder_valid_documentExist;W
+Please click "Continue" to keep working;Пожалуйста нажмите "Продлить" чтобы работать далее;Әрі қарай жұмыс істеу үшін «Ұзартуды» басыңыз;mainbar_timeoutActions;W
+System dictionaries;Системные справочники;Жүйелік анықтамалықтар;systemHandbooks;W
+Creating Account Type;Создание типа счёта;Шот түрін жасау;creatingAccountType;W
+Template Name;Имя шаблона;Үлгінің аты;payment_templateName;W
+Re-issuance;Перевыпуск;Қайта шығару;reissuance;W
+Do you confirm to remove this item?;Подтвердите действие: Вы действительно хотите удалить элемент ?;Әрекетті растаңыз: Сіз шынымен элементті жойғыңыз келеді ме?;demandType_confirm;W
+Dictionary: Districts;Справочник: Области;Анықтамалық: Облыстар;districts_handbook;W
+Operations with KBK;Действия;Әрекеттер;operationsWithKBK;W
+Active;Активный;Белсенді;customeruser_active;W
+View/edit pension contribution;Просмотр/редактирование Пенсионноого отчисления;Зейнетақы аударымын қарау/редакциялау;paymentOrder_viewEditPensionContribution;W
+History;История;Тарих;common_history;W
+Add New Demand;Добавить новое заявление;Жаңа өтінішті қосу;demandCreate_addNewDemand;W
+Id;Идентификатор;Сәйкестендіргіш;global_settings.constants.id;W
+BIC/SWIFT;БИК/SWIFT;БСК/SWIFT;intTransfer_bankSwift;W
+Exchange rates;Курс валют;Валюталар бағамы;navigation_exchangeRates;W
+Create Document;Создать платеж;Төлем жасау;common_createNewDocument;W
+Currency transfer;Международный перевод валюты;Халықаралық валюта аударымы;navigation_currencyTransfer;W
+Clear column settings;Удалить настройки колонок;Бағаналардың баптауларын жою;clear_column_settings;W
+Create new job;Создать новую задачу;Жаңа мақсатты жасау;jobs.new_job.title;W
+Bank branches;Филиалы банка;Банктің филиалдары;bankBranches;W
+User;Пользователь;Пайдаланушы;documentHistory_user;W
+Residency code;КБЕ;БеК;common_kbe;W
+Наименование Банка;Наименование Банка;Банктің атауы;refunds.sender.bank.name;W
+year;год;Жылы;yearLowerCase;W
+Rejected;Отклонён;Қабылданбады;common_rejected;W
+Value from dictionary;Значение из справочника;Анықтамалықтағы мәні;global_settings.constants.handbook_value;W
+Blocked transactions;Заблокированные транзакции;Бұғатталған транзакциялар;blockedTransactions;W
+Balance;Остаток;Қалдық;paymentOrder_balance;W
+Certificate type;Тип сертификата;Сертификат түрі;certTypes;W
+Code VO description;Описание VO;VO сипаттамасы;intTransfer_codeVoDescription;W
+Loan products types;Виды кредитных продуктов;Кредит өнімдерінің түрлері;creditProductTypes;W
+Max length;Поле должно быть не больше;Жолақ ... үлкен болмауы тиіс;common_maxLength;W
+Debit account;Счет списания;Есептен шығару шоты;accTransfer_debitAccount;W
+Amount from;Сумма от;Сомасы ... бастап;signingrules_amountFrom;W
+Channel;Канал;Арна;events_channel;W
+Are you sure you want to delete the Card block reason;Вы действительно хотите удалить Причину блокировки карты;Сіз шынымен картаны бұғаттау себебін жойғыңыз келеді ме?;sureYouWantDeleteCardBlockReason;W
+This field must contains only letters;Это поле должно содержать только буквенные символы!;Бұл жолда әріптік таңбалар ғана болуы тиіс!;common_field_onlyletters;W
+Organization role;Роль в организации;Ұйымдағы рөлі;companyperson_organizationRole;W
+PDF;PDF;PDF;common_exporttopdf;W
+Payments;Платежи;Төлемдер;navigation_payments;W
+Contract audit number;Учетный номер контракта;Келісім-шарттың есептік нөмірі;common_contractAuditNumber;W
+Purchase;Покупка;Сатып алу;exchangeRates_purchase;W
+Your text;Ваш текст;Сіздің мәтініңіз;yourText;W
+This field should not exceed 512 characters!;Это поле не должно превышать 512 символа!;Бұл жолақ 512 таңбадан аспауы тиіс!;noMore512Symbols;W
+Are you sure you want to delete the code of budget classification number;Вы действительно хотите удалить Код бюджетной классификации №;Сіз шынымен № бюджеттік сыныптама кодын жойғыңыз келеді ме?;sureYouWantDeleteKBK;W
+Copy a calendar;Скопировать календарь;Күнтізбені көшіру;copyCalendar;W
+Phone;Телефон;Телефон;customeruser_phone;W
+Refunds;Возвраты;Қайтарымдар;refunds.title;W
+National bank of Kazakhstan;Национальный банк Республики Казахстан;Қазақстан Республикасының Ұлттық банкі;exchangeRates_nbrk;W
+Amount;Сумма;Сомасы;domTransfer_amount;W
+Period;Периодичность;Мерзімділігі;standing.order.periodicity;W
+Transliterate;Транслитерация;Транслитерациясы;intTransfer_transliterate;W
+Person type;Юридический статус;Заңды мәртебесі;organizationsCreate_persontype;W
+Ordering customer name;Имя плательщика;Т.А.Ә.;common_fullName;W
+Creating a Card product type;Создание Вида карточных продуктов;Карта өнімдерінің түрін жасау;creatingCardProductType;W
+Set as default;Установить по умолчанию;Әдепкі қалпы бойынша орнату;common_setDefault;W
+Additionaly;Дополнительно;Қосымша;additionally;W
+IIN/BIN;БИН/ИИН;БСН/ЖСН;senderBIN;W
+Operations with the Cards status;Действия;Әрекеттер;operationsWithCardsStatus;W
+Date;Дата;Күні;events_eventdate;W
+Carried forward balance;Исходящий остаток;Шығыс қалдық;carriedForwardBalance;W
+add demand type field;добавить поле типа заявления;Өтініш түрінің жолағын қосу;add_custom_field;W
+Create new type;Создать новый тип;Жаңа түр жасау;common_createNewType;W
+User name;ФИО;Т.А.Ә.;sessions_username;W
+3 letters;3 буквенных символа;3 әріптік таңба;common_field_3letters;W
+Calendars list error loading. Please reload the page or try again later;Ошибка загрузки списка календарей. Перезагрузите страницу или попробуйте позже;Күнтізбелер тізімін қотару қателігі. Бетті қайта қотарыңыз немесе кейін талпынып көріңіз;calendarsLoadingErrorReload;W
+VC Tariffs;Тарифы УЦ;ЕО тарифтері;tariffs;W
+Block requisites: Info from bank;Блок реквизитов: Информациия от банка;Деректемелер блогы: Банктен келген ақпарат;refunds.infoFromBank;W
+Sent;Отправлено;Жіберілді;sent;W
+Document types;Типы документов;Құжат түрлері;signingrules_doctypes;W
+Your online session will expire in;Сессия завершится через;Сессия ... кейін аяқталады;mainbar_timeoutWarning;W
+characters maximum length;символов максимальная длина;Максималды ұзындығы ... таңба;paymentOrder_valid_lengthLimit;W
+iban has wrong format;iban имеет не правильный формат;iban форматы қате;common.iban.wrongCode;W
+Temporary certificate;Технологический сертификат;Технологиялық сертификаты;companyperson_certificate_temp;W
+Send;Отправить;Жіберу;send;W
+Employees;Сотрудники;Қызметкерлер;navigation_employees;W
+Terminal IP;IP терминала;Терминалдың IP;events_terminal2;W
+Link;Ссылка;Сілтеме;link;W
+Change;Изменить;Өзгерту;Common_change;W
+Pension contribution refund;Возврат по пенсионному отчислению;Зейнетақы аударымы бойынша қайтарым;refunds.pensioncontribution;W
+The total blocked amount;Общая заблокированная сумма;Жалпы бұғатталған сома;totalBlockedAmount;W
+Cod;Код;Коды;paymentOrder_payerResidencyCode;W
+Additional information;Дополнительная информация;Қосымша ақпарат;paymentOrder_info;W
+Manager menu;Меню менеджера;Менеджердің мәзірі;page_managermenutitle;W
+Correspondent account;Кор. счет;Корреспонденттік шоты;intTransfer_correspondentAccount;W
+Cost;Стоимость;Бағасы;cost;W
+template notification;Шаблон уведомления;Хабарлама үлгісі;template_notification;W
+Roles;Роли;Рөлдер;companyPersonEdit_roletabTitle;W
+Counterparty;Контрагент;Контрагент;counterparty;W
+Continue;Продлить;Ұзарту;mainbar_continue;W
+Operations with the Deposit product type;Действия;Әрекеттер;operationsWithDepositProductType;W
+Files;Файлы;Файлдар;intTransfer_files;W
+Block/Unblock card;Блокировка/Разблокировка карты;Картаны бұғаттау/Бұғаттан шығару;title_block_unblock;W
+Card number;Номер карты;Карта нөмірі;card_number;W
+Is blocked;Блокирован;Бұғатталған;card_number_is_blocked;W
+No data in the table;Данные в таблице отсутствуют;Кестедегі деректер жоқ;grid_emptyRowLabel;W
+hour;Часы;Сағат;hour;W
+minute;Минуты;Минуттар;minute;W
+Demand;Заявление;Өтініш;demand_tab;W
+for document;По документу;Құжат бойынша;for_document;W
+job Group;Группа задач;Мақсаттар тобы;jobsGroup.edit_jobGroup.title;W
+Draft number;Номер черновика;Алғашқы түрінің нөмірі;draft_number;W
+Draft type;Тип черновика;Алғашқы түрінің типі;draft_type;W
+Intermediary bank;Банк посредник;Делдалдық банк;bank_correspondent;W
+Document;Документ;Құжат;document;W
+Login properties;Настройки входа;Кіру баптаулары;personal_login;W
+document;документом;Құжатпен;document1;W
+Click to hide this message;кликните чтобы скрыть это сообщение;Бұл хабарды жасыру үшін шертіңіз;Click_hide_this_message;W
+every Second;Каждую секунду;Секунд сайын;jobs.schedule.everySecond;W
+start From Second;Начиная с секунды;... секундтан бастап;jobs.schedule.startFromSecond;W
+specific Second;Указанная секунда;Көрсетілген секунд;jobs.schedule.specificSecond;W
+beetween Second;Между секундами;Секундтар арасында;jobs.schedule.beetweenSecond;W
+every Minute;Каждую минуту;Минут сайын;jobs.schedule.everyMinute;W
+start From Minute;Начиная с  минуты;... минуттан бастап;jobs.schedule.startFromMinute;W
+specific Minute;Указанная минута;Көрсетілген минут;jobs.schedule.specificMinute;W
+beetween Minute;Между минутами;Минуттар арасында;jobs.schedule.beetweenMinute;W
+every Hour;Каждый час;Сағаттар арасында;jobs.schedule.everyHour;W
+start From Hour;Начиная с определенного часа;Белгілі сағаттан бастап;jobs.schedule.startFromHour;W
+specific Hour;Указанный час;Көрсетілген сағат;jobs.schedule.specificHour;W
+beetween Hour;Между часами;Сағаттар арасында;jobs.schedule.beetweenHour;W
+every Day;Каждый день;Күн сайын;jobs.schedule.everyDay;W
+start From Day Of Week;Начиная с дня недели;Апта күнінен бастап;jobs.schedule.startFromDayOfWeek;W
+start From Day Of Month;Начиная с дня Месяца;Айдың күнінен бастап;jobs.schedule.startFromDayOfMonth;W
+specific Day Of Week;Определенный день недели;Аптаның белгілі күні;jobs.schedule.specificDayOfWeek;W
+specific Day Of Month;Определенный день месяца;Айдың белгілі күні;jobs.schedule.specificDayOfMonth;W
+every Month;Каждый месяц;Ай сайын;jobs.schedule.everyMonth;W
+start From Month;Начиная с определенного месяца;Белгілі айдан бастап;jobs.schedule.ststartFromMonth;W
+specific Month;Определенный месяц;Белгілі ай;jobs.schedule.specificMonth;W
+beetween Month;Между месяцами;Айлар арасында;jobs.schedule.beetweenMonth;W
+Second;Секунды ;Секундтар ;jobs.schedule.second;W
+Minute;Минуты ;Минуттар ;jobs.schedule.minute;W
+Hour;Часы ;Сағат ;jobs.schedule.hour;W
+Day;Дни ;Күндер ;jobs.schedule.day;W
+Month;Месяцы ;Айлар;jobs.schedule.Month;W
+Every ;Каждый ;Әрбір ;jobs.Every;W
+second(s) starting at second;секунду начиная с секунды;секунд секундтан бастап;jobs.second_starting_at_second;W
+Every;Каждую;Әрбір;jobs.Every_second;W
+Specific second (choose one or many);Определенная секунда (выберите одну или несколько);Белгілі секунд (біреусін немесе бірнешеуін таңдаңыз);jobs.Specific_second;W
+Every second between second;Каждую секунду между секундой ;Секунд арасындағы секунд сайын;jobs.every_second_between_second;W
+and second;и секундой;және секунд;jobs.and_second;W
+minute(s) starting at minute;минуту начиная с минуты;минуттан бастап минут;jobs.minute_starting_at_minute;W
+Specific minute (choose one or many);Определенная минута (выберите одну или несколько);Белгілі минут (біреусін немесе бірнешеуін таңдаңыз);jobs.specific_minute;W
+Every minute between minute;Каждую минуту между минутой;Минут арасындағы минут сайын;jobs.Every_minute_between;W
+and minute;и минутой;және минут;jobs.and_minute;W
+Specific day of week (choose one or many);Определенный день недели (выберите один или несколько);Аптаның белгілі күні (біреусін немесе бірнешеуін таңдаңыз);jobs.Specific_day_of_week;W
+Specific month (choose one or many);Определенный месяц (выберите один или несколько);Белгілі ай (біреусін немесе бірнешеуін таңдаңыз);jobs.Specific_month;W
+month(s) starting in;месяц начиная с ;... айдан бастап ;jobs.month_starting_in;W
+Every Month between month;Каждый месяц между месяцем;Ай арасындағы ай сайын;jobs.Every_Month_between;W
+and month;и месяц;және ай;jobs.and_month;W
+day starting at day;день начиная с дня;күннен бастап күн;jobs.day_starting_at_day;W
+month starting on the;месяц начиная с;... бастап ай;jobs.month_starting_on;W
+Specific day of month (choose one or many);Определенный день месяца (выберите один или несколько);Айдың белгілі күні (біреусін немесе бірнешеуін таңдаңыз);jobs.Specific_day_of_month;W
+hour(s) starting at hour;час начиная с часа;сағаттан бастап сағат;jobs.hour_starting_at_hour;W
+Specific hour (choose one or many);Определенный час (выберите один или несколько);Белгілі сағат (біреусін немесе бірнешеуін таңдаңыз);jobs.Specific_hour;W
+Every hour between hour;каждый час между часом;Сағат арасындағы сағат сайын;jobs.Every_hour_between;W
+and hour;и часом;және сағат;jobs.and_hour;W
+By amount;По сумме;Сомасы бойынша;by_amount;W
+Expand filter;Раскрыть фильтр;Сүзгіні ашу;expand_filter;W
+Close filter;Скрыть фильтр;Сүзгіні жасыру;close_filter;W
+All receivers;Все получатели;Барлық алушы;all_receivers;W
+New;Новых;Жаңа;notifications_new;W
+No new notifications;Нет новых уведомлений;Жаңа хабарлама жоқ;notifications_nonew;W
+All accounts;Счета;Шоттар;all_accounts;W
+All states;Все статусы;Барлық мәртебелер;all_states;W
+All payers;Все плательщики;Барлық төлеушілер;all_payers;W
+Quick links properties;Настройка быстрых ссылок;Жылдам сілтемелерді баптау;quick_links_props;W
+Exposed order;Выставленные мной счета;Мен ұсынған шоттар;exposed_tab;W
+Invoice;Выставленные мне счета;Маған ұсынылған шоттар;invoice_tab;W
+Awaits Signature;Ожидающие подписи;Қол қоюды күтуде;task_awaits;W
+Ready;Готовы к отправке;Жіберуге дайын;task_ready;W
+With error;С ошибкой;Қатесі бар;task_with_error;W
+Unpaid;Неоплаченые счета;Төленбеген шоттар;task_unpaid;W
+ALL;ВСЕ;БАРЛЫҒЫ;working_all;W
+ON SIGN;НА ПОДПИСЬ;ҚОЛ ҚОЮҒА;working_sign;W
+WITH ERROR;С ОШИБКОЙ;ҚАТЕЛІГІ БАР;working_error;W
+FOR SEND;К ОТПРАВКЕ;ЖІБЕРУГЕ;working_send;W
+Running;Запущена;Іске қосылды;jobs.isRunning;W
+change Active;Сменить активность;Белсенділікті аудару;jobs.changeActive;W
+Stop;Остановить;Тоқтату;jobs.stop;W
+Loading;Идёт загрузка;Қотару жүруде;common_loading;W
+Creating key;Создаю ключ;Кілт жасау;signature_creatingKey;W
+Key has been created;Ключ создан;Кілт жасалды;signature_createdKey;W
+File import in progress;Идет загрузка файла;Файлды қотару жүруде;file_import_in_progress;W
+File import;Импорт документов;Құжаттарды импорттау;file_import_title;W
+Common balance;Общий суммарный остаток;Жалпы жиынтық қалдық;common_sum_balance;W
+Logon to Personal Internet Banking;Вход в систему Интернет-банкинг;Интернет-банкинг жүйесіне кіру;login_expo_head;W
+Departments;Отделения;Бөлімшелер;departments;W
+Tariffs;Тарифы;Тарифтер;common_tariffs;W
+Hereby I do authorize the Bank to submit the information about this payment/money transfer to the law-enforcement bodies and National Bank of the Republic of Kazakhstan, if so required.;Разрешаю уполномоченному банку представление информации о данном платеже и (или) переводе денег в правоохранительные органы Республики Казахстан и Национальный Банк по их требованию.;Уәкілетті банкке бұл төлем және (немесе) ақша аударымы туралы ақпаратты Қазақстан Республикасының құқық қорғау органдарына және Ұлттық банкке беруге рұқсат етемін;intTransfer_isPermitGiveInformation;W
+User type;Тип пользователя;Пайдаланушы түрі;events_executortype;W
+Documents are signing;Подписываются документ(ы);Құжатқа (құжаттарға) қол қойылады;docSigning_processing;W
+Phone number;Номер телефона;Телефон нөмірі;login_phone_number;W
+Can't login by signature! Possible password incorrect.;Не удалось войти по цифровой подписи! Возможно, пароль введен неправильно.;Сандық қолтаңба бойынша кіру мүмкін болмады! Бәлкім, құпиясөз қате енгізілген шығар;login_signErr;W
+Interface language;Язык интерфейса;Интерфейс тілі;personal_langSelector;W
+Favorite;Избранное;Таңдаулы;favorite;W
+Currency calculator;Калькулятор валюты;Валюта калькуляторы;currency_calc;W
+Refreshed;Обновлено;Жаңартылды;er_refreshed;W
+Buy;Покупка;Сатып алу;er_buy;W
+Sell;Продажа;Сату;er_sell;W
+Buy;Покупаю;Сатып аламын;calc_buy;W
+Sell;Продаю;Сатамын;calc_sell;W
+Calculate;Рассчитать;Есептеу;calc_calc;W
+Reset;Сбросить;Ысыру;calc_reset;W
+Result;Результат;Нәтижесі;calc_result;W
+All accounts;Все счета;Барлық шоттар;common_all_accounts;W
+Operations history;История операций;Амалдар тарихы;operation_history;W
+Format statement;Формат выписки;Үзінді-көшірме форматы;format_statement;W
+File;Файл;Файл;st_file;W
+Search with purpose;Поиск по назначению платежа;Төлемнің тағайындалуы бойынша іздеу;search_purpose;W
+Not chosen;Не выбрано;Таңдалған жоқ;common_notChosen;W
+All operations;Все операции;Барлық амалдар;dt_allOperations;W
+Main news;Главные новости;Бас жаңалықтар;news_main;W
+Archive news;Архив новостей;Жаңалықтар мұрағаты;archive_news;W
+Without template;Без шаблона;Үлгісіз;without_temp;W
+By write-off amount;По сумме списания;Есептен шығару сомасы бойынша;at_writeOff;W
+Enlistment amount;По сумме зачисления;Есептеу сомасы бойынша;at_enlistment;W
+By rate;По курсу;Бағам бойынша;at_rate;W
+By write-off account;По счету списания;Есептен шығару шоты бойынша;at_writeOffAcc;W
+By Enlistment account;По счету зачисления;Есептеу шоты бойынша;at_enlistmentAcc;W
+By write-off currency;По валюте списания;Есептен шығару валютасы бойынша;at_writeOffCurr;W
+By enlistment currency;По валюте зачисления;Есептеу валютасы бойынша;at_enlistmentCurr;W
+All currencies;Все валюты;Барлық валюта;all_currencies;W
+All categories;Все категории;Барлық санаттар;all_categories;W
+Forgot password;Забыли пароль;Құпиясөзді ұмыттыңыз ба?;login_forgot;W
+Show all;Показать все;Барлығын көрсету;common_show_all;W
+SMS require;Требовать СМС при входе;Кіретін кезде СМС талап ету;personal_smsrequire;W
+Bank information;Информация о банке;Банк туралы ақпарат;footer_bankInfo;W
+Bank requisites;Реквизиты банка;Банктің деректемелері;footer_requisites;W
+Licences and solutions;Лицензии и решения;Лицензиялар мен шешімдер;footer_licence;W
+Accountability;Отчетность;Есептілік;footer_accountability;W
+International Payments;Платежи в ин. валюте;Шетел валютасындағы төлемдер;navigation_intTransfers_expo;W
+name En;Наименование Английское;Ағылшынша атауы;common.nameEn;W
+name Ru;Наименование Русское;Орысша атауы;common.nameRu;W
+name KK;Наименование Казахское;Қазақша атауы;common.nameKK;W
+Resend sms;Повторить смс;sms-ты қайталаңыз;resend_sms;W
+BIN/IIN/INN;БИН/ИИН/ИНН;БСН/ЖСН/ЖСН;intTransfer_benefCode;W
+Connection error. Check your digital signature software;Ошибка подключения. Проверьте установлено ли необходимое программное обеспечение для работы с ЭЦП;Қате қосылды. ЭСҚ-мен жұмыс істеуге арналған қажетті бағдарламалық жасақтаманың орнатылғанын тексеріңіз;socket_closed;W
+Transfer between accounts;Перевод между счетами;Шоттар арасындағы аударым;actions_transfer;W
+Conversion;Конвертация;Айырбастау;actions_conversion;W
+Value on all languages;Значение на нескольких языках;Бірнеше тілдегі мәні;multilanguage_value_label;W
+Contracts;Контракты;Келісім-шарттар;contracts;W
+Start time;Время начала работы;Жұмыстың басталу уақыты;start_time;W
+End time;Время окончания работы;Жұмыстың аяқталу уақыты;end_time;W
+Break start time;Время начала перерыва;Үзілістің басталу уақыты;break_start_time;W
+Break end time;Время окончания перерыва;Үзілістің аяқталу уақыты;break_end_time;W
+Length of amount too long;Размер числа превышает допустимое значение;Санның үлкендігі рұқсат етілген мәннен асады;error_toLongField;W
+Set date in next format 31.12.2017;Введите дату в следующем формате 31.12.2017;Күнді келесі үлгіде 31.12.2017 жазыңыз;set_date_in_format;W
+Bank code;Код банка;Банктің коды;bankCode;W
+Required field when payment amount more or equals then 10 000$;Обязательное поле при сумме платежа большей или равной 10 000$;Төлем сомасы 10 000$-дан үлкен немесе тең міндетті жолақ;required_field_10000;W
+Template saved successfully;Шаблон успешно сохранен;Үлгі табысты сақталды;template_saved;W
+Saving template;Сохранение шаблона;Үлгіні сақтау;template_saving;W
+Fill message template for channel;Заполните шаблон сообщения для канала;Арнаға арналған хабарлама үлгісін толтырыңыз;notificationtype_messagetextempty;W
+Save;Сохранить;Сақтау;common_updateDocument;W
+Client's exposed order;Выставленные клиентам счета;Клиенттерге ұсынылған шоттар;manager_exposedOrder;W
+Planned balance;Плановый остаток;Жоспарлы қалдық;common_planBalance;W
+Password doesn't match password policy;Комбинация символов не соответствует парольной политике;Таңбалар комбинациясы құпиясөз саясатына сәйкес келмейді;passPolicy;W
+Password constraints more than 2 sequence characters;Не более 2-х повторяющихся подряд символов;Бірінен кейін бірі қайталанатын 2 таңбадан аспайды;passSequence;W
+Password constraints more than 2 sequence characters;Не более 2-х последовательных символов;2 реттік таңбадан аспайды;passSeq2;W
+translation for type document;Переводы для тип заявления;Өтініш түріне арналған аударымдар;translation_for_type_document;W
+User id;Идентификатор пользователя;Пайдаланушыны сәйкестендіргіш;events_login;W
+Clear orders settings;Удалить настройки виджетов;Виджеттердің баптауларын жою;clear_orders_settings;W
+Mailing groups;Группы рассылки;Жіберу топтары;mailing_groups;W
+Correspondence;Почтовая переписка;Пошта арқылы хат алмасу;mailing_correspondence;W
+Mass mailing;Массовая рассылка;Көпшілікке жіберу;mass_mailing;W
+View/Edit;Просмотр/Редактирование;Қарау/редакциялау;letter_view_edit;W
+Sender name;Наименование отправителя;Жіберушінің атауы;sender_name;W
+Sender account;Счет отправителя;Жіберушінің шоты;sender_acc;W
+Receiver name;Наименование получателя;Алушының атауы;receiver_name;W
+External ID;ID клиента АБС;АБС клиентінің ID;abs_client_id;W
+Should not contain;Не должно содержать;Қамтымауы тиіс;should_not_contain;W
+All types;Все типы;Барлық түрлер;common_allTypes;W
+Birth place;Место рождения;Туған жері;person_birth_place;W
+Passport Number;Номер паспорта;Төлқұжат нөмірі;person_passport_number;W
+Passport Start date;Дата начала действия пасспорта;Төлқұжаттың қолданыла бастаған күні;person_passport_start_date;W
+Passport End date;Дата окончания действия пасспорта;Төлқұжаттың қолданылуының аяқталатын күні;person_passport_end_date;W
+Passport Place issue;Место выдачи пасспорта;Төлқұжаттың берілген орны;place_passport_issue;W
+Gender;Пол;Жынысы;gender;W
+Add Category;Добавить категорию;Санатты қосу;provider_service_add_category;W
+Category of services;Категории услуг;Қызметтер санаттары;provider_service_categories;W
+Name;Наименование;Атауы;provider_service_name;W
+Full name;Полное наименование;Толық атауы;provider_service_full_name;W
+Code;Код;Коды;provider_service_full_code;W
+Upper category;Категория верхнего уровня;Жоғары деңгей санаты;provider_service_upper_category;W
+Payment services;Платежные услуги;Төлем қызметтері;provider_service_payment_services;W
+View Payment services;Просмотр Платежных услуг;Төлем қызметтерін қарау;provider_service_payment_services_view;W
+Edit Payment services;Редактирование Платежных услуг;Қызметті редакциялау;m_provider_service_edit;W
+Service Provider;Агрегаторы услуг;Қызметтердің агрегаторлары;provider_service_providers;W
+Add Provider;Добавить Агрегатор;Агрегаторды қосу;provider_service_add_provider;W
+Services;Услуги;Қызметтер;provider_service_services;W
+Add Service;Добавить услугу;Қызмет қосу;provider_service_add_service;W
+Field type;Тип поля;Жолақ түрі;provider_service_field_type;W
+Reference to dictionary;Ссылка на справочник;Анықтамалыққа сілтеме;provider_service_ref_to_dict;W
+Provider name;Название провайдера;Провайдердің аты;provider_service_provider_name;W
+Add field;Добавить поле;Жолақ қосу;provider_service_add_field;W
+Export to MT;Экспорт в МТ;МТ-ға экспорттау;export_mt;W
+Export in MT format (documents):;Экспортировано в формате МТ (документов):;МТ форматында экспортталды (Құжаттар):;export_mt_result;W
+Overdue;Просроченный;Мерзімі өткен;ps_Overdue;W
+Information and suggestions;Информация и предложения;Ақпарат пен ұсыныстар;navigation_infoAndSuggestions;W
+Other operations;Прочие операции;Басқа амалдар;navigation_otherTransactions;W
+International transfers;Перевод валюты;Валюта аудару;navigation_intTransfers;W
+Invoices;Счета на оплату;Төленетін шоттар;navigation_invoices;W
+Accounts and products;Счета и продукты;Шоттар мен өнімдер;navigation_p_person_products;W
+In tenge;В тенге;Теңгемен;navigation_p_person_domTransfer;W
+In currency;В валюте;Валютада;navigation_p_person_intTransfer;W
+Transfers between own account;Между своими счетами;Өзінің шоттары арасында;navigation_p_person_accountTransfer;W
+Card transfers;Переводы между картами;Карталар арасындағы аударымдар;navigation_p_person_p2p;W
+To editing;Редактировать;Редакциялау;action_toDraft;W
+Send for signature;На подпись;ҚОЛ ҚОЮҒА;action_sendForSignature;W
+symbols;символов;... таңба;common_symbolsForLength;W
+Length;Поле должно быть;Жолақ ... болуы тиіс;common_length;W
+Beneficiary account number and bank code could not be empty.;Номер счета и код банка плательщика не могут быть пустыми.;Төлеуші шотының нөмірі мен банкісінің коды бос болмауы керек.;error_acc_number_bik_not_null;W
+Account number and amount could not be empty.;Номер счета плательщика и сумма платежа не могут быть пустыми;Төлеуші шотының нөмірі мен төлем сомасы бос болмауы тиіс;error_acc_number_amount_not_null;W
+5-7 account symbols must be -;5-7 символы счета должны быть -;Шоттың 5-7 таңбасы ... болуы тиіс;account_error_string2;W
+The specified beneficiary account does not correspond to the selected bank. Bank code;Указанный счет получателя не соответствует выбранному банку. Код банка;Көрсетілген алушының шоты таңдалған банкке сәйкес келмейді. Банктің коды;account_error_string1;W
+Show;Показать;Көрсету;common_show;W
+Client;Клиенты;Клиенттер;clients;W
+Активен;Активен;Белсенді;organization.grid.active;W
+Opened;Открытый;Ашық;common_active;W
+Current accounts;Текущие счета;Ағымдағы шоттар;current_accounts;W
+Cash Flow;Финансовая динамика;Қаржы серпіні;graph_title;W
+Year;За год;Бір жылда;graph_periodType_year;W
+Quarter;За квартал;Бір тоқсанда;graph_periodType_quarter;W
+Month;За месяц;Бір ай бұрын;graph_periodType_month;W
+Balance;Остаток;Қалдық;graph_dataType_balance;W
+Credit;Приходы;Кіріс;graph_dataType_credit;W
+Debet;Расходы;Шығыс;graph_dataType_debet;W
+Domestic Payments;Платежи в нац. валюте;Ұлттық валютадағы төлемдер;navigation_payments_expo;W
+Conversions;Конвертации;Айырбастаулар;navigation_conversion_expo;W
+Welcome;Добро пожаловать;Қош келдіңіз;welcome;W
+IIN;ИИН;ЖСН;paymentOrder_payerCode_expo;W
+Debit details;Реквизиты продажи;Сату деректемелері;document_conversionDebitDetails;W
+Credit details;Реквизиты  покупки;Сатып алу деректемелері;document_conversionCreditDetails;W
+Beneficiary details;Детали бенефициара;Бенефициардың егжей-тегжейі;paymentOrder_beneficiary;W
+Internal payments;Внутренние платежи;Ішкі төлемдер;document_transfer;W
+The total length of the following Recipient fields;Суммарная длина следующих полей Получателя;Алушының келесі жолақтарының жиынтық ұзындығы;field_total_length;W
+should not exceed 140 chars;не должна превышать 140 символов;140 таңбадан аспауы тиіс;should_not_exceed_140;W
+Support contacts;Контакты службы клиентской поддержки:;Клиеттерді қолдау қызметінің байланыстары:;support_contacts;W
+Account transfer;Перевод между своими счетами / Конвертация валюты;Өз шоттарыңыз арасында аудару / Валюта айырбастау;paymentOrder_addNewAccountTransfer;W
+Opened;Открытый;Ашық;common_opened;W
+Your personal manager;Ваш персональный менеджер;Сіздің жеке менеджеріңіз;personal_manager;W
+Search by beneficiary's details;Поиск по реквизитам получателя;Алушының деректемелері бойынша іздеу;search_benefDetails;W
+Password change;Изменение пароля;Құпиясөзді өзгерту;personal_changingPass;W
+Validation for red balance;Проверка на красный баланс;Қызыл балансқа тексеру;valid_redBalance;W
+Validation for unique main fields;Проверка на уникальность по основным полям;Негізгі жолақтар бойынша бірегейлікке тексеру;valid_uniqueMainFields;W
+Validate account for  digital bank code;Проверка на соответсвие счета цифровому кода банка;Шоттардың банктің сандық кодына сәйкестігін тексеру;valid_validateAccountByBankCode;W
+Edit the letter;Редактировать письмо;Хатты редакциялау;letter_edit;W
+Reply letter;Ответить на письмо;Хатқа жауап беру;letter_reply;W
+View letter chain;Просмотр переписки;Өзара жазысқан хат-хабарларды қарау;letter_chain_view;W
+Sent to bank;Отправить в банк;Банкке жіберу;action_sentToBank;W
+Confirm by;Подтвердить;Растау;confirmation_title;W
+eSign;ЭЦП;ЭСҚ;login_factor_Signature;W
+Create exposed order;Выставление нового счета;Жаңа шоттар ұсыну;invoice_createNew;W
+Информация;Информация;Ақпарат;page_expose_orders_information;W
+Show closed cards;Показать закрытые карты;Жабық карталарды көрсету;showClosedCards;W
+View and edit invoice;Просмотр/редактирование;Қарау/редакциялау;invoice_edit;W
+Loan term;Срок займа;Қарыз мерзімі;loanTerm;W
+ months; месяца; ай;months;W
+Conversion;Конвертация валюты;Валюта айырбастау;document_conversion;W
+Name;Наименование;Атауы;constraint_name;W
+Type;Тип;Түрі;constraint_type;W
+Value;Значение;Мәні;constraint_value;W
+Is required;Признак обязательности;Міндеттілік белгісі;constraint_isRequired;W
+Error text;Текст ошибки;Қателік мәтіні;constraint_error;W
+Validations;Валидации полей;Жолақтар валидациялары;constraint_validations;W
+Enable;Включена;Қосулы;constraint_true;W
+Disable;Отключена;Өшірулі;constraint_false;W
+Warning;Предупреждение;Ескерту;constraint_warn;W
+Mandatory field;Обязательное поле;Міндетті жолақ;constraint_required_field;W
+Max length;Максимальная длина поля;Жолақтың максималды ұзындығы;constraint_max_length;W
+Min length;Минимальная длина поля;Жолақтың минималды ұзындығы;constraint_min_length;W
+Length;Длина поля;Жолақтың ұзындығы;constraint_length;W
+Regular expression;Регулярное выражение;Тұрақты көрсету;constraint_regexp;W
+Iban account validation;Iban валидация счета;Шоттың Iban валидациясы;constraint_iban;W
+Tax number validation;Валидация налогового номера;Салық нөмірінің валидациясы;constraint_tax_number;W
+Amount not null;Сумма не должна быть 0;Сома 0 болмауы тиіс;constraint_amount_not_null;W
+Check in database;Проверка в базе данных;Деректер базасынан тексеру;constraint_check_db;W
+Check account for belonging to user;Проверка счета на принадлежность пользователю;Шоттардың пайдаланушыға тиесілі екендігін тексеру;constraint_check_acc;W
+Control vat;Контроль НДС;ҚҚС бақылау;constraint_vat;W
+Check value date;Проверка даты платежа;Төлем күнін тексеру;constraint_value_date;W
+Common document validation;Общая валидация документа;Құжаттың жалпы валидациясы;constraint_global;W
+Document fields validation;Валидация полей документа;Құжат жолақтарының валидациясы;constraint_fields_validation;W
+Employee fields validation;Валидация полей сотрудников;Қызметкерлер жолақтарының валидациясы;constraint_employee_validation;W
+Handbook of KBE;Справочник КБЕ;БеК анықтамалығы;constraint_db_residencyCodes;W
+Handbook of budget codes;Справочник бюджетных кодов;Бюджеттік кодтар анықтамалығы;constraint_db_budgetCodes;W
+Handbook of KNP;Справочник КНП;ТТК анықтамалығы;constraint_db_purposeCodes;W
+Handbook of employee transfer categories;Справочник типов отчислений сотрудникам;Қызметкерлерге аударым түрлерінің анықтамалығы;constraint_db_employeeTransferCategories;W
+Handbook of Fee type;Справочник типов комисий;Комиссия түрлерінің анықтамалығы;constraint_db_feeType;W
+Handbook of countries;Справочник стран;Елдер анықтамалығы;constraint_db_countries;W
+Handbook of banks;Справочник банков;Банктер анықтамалығы;constraint_db_bank;W
+Handbook of local banks;Справочник локальных банков;Жергілікті банктер анықтамалығы;constraint_db_localBanks;W
+Handbook of currencies;Справочник валют;Валюталар анықтамалығы;constraint_db_currency;W
+Yes;Да;Иә;common_yes;W
+No;Нет;Жоқ;common_no;W
+Individual privilegies;Индивидуальные привилегии;Жеке артықшылықтар;companyperson_indprivileges;W
+For individuals?;Для физических лиц?;Жеке тұлғалар үшін бе?;knp_for_individuals;W
+Collapse;Свернуть;Кішірейту;common_collapse;W
+Expand;Развернуть;Жаю;common_expand;W
+Service point status;Состояние отделения;Бөлімшенің жағдайы;service_point_status;W
+Open;Открыто;Ашық;service_point_open;W
+Closed;Закрыто;Жабық;service_point_closed;W
+New currency;Создание новой Валюты;Жаңа валюта жасау;currency_newcurrency;W
+Currency editor;Обновление Валюты;Валютаны жаңарту;currency_currencyeditor;W
+Id;Ид;ID;common_short_id;W
+Non blocked;Не блокирован;Бұғатталмаған;common_nonBlocked;W
+Organization status;Статус организации;Ұйымның мәртебесі;common.organization.status;W
+Payment for services;Оплата услуг;Қызметтерді төлеу;payment_service_view;W
+Jobs;Задачи;Мақсаттар;navigation_tasks;W
+View payment order;Просмотр платежного поручения;Төлем тапсырмасын қарау;paymentOrder_view;W
+View all rates;Посмотреть все курсы;Бағамдардың барлығын қарау;err_all_rates;W
+SMS;SMS;SMS;login_factor_SMS;W
+Debit details;Реквизиты списания;Есептен шығару деректемелері;document_transferDebitDetails;W
+Credit details;Реквизиты  зачисления;Есептеу деректемелері;document_transferCreditDetails;W
+Tax code;ИНН;ЖСН;common_tax_code;W
+Create Category;Создать категорию;Санат жасау;provider_service_create_category;W
+Edit Category;Редактировать категорию;Санатты редакциялау;provider_service_edit_category;W
+Create Provider;Создать Агрегатор;Агрегатор жасау;provider_service_create_provider;W
+Edit Provider;Редактировать Агрегатор;Агрегаторды редакциялау;provider_service_edit_provider;W
+Organization tax code;ИИН/БИН Организации;Ұйымның ЖСН/БСН;common_organization_tax_code;W
+Card does not supported;Карта не поддерживается;Картаға қолдау көрсетілмейді;error_card_does_not_supported;W
+View/edit template of card transfer;Просмотр/редактирование шаблона перевода между картами;Карталар арасындағы аударым үлгісін қарау/редакциялау;view_edit_template_card_transfer;W
+Create card transfer;Создание перевода между картами;Карталар арасында аударым жасау;create_card_transfer;W
+Create template of card transfer;Создание шаблона перевода между картами;Карталар арасында аударым үлгісін жасау;Create_template_card_transfer;W
+View/edit card transfer;Просмотр/редактирование перевода между картами;Карталар арасындағы аударымды қарау/редакциялау;view_edit_card_transfer;W
+A Letter type;Тип письма;Хат түрі;letterType;W
+View \ Edit International Template;Просмотр \ Редактирование  Шаблона международного платежа;Қарау / Халықаралық үлгіні редакциялау;intTransfer_EditTemplate;W
+create International transfer Template;Создание Шаблона международного платежа;Халықаралық төлем үлгісін жасау;intTransfer_createTemplate;W
+Action was taken;Выполнено действие;Әрекет орындалды;didAction;W
+documents;документами;Құжаттармен;documents1;W
+documents;документов;Құжат;documents2;W
+on;над;над;on;W
+Changing email;Изменение email;Электрондық поштаны өзгерту;personal_changingEmail;W
+Contract amount;Сумма контракта;Келісім-шарттың сомасы;common_contractAmount;W
+Type;Тип;Түрі;account_type;W
+Registry;Реестр;Тізілім;common_list_of_employees;W
+Issue date;Дата выпуска;Шығарылған күні;issueDate;W
+Blocked sum;Заблокированная сумма;Бұғатталған сома;blockedSum;W
+Delete document?;Удалить документ?;Құжатты жою керек пе?;delete_document_title;W
+Type;Тип;Түрі;account_type;W
+Account transfer;Перевод между счетами;Шоттар арасындағы аударым;DocType_AccountTransfer;W
+Domestic transfer;Платеж в национальной валюте;Ұлттық валютадағы төлем;DocType_DomesticTransfer;W
+International transfer;Международный платеж;Халықаралық төлем;DocType_InternationalTransfer;W
+Document withdraw;Отзыв документа;Құжатты кері қайтару;DocType_DocumentWithdraw;W
+Exposed order;Выставленные мной счета;Мен ұсынған шоттар;DocType_ExposedOrder;W
+Demand;Заявление;Өтініш;DocType_Demand;W
+Payment order;Платёжное поручение;Төлем тапсырмасы;DocumentSubType_PaymentOrder;W
+Payroll;Зарплатное отчисление;Еңбекақы аударымы;DocumentSubType_Payroll;W
+Pension contribution;Пенсионное отчисление;Зейнетақы аударымы;DocumentSubType_PensionContribution;W
+Social contribution;Социальное отчисление;Әлеуметтік аударым;DocumentSubType_SocialContribution;W
+P2P;Карточный перевод;Карта аударымы;DocumentSubType_P2P;W
+Email cannot be empty;Электронная почта не может быть пуста;Электрондық пошта бос болмауы керек;email_cant_be_empty;W
+Incorrect email. use email like: jack@gmail.com;Недействительный емейл адрес . Используйте емейл вида: jack@gmail.com;Электрондық пошта мекенжайы жарамсыз. jack@gmail.com түріндегі электрондық пошта мекенжайын пайдаланыңыз;email_dont_match_regex;W
+Phone cannot be empty;Телефон не может быть пустым;Телефон бос болмауы керек;phone_cant_be_empty;W
+Incorrect phone. Use the phone like: +7 777 777 7777;Неверный телефон. Используйте телефон вида: +7 777 777 7777;Қате телефон. +7 777 777 7777 түріндегі телефонды пайдаланыңыз;phone_dont_match_regex;W
+Countries;Страны;Елдер;common_countries;W
+publish;Опубликовать;Жариялау;common_publish;W
+Account/card receiver;Счет/карта зачисления;Есептік жазба / тіркеу картасы;credit_card_acc_grid_column;W
+Account/card payer;Счет/карта списания;Есептік жазба / карта;debit_card_acc_grid_column;W
+New password could not match previous %d ones;Новый пароль не может соответствовать предыдущим %d паролям;Жаңа құпиясөз бұрынғы %d құпиясөздерге сәйкес келмеуі тиіс;passHistoryPolicy;W
+Documents commission;Комисия по платежным документам;Төлем құжаттары бойынша комиссия;commission_documents;W
+Calculate commission in banks ABS;Расчет комиссии в АБС банках;Комиссияны АБС банктерінде есептеу;commission_calculate_in_abs;W
+Logo not found;Логотип не найден;Логотип табылмады;commission_logo_not_found;W
+Logo file name;Имя файла логотипа;Логотип файлының аты;commission_logo_file_name;W
+This letter has already taken in work;Это письмо уже взято в работу;Бұл хатпен жұмыс жүріп жатыр;common_letter_blocked;W
+Maximum letter body length - 2000!;Максимальная длина - 2000!;Максималды ұзындық - 2000!;letter.validation.company.description.max.length;W
+Company person id is not present;Нет id представителя организации;Ұйым өкілінің id жоқ;letter.validation.company.person;W
+Letter body can not be empty;Текст письма не может быть пустым;Хаттың мәтіні бос болмауы керек;letter.validation.company.description;W
+Edit Category;Редактировать Категорию;Санатты редакциялау;CodeCategory_EditCategory;W
+Reason of blocking;Бұғаттау себебі;Бұғаттау себебі;blocked_reason;W
+Unblock reason;Причина разблокировки;Бұғаттан шығару себебі;unblock_reason;W
+Place ID;ИД города;Қаланың коды;place_id;W
+Custom request;Заявка;Өтінім;job_EXPORT_CUSTOM_REQUEST;W
+Custom request state check;Проверка статусов заявок;Өтінімдердің мәртебелерін тексеру;job_CUSTOM_REQUEST_STATE_CHANGED;W
+KNP with code already present;КНП с таким кодом уже существует;Коды осындай ТТК бар;knp_with_this_code_already_exist;W
+Max length 60;Длина не должна превышать 60 символов;Ұзындық 60 таңбадан аспауы тиіс;validation.maxLength60;W
+Field could not be empty;Поле не может быть пустым;Жолақ бос болмауы керек;validation.notEmpty;W
+Server-side validation error;Ошибка валидации на стороне сервера;Сервер тарапынан тексеру қатесі;default_backend_validation_error;W
+Request;Запрос;Сұратым;common.request;W
+Save;Сохранить;Сақтау;common.save;W
+Import new client;Импорт нового клиента;Жаңа клиентті импорттау;organizationsCreate_import;W
+Status in DB;Статус в базе;Базадағы мәртебесі;common_status_in_db;W
+Wrong document type;Неправильный тип документа;Қате құжат түрі;wrongDocumentType;W
+Active;Активный;Белсенді;ps_Active;W
+Letter to client;Письмо клиенту;Клиентке хат;letter_to;W
+Mailing to the clients;Рассылка пользовательской группе;Пайдаланушы тобына жіберу;letter_distribution;W
+Monetary transactions;Денежные операции;Ақшалай амалдар;navigation_transactions;W
+All accounts;Счета;Шоттар;navigation_products;W
+Client;Клиент;Клиент;common_organization;W
+Account number, client name, client tax code;№ счёта, Клиент, ИН клиента;Шоттың №, Клиент, Клиенттің ЖН;accountNumberOrgNameOrgBin;W
+Payers tax code;ИИН плательщика;Төлеушінің ЖСН;domTransfer_payerTaxCode;W
+Client tax code;ИИН Клиента;Клиенттің ЖСН;common_orgTaxCode;W
+Tax code;ИИН;ЖСН;common_TaxCode;W
+Client tax code;ИН Клиента;Клиенттің ЖН;common_organization_tax_code;W
+Ordering customer name;Имя плательщика;Т.А.Ә.;intTransfer_payerName;W
+IIN;ИИН;ЖСН;intTransfer_payerCode;W
+Loading;Загрузка;Қотару;mobile.loading;M
+Mobile banking;Мобильный банкинг;Мобильді банкинг;mobile.banking;M
+Login to your account;Вход в личный кабинет;Жеке кабинетке;mobile.login;M
+Restore password;Восстановить пароль;Құпия сөзді қалпына келтіру;mobile.remindme;M
+Menu;Меню;Мәзір;mobile.menu;M
+Departments and ATMs;Отделения и банкоматы;Бөлімшелер және банкоматтар;mobile.departments;M
+Capabilities;Возможности;Мүмкіндіктері;mobile.capabilities;M
+About the Bank;О банке;Банк туралы;mobile.about;M
+List;Список;Тізім;mobile.list;M
+Map;Карта;Карта;mobile.map;M
+List;Список;Тізім;mobile.list;M
+The field is not filled;Поле не заполнено;Жол толтырылған жоқ;mobile.not_filled;M
+Length of sms code ;Длина СМС кода ;СМС кодының ұзындығы ;mobile.sms_length;M
+Invalid password!;Неверный пароль!;Құпиясөз қате!;mobile.incorrect_password;M
+Telephone number must contain 10 symbols!;Телефон должен состоять из 10 символов!;Телефон 10 таңбадан тұруы керек!;mobile.phone_length_error;M
+It is required to enter valid card expiration date!;Необходимо заполнить валидный срок действия карты!;Картаның жарамдылық мерзімін көрсету қажет!;mobile.card_expiry_invalid;M
+Invalid IIN!;Неверный ИИН!;ЖСН қате!;mobile.invalid_tax_code;M
+It is required to enter valid number!;Необходимо заполнить валидный номер!;Валидтік нөмірді толтыру қажет!;mobile.card_number_invalid;M
+IIN;ИИН;ЖСН;mobile.common_tax_code;M
+The operation date;Дата операции;Амал күні;mobile.common_value_date;M

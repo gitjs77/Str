@@ -1,0 +1,38 @@
+notification_type_id;channel_code;is_active;template
+references=notification_type_id:notification_type(notification_type)
+CreditAccount;internal;1;Поступление на счет
+CreditAccount;email;1;Поступление на счет
+CreditAccount;push;1;Поступление на счет
+DebitAccount;internal;1;Списание со счета
+DebitAccount;push;1;Списание со счета
+DebitAccount;email;1;Списание со счета
+BalanceLessThen;push;1;Остаток на счете ниже определенной суммы
+BalanceLessThen;sms;1;Остаток на счете ниже определенной суммы
+BalanceLessThen;internal;1;Остаток на счете ниже определенной суммы
+BalanceLessThen;email;1;Остаток на счете ниже определенной суммы
+BalanceGreaterThen;internal;1;Остаток на счете выше определенной суммы
+BalanceGreaterThen;email;1;Остаток на счете выше определенной суммы
+BalanceGreaterThen;push;1;Остаток на счете выше определенной суммы
+BalanceGreaterThen;sms;1;Остаток на счете выше определенной суммы
+StatusChanging;internal;1;Смена статуса документа
+StatusChanging;push;1;Смена статуса документа
+StatusChanging;sms;1;Смена статуса документа
+StatusChanging;email;1;Смена статуса документа
+CertificateExpiring;email;1;Срок действия ключа ЭЦП истекает
+CertificateExpiring;internal;1;Срок действия ключа ЭЦП истекает
+CertificateExpiring;sms;1;Срок действия ключа ЭЦП истекает
+CertificateExpiring;push;1;Срок действия ключа ЭЦП истекает
+PasswordExpiring;internal;1;Срок действия пароля на вход истекает
+PasswordExpiring;sms;1;Срок действия пароля на вход истекает
+PasswordExpiring;email;1;Срок действия пароля на вход истекает
+PasswordExpiring;push;1;Срок действия пароля на вход истекает
+CertificateExpired;email;1;Срок действия ключа ЭЦП истек
+CertificateExpired;internal;1;Срок действия ключа ЭЦП истек
+CertificateExpired;push;1;Срок действия ключа ЭЦП истек
+CertificateExpired;sms;1;Срок действия ключа ЭЦП истек
+PasswordExpired;email;1;Срок действия пароля истек
+PasswordExpired;push;1;Срок действия пароля истек
+PasswordExpired;sms;1;Срок действия пароля истек
+PasswordExpired;internal;1;Срок действия пароля истек
+NewsUpdate;internal;1;Новость в ленте
+NewsUpdate;push;1;Новость 2

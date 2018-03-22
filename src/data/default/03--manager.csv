@@ -1,0 +1,25 @@
+login;user_password;salt;is_deleted;external_id;short_name;full_name;phone;email;subdivision;role_id;status;is_bank_signer;is_available_for_chat;is_locked
+references=role_id:manager_role(code); keyColumns=login
+
+admin;QHTaPb2dX4FTsaRNvGp22Or+t9UzDwnMHeNFV6w4T4ZoJoLF/lylpkWCYtK8LcgvqJ7ESvJMEQci2Tjg8UQkqg==;MTqZn/KcgdqvUkWhkNPYHA==;0;1;onv;иванов иван иваныч;077777777;ivan@gmail.com;subdivision;userAdmin;active;0;1;0
+oks;s60U2N02cAiRnP/TxZqub0wxdPtZVkWKxlvp/09O3ffFn4mE/V5AbW/q6d/F3yaJqCtCcB1pFox1Tumlq9IX8A==;PMx64ZGx/+8Wrz3nhRQ6Pw==;0;2;oks;Оксана;+77777777777;oks@talantarium.com;subdivision;userAdmin;active;0;0;0
+err;s60U2N02cAiRnP/TxZqub0wxdPtZVkWKxlvp/09O3ffFn4mE/V5AbW/q6d/F3yaJqCtCcB1pFox1Tumlq9IX8A==;PMx64ZGx/+8Wrz3nhRQ6Pw==;0;3;sk;Соколов Константин;+77777777777;;subdivision;userAdmin;active;0;0;0
+admin2;QHTaPb2dX4FTsaRNvGp22Or+t9UzDwnMHeNFV6w4T4ZoJoLF/lylpkWCYtK8LcgvqJ7ESvJMEQci2Tjg8UQkqg==;MTqZn/KcgdqvUkWhkNPYHA==;0;4;onv;иванов иван иваныч;077777777;ivan@gmail.com;subdivision;customerAdmin;active;1;0;0
+admin3;QHTaPb2dX4FTsaRNvGp22Or+t9UzDwnMHeNFV6w4T4ZoJoLF/lylpkWCYtK8LcgvqJ7ESvJMEQci2Tjg8UQkqg==;MTqZn/KcgdqvUkWhkNPYHA==;0;5;onv;иванов иван иваныч;077777777;ivan@gmail.com;subdivision;supportAdmin;active;0;0;0
+admin4;QHTaPb2dX4FTsaRNvGp22Or+t9UzDwnMHeNFV6w4T4ZoJoLF/lylpkWCYtK8LcgvqJ7ESvJMEQci2Tjg8UQkqg==;MTqZn/KcgdqvUkWhkNPYHA==;0;6;onv;иванов иван иваныч;077777777;ivan@gmail.com;subdivision;contentAdmin;active;0;0;0
+aibek2;QHTaPb2dX4FTsaRNvGp22Or+t9UzDwnMHeNFV6w4T4ZoJoLF/lylpkWCYtK8LcgvqJ7ESvJMEQci2Tjg8UQkqg==;MTqZn/KcgdqvUkWhkNPYHA==;0;7;aibek2;Айбек;077777777;ivan@gmail.com;subdivision;userAdmin;active;0;0;0
+aaaa;QHTaPb2dX4FTsaRNvGp22Or+t9UzDwnMHeNFV6w4T4ZoJoLF/lylpkWCYtK8LcgvqJ7ESvJMEQci2Tjg8UQkqg==;MTqZn/KcgdqvUkWhkNPYHA==;0;8;aaaa;aaaa;077777777;ivan@gmail.com;subdivision;userAdmin;active;0;0;0
+demoa;QHTaPb2dX4FTsaRNvGp22Or+t9UzDwnMHeNFV6w4T4ZoJoLF/lylpkWCYtK8LcgvqJ7ESvJMEQci2Tjg8UQkqg==;MTqZn/KcgdqvUkWhkNPYHA==;0;9;Ворамов А.А. ;Омаров А.А. ;077777777;ivan@gmail.com;subdivision;userAdmin;active;0;1;0
+security;QHTaPb2dX4FTsaRNvGp22Or+t9UzDwnMHeNFV6w4T4ZoJoLF/lylpkWCYtK8LcgvqJ7ESvJMEQci2Tjg8UQkqg==;MTqZn/KcgdqvUkWhkNPYHA==;0;10;onv;Rudis Bob;380631234567;rudis@mail.domain;subdivision;securityAdmin;active;0;0;0
+qaz1;QHTaPb2dX4FTsaRNvGp22Or+t9UzDwnMHeNFV6w4T4ZoJoLF/lylpkWCYtK8LcgvqJ7ESvJMEQci2Tjg8UQkqg==;MTqZn/KcgdqvUkWhkNPYHA==;0;11;Петров П.П;Петров Петр Петрович;+380631112233;ivan@gmail.com;subdivision;userAdmin;active;0;0;0
+qaz2;QHTaPb2dX4FTsaRNvGp22Or+t9UzDwnMHeNFV6w4T4ZoJoLF/lylpkWCYtK8LcgvqJ7ESvJMEQci2Tjg8UQkqg==;MTqZn/KcgdqvUkWhkNPYHA==;0;12;Петров П.И;Петров Петр Иванович;+380631112233;ivan@gmail.com;subdivision;userAdmin;active;0;0;0
+qaz3;QHTaPb2dX4FTsaRNvGp22Or+t9UzDwnMHeNFV6w4T4ZoJoLF/lylpkWCYtK8LcgvqJ7ESvJMEQci2Tjg8UQkqg==;MTqZn/KcgdqvUkWhkNPYHA==;0;13;Петров И.П;Петров Иван Петрович;+380631112233;ivan@gmail.com;subdivision;userAdmin;active;0;0;0
+qaz4;QHTaPb2dX4FTsaRNvGp22Or+t9UzDwnMHeNFV6w4T4ZoJoLF/lylpkWCYtK8LcgvqJ7ESvJMEQci2Tjg8UQkqg==;MTqZn/KcgdqvUkWhkNPYHA==;0;14;Иванов П.П;Иванов Петр Петрович;+380631112233;ivan@gmail.com;subdivision;userAdmin;active;0;0;0
+qaz5;QHTaPb2dX4FTsaRNvGp22Or+t9UzDwnMHeNFV6w4T4ZoJoLF/lylpkWCYtK8LcgvqJ7ESvJMEQci2Tjg8UQkqg==;MTqZn/KcgdqvUkWhkNPYHA==;0;15;Иванов И.П;Иванов Иван Петрович;+380631112233;ivan@gmail.com;subdivision;userAdmin;active;0;0;0
+qaz6;QHTaPb2dX4FTsaRNvGp22Or+t9UzDwnMHeNFV6w4T4ZoJoLF/lylpkWCYtK8LcgvqJ7ESvJMEQci2Tjg8UQkqg==;MTqZn/KcgdqvUkWhkNPYHA==;0;16;Королев И.И.;Королев Иван Иванович;+380631112233;ivan@gmail.com;subdivision;userAdmin;active;0;0;0
+qaz7;QHTaPb2dX4FTsaRNvGp22Or+t9UzDwnMHeNFV6w4T4ZoJoLF/lylpkWCYtK8LcgvqJ7ESvJMEQci2Tjg8UQkqg==;MTqZn/KcgdqvUkWhkNPYHA==;0;17;Королев И.П.;Королев Иван Петрович;+380631112233;ivan@gmail.com;subdivision;userAdmin;active;0;0;0
+qaz8;QHTaPb2dX4FTsaRNvGp22Or+t9UzDwnMHeNFV6w4T4ZoJoLF/lylpkWCYtK8LcgvqJ7ESvJMEQci2Tjg8UQkqg==;MTqZn/KcgdqvUkWhkNPYHA==;0;18;Королев П.И.;Королев Петр Иванович;+380631112233;ivan@gmail.com;subdivision;userAdmin;active;0;0;0
+qaz9;QHTaPb2dX4FTsaRNvGp22Or+t9UzDwnMHeNFV6w4T4ZoJoLF/lylpkWCYtK8LcgvqJ7ESvJMEQci2Tjg8UQkqg==;MTqZn/KcgdqvUkWhkNPYHA==;0;19;Королев П.П.;Королев Петр Петрович;+380631112233;ivan@gmail.com;subdivision;userAdmin;active;0;0;0
+qaz10;QHTaPb2dX4FTsaRNvGp22Or+t9UzDwnMHeNFV6w4T4ZoJoLF/lylpkWCYtK8LcgvqJ7ESvJMEQci2Tjg8UQkqg==;MTqZn/KcgdqvUkWhkNPYHA==;0;20;Гагарин И.И.;Гагарин Иван Иванович;+380631112233;ivan@gmail.com;subdivision;userAdmin;active;0;0;0
+test_manager;QHTaPb2dX4FTsaRNvGp22Or+t9UzDwnMHeNFV6w4T4ZoJoLF/lylpkWCYtK8LcgvqJ7ESvJMEQci2Tjg8UQkqg==;MTqZn/KcgdqvUkWhkNPYHA==;0;21;Иванов И.И.;Иванов Иван Иванович;+380631112233;ivan@gmail.com;subdivision;userAdmin;active;0;0;0
+

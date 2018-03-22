@@ -1,0 +1,10 @@
+document_type;name_id_ru;name_id_kk;name_id_en
+keyColumns=document_type;translation=name_id
+AccountTransfer;Перевод между счетами;Перевод между счетами;Transfer between own accounts
+DomesticTransfer;Платеж в национальной валюте;Платеж в национальной валюте;Payment in national currency
+InternationalTransfer;Международный платеж;Международный платеж;International payment
+DocumentWithdraw;Отзыв документа;Отзыв документа;Document withdraw
+ExposedOrder;Выставленные мной счета;Выставленные мной счета; Exposed payments
+Demand;Заявление;Заявление;Demand
+StandingOrder;Длительные поручения;Длительные поручения;Standing order
+Invoice;Выставленные мне счета;Выставленные мне счета;Invoice

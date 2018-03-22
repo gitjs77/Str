@@ -1,0 +1,8 @@
+id;is_individual_exchange_rate;exchange_rate;credit_account_id;credit_sum;fee_account_id;account_transfer_type
+references=id:document(document_number), credit_account_id:accounts(account_number), fee_account_id:accounts(account_number); keyColumns=id
+11/1A;0;332.88;KZ75125KZT2069100100;332880;KZ75125KZT2069100100;CurrTransfer
+11/2A;0;332.28;KZ75125KZT2069100100;332880;KZ75125KZT2069100100;CurrTransfer
+11/5A;0;1;KZ75125USD2069100107;11000;KZ75125KZT2069100100;CurrTransfer
+11/6A;0;1;KZ75125KZT2069100104;12000;KZ75125KZT2069100100;CurrTransfer
+12/4A;0;1;KZ75125KZT2069101107;11000;KZ75125KZT2069101100;CurrTransfer
+12/5A;0;1;KZ75125KZT2069101107;12000;KZ75125KZT2069101100;CurrTransfer

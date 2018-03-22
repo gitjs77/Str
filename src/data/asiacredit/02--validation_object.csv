@@ -1,0 +1,13 @@
+code;name_id
+references=name_id:translation(translation_key); keyColumns=code
+paymentOrder;domTransfer_paymentOrder
+payroll;domTransfer_payroll
+pensionContribution;domTransfer_pensionContribution
+socialContribution;domTransfer_socialContribution
+transfer;document_transfer
+conversion;document_conversion
+intTransfer;intTransfer_title
+exposedOrder;exposedorder_name
+payrollEmployee;domTransfer_payroll
+pensionContributionEmployee;domTransfer_pensionContribution
+socialContributionEmployee;domTransfer_socialContribution

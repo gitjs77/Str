@@ -1,0 +1,11 @@
+person_id;role_id
+references=person_id:company_person(external_id), role_id:cperson_role(code)
+
+asanova_aasanov3;dir
+otrar_adosmuh1;dir
+otrar_gauelbae;gacc
+W1_Kazakhstan_asnurpei;dir
+W1_Kazakhstan_ebertol1;gacc
+balkhash_geo_artel_amustafaev;dir
+balkhash_geo_artel_ebertol1;gacc
+infin_it_kibraimov;dir

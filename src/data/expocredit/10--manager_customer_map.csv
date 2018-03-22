@@ -1,0 +1,7 @@
+manager_id;customer_id
+references=manager_id:manager(login), customer_id:customer(name); actionType = ignore_not_empty
+
+a;Жауатова Сара Исмаиловна
+demoa;Омаров Алихан Арсенович
+security;Ахметов Асылхан Ералиевич
+security;Жауатова Сара Исмаиловна

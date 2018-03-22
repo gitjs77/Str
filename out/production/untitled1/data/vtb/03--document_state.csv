@@ -1,0 +1,19 @@
+document_state;displayed_document_state_id;document_state_name_id
+references=document_state_name_id:translation(translation_key),displayed_document_state_id:displayed_document_state(code); keyColumns=document_state
+Signed;waiting;state_signed
+Draft;null;state_draft
+AwaitsSignature;awaits_signature;state_awaitssignature
+Deleted;null;state_deleted
+SentToRBS;in_work;state_senttorbs
+AcceptedInRBS;in_work;state_acceptedinrbs
+AcceptedInABS;in_work;state_acceptedinabs
+NotAcceptedInABS;with_errors;state_notacceptedinabs
+Revoked;revoked;state_revoked
+Paid;executed;state_paid
+Refused;with_errors;state_refused
+Executed;executed;state_executed
+Accepted;in_work;state_accepted
+Pay;in_work;state_pay
+Return;with_errors;state_return
+Standing;null;state_standing
+Suspended;suspended;user_status_suspended

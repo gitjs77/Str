@@ -1,0 +1,12 @@
+id_1;login;user_password;salt;is_deleted;external_id;short_name;full_name;phone;email;subdivision;role_id;status;is_bank_signer;is_available_for_chat;is_locked
+references=role_id:manager_role(code); keyColumns=login
+7;a;QHTaPb2dX4FTsaRNvGp22Or+t9UzDwnMHeNFV6w4T4ZoJoLF/lylpkWCYtK8LcgvqJ7ESvJMEQci2Tjg8UQkqg==;MTqZn/KcgdqvUkWhkNPYHA==;0;1;onv;иванов иван иваныч;077777777;ivan@gmail.com;subdivision;userAdmin;active;0;0;0
+22;oks;s60U2N02cAiRnP/TxZqub0wxdPtZVkWKxlvp/09O3ffFn4mE/V5AbW/q6d/F3yaJqCtCcB1pFox1Tumlq9IX8A==;PMx64ZGx/+8Wrz3nhRQ6Pw==;0;2;oks;Оксана;+77777777777;oks@talantarium.com;subdivision;userAdmin;active;0;0;0
+23;err;s60U2N02cAiRnP/TxZqub0wxdPtZVkWKxlvp/09O3ffFn4mE/V5AbW/q6d/F3yaJqCtCcB1pFox1Tumlq9IX8A==;PMx64ZGx/+8Wrz3nhRQ6Pw==;0;3;sk;Соколов Константин;+77777777777;;subdivision;userAdmin;active;0;0;0
+31;a2;QHTaPb2dX4FTsaRNvGp22Or+t9UzDwnMHeNFV6w4T4ZoJoLF/lylpkWCYtK8LcgvqJ7ESvJMEQci2Tjg8UQkqg==;MTqZn/KcgdqvUkWhkNPYHA==;0;4;onv;иванов иван иваныч;077777777;ivan@gmail.com;subdivision;customerAdmin;active;1;0;0
+32;a3;QHTaPb2dX4FTsaRNvGp22Or+t9UzDwnMHeNFV6w4T4ZoJoLF/lylpkWCYtK8LcgvqJ7ESvJMEQci2Tjg8UQkqg==;MTqZn/KcgdqvUkWhkNPYHA==;0;5;onv;иванов иван иваныч;077777777;ivan@gmail.com;subdivision;supportAdmin;active;0;0;0
+33;a4;QHTaPb2dX4FTsaRNvGp22Or+t9UzDwnMHeNFV6w4T4ZoJoLF/lylpkWCYtK8LcgvqJ7ESvJMEQci2Tjg8UQkqg==;MTqZn/KcgdqvUkWhkNPYHA==;0;6;onv;иванов иван иваныч;077777777;ivan@gmail.com;subdivision;contentAdmin;active;0;0;0
+44;aibek2;QHTaPb2dX4FTsaRNvGp22Or+t9UzDwnMHeNFV6w4T4ZoJoLF/lylpkWCYtK8LcgvqJ7ESvJMEQci2Tjg8UQkqg==;MTqZn/KcgdqvUkWhkNPYHA==;0;7;aibek2;Айбек;077777777;ivan@gmail.com;subdivision;userAdmin;active;0;0;0
+47;aaaa;QHTaPb2dX4FTsaRNvGp22Or+t9UzDwnMHeNFV6w4T4ZoJoLF/lylpkWCYtK8LcgvqJ7ESvJMEQci2Tjg8UQkqg==;MTqZn/KcgdqvUkWhkNPYHA==;0;8;aaaa;aaaa;077777777;ivan@gmail.com;subdivision;userAdmin;active;0;0;0
+48;demoa;QHTaPb2dX4FTsaRNvGp22Or+t9UzDwnMHeNFV6w4T4ZoJoLF/lylpkWCYtK8LcgvqJ7ESvJMEQci2Tjg8UQkqg==;MTqZn/KcgdqvUkWhkNPYHA==;0;9;Ворамов А.А. ;Омаров А.А. ;077777777;ivan@gmail.com;subdivision;userAdmin;active;0;0;0
+50;security;QHTaPb2dX4FTsaRNvGp22Or+t9UzDwnMHeNFV6w4T4ZoJoLF/lylpkWCYtK8LcgvqJ7ESvJMEQci2Tjg8UQkqg==;MTqZn/KcgdqvUkWhkNPYHA==;0;10;onv;Rudis Bob;380631234567;rudis@mail.domain;subdivision;securityAdmin;active;0;0;0

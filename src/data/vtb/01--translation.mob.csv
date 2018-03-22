@@ -1,0 +1,75 @@
+en;ru;kk;translation_key;output_channel
+keyColumns=translation_key;actionType=modify
+
+New payment;Платеж со счета;Шоттан төлеу;account_paymentFromAccount;M
+Transfer between accounts;Перевод между своими счетами;Есептік жазбаларыңыз арасында ауысу;account_transferTransfer;M
+Conversion;Конвертация;Айырбастау;account_transferConversion;M
+Transfer in favor of 3 persons in tg;Перевод в пользу 3-х лиц в тг;3 адамның пайдасына тг;account_domesticTransferOrder;M
+Transfer in favor of 3 persons in foreign currency;Перевод в пользу 3-х лиц в инвалюте;Шетел валютасында 3 адамның пайдасына аудару;account_intTransferOrder;M
+Open current account;Открыть текущий счет;Ағымдағы шотты ашыңыз;account_openCurrentAccountOrder;M
+Send details;Отправить реквизиты;Мәліметтерді жіберу;account_sendRequisites;M
+
+Transfer between accounts;Перевод между своими счетами;Есептік жазбаларыңыз арасында ауысу;deposit_transferTransfer;M
+Open a Deposit;Открыть Депозит;Салымды ашыңыз;deposit_openDepositOrder;M
+
+Repay a loan;Погасить кредит;Қарызды өтеу үшін;credit_prescheduledRepaymentOrder;M
+
+New payment;Платеж с карты;Картадан төлеу;card_paymentFromAccount;M
+Transfer between accounts;Перевод между своими счетами;Есептік жазбаларыңыз арасында ауысу;card_transferTransfer;M
+Transfer to VTB card;Перевод между картами ВТБ;ВТБ карталарының арасында ауысу;card_domesticTransferOrder;M
+Card re-issue;Перевыпуск карты;Картаны қайта шығару;card_openCardOrder;M
+Block card;Заблокировать карту;Құлыптау картасы;card_block;M
+Unblock card;Разблокировать карту;Картаны өшіріңіз;unblockCard;M
+SMS / 3D Secure management;Управление СМС/3D Secure;SMS / 3D қауіпсіз басқару;card_open3dSecureOrder;M
+
+Register;Зарегистрироваться;Тіркелу;mobile.register;M
+Remember phone;Запомнить телефон;Телефонды есте сақтаңыз;remember.phone;M
+Help;Помощь и поддержка;Анықтама және қолдау;mobile.help;M
+Exchange rates;Курсы валют;Валюталардың бағамдары;today_currencies;M
+Cross-rate;Кросс-курс;Кросс-бағам;cross_currencies;M
+Cancel;Отменить;Болдырмау;mobile.cancel;M
+Repeat;Повторить;Қайталау;mobile.repeat;M
+
+Refuse;Отказать;Бас тарту;mob_action_reject;M
+Pay ;Оплатить;Төлеу;mob_action_pay;M
+Recall;Отозвать;Кері шақырту;mob_common_withdraw;M
+Delete;Удалить;Алып тастау;mob_common_delete;M
+Block;Заблокировать;Бұғаттау;mob_common_deactivate;M
+Activate;Активировать;Белсендіру;mob_common_activate;M
+Send to bank;Отправить в банк;Банкке жөнелту;mob_action_sentToBank;M
+To editing;Редактировать;Редактировать;mob_action_toDraft;M
+Sign;Подписать;Қол қою;mob_common_sign;M
+For signature;На подпись;Қол қоюға;mob_action_sendForSignature;M
+Save template;Сохранить шаблон;Шаблонды сақтау;mob_action_updateTemplate;M
+Create a template;Создать шаблон;Шаблон жасау;mob_action_createTemplate;M
+Repeat ;Повторить;Қайталау;mob_action_repeat;M
+Create a copy;Создать копию;Көшірме жасау;mob_action_createCopy;M
+Create Document;Создать платеж;Создать платеж;mob_action_createNewDocument;M
+Save;Сохранить;Сохранить;mob_action_updateDocument;M
+View;Просмотр;Тетіктерді;mob_action_view;M
+Change;Изменить;Өзгерту;mob_action_edit;M
+history;история;тарих;mob_action_history;M
+Print;Печать;Мөр / Басып шығару;mob_action_print;M
+Подтвердить с OTP;Подтвердить с OTP;Подтвердить с OTP;mob_action_confirm_otp;M
+Confirm;Подтвердить;Растау;mob_action_confirm;M
+Send for signature;Отправить на подпись;Қол қоюға жөнелту;mob_action_send_for_signature;W
+
+
+Support Hotline for Mobile Banking Clients:;Круглосуточная служба поддержки клиентов мобильного банкинга:;Мобильді банкингтің клиенттеріне тәуліктік қолдау көрсету қызметі:;mobile.support.label1;M
+Free from landlines of Almaty city;Бесплатно с городских номеров по г. Алматы;Алматы қ. бойынша қалалық нөмірлерден тегін;mobile.support.label2;M
+According to the tariff plan of appropriate provider:;Согласно тарифного плана соответствующего мобильного оператора:;Тиісті мобильді оператордың тарифтік жоспарына сәйкес:;mobile.support.label3;M
+You are willing to use a print to quick sign in an application;Вы хотите использовать отпечаток для быстрого входа в приложение;Сіз қосымшаға жылдам кіру үшін саусақтың іздерін қолдаңғыңыз келеді ;mobile.finger_print;M
+Enter password from SMS;Введите код из SMS;SMS-тегі кодты енгізіңіз ;mobile.enter_code;M
+Confirm;Подвердить;Растау ;mobile.confirm;M
+IIN – individual identification number;“ИИН" - индивидуальный идентификационный номер;ЖСН" – жеке сәйкестендіру нөмірі;mobile.label.inn;M
+Payment card number;№ платежной карты;Төлем картасының №  ;mobile.labe.card_num;M
+Card expiration date;Срок действия карты;Картаның әрекет ету мерзімі ;mobile.label.card_term;M
+Mobile phone;Мобильный телефон;Мобильді телефон ;mobile.phone_num;M
+I agree to terms;С условиями согласен;Талаптармен келістім ;mobile.agree_with_terms;M
+Registration;Регистрация;Тіркелу ;mobile.register;M
+Continue;Продолжить;Жалғастыру;mobile.continue;M
+
+New password should comply with the following requirements:\n\n1. Password should contain the following group of symbols - letters,  numerical characters, special symbols\n2. Password should be in Latin characters\n3. Password minimum length - 8 symbols, minimum 1 capital letter, minimum 1 lower case letter, minimum 1 numerical character from 0 to 9, minimum 1 special symbol (!, @, #, $, *)\n4. Password cannot repeat 10 previous passwords\n5. Password cannot contain more than 2  repeating one after another symbols (for example, n/a: 222, 888 etc.).;Новый пароль должен соответствовать перечисленным параметрам:\n\n1. Содержать следующие группы символов – буквы, цифры, специальные символы\n2. Пароль должен быть на латинице\n3. Минимальная длина пароля – 8 символов, минимум 1 заглавная буква, минимум 1 строчная буква, минимум одна цифра от 0 до 9, минимум один спец символ (!, @, #, $, *)\n4. Пароль не должен повторять предыдущие 10 паролей\n5. Пароль не может содержать более двух повторяющихся подряд символов (например неприменимо: 222, 888 и т.д.).;Жаңа құпия сөз аталған параметрлерге сәйкес келуі керек:\n\n1. Таңбалардың келесі топтары болады – әріптер, сандар, арнайы таңбалар\n2. Құпиясөз латын тілінде болуы керек\n3. Құпиясөздің ең қысқа ұзындығы – 8 таңба, кем дегенде 1 бас әріп, кем дегенде 1 кіші әріп, кем дегенде 0-ден 9-ға дейінгі бір сан, кем дегенде бір арнайы таңба (!, @, #, $, *)\n4. Құпиясөз алдыңғы 10 құпиясөзді қайталамауы керек\n5. Құпиясөзде қатарынан қайталанатын екі таңбалар болмауы керек (мысалы: 222, 888 және т.б. болмайды).;mobile.password_policy_full;M
+
+The user's consent under the conditions is not confirmed.;Не подтверждено согласие пользователя с условиями.;Пайдаланушының талаптармен келісуі расталмады.;mobile.agree_with_conditions;M
+The registration process is in progress.;Идет процесс регистрации.;Тіркеу процесі жүріп жатыр.;mobile.register_in_progress;M

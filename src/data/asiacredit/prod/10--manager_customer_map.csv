@@ -1,0 +1,7 @@
+manager_id;customer_id
+references=manager_id:manager(login), customer_id:customer(name)
+PYelena;ИП Асанова А.А.
+PYelena;ТОО "ОТРАР ТРЕВЕЛ"
+PYelena;ТОО "W1 Kazakhstan"
+PYelena;ТОО "Балхашская геологическая артель"
+PYelena;ТОО "InFin-IT Solution"

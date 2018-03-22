@@ -1,0 +1,12 @@
+id_1;is_deleted;is_published;document_type;demand_category_id;description;can_accept_files;demand_end_point;related_button;document_type_name_id
+references=demand_category_id:demand_category(code), document_type_name_id:translation(translation_key); keyColumns=document_type
+
+3;0;1;Заказ наличности;Cash;Cash Demand;0;;Cash;actions_DemandCash
+
+
+
+
+
+
+
+

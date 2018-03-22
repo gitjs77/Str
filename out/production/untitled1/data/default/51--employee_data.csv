@@ -1,0 +1,5 @@
+employee_id;employee_account
+references=employee_id:employee(iin); keyColumns=employee_id, employee_account
+081240013779;KZ416390122030000365
+020440002422;KZ026390122040003125
+680121450185;KZ026390122040003125

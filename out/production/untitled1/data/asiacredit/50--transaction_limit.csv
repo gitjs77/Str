@@ -1,0 +1,8 @@
+company_person_id;transaction_limit_type;amount;currency
+references=company_person_id:company_person(external_id)
+1;1;10000.0000;KZT
+1;2;50000.0000;KZT
+2;2;10000.0000;KZT
+2;3;80000.0000;KZT
+3;1;5000.0000;KZT
+3;4;200000.0000;USD

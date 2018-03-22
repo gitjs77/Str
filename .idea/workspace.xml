@@ -1,328 +1,445 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="93817f35-153e-4d3c-bbc1-13852d5b4929" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/01--city.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/01--document_type.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/01--domestic_transfer_type.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/01--translation.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/01--translation.mobile.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/01--translation.web.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/02--country.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/02--currency.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/02--dictionary.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/02--exchange_rate_type.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/02--manager_role.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/02--notification_channel.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/02--notification_choose_type.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/02--page.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/02--page_ms.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/02--payment_purpose_code.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/02--property_group.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/03--bank.local.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/03--notification_channel_props.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/10--job_group.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/11--job.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/49--letter_distribution.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/50--auth_factor.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/50--cperson_privilege.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/50--cperson_role.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/50--customer_payment_purpose.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/50--digital_signature_field.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/50--district.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/50--multicasting_package.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/50--notification_subject_choice.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/50--transfer_employee_requisites.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/50--vc_tariff.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/51--day.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/51--multicasting_package_text.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/51--role_privilege_map.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/51--vc_tariff_detail.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/53--custom_field.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/01--locale_entity.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/01--login_chain.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/01--translation.specific.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/01--translation.web.specific.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/02--displayed_document_state.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/02--notification_type.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/02--otp_token.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/02--validation_object.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/03--bank_branch.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/03--document_state.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/03--manager.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/03--manager_privilege.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/03--property.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/03--validation_constraint.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/04--correspondent_bank.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/04--customer.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/04--service_point.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/04--workflow_state.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/05--accounts.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/05--customer_user.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/05--workflow_action.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/06--company_person.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/10--manager_customer_map.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/12--job_schedule.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/50--calendar.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/50--certificate.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/50--counterparty.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/50--currency_issuance.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/50--currency_reception.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/50--demand_category.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/50--employee.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/50--letterdistribution_customer.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/50--news.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/50--password_history.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/50--product_action.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/50--rolem_privilege_map.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/50--schedule_day.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/50--signature_rule.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/50--system_event.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/50--transaction_limit.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/51--comp_person_auth.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/51--counterparty_account.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/51--counterparty_account.local.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/51--counterparty_currency_contract.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/51--custom_request_type.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/51--employee_data.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/51--notification.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/51--notification_user_properties.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/51--notiftypes_subjecttype_map.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/51--person_privilege_map.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/51--person_role_map.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/53--custom_field.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/dev/03--exchange_rate.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/dev/03--property.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/dev/03--property.dev.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/dev/06--company_person.dev.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/dev/07--app_sessions.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/prod/03--property.prod.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/prod/04--customer.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/prod/05--accounts.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/prod/05--customer_user.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/prod/06--company_person.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/prod/10--manager_customer_map.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/prod/50--certificate.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/prod/50--counterparty.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/prod/50--customer_payment_purpose.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/prod/50--employee.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/prod/50--letterdistribution_customer.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/prod/50--password_history.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/prod/50--signature_rule.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/prod/50--system_event.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/prod/50--transaction_limit.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/prod/51--comp_person_auth.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/prod/51--counterparty_account.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/prod/51--counterparty_account.local.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/prod/51--counterparty_currency_contract.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/prod/51--employee_data.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/prod/51--notification.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/prod/51--notification_user_properties.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/prod/51--person_privilege_map.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/prod/51--person_role_map.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/01--locale_entity.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/01--login_chain.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/01--translation.specific.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/01--translation.web.specific.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/02--displayed_document_state.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/02--notification_type.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/02--otp_token.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/02--validation_object.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/03--bank_branch.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/03--document_state.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/03--exchange_rate.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/03--manager.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/03--manager_privilege.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/03--property.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/03--validation_constraint.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/04--correspondent_bank.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/04--customer.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/04--service_point.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/04--workflow_state.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/05--accounts.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/05--customer_user.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/05--workflow_action.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/06--account_balance_history.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/06--company_person.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/07--app_sessions.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/10--manager_customer_map.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/12--job_schedule.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/50--calendar.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/50--card.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/50--certificate.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/50--counterparty.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/50--credit.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/50--currency_issuance.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/50--currency_reception.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/50--customer_payment_purpose.spesific.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/50--demand_category.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/50--deposit.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/50--employee.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/50--letterdistribution_customer.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/50--password_history.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/50--product_action.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/50--rolem_privilege_map.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/50--schedule_day.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/50--signature_rule.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/50--system_event.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/50--transaction_limit.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/51--card_lock_history.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/51--card_transaction_history.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/51--comp_person_auth.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/51--counterparty_account.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/51--counterparty_account.local.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/51--custom_request_type.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/51--document.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/51--employee_data.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/51--notification.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/51--notification_user_properties.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/51--notiftypes_subjecttype_map.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/51--person_privilege_map.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/51--person_role_map.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/51--provider.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/51--provider_category.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/52--payment.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/52--provider_service.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/53--custom_field.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/53--document_withdraw.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/53--domestic_transfer.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/53--exposed_order.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/53--international_transfer.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/53--invoice.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/53--provider_svc_category.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/53--provider_svc_field.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/53--transfer_employee.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/54--account_transfer.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/dev/03--bank.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/dev/03--manager.dev.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/dev/05--customer_user.dev.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/01--locale_entity.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/01--login_chain.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/01--translation.specific.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/01--translation.web.specific.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/02--dictionary.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/02--displayed_document_state.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/02--notification_type.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/02--otp_token.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/02--page_ms.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/02--validation_object.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/03--bank_branch.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/03--document_state.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/03--exchange_rate.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/03--manager.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/03--manager_privilege.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/03--property.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/03--validation_constraint.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/04--correspondent_bank.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/04--customer.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/04--service_point.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/04--workflow_state.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/05--accounts.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/05--customer_user.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/05--workflow_action.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/06--account_balance_history.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/06--company_person.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/10--manager_customer_map.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/12--job_schedule.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/50--calendar.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/50--certificate.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/50--currency_issuance.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/50--currency_reception.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/50--demand_category.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/50--employee.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/50--letterdistribution_customer.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/50--news.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/50--password_history.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/50--product_action.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/50--rolem_privilege_map.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/50--schedule_day.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/50--signature_rule.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/50--system_event.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/50--transaction_limit.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/51--comp_person_auth.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/51--custom_request_type.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/51--document.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/51--employee_data.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/51--notification.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/51--notification_user_properties.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/51--notiftypes_subjecttype_map.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/51--person_privilege_map.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/51--person_role_map.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/52--payment.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/53--custom_field.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/53--domestic_transfer.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/53--international_transfer.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/54--account_transfer.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/dev/06--company_person.dev.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/dev/07--app_sessions.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/prod/03--bank.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/01--locale_entity.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/01--login_chain.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/01--translation.mob.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/01--translation.specific.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/01--translation.z.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/02--country.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/02--dictionary.z.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/02--displayed_document_state.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/02--notification_channel.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/02--notification_type.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/02--otp_token.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/02--page_ms.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/02--validation_object.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/03--bank_branch.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/03--document_state.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/03--manager.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/03--manager_privilege.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/03--notification_channel_props.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/03--property.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/03--validation_constraint.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/04--correspondent_bank.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/04--customer.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/04--service_point.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/04--workflow_state.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/05--customer_user.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/05--workflow_action.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/06--company_person.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/10--manager_customer_map.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/12--job_schedule.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/50--calendar.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/50--certificate.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/50--currency_issuance.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/50--currency_reception.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/50--customer_payment_purpose.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/50--demand_category.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/50--password_history.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/50--product_action.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/50--rolem_privilege_map.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/50--schedule_day.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/50--signature_rule.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/51--comp_person_auth.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/51--custom_request_type.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/51--multicasting_package_text.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/51--notiftypes_subjecttype_map.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/51--person_role_map.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/51--provider.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/51--provider_category.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/51--role_privilege_map.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/52--provider_service.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/53--provider_svc_category.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/53--provider_svc_field.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/dev/03--exchange_rate.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/dev/05--accounts.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/dev/06--company_person.dev.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/dev/07--app_sessions.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/dev/50--card.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/dev/50--credit.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/dev/50--deposit.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/dev/54--credit_schedule.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/vpn_vtb/03--bank.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/vpn_vtb/03--manager.dev.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/vpn_vtb/05--customer_user.dev.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/vpn_vtb/06--company_person.dev.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/vpn_vtb/07--app_sessions.csv" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/production/untitled1/01--translation.web.specific.csv" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/01--translation.web.specific.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/RecursiveFileSearch/FileSearchGroovy.groovy" afterPath="$PROJECT_DIR$/src/RecursiveFileSearch/FileSearchGroovy.groovy" />
+    <list default="true" id="a2df35c0-be80-4b02-b4ca-873354ae5c9c" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/01--city.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/01--document_type.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/01--domestic_transfer_type.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/01--translation.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/01--translation.mobile.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/01--translation.web.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/02--country.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/02--currency.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/02--dictionary.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/02--exchange_rate_type.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/02--manager_role.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/02--notification_channel.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/02--notification_choose_type.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/02--page.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/02--page_ms.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/02--payment_purpose_code.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/02--property_group.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/03--bank.local.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/03--notification_channel_props.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/10--job_group.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/11--job.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/49--letter_distribution.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/50--auth_factor.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/50--cperson_privilege.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/50--cperson_role.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/50--customer_payment_purpose.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/50--digital_signature_field.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/50--district.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/50--multicasting_package.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/50--notification_subject_choice.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/50--transfer_employee_requisites.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/50--vc_tariff.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/51--day.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/51--multicasting_package_text.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/51--role_privilege_map.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/51--vc_tariff_detail.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/53--custom_field.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/01--locale_entity.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/01--login_chain.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/01--translation.specific.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/01--translation.web.specific.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/02--displayed_document_state.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/02--notification_type.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/02--otp_token.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/02--validation_object.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/03--bank_branch.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/03--document_state.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/03--manager.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/03--manager_privilege.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/03--property.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/03--validation_constraint.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/04--correspondent_bank.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/04--customer.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/04--service_point.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/04--workflow_state.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/05--accounts.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/05--customer_user.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/05--workflow_action.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/06--company_person.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/10--manager_customer_map.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/12--job_schedule.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/50--calendar.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/50--certificate.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/50--counterparty.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/50--currency_issuance.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/50--currency_reception.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/50--demand_category.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/50--employee.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/50--letterdistribution_customer.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/50--news.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/50--password_history.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/50--product_action.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/50--rolem_privilege_map.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/50--schedule_day.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/50--signature_rule.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/50--system_event.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/50--transaction_limit.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/51--comp_person_auth.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/51--counterparty_account.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/51--counterparty_account.local.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/51--counterparty_currency_contract.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/51--custom_request_type.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/51--employee_data.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/51--notification.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/51--notification_user_properties.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/51--notiftypes_subjecttype_map.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/51--person_privilege_map.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/51--person_role_map.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/53--custom_field.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/dev/03--exchange_rate.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/dev/03--property.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/dev/03--property.dev.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/dev/06--company_person.dev.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/dev/07--app_sessions.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/prod/03--property.prod.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/prod/04--customer.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/prod/05--accounts.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/prod/05--customer_user.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/prod/06--company_person.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/prod/10--manager_customer_map.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/prod/50--certificate.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/prod/50--counterparty.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/prod/50--customer_payment_purpose.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/prod/50--employee.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/prod/50--letterdistribution_customer.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/prod/50--password_history.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/prod/50--signature_rule.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/prod/50--system_event.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/prod/50--transaction_limit.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/prod/51--comp_person_auth.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/prod/51--counterparty_account.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/prod/51--counterparty_account.local.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/prod/51--counterparty_currency_contract.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/prod/51--employee_data.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/prod/51--notification.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/prod/51--notification_user_properties.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/prod/51--person_privilege_map.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/asiacredit/prod/51--person_role_map.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/01--locale_entity.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/01--login_chain.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/01--translation.specific.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/01--translation.web.specific.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/02--displayed_document_state.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/02--notification_type.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/02--otp_token.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/02--validation_object.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/03--bank_branch.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/03--document_state.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/03--exchange_rate.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/03--manager.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/03--manager_privilege.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/03--property.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/03--validation_constraint.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/04--correspondent_bank.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/04--customer.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/04--service_point.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/04--workflow_state.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/05--accounts.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/05--customer_user.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/05--workflow_action.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/06--account_balance_history.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/06--company_person.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/07--app_sessions.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/10--manager_customer_map.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/12--job_schedule.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/50--calendar.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/50--card.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/50--certificate.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/50--counterparty.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/50--credit.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/50--currency_issuance.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/50--currency_reception.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/50--customer_payment_purpose.spesific.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/50--demand_category.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/50--deposit.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/50--employee.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/50--letterdistribution_customer.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/50--password_history.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/50--product_action.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/50--rolem_privilege_map.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/50--schedule_day.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/50--signature_rule.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/50--system_event.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/50--transaction_limit.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/51--card_lock_history.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/51--card_transaction_history.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/51--comp_person_auth.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/51--counterparty_account.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/51--counterparty_account.local.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/51--custom_request_type.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/51--document.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/51--employee_data.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/51--notification.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/51--notification_user_properties.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/51--notiftypes_subjecttype_map.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/51--person_privilege_map.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/51--person_role_map.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/51--provider.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/51--provider_category.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/52--payment.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/52--provider_service.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/53--custom_field.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/53--document_withdraw.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/53--domestic_transfer.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/53--exposed_order.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/53--international_transfer.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/53--invoice.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/53--provider_svc_category.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/53--provider_svc_field.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/53--transfer_employee.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/default/54--account_transfer.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/dev/03--bank.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/dev/03--manager.dev.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/dev/05--customer_user.dev.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/01--locale_entity.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/01--login_chain.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/01--translation.specific.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/01--translation.web.specific.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/02--dictionary.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/02--displayed_document_state.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/02--notification_type.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/02--otp_token.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/02--page_ms.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/02--validation_object.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/03--bank_branch.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/03--document_state.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/03--exchange_rate.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/03--manager.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/03--manager_privilege.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/03--property.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/03--validation_constraint.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/04--correspondent_bank.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/04--customer.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/04--service_point.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/04--workflow_state.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/05--accounts.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/05--customer_user.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/05--workflow_action.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/06--account_balance_history.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/06--company_person.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/10--manager_customer_map.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/12--job_schedule.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/50--calendar.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/50--certificate.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/50--currency_issuance.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/50--currency_reception.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/50--demand_category.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/50--employee.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/50--letterdistribution_customer.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/50--news.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/50--password_history.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/50--product_action.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/50--rolem_privilege_map.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/50--schedule_day.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/50--signature_rule.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/50--system_event.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/50--transaction_limit.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/51--comp_person_auth.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/51--custom_request_type.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/51--document.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/51--employee_data.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/51--notification.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/51--notification_user_properties.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/51--notiftypes_subjecttype_map.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/51--person_privilege_map.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/51--person_role_map.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/52--payment.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/53--custom_field.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/53--domestic_transfer.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/53--international_transfer.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/54--account_transfer.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/dev/06--company_person.dev.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/expocredit/dev/07--app_sessions.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/prod/03--bank.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/01--locale_entity.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/01--login_chain.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/01--translation.mob.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/01--translation.specific.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/01--translation.z.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/02--country.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/02--dictionary.z.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/02--displayed_document_state.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/02--notification_channel.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/02--notification_type.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/02--otp_token.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/02--page_ms.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/02--validation_object.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/03--bank_branch.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/03--document_state.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/03--manager.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/03--manager_privilege.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/03--notification_channel_props.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/03--property.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/03--validation_constraint.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/04--correspondent_bank.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/04--customer.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/04--service_point.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/04--workflow_state.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/05--customer_user.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/05--workflow_action.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/06--company_person.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/10--manager_customer_map.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/12--job_schedule.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/50--calendar.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/50--certificate.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/50--currency_issuance.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/50--currency_reception.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/50--customer_payment_purpose.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/50--demand_category.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/50--password_history.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/50--product_action.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/50--rolem_privilege_map.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/50--schedule_day.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/50--signature_rule.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/51--comp_person_auth.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/51--custom_request_type.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/51--multicasting_package_text.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/51--notiftypes_subjecttype_map.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/51--person_role_map.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/51--provider.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/51--provider_category.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/51--role_privilege_map.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/52--provider_service.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/53--provider_svc_category.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/53--provider_svc_field.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/dev/03--exchange_rate.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/dev/05--accounts.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/dev/06--company_person.dev.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/dev/07--app_sessions.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/dev/50--card.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/dev/50--credit.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/dev/50--deposit.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/dev/54--credit_schedule.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/vpn_vtb/03--bank.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/vpn_vtb/03--manager.dev.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/vpn_vtb/05--customer_user.dev.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/vpn_vtb/06--company_person.dev.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/vpn_vtb/07--app_sessions.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/TranslationsExpo201217/Copy of translation.expo кз_201217.csv" />
+      <change beforePath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/01--translation.specific.csv" afterPath="$PROJECT_DIR$/out/production/untitled1/01--translation.specific.csv" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/01--translation.web.specific.csv" afterPath="$PROJECT_DIR$/out/production/untitled1/data/vtb/01--translation.web.specific.csv" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/01--translation_241017 (1).csv" afterPath="$PROJECT_DIR$/out/production/untitled1/01--translation_241017 (1).csv" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/AppendKeysThatNotContainsInTheOtherTables$_appendRowsNotContainsInTheOtherTables_closure1.class" afterPath="$PROJECT_DIR$/out/production/untitled1/AppendKeysThatNotContainsInTheOtherTables$_appendRowsNotContainsInTheOtherTables_closure1.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/AppendKeysThatNotContainsInTheOtherTables$_appendRowsNotContainsInTheOtherTables_closure2.class" afterPath="$PROJECT_DIR$/out/production/untitled1/AppendKeysThatNotContainsInTheOtherTables$_appendRowsNotContainsInTheOtherTables_closure2.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/AppendKeysThatNotContainsInTheOtherTables$_appendRowsNotContainsInTheOtherTables_closure3.class" afterPath="$PROJECT_DIR$/out/production/untitled1/AppendKeysThatNotContainsInTheOtherTables$_appendRowsNotContainsInTheOtherTables_closure3.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/AppendKeysThatNotContainsInTheOtherTables$_appendRowsNotContainsInTheOtherTables_closure4.class" afterPath="$PROJECT_DIR$/out/production/untitled1/AppendKeysThatNotContainsInTheOtherTables$_appendRowsNotContainsInTheOtherTables_closure4.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/AppendKeysThatNotContainsInTheOtherTables$_appendRowsNotContainsInTheOtherTables_closure5.class" afterPath="$PROJECT_DIR$/out/production/untitled1/AppendKeysThatNotContainsInTheOtherTables$_appendRowsNotContainsInTheOtherTables_closure5.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/AppendKeysThatNotContainsInTheOtherTables.class" afterPath="$PROJECT_DIR$/out/production/untitled1/AppendKeysThatNotContainsInTheOtherTables.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/Backups/01--translation.specific.csv" afterPath="$PROJECT_DIR$/out/production/untitled1/Backups/01--translation.specific.csv" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/Backups/01--translation.web.specific.csv" afterPath="$PROJECT_DIR$/out/production/untitled1/Backups/01--translation.web.specific.csv" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/Backups/result.txt" afterPath="$PROJECT_DIR$/out/production/untitled1/Backups/result.txt" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/CheckCsvForNullAndSize$_checkCsvForNullsCellAndCorrectStructure_closure1.class" afterPath="$PROJECT_DIR$/out/production/untitled1/CheckCsvForNullAndSize$_checkCsvForNullsCellAndCorrectStructure_closure1.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/CheckCsvForNullAndSize$_checkCsvForNullsCellAndCorrectStructure_closure2$_closure4.class" afterPath="$PROJECT_DIR$/out/production/untitled1/CheckCsvForNullAndSize$_checkCsvForNullsCellAndCorrectStructure_closure2$_closure4.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/CheckCsvForNullAndSize$_checkCsvForNullsCellAndCorrectStructure_closure2.class" afterPath="$PROJECT_DIR$/out/production/untitled1/CheckCsvForNullAndSize$_checkCsvForNullsCellAndCorrectStructure_closure2.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/CheckCsvForNullAndSize$_checkCsvForNullsCellAndCorrectStructure_closure3$_closure5.class" afterPath="$PROJECT_DIR$/out/production/untitled1/CheckCsvForNullAndSize$_checkCsvForNullsCellAndCorrectStructure_closure3$_closure5.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/CheckCsvForNullAndSize$_checkCsvForNullsCellAndCorrectStructure_closure3.class" afterPath="$PROJECT_DIR$/out/production/untitled1/CheckCsvForNullAndSize$_checkCsvForNullsCellAndCorrectStructure_closure3.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/CheckCsvForNullAndSize.class" afterPath="$PROJECT_DIR$/out/production/untitled1/CheckCsvForNullAndSize.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/CheckInputCsvFrombank$_checkIncomingCsvFromBank_closure1.class" afterPath="$PROJECT_DIR$/out/production/untitled1/CheckInputCsvFrombank$_checkIncomingCsvFromBank_closure1.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/CheckInputCsvFrombank$_checkIncomingCsvFromBank_closure2$_closure4.class" afterPath="$PROJECT_DIR$/out/production/untitled1/CheckInputCsvFrombank$_checkIncomingCsvFromBank_closure2$_closure4.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/CheckInputCsvFrombank$_checkIncomingCsvFromBank_closure2.class" afterPath="$PROJECT_DIR$/out/production/untitled1/CheckInputCsvFrombank$_checkIncomingCsvFromBank_closure2.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/CheckInputCsvFrombank$_checkIncomingCsvFromBank_closure3$_closure5.class" afterPath="$PROJECT_DIR$/out/production/untitled1/CheckInputCsvFrombank$_checkIncomingCsvFromBank_closure3$_closure5.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/CheckInputCsvFrombank$_checkIncomingCsvFromBank_closure3.class" afterPath="$PROJECT_DIR$/out/production/untitled1/CheckInputCsvFrombank$_checkIncomingCsvFromBank_closure3.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/CheckInputCsvFrombank.class" afterPath="$PROJECT_DIR$/out/production/untitled1/CheckInputCsvFrombank.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/CsvCompare$_main_closure1.class" afterPath="$PROJECT_DIR$/out/production/untitled1/CsvCompare$_main_closure1.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/CsvCompare$_main_closure2.class" afterPath="$PROJECT_DIR$/out/production/untitled1/CsvCompare$_main_closure2.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/CsvCompare$_main_closure3.class" afterPath="$PROJECT_DIR$/out/production/untitled1/CsvCompare$_main_closure3.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/CsvCompare$_main_closure4.class" afterPath="$PROJECT_DIR$/out/production/untitled1/CsvCompare$_main_closure4.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/CsvCompare$_main_closure5.class" afterPath="$PROJECT_DIR$/out/production/untitled1/CsvCompare$_main_closure5.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/CsvCompare.class" afterPath="$PROJECT_DIR$/out/production/untitled1/CsvCompare.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/CsvCompareTest$_main_closure1.class" afterPath="$PROJECT_DIR$/out/production/untitled1/CsvCompareTest$_main_closure1.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/CsvCompareTest$_main_closure2.class" afterPath="$PROJECT_DIR$/out/production/untitled1/CsvCompareTest$_main_closure2.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/CsvCompareTest$_main_closure3.class" afterPath="$PROJECT_DIR$/out/production/untitled1/CsvCompareTest$_main_closure3.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/CsvCompareTest$_main_closure4.class" afterPath="$PROJECT_DIR$/out/production/untitled1/CsvCompareTest$_main_closure4.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/CsvCompareTest$_main_closure5.class" afterPath="$PROJECT_DIR$/out/production/untitled1/CsvCompareTest$_main_closure5.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/CsvCompareTest$_main_closure6.class" afterPath="$PROJECT_DIR$/out/production/untitled1/CsvCompareTest$_main_closure6.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/CsvCompareTest.class" afterPath="$PROJECT_DIR$/out/production/untitled1/CsvCompareTest.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/CsvMerger$_mergeCsvTranslationWebSpecific_closure1.class" afterPath="$PROJECT_DIR$/out/production/untitled1/CsvMerger$_mergeCsvTranslationWebSpecific_closure1.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/CsvMerger$_mergeCsvTranslationWebSpecific_closure2.class" afterPath="$PROJECT_DIR$/out/production/untitled1/CsvMerger$_mergeCsvTranslationWebSpecific_closure2.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/CsvMerger$_mergeCsvTranslationWebSpecific_closure3.class" afterPath="$PROJECT_DIR$/out/production/untitled1/CsvMerger$_mergeCsvTranslationWebSpecific_closure3.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/CsvMerger.class" afterPath="$PROJECT_DIR$/out/production/untitled1/CsvMerger.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/CsvMergerTranslationSpecific$_mergeCsvTranslationSpecific_closure1.class" afterPath="$PROJECT_DIR$/out/production/untitled1/CsvMergerTranslationSpecific$_mergeCsvTranslationSpecific_closure1.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/CsvMergerTranslationSpecific$_mergeCsvTranslationSpecific_closure2.class" afterPath="$PROJECT_DIR$/out/production/untitled1/CsvMergerTranslationSpecific$_mergeCsvTranslationSpecific_closure2.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/CsvMergerTranslationSpecific.class" afterPath="$PROJECT_DIR$/out/production/untitled1/CsvMergerTranslationSpecific.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/FileWriterTest.class" afterPath="$PROJECT_DIR$/out/production/untitled1/FileWriterTest.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/MapInit$_main_closure1.class" afterPath="$PROJECT_DIR$/out/production/untitled1/MapInit$_main_closure1.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/MapInit.class" afterPath="$PROJECT_DIR$/out/production/untitled1/MapInit.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/RecursiveFileSearch/FileSearch.class" afterPath="$PROJECT_DIR$/out/production/untitled1/RecursiveFileSearch/FileSearch.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/ResultFiles/01--translation.specific.csv" afterPath="$PROJECT_DIR$/out/production/untitled1/ResultFiles/01--translation.specific.csv" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/ResultFiles/01--translation.web.specific.csv" afterPath="$PROJECT_DIR$/out/production/untitled1/ResultFiles/01--translation.web.specific.csv" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/ResultFiles/MiddleVersion/01--translation.specific.csv" afterPath="$PROJECT_DIR$/out/production/untitled1/ResultFiles/MiddleVersion/01--translation.specific.csv" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/Test$_main_closure1.class" afterPath="$PROJECT_DIR$/out/production/untitled1/Test$_main_closure1.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/Test$_main_closure2.class" afterPath="$PROJECT_DIR$/out/production/untitled1/Test$_main_closure2.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/Test.class" afterPath="$PROJECT_DIR$/out/production/untitled1/Test.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/TestCreationMapFromList$_main_closure1.class" afterPath="$PROJECT_DIR$/out/production/untitled1/TestCreationMapFromList$_main_closure1.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/TestCreationMapFromList$_main_closure2.class" afterPath="$PROJECT_DIR$/out/production/untitled1/TestCreationMapFromList$_main_closure2.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/TestCreationMapFromList.class" afterPath="$PROJECT_DIR$/out/production/untitled1/TestCreationMapFromList.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/TestLinkedListOrder$_main_closure1.class" afterPath="$PROJECT_DIR$/out/production/untitled1/TestLinkedListOrder$_main_closure1.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/TestLinkedListOrder$_main_closure2.class" afterPath="$PROJECT_DIR$/out/production/untitled1/TestLinkedListOrder$_main_closure2.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/TestLinkedListOrder$_main_closure3.class" afterPath="$PROJECT_DIR$/out/production/untitled1/TestLinkedListOrder$_main_closure3.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/TestLinkedListOrder$_main_closure4.class" afterPath="$PROJECT_DIR$/out/production/untitled1/TestLinkedListOrder$_main_closure4.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/TestLinkedListOrder$_main_closure5.class" afterPath="$PROJECT_DIR$/out/production/untitled1/TestLinkedListOrder$_main_closure5.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/TestLinkedListOrder$_main_closure6.class" afterPath="$PROJECT_DIR$/out/production/untitled1/TestLinkedListOrder$_main_closure6.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/TestLinkedListOrder.class" afterPath="$PROJECT_DIR$/out/production/untitled1/TestLinkedListOrder.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/csvCheck/CsvCheckByParameters$_checkCsvByParameters_closure1.class" afterPath="$PROJECT_DIR$/out/production/untitled1/csvCheck/CsvCheckByParameters$_checkCsvByParameters_closure1.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/csvCheck/CsvCheckByParameters$_checkCsvByParameters_closure2.class" afterPath="$PROJECT_DIR$/out/production/untitled1/csvCheck/CsvCheckByParameters$_checkCsvByParameters_closure2.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/csvCheck/CsvCheckByParameters$_checkCsvByParameters_closure3$_closure5.class" afterPath="$PROJECT_DIR$/out/production/untitled1/csvCheck/CsvCheckByParameters$_checkCsvByParameters_closure3$_closure5.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/csvCheck/CsvCheckByParameters$_checkCsvByParameters_closure3.class" afterPath="$PROJECT_DIR$/out/production/untitled1/csvCheck/CsvCheckByParameters$_checkCsvByParameters_closure3.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/csvCheck/CsvCheckByParameters$_checkCsvByParameters_closure4$_closure6.class" afterPath="$PROJECT_DIR$/out/production/untitled1/csvCheck/CsvCheckByParameters$_checkCsvByParameters_closure4$_closure6.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/csvCheck/CsvCheckByParameters$_checkCsvByParameters_closure4.class" afterPath="$PROJECT_DIR$/out/production/untitled1/csvCheck/CsvCheckByParameters$_checkCsvByParameters_closure4.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/csvCheck/CsvCheckByParameters.class" afterPath="$PROJECT_DIR$/out/production/untitled1/csvCheck/CsvCheckByParameters.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/csvCheck/IncorrectDataException.class" afterPath="$PROJECT_DIR$/out/production/untitled1/csvCheck/IncorrectDataException.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/csvCheck/fake.csv" afterPath="$PROJECT_DIR$/out/production/untitled1/csvCheck/fake.csv" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/new.txt" afterPath="$PROJECT_DIR$/out/production/untitled1/new.txt" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/notTranslated" afterPath="$PROJECT_DIR$/out/production/untitled1/notTranslated" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/testdir/1" afterPath="$PROJECT_DIR$/out/production/untitled1/testdir/1" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/testdir/2" afterPath="$PROJECT_DIR$/out/production/untitled1/testdir/2" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/testdir/dir/inDir" afterPath="$PROJECT_DIR$/out/production/untitled1/testdir/dir/inDir" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/testdir/dir2/inDir2" afterPath="$PROJECT_DIR$/out/production/untitled1/testdir/dir2/inDir2" />
+      <change beforePath="$PROJECT_DIR$/src/01--translation.specific.csv" afterPath="$PROJECT_DIR$/src/01--translation.specific.csv" />
+      <change beforePath="$PROJECT_DIR$/src/01--translation_241017 (1).csv" afterPath="$PROJECT_DIR$/src/01--translation_241017 (1).csv" />
+      <change beforePath="$PROJECT_DIR$/src/AppendKeysThatNotContainsInTheOtherTables.groovy" afterPath="$PROJECT_DIR$/src/AppendKeysThatNotContainsInTheOtherTables.groovy" />
+      <change beforePath="$PROJECT_DIR$/src/Backups/01--translation.specific.csv" afterPath="$PROJECT_DIR$/src/Backups/01--translation.specific.csv" />
+      <change beforePath="$PROJECT_DIR$/src/Backups/01--translation.web.specific.csv" afterPath="$PROJECT_DIR$/src/Backups/01--translation.web.specific.csv" />
+      <change beforePath="$PROJECT_DIR$/src/Backups/result.txt" afterPath="$PROJECT_DIR$/src/Backups/result.txt" />
+      <change beforePath="$PROJECT_DIR$/src/ChangeDataInCsv/ChangeDataInBankCsv.groovy" afterPath="$PROJECT_DIR$/src/ChangeDataInCsv/ChangeDataInBankCsv.groovy" />
+      <change beforePath="$PROJECT_DIR$/src/CheckCsvForNullAndSize.groovy" afterPath="$PROJECT_DIR$/src/CheckCsvForNullAndSize.groovy" />
+      <change beforePath="$PROJECT_DIR$/src/CheckInputCsvFrombank.groovy" afterPath="$PROJECT_DIR$/src/CheckInputCsvFrombank.groovy" />
+      <change beforePath="$PROJECT_DIR$/src/CsvCompare.groovy" afterPath="$PROJECT_DIR$/src/CsvCompare.groovy" />
+      <change beforePath="$PROJECT_DIR$/src/CsvCompareTest.groovy" afterPath="$PROJECT_DIR$/src/CsvCompareTest.groovy" />
+      <change beforePath="$PROJECT_DIR$/src/CsvMerger.groovy" afterPath="$PROJECT_DIR$/src/CsvMerger.groovy" />
+      <change beforePath="$PROJECT_DIR$/src/CsvMergerTranslationSpecific.groovy" afterPath="$PROJECT_DIR$/src/CsvMergerTranslationSpecific.groovy" />
+      <change beforePath="$PROJECT_DIR$/src/FileWriterTest.groovy" afterPath="$PROJECT_DIR$/src/FileWriterTest.groovy" />
+      <change beforePath="$PROJECT_DIR$/src/MapInit.groovy" afterPath="$PROJECT_DIR$/src/MapInit.groovy" />
+      <change beforePath="$PROJECT_DIR$/src/RecursiveFileSearch/FileSearch.java" afterPath="$PROJECT_DIR$/src/RecursiveFileSearch/FileSearch.java" />
+      <change beforePath="$PROJECT_DIR$/src/RecursiveFileSearch/FileSearchGroovy.groovy" afterPath="$PROJECT_DIR$/src/RecursiveFileSearch/FileSearchGroovy.groovy" />
+      <change beforePath="$PROJECT_DIR$/src/ResultFiles/01--translation.specific.csv" afterPath="$PROJECT_DIR$/src/ResultFiles/01--translation.specific.csv" />
+      <change beforePath="$PROJECT_DIR$/src/ResultFiles/01--translation.web.specific.csv" afterPath="$PROJECT_DIR$/src/ResultFiles/01--translation.web.specific.csv" />
+      <change beforePath="$PROJECT_DIR$/src/ResultFiles/MiddleVersion/01--translation.specific.csv" afterPath="$PROJECT_DIR$/src/ResultFiles/MiddleVersion/01--translation.specific.csv" />
+      <change beforePath="$PROJECT_DIR$/src/Test.groovy" afterPath="$PROJECT_DIR$/src/Test.groovy" />
+      <change beforePath="$PROJECT_DIR$/src/TestCreationMapFromList.groovy" afterPath="$PROJECT_DIR$/src/TestCreationMapFromList.groovy" />
+      <change beforePath="$PROJECT_DIR$/src/TestLinkedListOrder.groovy" afterPath="$PROJECT_DIR$/src/TestLinkedListOrder.groovy" />
+      <change beforePath="$PROJECT_DIR$/src/csvCheck/CsvCheckByParameters.groovy" afterPath="$PROJECT_DIR$/src/csvCheck/CsvCheckByParameters.groovy" />
+      <change beforePath="$PROJECT_DIR$/src/csvCheck/IncorrectDataException.groovy" afterPath="$PROJECT_DIR$/src/csvCheck/IncorrectDataException.groovy" />
+      <change beforePath="$PROJECT_DIR$/src/csvCheck/fake.csv" afterPath="$PROJECT_DIR$/src/csvCheck/fake.csv" />
+      <change beforePath="$PROJECT_DIR$/src/new.txt" afterPath="$PROJECT_DIR$/src/new.txt" />
+      <change beforePath="$PROJECT_DIR$/src/notTranslated" afterPath="$PROJECT_DIR$/src/notTranslated" />
+      <change beforePath="$PROJECT_DIR$/src/result.txt" afterPath="$PROJECT_DIR$/src/result.txt" />
+      <change beforePath="$PROJECT_DIR$/src/testdir/1" afterPath="$PROJECT_DIR$/src/testdir/1" />
+      <change beforePath="$PROJECT_DIR$/src/testdir/2" afterPath="$PROJECT_DIR$/src/testdir/2" />
+      <change beforePath="$PROJECT_DIR$/src/testdir/dir/inDir" afterPath="$PROJECT_DIR$/src/testdir/dir/inDir" />
+      <change beforePath="$PROJECT_DIR$/src/testdir/dir2/inDir2" afterPath="$PROJECT_DIR$/src/testdir/dir2/inDir2" />
+      <change beforePath="$PROJECT_DIR$/untitled1.iml" afterPath="$PROJECT_DIR$/untitled1.iml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -332,99 +449,6 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="CsvMergerTranslationSpecific.groovy" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/CsvMergerTranslationSpecific.groovy">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="24" column="83" lean-forward="false" selection-start-line="23" selection-start-column="8" selection-end-line="24" selection-end-column="83" />
-              <folding>
-                <element signature="e#90#136#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AppendKeysThatNotContainsInTheOtherTables.groovy" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/AppendKeysThatNotContainsInTheOtherTables.groovy">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="22" column="9" lean-forward="false" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-                <element signature="e#90#136#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FileSearch.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/RecursiveFileSearch/FileSearch.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FileSearchGroovy.groovy" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/RecursiveFileSearch/FileSearchGroovy.groovy">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="355">
-              <caret line="101" column="34" lean-forward="false" selection-start-line="101" selection-start-column="34" selection-end-line="101" selection-end-column="34" />
-              <folding>
-                <element signature="e#29#55#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>&quot;</find>
-      <find>\n;</find>
-      <find>;;;</find>
-      <find>common_organization</find>
-      <find>ps_Active</find>
-      <find>currency_us_dollar</find>
-      <find>count</find>
-      <find>currency_tenge</find>
-      <find>TRUE</find>
-      <find>letter_to</find>
-      <find>letter_distribution</find>
-      <find>intTransfer_payerCode</find>
-      <find>depositNumberOrgNameOrgBin</find>
-      <find>accTransfer_accountTransfer</find>
-      <find>Cyfral, Aktobe Taza Kala, KazTransGas, Aimak, other)</find>
-      <find>РЦКУ-Уральск [Батыс ЭнергоРесурсы, Орал Таза Сервис, КазТрансГаз Аймак, прочие]</find>
-      <find>Currency conversion</find>
-      <find>accTransfer_accountTransfer1</find>
-      <find>Transfer between own accounts</find>
-      <find>accTransfer_accountTransfer2</find>
-      <find>Конвертация валюты</find>
-      <find>Refusal from Bank's ABIS</find>
-      <find>Document revoked</find>
-      <find>document.state.Revoked</find>
-      <find>navigation_products</find>
-      <find>navigation_transactions</find>
-    </findStrings>
-    <replaceStrings>
-      <replace>'</replace>
-      <replace>\n</replace>
-    </replaceStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -432,41 +456,14 @@
     <option name="externalProjectsViewState">
       <projects_view />
     </option>
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/Test.java" />
-        <option value="$PROJECT_DIR$/src/Test.groovy" />
-        <option value="$PROJECT_DIR$/src/MapInit.groovy" />
-        <option value="$PROJECT_DIR$/src/КАЗ_список текста для перевода.csv" />
-        <option value="$PROJECT_DIR$/src/CsvCompare.groovy" />
-        <option value="$PROJECT_DIR$/src/CsvCompateTest.groovy" />
-        <option value="$PROJECT_DIR$/src/FileWritterTest.groovy" />
-        <option value="$PROJECT_DIR$/src/FileWriterTest.groovy" />
-        <option value="$PROJECT_DIR$/src/CsvCompareTest.groovy" />
-        <option value="$PROJECT_DIR$/src/TestCreationMapFromList.groovy" />
-        <option value="$PROJECT_DIR$/src/new.txt" />
-        <option value="$PROJECT_DIR$/src/TestLinkedListOrder.groovy" />
-        <option value="$PROJECT_DIR$/src/CsvMerger.groovy" />
-        <option value="$PROJECT_DIR$/src/CheckCsvForNullAndSize.groovy" />
-        <option value="$PROJECT_DIR$/src/01--translation.specific.csv" />
-        <option value="$PROJECT_DIR$/src/CheckInputCsvFrombank.groovy" />
-        <option value="$PROJECT_DIR$/src/01--translation_241017 (1).csv" />
-        <option value="$PROJECT_DIR$/src/notTranslated" />
-        <option value="$PROJECT_DIR$/src/AppendKeysThatNotContainsInTheOtherTables.groovy" />
-        <option value="$PROJECT_DIR$/src/CsvMergerTranslationSpecific.groovy" />
-        <option value="$PROJECT_DIR$/src/csvCheck/IncorrectDataException.groovy" />
-        <option value="$PROJECT_DIR$/src/csvCheck/fake.csv" />
-        <option value="$PROJECT_DIR$/src/csvCheck/CsvCheckByParameters.groovy" />
-        <option value="$PROJECT_DIR$/src/testdir/1" />
-        <option value="$PROJECT_DIR$/src/testdir/2" />
-        <option value="$PROJECT_DIR$/src/testdir/dir/1" />
-        <option value="$PROJECT_DIR$/src/result.txt" />
-        <option value="$PROJECT_DIR$/src/testdir/dir2/inDir2" />
-        <option value="$PROJECT_DIR$/src/RecursiveFileSearch/FileSesrchGroovy.groovy" />
-        <option value="$PROJECT_DIR$/src/RecursiveFileSearch/FileSearchGroovy.groovy" />
-      </list>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../ALFA_220218/ibs-core" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../Alfa_310118/ibs-alfa" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../Alfa_310118/ibs-core" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../digitalbank_120118" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../digitalbank_DEPLOY" value="PREVIEW" />
+      </map>
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -479,7 +476,6 @@
     <option name="width" value="1920" />
     <option name="height" value="1053" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -496,63 +492,20 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="Scratches" />
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DariyaKukuruznyak" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
-  </component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/ResultFiles" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/ResultFiles" />
-      <recent name="$PROJECT_DIR$/src" />
-      <recent name="$PROJECT_DIR$/src/ResultFiles/MiddleVersion" />
-      <recent name="$PROJECT_DIR$/src/Backups" />
-      <recent name="$PROJECT_DIR$/src/Results" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="RecursiveFileSearch" />
-    </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="csvCheck" />
-    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -566,131 +519,12 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FileSearchGroovy">
-    <configuration default="false" name="CheckCsvForNullAndSize" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="CheckCsvForNullAndSize" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="untitled1" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="CsvCheckByParameters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="csvCheck.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="csvCheck.CsvCheckByParameters" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="untitled1" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="FileSearchGroovy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="RecursiveFileSearch.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="RecursiveFileSearch.FileSearchGroovy" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="untitled1" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
-      <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-      <option name="PROGRAM_PARAMETERS" />
-      <predefined_log_file id="idea.log" enabled="true" />
-      <method />
-    </configuration>
-    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
-      <module name="" />
-      <option name="DEPLOY" value="true" />
-      <option name="ARTIFACT_NAME" value="" />
-      <option name="PM_INSTALL_OPTIONS" value="" />
-      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
-      <option name="MODE" value="default_activity" />
-      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
-      <option name="PREFERRED_AVD" value="" />
-      <option name="CLEAR_LOGCAT" value="false" />
-      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
-      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
-      <option name="FORCE_STOP_RUNNING_APP" value="true" />
-      <option name="DEBUGGER_TYPE" value="Java" />
-      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
-      <option name="PREFERRED_AVD" value="" />
-      <Java />
-      <Profilers>
-        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
-        <option name="GAPID_ENABLED" value="false" />
-        <option name="GAPID_DISABLE_PCS" value="false" />
-        <option name="SUPPORT_LIB_ENABLED" value="true" />
-        <option name="INSTRUMENTATION_ENABLED" value="true" />
-      </Profilers>
-      <option name="DEEP_LINK" value="" />
-      <option name="ACTIVITY_CLASS" value="" />
-      <method />
-    </configuration>
-    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
-      <module name="" />
-      <option name="TESTING_TYPE" value="0" />
-      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="EXTRA_OPTIONS" value="" />
-      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
-      <option name="PREFERRED_AVD" value="" />
-      <option name="CLEAR_LOGCAT" value="false" />
-      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
-      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
-      <option name="FORCE_STOP_RUNNING_APP" value="true" />
-      <option name="DEBUGGER_TYPE" value="Java" />
-      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
-      <option name="PREFERRED_AVD" value="" />
-      <Java />
-      <Profilers>
-        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
-        <option name="GAPID_ENABLED" value="false" />
-        <option name="GAPID_DISABLE_PCS" value="false" />
-        <option name="SUPPORT_LIB_ENABLED" value="true" />
-        <option name="INSTRUMENTATION_ENABLED" value="true" />
-      </Profilers>
-      <method />
-    </configuration>
+  <component name="RunManager">
     <configuration default="true" type="Applet" factoryName="Applet">
-      <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
-      <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -705,173 +539,6 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="" />
       <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="BashConfigurationType" factoryName="Bash">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="INTERPRETER_PATH" value="/bin/bash" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="PARAMETERS" value="" />
-      <module name="" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="Cold Fusion runner description" factoryName="Cold Fusion" custom_browser="" web_path="">
-      <method />
-    </configuration>
-    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="myFilePath" />
-      <option name="GLUE" />
-      <option name="myNameFilter" />
-      <option name="myGeneratedName" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
-      <option name="BCName" value="" />
-      <option name="IOSSimulatorSdkPath" value="" />
-      <option name="adlOptions" value="" />
-      <option name="airProgramParameters" value="" />
-      <option name="appDescriptorForEmulator" value="Android" />
-      <option name="debugTransport" value="USB" />
-      <option name="debuggerSdkRaw" value="BC SDK" />
-      <option name="emulator" value="NexusOne" />
-      <option name="emulatorAdlOptions" value="" />
-      <option name="fastPackaging" value="true" />
-      <option name="fullScreenHeight" value="0" />
-      <option name="fullScreenWidth" value="0" />
-      <option name="launchUrl" value="false" />
-      <option name="launcherParameters">
-        <LauncherParameters>
-          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
-          <option name="launcherType" value="OSDefault" />
-          <option name="newPlayerInstance" value="false" />
-          <option name="playerPath" value="/usr/bin/flashplayerdebugger" />
-        </LauncherParameters>
-      </option>
-      <option name="mobileRunTarget" value="Emulator" />
-      <option name="moduleName" value="" />
-      <option name="overriddenMainClass" value="" />
-      <option name="overriddenOutputFileName" value="" />
-      <option name="overrideMainClass" value="false" />
-      <option name="runTrusted" value="true" />
-      <option name="screenDpi" value="0" />
-      <option name="screenHeight" value="0" />
-      <option name="screenWidth" value="0" />
-      <option name="url" value="http://" />
-      <option name="usbDebugPort" value="7936" />
-      <method />
-    </configuration>
-    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
-      <option name="BCName" value="" />
-      <option name="launcherParameters">
-        <LauncherParameters>
-          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
-          <option name="launcherType" value="OSDefault" />
-          <option name="newPlayerInstance" value="false" />
-          <option name="playerPath" value="/usr/bin/flashplayerdebugger" />
-        </LauncherParameters>
-      </option>
-      <option name="moduleName" value="" />
-      <option name="trusted" value="true" />
-      <method />
-    </configuration>
-    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list />
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <method />
-    </configuration>
-    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
-      <setting name="vmparams" value="" />
-      <setting name="cmdLine" value="run-app" />
-      <setting name="passParentEnv" value="true" />
-      <setting name="launchBrowser" value="true" />
-      <setting name="launchBrowserUrl" value="" />
-      <setting name="depsClasspath" value="false" />
-      <method />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -892,44 +559,6 @@
       </option>
       <envs />
       <patterns />
-      <method />
-    </configuration>
-    <configuration default="true" type="JarApplication" factoryName="JAR Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="SCRATCH_FILE_ID" value="0" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
-      <node-interpreter value="project" />
-      <working-dir value="" />
-      <envs />
-      <scope-kind value="ALL" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
-      <config-file value="" />
-      <node-interpreter value="project" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
-      <method />
     </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
@@ -937,13 +566,6 @@
       <option name="SHMEM_ADDRESS" value="javadebug" />
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
-      <method />
-    </configuration>
-    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <envs />
-      <method />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -971,713 +593,79 @@
       <envs />
       <properties />
       <listeners />
-      <method />
     </configuration>
-    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
-      <node-interpreter>project</node-interpreter>
-      <node-options />
-      <gulpfile />
-      <tasks />
-      <arguments />
-      <envs />
-      <method />
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
-    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
-      <command value="run" />
-      <scripts />
-      <node-interpreter value="project" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
-      <method />
-    </configuration>
-    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
-      <method />
-    </configuration>
-    <list size="3">
-      <item index="0" class="java.lang.String" itemvalue="Application.CheckCsvForNullAndSize" />
-      <item index="1" class="java.lang.String" itemvalue="Application.CsvCheckByParameters" />
-      <item index="2" class="java.lang.String" itemvalue="Application.FileSearchGroovy" />
-    </list>
-    <recent_temporary>
-      <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.FileSearchGroovy" />
-        <item index="1" class="java.lang.String" itemvalue="Application.FileSearchGroovy" />
-        <item index="2" class="java.lang.String" itemvalue="Application.FileSearchGroovy" />
-        <item index="3" class="java.lang.String" itemvalue="Application.CsvCheckByParameters" />
-        <item index="4" class="java.lang.String" itemvalue="Application.CheckCsvForNullAndSize" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="93817f35-153e-4d3c-bbc1-13852d5b4929" name="Default" comment="" />
-      <created>1506953340916</created>
+      <changelist id="a2df35c0-be80-4b02-b4ca-873354ae5c9c" name="Default" comment="" />
+      <created>1521713549167</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1506953340916</updated>
-      <workItem from="1506953344338" duration="180000" />
-      <workItem from="1506953528018" duration="9034000" />
-      <workItem from="1506977833821" duration="4792000" />
-      <workItem from="1507486104279" duration="577000" />
-      <workItem from="1507486777079" duration="699000" />
-      <workItem from="1508245561913" duration="9208000" />
-      <workItem from="1508843873789" duration="1974000" />
-      <workItem from="1508929739301" duration="273000" />
-      <workItem from="1508930350419" duration="14357000" />
-      <workItem from="1508965647301" duration="1934000" />
-      <workItem from="1509013212837" duration="17358000" />
-      <workItem from="1509030606815" duration="9539000" />
-      <workItem from="1509300994033" duration="4512000" />
-      <workItem from="1509305800746" duration="307000" />
-      <workItem from="1509306174034" duration="5392000" />
-      <workItem from="1509363274189" duration="608000" />
-      <workItem from="1509368178374" duration="1297000" />
-      <workItem from="1509375012229" duration="5872000" />
-      <workItem from="1510662287364" duration="1888000" />
-      <workItem from="1510666336072" duration="737000" />
-      <workItem from="1510669022536" duration="7584000" />
-      <workItem from="1510680648476" duration="1135000" />
+      <updated>1521713549167</updated>
+      <workItem from="1521713552073" duration="7000" />
     </task>
-    <task id="LOCAL-00001" summary="Refactored. Some fixes.">
-      <created>1509303174334</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1509303174334</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Added new methods.">
-      <created>1509310931242</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1509310931242</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Added code for recursive search action type in 2 line in all csv.">
-      <created>1510674632930</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1510674632930</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Refactored.">
-      <created>1510681063040</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1510681063040</updated>
-    </task>
-    <task id="LOCAL-00005" summary="Refactored.">
-      <created>1510681606540</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1510681606540</updated>
-    </task>
-    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="99257000" />
-  </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
+    <option name="totallyTimeSpent" value="7000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1053" extended-state="0" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290461" sideWeight="0.50213677" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="JRebel Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="JRebel Executor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39978564" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290461" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32832617" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.333691" sideWeight="0.49786323" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31545064" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14957266" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="JRebel" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290461" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
-    <layout-to-restore>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290461" sideWeight="0.50213677" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="JRebel Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="JRebel Executor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39978564" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290461" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290461" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31404072" sideWeight="0.49786323" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290461" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11259338" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="JRebel" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290461" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="processedProjectFiles" value="true" />
+    <option name="version" value="1" />
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Refactored. Some fixes." />
-    <MESSAGE value="Added new methods." />
-    <MESSAGE value="Added code for recursive search action type in 2 line in all csv." />
-    <MESSAGE value="Refactored." />
-    <option name="LAST_COMMIT_MESSAGE" value="Refactored." />
-  </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <option name="time" value="17" />
-    </breakpoint-manager>
+    <breakpoint-manager />
     <watches-manager />
-  </component>
-  <component name="antWorkspaceConfiguration">
-    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
-    <option name="FILTER_TARGETS" value="false" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/КАЗ_список текста для перевода.csv" />
-    <entry file="file://$PROJECT_DIR$/src/MapInit.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="35" column="22" lean-forward="false" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/stream/Collectors.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="249" column="28" lean-forward="false" selection-start-line="249" selection-start-column="28" selection-end-line="249" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.sdkman/candidates/groovy/2.4.12/lib/groovy-2.4.12.jar!/org/codehaus/groovy/runtime/DefaultGroovyMethods.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="1289" column="60" lean-forward="false" selection-start-line="1289" selection-start-column="51" selection-end-line="1289" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/nio/file/Files.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2499">
-          <caret line="3783" column="33" lean-forward="false" selection-start-line="3783" selection-start-column="33" selection-end-line="3783" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TestCreationMapFromList.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="37" lean-forward="false" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.sdkman/candidates/groovy/2.4.12/lib/groovy-2.4.12.jar!/org/codehaus/groovy/runtime/InvokerHelper.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="56" column="13" lean-forward="false" selection-start-line="56" selection-start-column="13" selection-end-line="56" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.sdkman/candidates/groovy/2.4.12/lib/groovy-2.4.12.jar!/org/codehaus/groovy/runtime/ResourceGroovyMethods.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
-          <caret line="286" column="18" lean-forward="false" selection-start-line="286" selection-start-column="18" selection-end-line="286" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/io/Writer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="125" column="16" lean-forward="false" selection-start-line="125" selection-start-column="16" selection-end-line="125" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Test.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="30" column="89" lean-forward="false" selection-start-line="21" selection-start-column="10" selection-end-line="30" selection-end-column="89" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/io/FileWriter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="105" column="11" lean-forward="false" selection-start-line="105" selection-start-column="11" selection-end-line="105" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/new.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="26" column="1" lean-forward="false" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/nio/file/InvalidPathException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1008">
-          <caret line="33" column="13" lean-forward="false" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TestLinkedListOrder.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="35" column="61" lean-forward="false" selection-start-line="35" selection-start-column="61" selection-end-line="35" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ResultFiles/01--translation.web.specific.csv">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="csv-data-editor">
-        <state>
-          <format>
-            <csv-format name="Tab-separated (TSV)">
-              <data>
-                <record-format prefix="" suffix="" nullText="" quotationPolicy="as needed" valueSeparator=";" recordSeparator="&#10;">
-                  <quotation>
-                    <quotes left="&quot;" right="&quot;" leftEscaped="&quot;&quot;" rightEscaped="&quot;&quot;" />
-                    <quotes left="'" right="'" leftEscaped="''" rightEscaped="''" />
-                  </quotation>
-                </record-format>
-              </data>
-            </csv-format>
-          </format>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Backups/01--translation.web.specific.csv">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="csv-data-editor">
-        <state>
-          <format>
-            <csv-format name="Tab-separated (TSV)">
-              <data>
-                <record-format prefix="" suffix="" nullText="" quotationPolicy="as needed" valueSeparator=";" recordSeparator="&#10;">
-                  <quotation>
-                    <quotes left="&quot;" right="&quot;" leftEscaped="&quot;&quot;" rightEscaped="&quot;&quot;" />
-                    <quotes left="'" right="'" leftEscaped="''" rightEscaped="''" />
-                  </quotation>
-                </record-format>
-              </data>
-            </csv-format>
-          </format>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Backups/01--translation.specific.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/notTranslated">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CheckInputCsvFrombank.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/FileWriterTest.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="8" column="6" lean-forward="false" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CsvCompareTest.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="433">
-          <caret line="38" column="43" lean-forward="false" selection-start-line="38" selection-start-column="43" selection-end-line="38" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Backups/result.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-5329">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/01--translation.specific.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" column="43" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="43" />
-        </state>
-      </provider>
-      <provider editor-type-id="csv-data-editor">
-        <state>
-          <format>
-            <csv-format name="Tab-separated (TSV)_1">
-              <data>
-                <record-format prefix="" suffix="" nullText="" quotationPolicy="as needed" valueSeparator=";" recordSeparator="&#10;">
-                  <quotation>
-                    <quotes left="&quot;" right="&quot;" leftEscaped="&quot;&quot;" rightEscaped="&quot;&quot;" />
-                    <quotes left="'" right="'" leftEscaped="''" rightEscaped="''" />
-                  </quotation>
-                </record-format>
-              </data>
-            </csv-format>
-          </format>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/01--translation.web.specific.csv" />
-    <entry file="file://$PROJECT_DIR$/src/01--translation.specific.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
-          <caret line="2751" column="46" lean-forward="false" selection-start-line="2751" selection-start-column="46" selection-end-line="2751" selection-end-column="46" />
-        </state>
-      </provider>
-      <provider editor-type-id="csv-data-editor">
-        <state>
-          <format>
-            <csv-format name="Tab-separated (TSV)_1">
-              <data>
-                <record-format prefix="" suffix="" nullText="" quotationPolicy="as needed" valueSeparator=";" recordSeparator="&#10;" />
-              </data>
-            </csv-format>
-          </format>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ResultFiles/01--translation.specific.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="49752">
-          <caret line="2764" column="0" lean-forward="false" selection-start-line="2764" selection-start-column="0" selection-end-line="2764" selection-end-column="0" />
-        </state>
-      </provider>
-      <provider editor-type-id="csv-data-editor">
-        <state>
-          <format>
-            <csv-format name="Tab-separated (TSV)">
-              <data>
-                <record-format prefix="" suffix="" nullText="" quotationPolicy="as needed" valueSeparator=";" recordSeparator="&#10;" />
-              </data>
-            </csv-format>
-          </format>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ResultFiles/MiddleVersion/01--translation.specific.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.sdkman/candidates/groovy/2.4.12/lib/groovy-2.4.12.jar!/org/codehaus/groovy/runtime/StringGroovyMethods.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-35">
-          <caret line="1514" column="15" lean-forward="true" selection-start-line="1514" selection-start-column="15" selection-end-line="1514" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/stream/Stream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="497" column="9" lean-forward="false" selection-start-line="497" selection-start-column="9" selection-end-line="497" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/csvCheck/CsvCheckByParameters.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="14" column="32" lean-forward="false" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CsvCompare.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="522">
-          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CheckCsvForNullAndSize.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="24" column="47" lean-forward="false" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CsvMerger.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="11" column="11" lean-forward="true" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/csvCheck/IncorrectDataException.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="6" lean-forward="false" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/csvCheck/fake.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="8" lean-forward="false" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/io/File.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="1205" column="15" lean-forward="false" selection-start-line="1205" selection-start-column="11" selection-end-line="1205" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AppendKeysThatNotContainsInTheOtherTables.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="22" column="9" lean-forward="false" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-            <element signature="e#90#136#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/testdir/1">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="2" lean-forward="false" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/testdir/2">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="3" lean-forward="false" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/testdir/dir/inDir">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="1924" column="18" lean-forward="false" selection-start-line="1924" selection-start-column="18" selection-end-line="1924" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/testdir/dir2/inDir2">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="18" lean-forward="false" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/RecursiveFileSearch/FileSearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data/01--city.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data/01--translation.web.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/01--translation_241017 (1).csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="24" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="24" />
-        </state>
-      </provider>
-      <provider editor-type-id="csv-data-editor">
-        <state>
-          <format>
-            <csv-format name="Tab-separated (TSV)_1">
-              <data>
-                <record-format prefix="" suffix="" nullText="" quotationPolicy="as needed" valueSeparator=";" recordSeparator="&#10;">
-                  <quotation>
-                    <quotes left="&quot;" right="&quot;" leftEscaped="&quot;&quot;" rightEscaped="&quot;&quot;" />
-                    <quotes left="'" right="'" leftEscaped="''" rightEscaped="''" />
-                  </quotation>
-                </record-format>
-              </data>
-            </csv-format>
-          </format>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CsvMergerTranslationSpecific.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="24" column="83" lean-forward="false" selection-start-line="23" selection-start-column="8" selection-end-line="24" selection-end-column="83" />
-          <folding>
-            <element signature="e#90#136#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data/dev/03--bank.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ResultFiles/result.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/result.txt">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="457">
-          <caret line="320" column="0" lean-forward="true" selection-start-line="320" selection-start-column="0" selection-end-line="320" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="csv-data-editor">
-        <state>
-          <format>
-            <csv-format name="Comma-separated (CSV)_1">
-              <data>
-                <record-format prefix="" suffix="" nullText="" quotationPolicy="as needed" valueSeparator=";" recordSeparator="&#10;" />
-              </data>
-            </csv-format>
-          </format>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/RecursiveFileSearch/FileSearchGroovy.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="355">
-          <caret line="101" column="34" lean-forward="false" selection-start-line="101" selection-start-column="34" selection-end-line="101" selection-end-column="34" />
-          <folding>
-            <element signature="e#29#55#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
   </component>
   <component name="masterDetails">
     <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
-          <last-edited>groovy-2.4.12</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1690,18 +678,6 @@
       <state key="JdkListConfigurable.UI">
         <settings>
           <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>untitled1</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1724,6 +700,17 @@
         </settings>
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
         <settings>
           <splitter-proportions>
             <option name="proportions">

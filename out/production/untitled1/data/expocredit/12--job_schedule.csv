@@ -1,0 +1,12 @@
+is_deleted;schedule;max_execution_time;job_id
+references=job_id:job(code); keyColumns=job_id
+
+0;1 0/20 * * * *;120;BANK_BRANCH
+0;1 0/20 * * * *;120;ACCOUNT
+0;1 0/20 * * * *;120;ORGANIZATION
+0;1 1 1/1 * * *;1200;PAYMENT_CODE
+0;1 1 1/1 * * *;1200;BUDGET_CLASSIFICATION_CODE
+0;1 1 1/1 * * *;12000000;BANK
+0;1 0/20 * * * *;120;COUNTRY
+0;1 0/20 * * * *;120;CURRENCY
+0;1 0/20 * * * *;1000;EXPORT_DOMESTIC_TRANSFER

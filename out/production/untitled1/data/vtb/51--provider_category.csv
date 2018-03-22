@@ -1,0 +1,23 @@
+id1;name_id;full_name_id;code;is_deleted
+references=name_id:translation(translation_key), full_name_id:translation(translation_key); keyColumns=code
+
+1;favorites;favorites_full;favorites;0
+2;cellular_communication;cellular_communication_full;cellular_communication;0
+3;communal_payments;communal_payments_full;communal_payments;0
+4;internet_and_ip;internet_and_ip_full;internet_and_ip;0
+5;tv;tv_full;tv;0
+6;flights;flights_full;flights;0
+7;traffic_fines;traffic_fines_full;traffic_fines;0
+8;bookmakers;bookmakers_full;bookmakers;0
+9;online_games;online_games_full;online_games;0
+10;cuppons;cuppons_full;cuppons;0
+11;online_stores;online_stores_full;online_stores;0
+12;security_services;security_services_full;security_services;0
+13;сosmetics;сosmetics_full;сosmetics;0
+14;electronic_money;electronic_money_full;electronic_money;0
+15;charity;charity_full;charity;0
+16;educational_services;educational_services_full;educational_services;0
+17;tourism;tourism_full;tourism;0
+18;other;other_full;other;0
+19;all;all_full;all;0
+

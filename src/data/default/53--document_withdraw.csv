@@ -1,0 +1,5 @@
+id;document_id2;reason
+references=id:document(document_number), document_id2:document(document_number);  keyColumns=id
+12/7E;12/7E;Не тот счет открываем
+11/6AI;11/6AI;Отменить платеж
+

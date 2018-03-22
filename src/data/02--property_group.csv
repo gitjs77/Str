@@ -1,0 +1,13 @@
+is_deleted;code;name;description
+keyColumns=code
+0;FIN;Финансовые;Група системных констант
+0;SYS;Реквизиты системного банка;Реквизиты системного банка
+0;OTP;ОТП токен;ОТП токен
+0;LOGIN;Логин;Костанты логина
+0;MAIL;Письма;Почтовая переписка
+0;DS;DS;Digital Signature
+0;NEWS;Новости;News
+0;INTEGRATION;Интеграция;Integration
+0;SEND_REQ;Реквизиты отправки;Send requisites
+0;SMS;СМС-уведомления;SMS notification
+0;EDS;Электронно-цифровая подпись;EDS

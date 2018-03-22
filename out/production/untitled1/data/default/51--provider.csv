@@ -1,0 +1,4 @@
+name_id;full_name_id;code
+references=name_id:translation(translation_key), full_name_id:translation(translation_key); keyColumns=code
+kcmr;kcmr_full;kcmr
+

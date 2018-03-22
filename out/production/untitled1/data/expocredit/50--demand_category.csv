@@ -1,0 +1,4 @@
+id_1;code;is_deleted;name_id
+references=name_id:translation(translation_key); keyColumns=code
+
+1;Cash;0;actions_DemandCash

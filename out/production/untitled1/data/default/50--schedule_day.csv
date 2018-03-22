@@ -1,0 +1,101 @@
+service_point_id;week_day;open_time;close_time;break_start;break_end
+references=service_point_id:service_point(name)
+
+Алматы;MONDAY;09:00;18:00;13:00;14:00
+Алматы;TUESDAY;09:00;18:00;13:00;14:00
+Алматы;WEDNESDAY;09:00;18:00;13:00;14:00
+Алматы;THURSDAY;10:00;18:00;13:00;14:00
+Алматы;FRIDAY;10:00;18:00;13:00;14:00
+Алматы;SATURDAY;null;null;null;null
+Алматы;SUNDAY;null;null;null;null
+Алматы СПФ 1;MONDAY;09:00;18:00;13:00;14:00
+Алматы СПФ 1;TUESDAY;09:00;18:00;13:00;14:00
+Алматы СПФ 1;WEDNESDAY;09:00;18:00;13:00;14:00
+Алматы СПФ 1;THURSDAY;10:00;18:00;13:00;14:00
+Алматы СПФ 1;FRIDAY;10:00;18:00;13:00;14:00
+Алматы СПФ 1;SATURDAY;null;null;null;null
+Алматы СПФ 1;SUNDAY;null;null;null;null
+Алматы СПФ 3;MONDAY;09:00;18:00;13:00;14:00
+Алматы СПФ 3;TUESDAY;09:00;18:00;13:00;14:00
+Алматы СПФ 3;WEDNESDAY;09:00;18:00;13:00;14:00
+Алматы СПФ 3;THURSDAY;10:00;18:00;13:00;14:00
+Алматы СПФ 3;FRIDAY;10:00;18:00;13:00;14:00
+Алматы СПФ 3;SATURDAY;null;null;null;null
+Алматы СПФ 3;SUNDAY;null;null;null;null
+Алматы СПФ 4;MONDAY;09:00;18:00;13:00;14:00
+Алматы СПФ 4;TUESDAY;09:00;18:00;13:00;14:00
+Алматы СПФ 4;WEDNESDAY;09:00;18:00;13:00;14:00
+Алматы СПФ 4;THURSDAY;10:00;18:00;13:00;14:00
+Алматы СПФ 4;FRIDAY;10:00;18:00;13:00;14:00
+Алматы СПФ 4;SATURDAY;null;null;null;null
+Алматы СПФ 4;SUNDAY;null;null;null;null
+Астана;MONDAY;09:00;18:00;13:00;14:00
+Астана;TUESDAY;09:00;18:00;13:00;14:00
+Астана;WEDNESDAY;09:00;18:00;13:00;14:00
+Астана;THURSDAY;10:00;18:00;13:00;14:00
+Астана;FRIDAY;10:00;18:00;13:00;14:00
+Астана;SATURDAY;null;null;null;null
+Астана;SUNDAY;null;null;null;null
+Астана СПФ 1;MONDAY;09:00;18:00;13:00;14:00
+Астана СПФ 1;TUESDAY;09:00;18:00;13:00;14:00
+Астана СПФ 1;WEDNESDAY;09:00;18:00;13:00;14:00
+Астана СПФ 1;THURSDAY;10:00;18:00;13:00;14:00
+Астана СПФ 1;FRIDAY;10:00;18:00;13:00;14:00
+Астана СПФ 1;SATURDAY;null;null;null;null
+Астана СПФ 1;SUNDAY;null;null;null;null
+Караганда;MONDAY;09:00;18:00;13:00;14:00
+Караганда;TUESDAY;09:00;18:00;13:00;14:00
+Караганда;WEDNESDAY;09:00;18:00;13:00;14:00
+Караганда;THURSDAY;10:00;18:00;13:00;14:00
+Караганда;FRIDAY;10:00;18:00;13:00;14:00
+Караганда;SATURDAY;null;null;null;null
+Караганда;SUNDAY;null;null;null;null
+Актау;MONDAY;09:00;18:00;13:00;14:00
+Актау;TUESDAY;09:00;18:00;13:00;14:00
+Актау;WEDNESDAY;09:00;18:00;13:00;14:00
+Актау;THURSDAY;10:00;18:00;13:00;14:00
+Актау;FRIDAY;10:00;18:00;13:00;14:00
+Актау;SATURDAY;null;null;null;null
+Актау;SUNDAY;null;null;null;null
+Актобе;MONDAY;09:00;18:00;13:00;14:00
+Актобе;TUESDAY;09:00;18:00;13:00;14:00
+Актобе;WEDNESDAY;09:00;18:00;13:00;14:00
+Актобе;THURSDAY;10:00;18:00;13:00;14:00
+Актобе;FRIDAY;10:00;18:00;13:00;14:00
+Актобе;SATURDAY;null;null;null;null
+Актобе;SUNDAY;null;null;null;null
+Атырау;MONDAY;09:00;18:00;13:00;14:00
+Атырау;TUESDAY;09:00;18:00;13:00;14:00
+Атырау;WEDNESDAY;09:00;18:00;13:00;14:00
+Атырау;THURSDAY;10:00;18:00;13:00;14:00
+Атырау;FRIDAY;10:00;18:00;13:00;14:00
+Атырау;SATURDAY;null;null;null;null
+Атырау;SUNDAY;null;null;null;null
+Павлодар;MONDAY;09:00;18:00;13:00;14:00
+Павлодар;TUESDAY;09:00;18:00;13:00;14:00
+Павлодар;WEDNESDAY;09:00;18:00;13:00;14:00
+Павлодар;THURSDAY;10:00;18:00;13:00;14:00
+Павлодар;FRIDAY;10:00;18:00;13:00;14:00
+Павлодар;SATURDAY;null;null;null;null
+Павлодар;SUNDAY;null;null;null;null
+Петропавловск;MONDAY;09:00;18:00;13:00;14:00
+Петропавловск;TUESDAY;09:00;18:00;13:00;14:00
+Петропавловск;WEDNESDAY;09:00;18:00;13:00;14:00
+Петропавловск;THURSDAY;10:00;18:00;13:00;14:00
+Петропавловск;FRIDAY;10:00;18:00;13:00;14:00
+Петропавловск;SATURDAY;null;null;null;null
+Петропавловск;SUNDAY;null;null;null;null
+Усть-Каменогорск;MONDAY;09:00;18:00;13:00;14:00
+Усть-Каменогорск;TUESDAY;09:00;18:00;13:00;14:00
+Усть-Каменогорск;WEDNESDAY;09:00;18:00;13:00;14:00
+Усть-Каменогорск;THURSDAY;10:00;18:00;13:00;14:00
+Усть-Каменогорск;FRIDAY;10:00;18:00;13:00;14:00
+Усть-Каменогорск;SATURDAY;null;null;null;null
+Усть-Каменогорск;SUNDAY;null;null;null;null
+Шымкент;MONDAY;09:00;18:00;13:00;14:00
+Шымкент;TUESDAY;09:00;18:00;13:00;14:00
+Шымкент;WEDNESDAY;09:00;18:00;13:00;14:00
+Шымкент;THURSDAY;10:00;18:00;13:00;14:00
+Шымкент;FRIDAY;10:00;18:00;13:00;14:00
+Шымкент;SATURDAY;null;null;null;null
+Шымкент;SUNDAY;null;null;null;null

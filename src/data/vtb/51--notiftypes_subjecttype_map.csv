@@ -1,0 +1,22 @@
+type_id;type_code
+references=type_id:notification_type(notification_type); actionType = ignore_not_empty
+CreditAccount;accounts
+CreditAccount;channels
+DebitAccount;accounts
+DebitAccount;channels
+BalanceLessThen;accounts
+BalanceLessThen;channels
+BalanceGreaterThen;accounts
+BalanceGreaterThen;channels
+StatusChanging;accounts
+StatusChanging;documentTypes
+StatusChanging;statuses
+StatusChanging;channels
+CertificateExpiring;certificate
+NewsUpdate;channels
+BalanceLessThen;amount
+BalanceGreaterThen;amount
+CertificateExpiring;days
+PasswordExpiring;days
+CertificateExpiring;channels
+PasswordExpiring;channels

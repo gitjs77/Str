@@ -1,0 +1,9 @@
+code;name;require
+keyColumns=code
+
+1;Логин пароль;["Password"]
+2;Логин пароль смс;["Password","SMS"]
+3;Логин пароль эцп;["Password","Signature"]
+4;Логин пароль эцп + автономный генератор;["Password","Signature","Generator"]
+5;Эцп;["Signature"]
+6;Логин пароль + SMS + автономный генератор;["Password","SMS","Generator"]

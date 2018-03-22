@@ -1,0 +1,9 @@
+counterparty_id;iban;bank_id;international_bank_city;international_bank_address;international_bank_account;international_agent_id;international_agent_city;international_agent_address;international_agent_account
+references=counterparty_id:counterparty(bin), bank_id:bank(national_bank_bik), international_agent_id:bank(international_bank_bik); keyColumns=counterparty_id, iban, bank_id; actionType=check
+
+081240013779;KZ216390222030000526;NFBAKZ23;null;;;null;;;
+981140001115;KZ416390122030000365;NFBAKZ23;null;;;null;;;
+981140001105;KZ446390122030000408;NFBAKZ23;null;;;null;;;
+020440002422;KZ026390122040003125;NFBAKZ23;null;;;null;;;
+020440002422;KZ216390222030000526;NFBAKZ23;null;;;null;;;
+

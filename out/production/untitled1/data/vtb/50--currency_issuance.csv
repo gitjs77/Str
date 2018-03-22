@@ -1,0 +1,3 @@
+id_1;service_point_id;currency
+references=service_point_id:service_point(name)
+

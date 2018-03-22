@@ -1,0 +1,2 @@
+channel_code;channel_sub_code;company_person_id;recipient_id;message_text;generate_time;status;error_message;sent_time;notification_level;subject_type
+references=company_person_id:company_person(external_id)

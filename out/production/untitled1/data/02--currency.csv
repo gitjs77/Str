@@ -1,0 +1,12 @@
+is_deleted;iso_code;name;full_name_id;symbol;digital_code
+references=full_name_id:translation(translation_key); keyColumns=iso_code
+
+0;KZT;KZT;currency_tenge;K;398
+0;USD;USD;currency_us_dollar;U;840
+0;EUR;EUR;currency_euro;E;978
+0;RUB;RUB;currency_rub;R;643
+0;GBP;GBP;currency_gbr;G;826
+0;CNY;CNY;currency_chin;C;156
+0;JPY;JPY;currency_jap;J;392
+0;CHF;CHF;currency_frank;C;756
+0;AUD;AUD;currency_aud;A;036

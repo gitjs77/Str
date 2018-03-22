@@ -1,0 +1,10 @@
+letter_distribution_id;customer_id
+references=customer_id:customer(name), letter_distribution_id:letter_distribution(name)
+Группа Омега;ТОО БЕТОН
+ООО Цемент;АО Самсунг-Казахстан
+ООО Бетон;ТОО ЦЕМЕНТ
+Клиентам отделения 1;ТОО БЕТОН
+Клиентам отделения 1;ТОО ЦЕМЕНТ
+Для ЧП;АО Самсунг-Казахстан
+Для ЧП;ТОО БЕТОН
+Всем;Омаров Алихан Арсенович

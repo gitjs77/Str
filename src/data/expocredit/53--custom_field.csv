@@ -1,0 +1,12 @@
+id_1;is_deleted;custom_request_type_id;name;field_type;field_size;options_id;source;source_code;fields_reference;is_prefill;is_editable;is_required;auto_filling;validation_rules;full_name_id
+references=custom_request_type_id:custom_request_type(document_type), full_name_id:translation(translation_key)
+
+1;0;Заказ наличности;ФИО;AutoFilling;0;null;null;null;null;0;0;0;OrgName;NONE;fio
+2;0;Заказ наличности;ИНН;AutoFilling;0;null;null;null;null;0;0;0;TaxCode;NONE;common_iin
+3;0;Заказ наличности;Филиал;Select;0;null;Reference;servicePoint;наименование;0;0;1;null;NONE;common_branch
+4;0;Заказ наличности;Дата выдачи;date_type;0;null;null;null;null;0;0;1;null;NONE;common_date
+5;0;Заказ наличности;Время выдачи;time_type;8;null;null;null;null;0;0;1;null;NONE;common_time
+6;0;Заказ наличности;Валюта;Select;0;null;Reference;currency;наименование;0;0;1;null;NONE;exchangeRates_currency
+7;0;Заказ наличности;Сумма;Number;0;null;null;null;null;0;0;1;null;CASH_SUM;limit_amount
+8;0;Заказ наличности;Купюрность;Text;255;null;null;null;null;0;0;0;null;NONE;denomination
+9;0;Заказ наличности;Информация к сведению;Description;0;2319;null;null;null;0;0;0;null;NONE;common_information

@@ -1,0 +1,6 @@
+is_deleted;server_id;certificate;certificate_init;key_size;is_save_key;alg_type;tariff_id
+references= tariff_id:vc_tariff(name)
+0;911.00;C=KZ, O=Template, CN=RSA_USER_SIGN_EX_1Y;C=KZ, O=Template, CN=RSA_USER_SIGN_EX_14D;2048.00;1;RSA;KISC CERTIFICATE RK02 + RS02 (ГОСТ+RSA)
+0;910.00;C=KZ, O=Template, CN=GOST_USER_SIGN_1Y;C=KZ, O=Template, CN=GOST_USER_SIGN_14D;512.00;1;GOST;KISC CERTIFICATE RK02 + RS02 (ГОСТ+RSA)
+0;658.00;C=KZ, O=Template, CN=GOST_USER_SIGN_1Y;C=KZ, O=Template, CN=GOST_USER_SIGN_14D;512.00;0;GOST;KISC CERTIFICATE RK02_EXT
+0;939.00;C=KZ, O=Template, CN=RSA_USER_SIGN_EX_1Y;C=KZ, O=Template, CN=RSA_USER_SIGN_EX_14D;2048.00;0;RSA;KISC CERTIFICATE RS02_EXT

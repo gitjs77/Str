@@ -1,0 +1,2 @@
+letter_distribution_id;customer_id
+references=customer_id:customer(name), letter_distribution_id:letter_distribution(name)

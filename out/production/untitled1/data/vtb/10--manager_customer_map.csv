@@ -1,0 +1,5 @@
+manager_id;customer_id
+references=manager_id:manager(login), customer_id:customer(name); actionType = ignore_not_empty
+admin;ДЕНИСКО ВИКТОР АЛЕКСАНДРОВИЧ
+demoa;ДЕНИСКО ВИКТОР АЛЕКСАНДРОВИЧ
+security;ДЕНИСКО ВИКТОР АЛЕКСАНДРОВИЧ

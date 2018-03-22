@@ -1,0 +1,14 @@
+card_type;external_id;account_id;card_number;start_date;finish_date;alias;product_name;credit_limit;balance;customer_id;currency;status;is_visible;block_unblock_reason;display_order
+references=account_id:accounts(account_number), customer_id:customer(name); keyColumns=external_id
+кредитные;1;KZ75125KZT2069100100;4874222222221234;2016-01-03;2018-01-03;VISA Electron;Дебетная;5000;100000.25;ТОО БЕТОН;KZT;Active;1;null;13
+расчётные;2;KZ75125USD2069100102;4874222222223456;2016-01-03;2018-01-03;VISA Classic;Дебетная;5000;10000.25;ТОО БЕТОН;USD;Active;1;null;4
+расчётные;3;KZ75125USD2069100102;4874222222224567;2016-01-03;2018-01-03;VISA Gold;Дебетная;5000;14628.25;ТОО БЕТОН;EUR;Blocked;1;null;7
+расчётные;4;KZ75125KZT2069100104;4874222222225678;2016-01-03;2018-01-03;VISA Classic;Кредитная;5000;0.00;ТОО БЕТОН;USD;Closed;0;null;16
+депозитные;5;KZ75125EUR2069100124;4874222222226789;2016-01-03;2018-01-03;VISA Classic;Кредитная;5000;10000.25;ТОО БЕТОН;KZT;Active;1;null;12
+депозитные;6;KZ75125EUR2069100125;4874222222221233;2016-01-03;2018-01-03;VISA Classic;Кредитная;5000;55550.00;ТОО БЕТОН;KZT;Active;1;null;5
+расчётные;7;KZ75125USD2069101102;4874222222224567;2016-01-03;2018-01-03;VISA Gold;Зарплатная;5000;14628.25;Частный клиент;USD;Active;1;null;11
+расчётные;8;KZ75125KZT2069101107;4874222222225678;2016-01-03;2018-01-03;VISA Classic;Зарплатная;5000;0.00;Частный клиент;KZT;Active;0;null;6
+
+
+расчётные;7;KZ75125RUB2069102110;4874222222224567;2016-01-03;2018-01-03;VISA Gold;Зарплатная;5000;14628.25;Частный клиент;USD;Active;1;null;11
+расчётные;8;KZ75125EUR2069102106;4874222222225678;2016-01-03;2018-01-03;VISA Classic;Зарплатная;5000;0.00;Частный клиент;KZT;Active;0;null;6

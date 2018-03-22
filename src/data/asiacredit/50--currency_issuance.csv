@@ -1,0 +1,14 @@
+service_point_id;currency
+references=service_point_id:service_point(name)
+Алматы;KZT
+Алматы;USD
+
+
+Алматы СПФ 1;KZT
+Алматы СПФ 1;USD
+Алматы СПФ 1;EUR
+Алматы СПФ 1;RUB
+Алматы СПФ 3;KZT
+Алматы СПФ 3;USD
+Алматы СПФ 3;EUR
+Алматы СПФ 3;RUB

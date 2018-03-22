@@ -1,0 +1,15 @@
+en;ru;kk;translation_key;output_channel
+keyColumns=translation_key;actionType=modify
+Opened;Открытый;Открытый;ps_Active;W
+Letter to organization;Письмо в организацию;Письмо в организацию;letter_to;W
+Mailing to the organizations;Рассылка группе организаций;Рассылка группе организаций;letter_distribution;W
+Transactions;Денежные операции;Денежные операции;navigation_transactions;W
+Accounts and cards;Счета и карты;Счета и карты;navigation_products;W
+Name;Наименование;Наименование;intTransfer_payerName;W
+BIN/IIN;БИН/ИИН;БИН/ИИН;intTransfer_payerCode;W
+
+Account type;Вид счета;Вид счета;account_type;W
+List of employees;Список сотрудников;Список сотрудников;common_list_of_employees;W
+Planned balance;Плановый остаток;Остаток на счете;paymentOrder_accountBalanceKZT;W
+IIN/BIN;БИН/ИИН;БИН/ИИН;paymentOrder_taxCode;W
+Repayment account;Счет погашения задолженности;Счет погашения задолженности;accTransfer_creditAccount;W

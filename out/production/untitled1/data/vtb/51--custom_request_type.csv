@@ -1,0 +1,19 @@
+id_1;is_deleted;is_published;document_type;demand_category_id;description;can_accept_files;demand_end_point;related_button;document_type_name_id
+references=demand_category_id:demand_category(code), document_type_name_id:translation(translation_key); keyColumns=document_type
+
+3;0;1;Открытие Счета;Счета;NewAccount description;1;;OpenAccount;OpenAccount
+4;0;1;Закрытие Счета;Счета;close account description;1;;CloseAccount;actions_closeAccount
+5;0;1;Открытие депозита;Депозиты;open deposit;1;;OpenDeposit;common_openDeposit
+6;0;1;Закрытие депозита;Депозиты;close deposit;1;;CloseDeposit;common_closeDeposit
+7;0;1;Выдача займа;Кредиты;open credit;1;;OpenCredit;OpenCredit
+8;0;1;досрочное погашение кредита;Кредиты;change credit;1;;CloseCredit;CloseCredit
+9;0;1;выпуск карты;Карты;create card;1;;CreateCard;CreateCard
+10;0;1;Перевыпуск карты;Карты;Re-create card;1;;ReCreateCard;ReCreateCard
+
+
+
+
+
+
+
+
