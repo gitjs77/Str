@@ -6,7 +6,9 @@ import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.util.*;
+import java.util.concurrent.atomic.AtomicInteger;
 import java.util.function.BinaryOperator;
+import java.util.regex.Pattern;
 import java.util.stream.Collectors;
 
 /**
@@ -14,13 +16,16 @@ import java.util.stream.Collectors;
  */
 public class UniversalTranslationMerger2 {
     public static void main(String[] args) throws IOException {
+        final String FILE_SIGNATURE_REGEX = ".+;.+;.+;.+;.+";
 
         final String outputFile = "src/UniversalTranslationMerger/newTranslationUa.csv";
         final String inputFile = "src/UniversalTranslationMerger/01--translation.mobile.csv";
 
-        universalTranslationMerger(outputFile, inputFile,
+        File result = universalTranslationMerger(outputFile, inputFile,
                 3, 3,
                 2, 2);
+
+        System.out.println("\nvalidateMergedFileByRegexSignature: " + validateMergedFileByRegexSignature(result.getPath(), FILE_SIGNATURE_REGEX));
     }
 
 
@@ -73,11 +78,16 @@ public class UniversalTranslationMerger2 {
                                 translationKeyAndLineMapForOutputTranslationFile.get(inputFileString.split(";")[inputFileTranslationKeyIndex])
                                 .split(";")[outputFileDataIndex];
 
-
+                        final AtomicInteger iterationCounter = new AtomicInteger();
                         Arrays.stream(currentInputFileLineSeparatedBySemicolon).forEach(el -> {
                             try {
-                                fw.append(el).append(";");
+                                if (iterationCounter.get() == currentInputFileLineSeparatedBySemicolon.length - 1) {
+                                    fw.append(el);
+                                } else {
+                                    fw.append(el).append(";");
+                                }
                                 fw.flush();
+                                iterationCounter.getAndIncrement();
                             } catch (IOException e) {
                                 e.printStackTrace();
                             }
@@ -107,24 +117,18 @@ public class UniversalTranslationMerger2 {
         return (u,v) -> { throw new IllegalStateException(String.format("Duplicate key %s", u)); };
     }
 
-    public static List asList(Object value) {
-        if (value == null) {
-            return Collections.EMPTY_LIST;
-        } else if (value instanceof List) {
-            return (List)value;
-        } else if (value.getClass().isArray()) {
-            return Arrays.asList((Object[])((Object[])value));
-        } else if (!(value instanceof Enumeration)) {
-            return Collections.singletonList(value);
-        } else {
-            List answer = new ArrayList();
-            Enumeration e = (Enumeration)value;
+    public static boolean validateMergedFileByRegexSignature(final String pathToFile, final String fileSignatureRegex) throws IOException {
+        return Files.lines(Paths.get(pathToFile))
+                .skip(2)
+                .allMatch(fileLine -> {
+                    final boolean isFileLineMatchRegex = Pattern.compile(fileSignatureRegex).matcher(fileLine).matches();
+                    if(!isFileLineMatchRegex){
+                        System.out.println("Don't match regex. Line: " + fileLine);
+                    } else {
+                        System.out.println("Match regex. Line: " + fileLine);
+                    }
 
-            while(e.hasMoreElements()) {
-                answer.add(e.nextElement());
-            }
-
-            return answer;
+                    return isFileLineMatchRegex;
+                });
         }
-    }
 }
