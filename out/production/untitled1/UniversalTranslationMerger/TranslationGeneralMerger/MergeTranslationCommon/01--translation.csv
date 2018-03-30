@@ -1,0 +1,1019 @@
+en;ru;uk;kk;translation_key
+keyColumns=translation_key;actionType=modify
+Tenge;Тенге;Тенге;Tеңгесі;currency_tenge
+US Dollar;Доллар США;Доллар США;АҚШ доллары;currency_us_dollar
+Euro;Евро;Евро;Eуро;currency_euro
+Russian Ruble;Российский рубль;Российский рубль;Ресей рублі;currency_rub
+Hryvnia;Гривня;Гривня;Гривня;currency_uah
+null;Главное меню;Главное меню;null;page_main_menu
+null;Обзор;Обзор;null;page_review
+Accounts;Счета;Счета;null;page_accounts
+Deposits;Депозиты;Депозиты;null;demand_deposits
+Credits;Кредиты;Кредиты;null;demand_credits
+null;Корпоративные карты;Корпоративные карты;null;translation_1
+null;Личный кабинет;Личный кабинет;null;translation_2
+null;Денежные операции;Денежные операции;null;page_money_transactions
+null;Платежи;Платежи;null;translation_3
+null;Международные переводы;Международные переводы;null;translation_4
+null;Перевод между своими счетами;Перевод между своими счетами;null;translation_5
+null;Конвертация;Конвертация;null;translation_6
+null;Длительные поручения;Длительные поручения;null;translation_7
+null;Прочие операции;Прочие операции;null;page_other_transactions
+null;Счета на оплату;Счета на оплату;null;translation_8
+Documents for signature;Документы на подпись;Документы на подпись;Документы на подпись;page_doc_for_signature
+null;Возвраты;Возвраты;null;translation_9
+null;Отзывы платежей;Отзывы платежей;null;translation_10
+null;Просмотр;Просмотр;null;privilege_account_view
+null;Открыть новый;Открыть новый;null;privilege_account_new
+null;Остаток по всем счетам;Остаток по всем счетам;null;privilege_account_balances
+null;Закрытые счета;Закрытые счета;null;translation_11
+null;Экспорт в Excel;Экспорт в Excel;null;privilege_account_excel
+null;История транзакций;История транзакций;null;privilege_account_history
+null;Выписка;Выписка;null;privilege_account_statement
+null;Закрыть счет;Закрыть счет;null;privilege_account_toClose
+null;Платеж;Платеж;null;privilege_account_payment
+null;Перевод;Перевод;null;privilege_account_transfer
+null;Просмотр;Просмотр;null;privilege_deposits_view
+null;Открыть новый;Открыть новый;null;privilege_deposits_new
+null;Показать закрытые;Показать закрытые;null;privilege_deposits_closed
+null;Остаток;Остаток;null;privilege_deposits_balances
+null;Заказать выписку;Заказать выписку;null;privilege_deposits_statement
+null;Пополнить счет;Пополнить счет;null;privilege_deposits_credit
+null;Просмотр/Редактирование;Просмотр/Редактирование;null;privilege_deposits_edit
+null;История транзакций;История транзакций;null;privilege_deposits_history
+null;Закрыть;Закрыть;null;privilege_deposits_close
+null;Скрыть;Скрыть;null;privilege_deposits_hide
+null;Платеж;Платеж;null;privilege_deposits_payment
+null;Перевести;Перевести;null;privilege_deposits_transfer
+null;Информация и предложения;Информация и предложения;null;page_information_offers
+null;Курс валют;Курс валют;null;translation_12
+null;Выписка;Выписка;null;translation_13
+null;Почта;Почта;null;translation_14
+null;Заявления;Заявления;null;page_statements
+History;История действий;История действий;null;translation_15
+null;Справочники;Справочники;null;page_handbooks
+null;Общие;Общие;null;page_common
+null;Мои;Мои;null;page_my
+null;Просмотр;Просмотр;null;privilege_credits_view
+null;Показать закрытые;Показать закрытые;null;privilege_credits_closed
+null;Остаток;Остаток;null;privilege_credits_balances
+null;Новый кредит;Новый кредит;null;privilege_credits_new
+null;История транзакций;История транзакций;null;privilege_credits_history
+null;Заказ выписки;Заказ выписки;null;privilege_credits_statement
+null;Досрочное погашение;Досрочное погашение;null;privilege_credits_close
+null;Платеж;Платеж;null;privilege_credits_payment
+null;Скрыть;Скрыть;null;privilege_credits_hide
+null;Просмотр;Просмотр;null;privilege_corpCards_view
+null;Доступ;Доступ;null;privilege_personal
+null;Просмотр;Просмотр;null;privilege_finOperations_view
+null;Просмотр;Просмотр;null;privilege_payments_view
+null;Просмотр;Просмотр;null;privilege_int_transfers_view
+null;Просмотр;Просмотр;null;privilege_transfers_view
+null;Просмотр;Просмотр;null;privilege_conversion_view
+null;Просмотр;Просмотр;null;privilege_standing_orders_view
+null;Просмотр;Просмотр;null;privilege_otherOperations_view
+null;Просмотр;Просмотр;null;privilege_invoices_view
+null;Просмотр;Просмотр;null;privilege_docsSign_view
+null;Просмотр;Просмотр;null;privilege_refunds_view
+null;Просмотр;Просмотр;null;privilege_reversals_view
+null;Просмотр;Просмотр;null;privilege_infoAndSuggestions_view
+null;Просмотр;Просмотр;null;privilege_exchangeRate_view
+null;Просмотр;Просмотр;null;privilege_statement_view
+null;Просмотр;Просмотр;null;privilege_message_view
+null;Просмотр;Просмотр;null;privilege_demand_view
+null;Просмотр;Просмотр;null;privilege_history_view
+null;Просмотр;Просмотр;null;privilege_handbooks_view
+null;Просмотр;Просмотр;null;privilege_commonHandbooks_view
+null;Просмотр;Просмотр;null;privilege_userHandbooks_view
+null;Просмотр;Просмотр;null;privilege_root_view
+null;Просмотр;Просмотр;null;privilege_assets_view
+null;Просмотр;Просмотр;null;privilege_tasks_view
+null;Заявка на выпуск;Заявка на выпуск;null;privilege_corpCards_new
+null;Заявка на перевыпуск;Заявка на перевыпуск;null;privilege_corpCards_reiss
+null;Остаток по всем;Остаток по всем;null;privilege_corpCards_balance
+null;Показать закрытые карты;Показать закрытые карты;null;privilege_corpCards_closed
+null;Детали заблокированной суммы;Детали заблокированной суммы;null;privilege_corpCards_blocked_details
+null;История транзакций;История транзакций;null;privilege_corpCards_history
+null;Выписка;Выписка;null;privilege_corpCards_statement
+null;Блокирование карты;Блокирование карты;null;privilege_corpCards_block
+null;Перевод/конвертация валюты;Перевод/конвертация валюты;null;privilege_corpCards_transfer
+null;Пополнение карты;Пополнение карты;null;privilege_corpCards_credit
+null;Создать новый;Создать новый;null;privilege_payments_add
+null;Создать новый;Создать новый;null;privilege_int_transfers_add
+null;Создать новый;Создать новый;null;privilege_refunds_add
+null;Редактировать;Редактировать;null;privilege_int_transfers_edit
+null;Создать;Создать;null;privilege_message_add
+null;Отправить;Отправить;null;privilege_message_sent
+null;Ответить;Ответить;null;privilege_message_reply
+
+Add;Создать;Создать;Создать;privilege_payment_service_add
+View;Просмотр;Просмотр;Просмотр;privilege_payment_service_view
+Edit;Редактировать;Редактировать;Редактировать;privilege_payment_service_edit
+
+null;Экспорт в excel;Экспорт в excel;null;privilege_history_excel
+null;Редактировать кредит;Редактировать кредит;null;privilege_credits_edit
+null;Редактирование корпоративной карты;Редактирование корпоративной карты;null;privilege_corpCards_edit
+null;Главное меню;Главное меню;null;m_root
+null;Клиентские данные;Клиентские данные;null;m_clientdata
+null;Счета;Счета;null;m_accounts
+null;Депозиты;Депозиты;null;m_deposits
+null;Кредиты;Кредиты;null;m_credits
+null;Корпоративные карты;Корпоративные карты;null;m_corp_cards
+null;Документы;Документы;null;m_documents
+null;Календари;Календари;null;m_calendars
+null;Работа с ОТР токенами;Работа с ОТР токенами;null;m_otp_tokens
+null;Организации;Организации;null;m_organisations
+null;Уполномоченные лица;Уполномоченные лица;null;m_auth_persons
+null;Управление пользователями;Управление пользователями;null;m_management
+null;Пользователи;Пользователи;null;m_users
+null;Менеджеры;Менеджеры;null;m_managers
+null;История событий;История событий;null;m_event_history
+null;Сессии пользователей;Сессии пользователей;null;m_sessions
+null;Журнал запросов;Журнал запросов;null;m_requests
+null;Просмотр;Просмотр;null;m_root_view
+null;Просмотр;Просмотр;null;m_clientdata_view
+null;Просмотр;Просмотр;null;m_account_view
+null;История;История;null;m_account_history
+null;Просмотр;Просмотр;null;m_deposits_view
+null;История;История;null;m_deposits_history
+null;Просмотр;Просмотр;null;m_credits_view
+null;История;История;null;m_credits_history
+null;Просмотр;Просмотр;null;m_corpCards_view
+null;Заблокированные суммы;Заблокированные суммы;null;m_corpCards_blocked
+null;История;История;null;m_corpCards_history
+null;Просмотр;Просмотр;null;m_documents_view
+null;Просмотр;Просмотр;null;m_transfers_view
+null;Просмотр;Просмотр;null;m_convertion_view
+null;Просмотр;Просмотр;null;m_standing_orders_view
+null;Просмотр;Просмотр;null;m_cl_orders_view
+null;Просмотр;Просмотр;null;m_handbooks_view
+null;Письма;Письма;null;m_letters
+null;Новости;Новости;null;m_news
+null;Конвертация;Конвертация;null;m_convertion
+null;Справочники;Справочники;null;m_handbooks
+null;Банковские справочники;Банковские справочники;null;m_bank_hb
+null;Системные справочники;Системные справочники;null;m_system_hb
+null;Настройка доступов;Настройка доступов;null;m_access
+null;Длительные поручения;Длительные поручения;null;m_standing_orders
+null;Заявления клиентов;Заявления клиентов;null;m_cl_orders
+null;Перевод между своими счетами;Перевод между своими счетами;null;m_transfers
+null;Константы;Константы;null;m_constants
+null;Конструктор заявлений;Конструктор заявлений;null;m_constructor
+null;Просмотр;Просмотр;null;m_bank_hb_view
+null;Редактировать;Редактировать;null;m_bank_hb_edit
+null;Просмотр;Просмотр;null;m_calendars_view
+null;Создать;Создать;null;m_calendars_add
+null;Редактировать;Редактировать;null;m_calendars_edit
+null;Просмотр;Просмотр;null;m_system_hb_view
+null;Редактировать;Редактировать;null;m_system_hb_edit
+null;Просмотр;Просмотр;null;m_constants_view
+null;Редактировать;Редактировать;null;m_constants_edit
+null;Просмотр;Просмотр;null;m_access_view
+null;Редактировать;Редактировать;null;m_access_edit
+null;Просмотр;Просмотр;null;m_constructor_view
+null;Редактировать;Редактировать;null;m_constructor_edit
+null;Просмотр;Просмотр;null;m_management_view
+null;Просмотр;Просмотр;null;m_users_view
+null;Создать;Создать;null;m_users_add
+null;Редактировать;Редактировать;null;m_users_edit
+null;Смена пароля;Смена пароля;null;m_users_password
+null;Смена статуса;Смена статуса;null;m_users_status
+null;Просмотр;Просмотр;null;m_managers_view
+null;Создать;Создать;null;m_managers_add
+null;Редактировать;Редактировать;null;m_managers_edit
+null;Смена пароля;Смена пароля;null;m_managers_password
+null;Смена статуса;Смена статуса;null;m_managers_status
+null;Просмотр;Просмотр;null;m_events_history_view
+null;Просмотр;Просмотр;null;m_sessions_view
+null;Деактивация;Деактивация;null;m_sessions_deactivate
+null;Просмотр;Просмотр;null;m_requests_view
+null;Просмотр;Просмотр;null;m_organisations_view
+null;Создать;Создать;null;m_organisations_add
+null;Редактировать;Редактировать;null;m_organisations_edit
+null;Удаление;Удаление;null;m_organisations_delete
+null;Просмотр;Просмотр;null;m_auth_persons_view
+null;Создать;Создать;null;m_auth_persons_add
+null;Редактировать;Редактировать;null;m_auth_persons_edit
+null;Просмотр;Просмотр;null;m_otp_tokens_view
+null;Импорт;Импорт;null;m_otp_tokens_import
+null;Просмотр;Просмотр;null;m_message_view
+null;Создать;Создать;null;m_message_add
+null;Ответить;Ответить;null;m_message_reply
+null;Просмотр;Просмотр;null;m_news_view
+null;Создать;Создать;null;m_news_add
+null;Редактировать;Редактировать;null;privilege_payments_edit
+null;Создать;Создать;null;privilege_conversion_add
+null;Редактировать;Редактировать;null;privilege_conversion_edit
+null;Создать;Создать;null;m_constructor_add
+null;Отправка;Отправка;null;m_message_sent
+null;Онлайн чат;Онлайн чат;null;privilege_online_chat
+null;Просмотр;Просмотр;null;m_singanurerule_view
+null;Правила подписи;Правила подписи;null;m_signaturerules
+null;Создать;Создать;null;m_singanurerule_add
+null;Редактировать;Редактировать;null;m_singanurerule_edit
+null;Удаление;Удаление;null;m_singanurerule_delete
+null;Создать;Создать;null;privilege_transfers_add
+null;Редактировать;Редактировать;null;privilege_transfers_edit
+null;Редактировать статус документов;Редактировать статус документов;null;privilege_workflow_actions
+null;Выставленные мне счета;Выставленные мне счета;null;page_invoices
+null;Выставленные мною счета;Выставленные мною счета;null;page_expose_orders
+null;Просмотр;Просмотр;null;privilege_invoice_view
+null;Оплатить;Оплатить;null;privilege_invoice_pay
+null;Просмотр;Просмотр;null;privilege_exposedorders_view
+null;Создать;Создать;null;privilege_exposedorders_add
+null;Редактировать;Редактировать;null;privilege_exposedorders_edit
+Account Currency;Валюта Счета;Валюта Счета;Валюта Счета;accountCurrency
+Agreement text;Текст соглашения;Текст соглашения;Текст соглашения;agreementText
+Account Purpose;Назначение счета;Назначение счета;Назначение счета;accountPurpose
+Account;Счет;Счет;Счет;custom_field_account
+Close condition;Условие Закрытия;Условие Закрытия;Условие Закрытия;custom_field_close_condition
+unused sheets Rooms in checkbook;Номера неиспользованных листов в чековой;Номера неиспользованных листов в чековой;Номера неиспользованных листов в чековой;custom_field_unused_sheet
+The reason for account closure;Причина закрытия счета;Причина закрытия счета;Причина закрытия счета;custom_field_acc_closure_reason
+Deposit type;Вид депозита;Вид депозита;Салымның түрі;custom_field_deposit_type
+Deposit currency;Валюта депозита;Валюта депозита;Салым валютасы;custom_field_deposit_currency
+Length of deposit;Срок депозита;Срок депозита;Салымның мерзімі;custom_field_loan_term
+confirmation;Подтверждение;Подтверждение;Подтверждение;custom_field_confirmation
+text agreement;Текст Соглашения;Текст Соглашения;Текст Соглашения;custom_field_text_agreement
+deposit agreement;Назначение вклада;Назначение вклада;Назначение вклада;custom_field_deposit_agreement
+Deposit;Депозит;Депозит;Депозит;custom_field_deposit
+Account for transfer;Счет для перечисления;Счет для перечисления;Аударуға арналған шот;custom_field_account_for_transfer
+close reason;Причина закрытия;Причина закрытия;Причина закрытия;custom_field_close_reason
+Loan type;Вид займа;Вид займа;Вид займа;custom_field_loan_type
+Loan Currency;Валюта займа;Валюта займа;Валюта займа;custom_field_loan_currency
+Loan term;Срок займа;Срок займа;Срок займа;custom_field_loan_term_2
+Loan amount;Сумма Займа;Сумма Займа;Сумма Займа;custom_field_loan_amount
+Scanned copies of documents;Сканированные копии документов;Сканированные копии документов;Сканированные копии документов;custom_field_scanned_copies
+confirmation of the loan;Подтверждение займа;Подтверждение займа;Подтверждение займа;custom_field_confirmation_loan
+text agreement;Текст соглашения;Текст соглашения;Текст соглашения;custom_field_text_agreement_2
+Loan purpose;Назнаения займа;Назнаения займа;Назнаения займа;custom_field_loan_purpose
+The agreement on the opening of accounts;Согласие с условием открытия счета;Согласие с условием открытия счета;Согласие с условием открытия счета;agreementOpeningAccounts
+Credit;Кредит;Кредит;Кредит;custom_field_credit
+maturity value;Сумма погашения;Сумма погашения;Сумма погашения;custom_field_maturity_value
+Principal debt;Сумма основного долга;Сумма основного долга;Сумма основного долга;custom_field_principal_debt
+Changing the payment schedule;Изменение графика платежа;Изменение графика платежа;Изменение графика платежа;custom_field_payment_schedule
+Type of card products;Вид карточного продукт;Вид карточного продукт;Вид карточного продукт;custom_field_type_card_products
+Currency card;Валюта карты;Валюта карты;Валюта карты;custom_field_currency_card
+confirmation;Подтверждение;Подтверждение;Подтверждение;custom_field_confirmation_2
+text of the agreement;Текст соглашения;Текст соглашения;Текст соглашения;custom_field_text_agreement_3
+Appointment cards;Назначение карты;Назначение карты;Назначение карты;custom_field_appointment_cards
+card;Карта;Карта;Карта;custom_field_card
+Ground of re-issue;Причина перевыпуска;Причина перевыпуска;Қайта шығару себебі;custom_field_reason_reissue
+CASH;НАЛИЧНЫЙ;НАЛИЧНЫЙ;НАЛИЧНЫЙ;exchange_rate_cash
+CASHLESS;БЕЗНАЛИЧНЫЙ;БЕЗНАЛИЧНЫЙ;БЕЗНАЛИЧНЫЙ;exchange_rate_cashless
+NATIONAL;НАЦИОНАЛЬНЫЙ БАНК;НАЦИОНАЛЬНЫЙ БАНК;НАЦИОНАЛЬНЫЙ БАНК;exchange_rate_national
+CROSS;КРОСС;КРОСС;КРОСС;exchange_rate_cross
+Pound sterling;Фунт стерлингов;Фунт стерлингов;Фунт стерлинг;currency_gbr
+Quick Links;Быстрые ссылки;Быстрые ссылки;Быстрые ссылка;m_quick_link
+Edit;Редактировать;Редактировать;Редактировать;m_quicklink_edit
+Certificates reissuing;Перевыпуск сертификатов;Перевыпуск сертификатов;Перевыпуск сертификатов;m_cert_reissuing
+Load accounts;Загрузка счетов;Загрузка счетов;Загрузка счетов;job_ACCOUNT
+Load exchange rate;Запрос курсов валют;Запрос курсов валют;Запрос курсов валют;job_EXCHANGE_RATE
+Request document state;Запрос состояния документа;Запрос состояния документа;Запрос состояния документа;job_DOC_STATE_CHANGED
+International transfer;Международный перевод;Международный перевод;Международный перевод;job_EXPORT_INTERNATIONAL
+Account transfer;Перевод между своими счетами;Перевод между своими счетами;Перевод между своими счетами;page_inner_transactions
+Domestic transfer;Перевод в национальной валюте;Перевод в национальной валюте;Перевод в национальной валюте;job_EXPORT_DOMESTIC_TRANSFER
+Integration tasks;Задачи интеграции;Задачи интеграции;Задачи интеграции;job_group_integration
+Document tasks;Задачи по документам;Задачи по документам;Задачи по документам;job_group_documents
+Exposed documents;Выставленные счета;Выставленные счета;Выставленные счета;job_exposedOrder
+Currency rate type;Типы курсов валют;Типы курсов валют;Типы курсов валют;job_CURRENCY_RATE_TYPE
+Regions;Регионы;Регионы;Регионы;job_REGION
+Integration;Интеграция;Интеграция;Интеграция;job_common
+Cities;Города;Города;Города;job_CITY
+Notifications;Уведомления;Уведомления;Уведомления;job_NOTIFICATIONS
+Directory of Russian banks;Справочник Российские банки;Справочник Российские банки;Справочник Российские банки;job_RU_BANK
+Deposits;Депозиты;Депозиты;Депозиты;job_DEPOSIT
+Deposit kinds;Виды депозитов;Виды депозитов;Виды депозитов;job_DEPOSIT_KIND
+Credit kinds;Виды кредитов;Виды кредитов;Виды кредитов;job_CREDIT_KIND
+Credit payment kinds;Виды платежей по кредитам;Виды платежей по кредитам;Виды платежей по кредитам;job_CREDIT_PAYMENT_KIND
+Card product kinds;Виды карточных продуктов;Виды карточных продуктов;Виды карточных продуктов;job_CARD_PRODUCT_KIND
+Card kinds;Виды карт;Виды карт;Виды карт;job_CARD_KIND
+Currency;Валюта;Валюта;Валюта;job_CURRENCY
+Calendar;Календарь рабочих дней;Календарь рабочих дней;Календарь рабочих дней;job_CALENDAR
+Service Point;Банкоматы / отделения / терминалы;Банкоматы / отделения / терминалы;Банкоматы / отделения / терминалы;job_SERVICE_POINT
+Service Point Schedule;Режим работы банкоматов / отделений / терминалов;Режим работы банкоматов / отделений / терминалов;Режим работы банкоматов / отделений / терминалов;job_SERVICE_POINT_SCHEDULE
+Create new document;Создать новый документ;Создать новый документ;Создать новый документ;common_createDocument
+Show the balance of all accounts;Показать остаток по всем счетам;Показать остаток по всем счетам;Показать остаток по всем счетам;common_showBalance
+Go to the;Перейти на;Перейти на;Перейти на;notFound_go_to_the
+Incorrect login or password;Неверный логин или пароль;Неверный логин или пароль;Неверный логин или пароль;login.IncorrectLoginOrPassword
+No valid keys;Валидные ключи отсутствуют;Валидные ключи отсутствуют;Валидные ключи отсутствуют;docSigning_noValidKeys
+Export to 1C;Экспорт в 1C;Экспорт в 1C;Экспорт в 1C;domestic_documentExport1c
+The start date must precede the end date;Дата начала действия должна предшествовать дате окончания;Дата начала действия должна предшествовать дате окончания;Дата начала действия должна предшествовать дате окончания;exchangeRate.date.conflict
+Agree With Condition;Согласие с условием открытия счета;Согласие с условием открытия счета;Согласие с условием открытия счета;demandCreate_agreeWithCondition
+tax code repeated;ИИН повторяется;ИИН повторяется;ИИН повторяется;paymentOrder_taxCodeRepeated
+error in;ошибка в;ошибка в;ошибка в;common_error_in
+Message:;Message:;Message:;Message:;error.message
+Input Error;Ошибка ввода;Ошибка ввода;Ошибка ввода;common_InputError
+Enter login;Укажите логин;Укажите логин;Укажите логин;login_enter_login
+Password;Пароль;Пароль;Пароль;login_factor_Password
+
+Executor id;Идентификатор Пользователя(Id в системе);Идентификатор Пользователя(Id в системе);Идентификатор Пользователя(Id в системе);EventsExcelCreator.ExecutorId
+Sign in;Вход в систему;Вход в систему;Вход в систему;login_title
+Dictionary type;Тип справочника;Тип справочника;Тип справочника;global_settings.constants.table.col.handbook_type
+Max length is 1000 symbols;Максимальная длина 1000 символов!;Максимальная длина 1000 символов!;Максимальная длина 1000 символов!;global_settings.constants.validation.max.1000
+1 deposit is selected;1 депозит выбран;1 депозит выбран;1 депозит выбран;oneDepositIsSelected
+Document number;Документ номер;Документ номер;Документ номер;upload_docNumber
+Make visible;Сделать видимым;Сделать видимым;Сделать видимым;common_makeVisible
+Incorrect current password;Неверный текущий пароль;Неверный текущий пароль;Неверный текущий пароль;personal_incorrectCurrentPass
+For Month;За месяц;За месяц;За месяц;common_forMonth
+Cash sale;Продажа Наличный;Продажа Наличный;Продажа Наличный;CASH_SALE
+
+Executor name;ФИО;ФИО;Ф.И.О.;EventsExcelCreator.ExecutorName
+Your request cannot be processed;Your request cannot be processed;Your request cannot be processed;Your request cannot be processed;error.title
+Error while trying to sign the doc;Возникла ошибка при подписи документа;Возникла ошибка при подписи документа;Возникла ошибка при подписи документа;signature.signError
+Your profile deleted;Ваш профиль удален;Ваш профиль удален;Ваш профиль удален;login.ProfileDeleted
+Auth factor name;Название фактора авторизации;Название фактора авторизации;Название фактора авторизации;authfactor_name
+Incorrect SMS password;Неверный смс пароль;Неверный смс пароль;Неверный смс пароль;login.IncorrectSMSPassword
+
+Sent to bank;Отправить в банк;Отправить в банк;Отправить в банк;paymentOrder_sentToBank
+Signature is not required;Подпись не требуется;Подпись не требуется;Подпись не требуется;signature.signIsNotRequired
+Login;Логин;Логин;Логин;UsersExcelCreator.Login
+Subject user name;ФИО;ФИО;Ф.И.О.;EventsExcelCreator.SubjectName
+beneficiary Tax Code;налоговый код бенефициара;налоговый код бенефициара;налоговый код бенефициара;common_benefTaxCode
+Dispaly certificate;Показать сертификат;Показать сертификат;Показать сертификат;companyperson_certificate_display
+Balance by all accounts;Остаток по всех счетах;Остаток по всех счетах;Остаток по всех счетах;common_balanceByAllAccounts
+Corporate card details;Детали корпоративной карты;Детали корпоративной карты;Детали корпоративной карты;corporateCardDetails
+Активен;Активен;Активен;Активен;organization.active
+Hide closed accounts;Скрыть закрытые счета;Скрыть закрытые счета;Скрыть закрытые счета;common_hideClosedAccounts
+Overdue;Просрочен;Просрочен;Просрочен;common_overdue
+Message Filter Settings;Настройки фильтра сообщений;Настройки фильтра сообщений;Настройки фильтра сообщений;letterFilterSettings
+Cashless purchase;Покупка Безналичный;Покупка Безналичный;Покупка Безналичный;CASHLESS_PURCHASE
+The user is not defined;Пользователь не определен;Пользователь не определен;Пользователь не определен;workflow_userNotDetected
+Payer account and receiver account shouldn`t duplicate;Счет отправителя и счет получателя не должны быть одинаковыми;Счет отправителя и счет получателя не должны быть одинаковыми;Счет отправителя и счет получателя не должны быть одинаковыми;paymentOrder_dontDuplicateAccount
+Open deposit;Открыть депозит;Открыть депозит;Открыть депозит;common_openDeposit
+Document Import from 1c;Импорт документов из 1с;Импорт документов из 1с;Импорт документов из 1с;common_documentImport1c
+purpose payment;назначение платежа;назначение платежа;назначение платежа;common_purpose
+Kind documents;Вид документов;Вид документов;Вид документов;common_kindDocument
+Unblocking;Разблокировка;Разблокировка;Разблокировка;unblocking
+save Document;Сохранить Документ;Сохранить Документ;Сохранить Документ;common_saveDocument
+Choose key store;Выберите хранилище ключей;Выберите хранилище ключей;Выберите хранилище ключей;docSigning_chooseProfile
+Min length is 6 symbols;Минимальная длина 6 символов;Минимальная длина 6 символов;Минимальная длина 6 символов;auth.opt.token.min_length
+Total file size should not exceed;Общий размер файлов не должен превышать;Общий размер файлов не должен превышать;Общий размер файлов не должен превышать;common_totalFileSizeShouldNotExceed
+The sum of all of outstanding payments;Сумма всех неисполненных платежей;Сумма всех неисполненных платежей;Сумма всех неисполненных платежей;nonOutstandingPayments
+Post international zip;Международный почтовый индекс;Международный почтовый индекс;Международный почтовый индекс;common_intZip
+Cash;Наличные;Наличные;Наличные;CASH
+Load keys;Получить ключи;Получить ключи;Получить ключи;docSigning_loadKeys
+Организации;Организации;Организации;Организации;excel.organizations
+ deposits are selected; депозитов выбрано; депозитов выбрано; депозитов выбрано;depAreSelected
+Inoperability;Неработоспособность;Неработоспособность;Неработоспособность;IsInoperability
+Personal page;Персональная страница;Персональная страница;Персональная страница;personal_index
+exposeOrder list;Выставленные мной счета список;Выставленные мной счета список;Выставленные мной счета список;exposeOrder.list
+Create counterparty;Создать контрагента;Создать контрагента;Создать контрагента;counterparty_create
+Account number repeated;Номер счета повторяется;Номер счета повторяется;Номер счета повторяется;counterparty_accountNumberRepeated
+Чтобы войти в систему, нажмите;Чтобы войти в систему, нажмите;Чтобы войти в систему, нажмите;Чтобы войти в систему, нажмите;errorpage419_message
+Purchase;Покупка;Покупка;Покупка;PURCHASE
+The signing of the document;Подписание документа;Подписание документа;Подписание документа;docSigning_title
+Add account;Добавить счет;Добавить счет;Добавить счет;counterparty_addAccount
+Last login;Последнне продление;Последнне продление;Последнне продление;sessions_valid_to
+View/edit counterparty;Просмотр/редактирование контрагента;Просмотр/редактирование контрагента;Просмотр/редактирование контрагента;counterparty_edit
+Cross-course;Кросс-курс;Кросс-курс;Кросс-курс;CROSS
+Login must be less than 10 chars;Логин должен быть меньше 10 символов;Логин должен быть меньше 10 символов;Логин должен быть меньше 10 символов;login_login_req
+Close filter;Закрыть фильтр;Закрыть фильтр;Закрыть фильтр;requests_closefiler
+Login;По логину;По логину;По логину;login__passwordtab
+Sign in with login and password;Войти по логину и паролю;Войти по логину и паролю;Войти по логину и паролю;login_enter_loginpass
+Deposits sum;Сумма депозитов;Сумма депозитов;Сумма депозитов;depositsSum
+The calendar is updated!;Календарь обновлён!;Календарь обновлён!;Календарь обновлён!;calendarIsUpdated
+Users;Пользователи;Пользователи;Пользователи;UsersExcelCreator.Title
+Sorry, an error has occurred.;Sorry, an error has occurred.;Sorry, an error has occurred.;Sorry, an error has occurred.;error.subtitle
+
+Answer;Ответ;Ответ;Ответ;answer
+Dictionary: Local banks;Справочник: Локальные банки;Справочник: Локальные банки;Справочник: Локальные банки;banks_handbookLocalBanks
+Пользователь с таким логином уже существует;Пользователь с таким логином уже существует;Пользователь с таким логином уже существует;Пользователь с таким логином уже существует;common.validation.creation.customer.id.exist
+No profiles;Профили отсутствуют;Профили отсутствуют;Профили отсутствуют;docSigning_noValidProfiles
+Работа с ОТП токенами;Работа с ОТП токенами;Работа с ОТП токенами;Работа с ОТП токенами;navigation_otp
+Detail;Детали;Детали;Детали;common_detail
+Country code/Country:;Код страны/Страна:;Код страны/Страна:;Код страны/Страна:;counterparty_countryCodeCountry
+Back;Назад;Назад;Назад;back
+Try dropping file with otp tokens here, or click to select file to upload;Перетяните сюда файл с отп токенами или кликните для вибора файла;Перетяните сюда файл с отп токенами или кликните для вибора файла;Перетяните сюда файл с отп токенами или кликните для вибора файла;otp.import.downloadArea
+Cashless sale;Безналичный продажа;Безналичный продажа;Безналичный продажа;exchangeRates_cashlessSale
+Extended filter;Расширенный фильтр;Расширенный фильтр;Расширенный фильтр;common_full_search
+Create a new Channel;Создать новый канал;Создать новый канал;Создать новый канал;createNewChannel
+1 account is selected;1 счёт выбран;1 счёт выбран;1 счёт выбран;common_oneAccountSelected
+Channel (Web, mob);Канал;Канал;Канал;EventsExcelCreator.Channel
+Create new payment withdraw;Создать заявление на отзыв платежа;Создать заявление на отзыв платежа;Создать заявление на отзыв платежа;withdraw_create
+Date;Дата;Дата;Дата;withndraw_doc_date
+More news;Ещё новости;Ещё новости;Ещё новости;moreNews
+Additional authentication;Дополнительная аутентификация;Дополнительная аутентификация;Дополнительная аутентификация;additionallogin_title
+No more;Не более;Не более;Не более;noMore
+Close the deposit;Закрыть депозит;Закрыть депозит;Закрыть депозит;common_closeDeposit
+Blocked amount;Заблокированная сумма;Заблокированная сумма;Заблокированная сумма;blockedAmount
+The calendar is saved;Календарь сохранён!;Календарь сохранён!;Календарь сохранён!;calendarIsSaved
+Job manegement;Управления задачами;Управления задачами;Управления задачами;navigation_job_management
+Enter the password;Введите пароль;Введите пароль;Введите пароль;docSigning_inputPassword
+Action with a letter;Дейсвия с письмом;Дейсвия с письмом;Дейсвия с письмом;letterActions
+Viewing/Editing an ATM/Branch/Terminal;Просмотр и редактирование Банкомата/отделения/терминала;Просмотр и редактирование Банкомата/отделения/терминала;Просмотр и редактирование Банкомата/отделения/терминала;viewingEditingAtmBranchTerminal
+Не оплачен;Не оплачен;Не оплачен;Не оплачен;document.state.Accepted
+Available in chat;Доступность в чате;Доступность в чате;Доступность в чате;managerView_isChat
+The document state is final;Состояние документа финальное;Состояние документа финальное;Состояние документа финальное;workflow_stateisfinal
+International;Международное;Международное;Международное;international
+Cities;Города;Города;Города;cities
+Viewing organizations;Просмотр организации;Просмотр организации;Просмотр организации;viewingOrganization
+Bank SWIFT;БИК/SWIFT Банка;БИК/SWIFT Банка;БИК/SWIFT Банка;counterparty_bankCode
+Header;Заголовок;Заголовок;Заголовок;header
+Income and expenses;Доходы и расходы;Доходы и расходы;Доходы и расходы;incomeAndExpenses
+Bank News;Новости банка;Новости банка;Новости банка;bankNews
+Genaral print pdf Error;ОБщая ошибка печати документов;ОБщая ошибка печати документов;ОБщая ошибка печати документов;document.printError.general
+Received;Получено;Получено;Получено;received
+Not assigned by user;Не назначена пользователем;Не назначена пользователем;Не назначена пользователем;personal_noDefault
+Hidden deposits;Скрытые депозиты;Скрытые депозиты;Скрытые депозиты;hiddenDeposits
+
+#;#;#;#;line.number.table.header
+List od Demand;Список заявлений;Список заявлений;Список заявлений;demand.list
+Cashless cross course;Кросс-курс безналичный;Кросс-курс безналичный;Кросс-курс безналичный;CASHLESS_CROSS_COURSE
+Creating a Channel;Создание канала;Создание канала;Создание канала;creatingChannel
+The account does not belong to the current organization;Счет не принадлежит текущей организации;Счет не принадлежит текущей организации;Счет не принадлежит текущей организации;common_The_account_does_not_belong_to_the_current_organization
+Roll Up;Свернуть;Свернуть;Свернуть;common_rollUp
+National bank of Kazakhstan;Национальный банк Республики Казахстан;Национальный банк Республики Казахстан;Национальный банк Республики Казахстан;NBRK
+Currency editor;Обновление Валюты;Обновление Валюты;Обновление Валюты;currency_currencyeditor
+
+Неверная попытка. Количество оставшихся попыток: {};Неверная попытка. Количество оставшихся попыток: {};Неверная попытка. Количество оставшихся попыток: {};Неверная попытка. Количество оставшихся попыток: {};otp.fail_attempt.limit
+Dictionary is not selected!;Справочник не выбран!;Справочник не выбран!;Справочник не выбран!;global_settings.constants.validation.no_handbook_selected
+cant find Customer;Не найдена наша организация;Не найдена наша организация;Не найдена наша организация;common_cantFindCustomer
+Show the balance on all cards;Показать остаток по всех картах;Показать остаток по всех картах;Показать остаток по всех картах;showAllCardsBalance
+Payment date;Дата платежа;Дата платежа;Дата платежа;paymentDate
+A currency ID must be present;Должен присутствовать идентификатор валюты;Должен присутствовать идентификатор валюты;Должен присутствовать идентификатор валюты;exchangeRate.currency.id.mustExists
+Operating system version;Версия операционной системы, браузера;Версия операционной системы, браузера;Версия операционной системы, браузера;events_osversion
+Counterparty accounts;Счета контрагента;Счета контрагента;Счета контрагента;counterparty_accounts
+The current customer is not a document owner;Текущая организация не является владельцем документа;Текущая организация не является владельцем документа;Текущая организация не является владельцем документа;currentCustomerIsNotDocumentOwner
+Hide balance for all credits;Скрыть остаток по всех кредитам;Скрыть остаток по всех кредитам;Скрыть остаток по всех кредитам;hideAllCreditsBalance
+Digital signature;Электронная цифровая подпись;Электронная цифровая подпись;Электронная цифровая подпись;signature
+The signature is valid;Цифровая подпись успешно прошла проверку;Цифровая подпись успешно прошла проверку;Цифровая подпись успешно прошла проверку;signature.valid
+Max length is 8 symbols;Максимальная длина 8 символов;Максимальная длина 8 символов;Максимальная длина 8 символов;auth.opt.token.max_length
+Enter password;Укажите пароль;Укажите пароль;Укажите пароль;login_enter_password
+deleted;Удален;Удален;Удален;jobs.is_deleted
+Counterparty requisites;Реквизиты контрагента;Реквизиты контрагента;Реквизиты контрагента;counterparty_requisites
+isTemplate;Это шаблон;Это шаблон;Это шаблон;document.isTemplate
+The signature is not valid;Цифровая подпись не прошла проверку;Цифровая подпись не прошла проверку;Цифровая подпись не прошла проверку;signature.invalid
+Attaching a digital signature;Прикрепление цифровой подписи;Прикрепление цифровой подписи;Прикрепление цифровой подписи;docSigning_attaching
+SMS sent to your phone;На ваш телефон отправлена смс;На ваш телефон отправлена смс;На ваш телефон отправлена смс;login_sms_send
+Roles;Роли;Роли;Роли;navigation_roles
+Wrong password or inner error;Неправильный пароль или внутренняя ошибка;Неправильный пароль или внутренняя ошибка;Неправильный пароль или внутренняя ошибка;docSigning_errorText
+Selecting items;Выбор элементов;Выбор элементов;Выбор элементов;choosingItems
+Hide closed cards;Скрыть закрытые карты;Скрыть закрытые карты;Скрыть закрытые карты;hideClosedCards
+Dear {0};Dear {0};Dear {0};Dear {0};email.activation.greeting
+Show balance;Показать остаток;Показать остаток;Показать остаток;showBalance
+Пароль не должен быть пустым;Пароль не должен быть пустым;Пароль не должен быть пустым;Пароль не должен быть пустым;common.validation.password.required
+ deposits are selected; депозита выбрано; депозита выбрано; депозита выбрано;depositsAreDelected
+View/edit International transfer;Просмотр/редактирование международного перевода валюты;Просмотр/редактирование международного перевода валюты;Просмотр/редактирование международного перевода валюты;intTransfer_viewEdit
+Name;Название;Название;Название;page_pagename
+beneficiary Bank Code;код бенефициара;код бенефициара;код бенефициара;common_benefBankCode
+Name;Имя;Имя;Имя;UsersExcelCreator.Name
+View local bank;Просмотр локального банка;Просмотр локального банка;Просмотр локального банка;banks_viewLocalBank
+Key store;Хранилище ключей;Хранилище ключей;Хранилище ключей;docSigning_profile
+Show closed accounts;Показать закрытые счета;Показать закрытые счета;Показать закрытые счета;common_showClosedAccounts
+Чтобы войти в систему, нажмите;Чтобы войти в систему, нажмите;Чтобы войти в систему, нажмите;Чтобы войти в систему, нажмите;errorpage418_message
+Sale;Продажа;Продажа;Продажа;SALE
+Автентификация по токену Вам не доступна;Автентификация по токену Вам не доступна;Автентификация по токену Вам не доступна;Автентификация по токену Вам не доступна;otp.otp_auth_not_allowed
+File format;Формат файла;Формат файла;Формат файла;fileFormat
+Operations;Действия;Действия;Действия;organizations_operations
+Constants;Константы;Константы;Константы;global_settings.constants.table.name
+Action;Действие;Действие;Действие;EventsExcelCreator.Action
+ accounts are selected; счетов выбрано; счетов выбрано; счетов выбрано;common_accsSelected
+Satus;Статус;Статус;Статус;UsersExcelCreator.Status
+ibank Team.;ibank Team.;ibank Team.;ibank Team.;email.signature
+Sign in with only login and password will recieve only information content;При входе по логину и паролю доступен только информационный сервис;При входе по логину и паролю доступен только информационный сервис;При входе по логину и паролю доступен только информационный сервис;login_alert
+Save employees;Сохранить сотрудников;Сохранить сотрудников;Сохранить сотрудников;paymentOrder_saveEmployees
+Logical value;Логическое значение;Логическое значение;Логическое значение;global_settings.constants.logical_value
+Dear {0};Dear {0};Dear {0};Dear {0};email.reset.greeting
+You're using a technological key. Reissue for a year?;Вы используете технологический ключ. Перевыпустить на год?;Вы используете технологический ключ. Перевыпустить на год?;Вы используете технологический ключ. Перевыпустить на год?;reissuanceMessage
+Algorithm;Алгоритм;Алгоритм;Алгоритм;algorithm
+Common balance;Суммарный остаток;Суммарный остаток;Суммарный остаток;sum_balance
+History;История;История;История;paymentOrder_history
+This purpose of the payment already exists;Такое назначение платежа уже существует;Такое назначение платежа уже существует;Такое назначение платежа уже существует;paymentOrder_purposeAlreadyExist
+Error in setFields;Ошибка при установки полей;Ошибка при установки полей;Ошибка при установки полей;Error_in_setFields
+Overdue;На просрочке;На просрочке;На просрочке;ps_Overdie
+Date;Дата;Дата;Дата;EventsExcelCreator.EventDateTime
+Currency ID must be a numeric;ИД валюты должно быть цифрой;ИД валюты должно быть цифрой;ИД валюты должно быть цифрой;exchangeRate.currency.id.mustBeNumeric
+here;здесь;здесь;здесь;notFound_here
+No authorization factors;Отсутствуют факторы авторизации;Отсутствуют факторы авторизации;Отсутствуют факторы авторизации;signature.noAuthFactors
+BIK internat.;БИК международный;БИК международный;БИК междунар.;bikInt
+The selected file;Выбранный файл;Выбранный файл;Выбранный файл;common_selectedFile
+ibank account activation;ibank account activation;ibank account activation;ibank account activation;email.activation.title
+Role used;Роль используется;Роль используется;Роль используется;role_roleUsed
+document Withdrow list;Список отзывов документов;Список отзывов документов;Список отзывов документов;documentWithdrow.list
+National bank;Нацбанк;Нацбанк;Нацбанк;NB
+Mb;Мб;Мб;Мб;Mb
+You're temporal blocked! Try to login again throw minutes;Ваша учетная запись временно заблокирована! Ожидаемое время активации учетной записи, мин;Ваша учетная запись временно заблокирована! Ожидаемое время активации учетной записи, мин;Ваша учетная запись временно заблокирована! Ожидаемое время активации учетной записи, мин;login.ProfileIsNotActive
+Regards,;Regards,;Regards,;Regards,;email.reset.text2
+For your ibank account a password reset was requested, please click on the URL below to reset it:;For your ibank account a password reset was requested, please click on the URL below to reset it:;For your ibank account a password reset was requested, please click on the URL below to reset it:;For your ibank account a password reset was requested, please click on the URL below to reset it:;email.reset.text1
+Enter sender name or account;Введите имя получателя или счет;Введите имя получателя или счет;Введите имя получателя или счет;invoice_search
+Search by name or account number;Поиск по наименованию или номеру счета;Поиск по наименованию или номеру счета;Поиск по наименованию или номеру счета;common_searchNameNumber
+Document does not has error;Документ без ошибок;Документ без ошибок;Документ без ошибок;Document_does_not_has_error
+Key;Ключ;Ключ;Ключ;docSigning_Key
+accomulative amount:;Сумма кредитов:;Сумма кредитов:;Сумма кредитов:;credit_creditsSum
+View/edit account transfer;Просмотр/редактирование Перевода между своими счетами / Конвертации валюты;Просмотр/редактирование Перевода между своими счетами / Конвертации валюты;Просмотр/редактирование Перевода между своими счетами / Конвертации валюты;paymentOrder_viewEditAccountTransfer
+Download mobile banking;Скачивайте мобильный банкинг;Скачивайте мобильный банкинг;Скачивайте мобильный банкинг;login_mobile
+The current customer is not a document owner;Текущая организация не является владельцем документа;Текущая организация не является владельцем документа;Текущая организация не является владельцем документа;signature.orgNotOwnerDoc
+
+Repeat Demand;Копировать заявление;Копировать заявление;Копировать заявление;demandCreate_repeat
+Payment purpose should not exceed 420 characters;Назначение платежа не должно превышать 420 символов;Назначение платежа не должно превышать 420 символов;Назначение платежа не должно превышать 420 символов;paymentOrder_lessThen420Symbols
+User already logged in;Вы уже вошли в систему;Вы уже вошли в систему;Вы уже вошли в систему;login.UserAlreadyLoggedIn
+Max length is 500 symbols;Максимальная длина 500 символов!;Максимальная длина 500 символов!;Максимальная длина 500 символов!;global_settings.constants.validation.max.500
+Your ibank account has been created, please click on the URL below to access it:;Your ibank account has been created, please click on the URL below to access it:;Your ibank account has been created, please click on the URL below to access it:;Your ibank account has been created, please click on the URL below to access it:;email.creation.text1
+Cash sale;Наличный продажа;Наличный продажа;Наличный продажа;exchangeRates_cashSale
+Expand;Развернуть;Развернуть;Развернуть;common_Expand
+In this state, the document can not be signed;В данном состоянии документа подпись невозможна;В данном состоянии документа подпись невозможна;В данном состоянии документа подпись невозможна;signature.cantBeSigned
+List of Documents;Список документов;Список документов;Список документов;document.list
+
+Invoice Order list;Счета выставленные мне;Счета выставленные мне;Счета выставленные мне;InvoiceOrder.list
+Transactions viewing;Просмотр транзакции;Просмотр транзакции;Просмотр транзакции;transactionsViewing
+Import XML file for OTP;Импорту XML файлов для OTP;Импорту XML файлов для OTP;Импорту XML файлов для OTP;otp.screen.import.title
+The two-letter code;Двухбуквенный код;Двухбуквенный код;Двухбуквенный код;twoLetterCode
+Common;Общие;Общие;Общие;rolePermissions_common
+Additional checking by;Дополнительная проверка по;Дополнительная проверка по;Дополнительная проверка по;common_additionalCheckingBy
+Additional account;Дополнительный аккаунт;Дополнительный аккаунт;Дополнительный аккаунт;additionalAccount
+
+Predefined value;Predefined value;Predefined value;Predefined value;global_settings.constants.predefined_value
+View Demand;Просмотр заявления;Просмотр заявления;Просмотр заявления;demandCreate_ViewDemand
+New password is incorrect;Новый пароль введен не правильно;Новый пароль введен не правильно;Новый пароль введен не правильно;login.NewPasswordIncorrect
+Show balance for all credits;Показать остаток по всех кредитам;Показать остаток по всех кредитам;Показать остаток по всех кредитам;showAllCreditsBalance
+Number;Номер;Номер;Номер;invoice_number
+Country viewing;Просмотр страны;Просмотр страны;Просмотр страны;countryViewing
+Returns;Returns;Returns;Returns;navigation_refunds
+Не правильный формат пароля;Не правильный формат пароля;Не правильный формат пароля;Не правильный формат пароля;common.validation.password.pattern
+Hide closed deposits;Скрыть закрытые депозиты;Скрыть закрытые депозиты;Скрыть закрытые депозиты;hideClosedDeposits
+Login;Логин;Логин;Логин;sessions_login
+template Name;Имя шаблона;Имя шаблона;Имя шаблона;document.templateName
+Cashless;Безналичный;Безналичный;Безналичный;CASHLESS
+Delete current field;Удалить текущее поле;Удалить текущее поле;Удалить текущее поле;createDemandType_deleteCurrentField
+end;конец;конец;конец;ENDLowerCase
+Comment;Комментарий;Комментарий;Комментарий;EventsExcelCreator.Comment
+Cash purchase;Покупка Наличный;Покупка Наличный;Покупка Наличный;CASH_PURCHASE
+eSign;Войти по ЕЦП;Войти по ЕЦП;Войти по ЕЦП;login__signaturetab
+Document withdraw;Отзыв документа;Отзыв документа;Отзыв документа;withdraw_doc
+Transfer;Перевод;Перевод;Перевод;transfer
+Dates should not be the same;Даты не должны быть одинаковыми;Даты не должны быть одинаковыми;Даты не должны быть одинаковыми;exchangeRate.date.same
+Skip and login;Пропустить и войти;Пропустить и войти;Пропустить и войти;login_skipandlogin
+Your ibank account has been created, please click on the URL below to activate it:;Your ibank account has been created, please click on the URL below to activate it:;Your ibank account has been created, please click on the URL below to activate it:;Your ibank account has been created, please click on the URL below to activate it:;email.activation.text1
+Regards,;Regards,;Regards,;Regards,;email.activation.text2
+Start a chat;Начать чат;Начать чат;Начать чат;startChat
+Employee tax Code is Empty;Не заполнен ИИН сотрудника;Не заполнен ИИН сотрудника;Не заполнен ИИН сотрудника;common_taxCodeIsEmpty
+Dictionary: Countries;Справочник: Страны;Справочник: Страны;Справочник: Страны;handbookCountries
+beneficiary Residency Code;Код резидента бенефициара;Код резидента бенефициара;Код резидента бенефициара;common_benefResidencyCode
+
+Enter a message;Введите сообщение;Введите сообщение;Введите сообщение;enterMessage
+All accounts are selected;Все счета выбраны;Все счета выбраны;Все счета выбраны;common_allAccountsSelected
+Manager menu;Меню менеджера;Меню менеджера;Меню менеджера;navigation_menutree_manager
+Apply for a new account;Создать заявку на открытие счёта;Создать заявку на открытие счёта;Создать заявку на открытие счёта;common_applyNewAccount
+Canceled;Отменен;Отменен;Отменен;common_canceled
+
+Create the letter;Создать письмо;Создать письмо;Создать письмо;letterCreate
+OTP;ОТП;ОТП;ОТП;login_factor_Generator
+Неверная попытка;Неверная попытка;Неверная попытка;Неверная попытка;otp.fail_attempt
+Hide the balance of all accounts;Скрыть остаток по всем счетам;Скрыть остаток по всем счетам;Скрыть остаток по всем счетам;common_hideBalance
+Details;Просмотр деталей;Просмотр деталей;Просмотр деталей;banks_localBankOperations
+in;в;в;в;common_in
+Terminal IP;IP;IP;IP;EventsExcelCreator.Terminal
+Payment has not changed;Назначение платежа не изменилось;Назначение платежа не изменилось;Назначение платежа не изменилось;paymentOrder_paymentHasNotChanged
+Imported;Импорт завершен;Импорт завершен;Импорт завершен;common_imported
+Viewing the letter;Просмотр письма;Просмотр письма;Просмотр письма;letterViewing
+Certificate;Сертификат;Сертификат;Сертификат;companyperson_certificate
+null;Выставленный мне счет;Выставленный мне счет;null;invoice_view_title
+Message history;История сообщений;История сообщений;История сообщений;messageHistory
+Delete Templates;Удалить шаблон;Удалить шаблон;Delete Templates;common_deleteTemplates
+Main page;Главная страница;Главная страница;Главная страница;notFound_main_page
+Payment purpose operations;Действия;Действия;Действия;paymentOrder_paymentPurposeOperations
+Currency IDs must be different;ИД валют должны быть разными;ИД валют должны быть разными;ИД валют должны быть разными;exchangeRate.currency.id.same
+Not found any item for export;Нет записей для экспорта;Нет записей для экспорта;Нет записей для экспорта;jobs.exportToExcel.emptyList
+Cashless purchase;Безналичный покупка;Безналичный покупка;Безналичный покупка;exchangeRates_cashlessPurchase
+Редактировать;Редактировать;Редактировать;Редактировать;company.persons.change
+field is empty;поле не заполнено -;поле не заполнено -;поле не заполнено -;common_field_is_empty
+Status:;Status:;Status:;Status:;error.status
+You should provide a valid data!;Вы должны предоставить действительные данные!;Вы должны предоставить действительные данные!;Вы должны предоставить действительные данные!;valid.data.shouldExists
+Roles;Роли;Роли;Роли;companyperson_roles
+Signature rule is not found;Правило подписи не найдено;Правило подписи не найдено;Правило подписи не найдено;workflow_signatureRuleNotFound
+Hide closed credits;Скрыть закрытые кредиты;Скрыть закрытые кредиты;Скрыть закрытые кредиты;hideClosedCredits
+Cashless sale;Продажа Безналичный;Продажа Безналичный;Продажа Безналичный;CASHLESS_SALE
+has errors;есть ошибки;есть ошибки;есть ошибки;common_has_error
+
+ accounts are selected; счёта выбрано; счёта выбрано; счёта выбрано;common_accountsSelected
+The document status is not found;Статус документа не определен;Статус документа не определен;Статус документа не определен;workflow_statusNotFound
+Closed deposits;Закрытые депозиты;Закрытые депозиты;Закрытые депозиты;showClosedDeposits
+Contracts list;Список валютных контрактов;Список валютных контрактов;Список валютных контрактов;counterparty_contractsList
+Invalid file type. Valid;Неверный тип файла. Допустимы;Неверный тип файла. Допустимы;Неверный тип файла. Допустимы;wrongFileType
+Import document;Импорт документа;Импорт документа;Импорт документа;common_documentImport
+Dictionary: Permissions;Справочник полномочий;Справочник полномочий;Справочник полномочий;menutree_title
+Personal page;Личный кабинет;Личный кабинет;Личный кабинет;navigation_personalOffice
+null;ibution=Просмотр/редактирование Пенсионноого отчисления;ibution=Просмотр/редактирование Пенсионноого отчисления;null;paymentOrder_viewEditPensionContr
+Operating system version;Версия операционной системы, браузера;Версия операционной системы, браузера;Версия операционной системы, браузера;EventsExcelCreator.Osversion
+Completed;Завершен;Завершен;Завершен;common_completed
+Document date;Дата документа;Дата документа;Дата документа;invoice_date
+Импорт ОТП токенов;Импорт ОТП токенов;Импорт ОТП токенов;Импорт ОТП токенов;navigation_otp.import
+The three-letter code;Трехбуквенный код;Трехбуквенный код;Трехбуквенный код;threeLetterCode
+Send for signature;Отправить на подпись;Отправить на подпись;Отправить на подпись;paymentOrder_sendForSignature
+Can't get profile list;Хранилища не найдены;Хранилища не найдены;Хранилища не найдены;docSigning_errorKeyList
+A chat date;Дата чата;Дата чата;Дата чата;chatDate
+Action is not found;Переход не найден;Переход не найден;Переход не найден;workflow_actionNotFound
+ID should exists;Необходимо указать идентификатор;Необходимо указать идентификатор;Необходимо указать идентификатор;id.shouldExists
+Create Template;Создать Шаблон;Создать Шаблон;Создать Шаблон;common_createTemplate
+null;Id пользователя должно быть пустым;Id пользователя должно быть пустым;null;common.validation.creation.customer.id
+The status with the same code already exists;Статус с таким кодом уже существует;Статус с таким кодом уже существует;Статус с таким кодом уже существует;statusWithSameCodeAlreadyExists
+Company person is not visible for this manager;Company person is not visible for this manager;Company person is not visible for this manager;Company person is not visible for this manager;letter.validation.invalid.company.person
+Create a new Status;Создать новый статус;Создать новый статус;Создать новый статус;createNotificationType
+Hide the balance on all cards;Скрыть остаток по всех картах;Скрыть остаток по всех картах;Скрыть остаток по всех картах;hideAllCardsBalance
+field director is empty;Поле руководитель пустое;Поле руководитель пустое;Поле руководитель пустое;common_director_is_empty
+duplicate Employee TaxCode;Дублирующиеся Бин сотрудников;Дублирующиеся Бин сотрудников;Дублирующиеся Бин сотрудников;common_duplicateEmployeeTaxCode
+Operations with card;Действия;Действия;Действия;cardOperations
+Reply;Ответ на письмо;Ответ на письмо;Ответ на письмо;letterReply
+For Week;За неделю;За неделю;За неделю;common_forWeek
+Block in the VC;Заблокировать в УЦ;Заблокировать в УЦ;Заблокировать в УЦ;vc_block
+Save recipient;Сохранить получателя;Сохранить получателя;Сохранить получателя;paymentOrder_saveCounterparty
+MB;Мб;Мб;Мб;common_MB
+Settings;Настройки;Настройки;Настройки;navigation_settings
+Current item saved;текущее значение сохранено;текущее значение сохранено;текущее значение сохранено;CreateDemandType_curentItemSaved
+Operations with document;Действия;Действия;Действия;invoice_operations
+Show closed credits;Показать закрытые кредиты;Показать закрытые кредиты;Показать закрытые кредиты;showClosedCredits
+Add contract;Добавить валютный контракт;Добавить валютный контракт;Добавить валютный контракт;counterparty_addContract
+Please, choose currency;Выберите валюту платежа;Выберите валюту платежа;Выберите валюту платежа;intTransfer_chooseCurrency
+All documents are selected;Все документы выбраны;Все документы выбраны;Все документы выбраны;allDocsSelected
+Accounts;Счета организации(Номер счета);Счета организации(Номер счета);Счета организации(Номер счета);accTransfer_accounts
+for day;За сегодня;За сегодня;За сегодня;common_forDay
+Are you sure you want to delete the purpose of payment;Вы действительно хотите удалить назначение платежа;Вы действительно хотите удалить назначение платежа;Вы действительно хотите удалить назначение платежа;paymentOrder_deletePaymentPurpose
+Оплачен;Оплачен;Оплачен;Оплачен;document.state.Paid
+Document is not found;Документ не найден;Документ не найден;Документ не найден;workflow_docNotFound
+Токен заблокирован;Токен заблокирован;Токен заблокирован;Токен заблокирован;otp.otp_token_blocked
+ibank password reset;ibank password reset;ibank password reset;ibank password reset;email.reset.title
+
+Hide balance;Скрыть остаток;Скрыть остаток;Скрыть остаток;hideBalance
+Detail/Edit;Детальнее/Редактировать;Детальнее/Редактировать;Детальнее/Редактировать;accTransfer_detailEdit
+Choose key;Выберите ключ;Выберите ключ;Выберите ключ;docSigning_chooseKey
+Term to;Срок до;Срок до;Срок до;termTo
+Признак блокировки ;Признак блокировки;Признак блокировки;Признак блокировки ;organization.grid.column.blocked.status
+Max length is 255 symbols;Максимальная длина 255 символов!;Максимальная длина 255 символов!;Максимальная длина 255 символов!;global_settings.constants.validation.max.255
+Cash purchase;Наличный покупка;Наличный покупка;Наличный покупка;exchangeRates_cashPurchase
+Import Payment Exeption : error while parsing in line -;Произошла ошибка во время парсинга файла в строке -;Произошла ошибка во время парсинга файла в строке -;Произошла ошибка во время парсинга файла в строке -;ImportPaymentExeption_error_while_parsing_in_line
+account repeated;Счет повторяется;Счет повторяется;Счет повторяется;paymentOrder_accountRepeated
+Events;История событий;История событий;История событий;EventsExcelCreator.Events
+Creating a Notification type;Создание типа уведомления;Создание типа уведомления;Создание типа уведомления;creatingNotificationType
+Log in with your fingerprint;Войти с помощью отпечатка пальца;Войти с помощью отпечатка пальца;Саусақ ізін қолданып Логин;login_byfingerprint
+Last Name, Name;ФИО;ФИО;ФИО;fio
+Time;Время;Время;Время;common_time
+Denomination;Купюрность;Купюрность;Купюрность;denomination
+The amount of demand of cash is less than 2 million KZT or 20 thousand US dollars or 15 thousand euros;сумма снятия наличных денег меньше 2 миллионов казахстанских тенге или 20 тысяч долларов США или 15 тысяч  евро;сумма снятия наличных денег меньше 2 миллионов казахстанских тенге или 20 тысяч долларов США или 15 тысяч  евро;сумма снятия наличных денег меньше 2 миллионов казахстанских тенге или 20 тысяч долларов США или 15 тысяч  евро;demand_cash_validation_failed_message
+less Then Current;валютирования меньше текущей;валютирования меньше текущей;валютирования меньше текущей;common_lessThenCurrent
+between ;между ;между ;между ;jobs.between
+and ;и ;и ;и ;jobs.and
+of the month;месяцем;месяцем;месяцем;jobs.of_the_month
+Japanese yen;Японская йена;Японская йена;Японская йена;currency_jap
+notifications;уведомлений;уведомлений;уведомлений;notifications_notifications
+Cash withdrawal;Заказ наличности;Заказ наличности;Заказ наличности;actions_DemandCash
+Cash;Заказ наличности;Заказ наличности;Заказ наличности;navigation_Cash
+is not Active;Не активна;Не активна;Не активна;jobs.isNotActive
+View/Edit Exposed Order;Просмотр/редактирование;Просмотр/редактирование;Просмотр/редактирование;edit_exposed
+Create Exposed Order;Создание счета;Создание счета;Создание счета;create_exposed
+Chinese yuan;Китайский юань;Китайский юань;Китайский юань;currency_chin
+Send for confirmation;На подтверждение;На подтверждение;На подтверждение;action_sendForConfirmation
+Current;Текущий;Текущий;Текущий;acc_current
+Deposit;Депозитный;Депозитный;Депозитный;acc_deposit
+Credit;Кредитный;Кредитный;Кредитный;acc_credit
+Card;Карточный;Карточный;Карточный;acc_card
+Currency should not be different;Валюты счетов не должны различатся;Валюты счетов не должны различатся;Валюты счетов не должны различатся;error_differentCurrency
+Password must not equal login;Пароль не должен соответствовать логину;Пароль не должен соответствовать логину;Пароль не должен соответствовать логину;customeruser_passwordeqlogin
+User already exist;Пользователь с таким логином уже существует;Пользователь с таким логином уже существует;Пользователь с таким логином уже существует;customeruser_alreadyexist
+User not found;Пользователь не найден;Пользователь не найден;Пользователь не найден;customeruser_notfound
+Set deafult language;Язык поумолчанию;Язык поумолчанию;Язык поумолчанию;clear_notification_defaultLanuage
+Raiffeisen Bank International AG;Raiffeisen Bank International AG;Raiffeisen Bank International AG;Raiffeisen Bank International AG;EUR_CORRESPONDENT_BANK_NAME
+Expobank LLC, Kalanchevskaya Street, 29/2, Moscow, 107078, Russia;ООО «Экспобанк», Россия;ООО «Экспобанк», Россия;Expobank» ЖШҚ, Ресей, 107078, Мәскеу, Каланчевская көш.,29/2 ;USD_CORRESPONDENT_BANK_NAME
+Expobank LLC, Kalanchevskaya Street, 29/2, Moscow, 107078, Russia;ООО «Экспобанк», Россия;ООО «Экспобанк», Россия;Expobank» ЖШҚ, Ресей, 107078, Мәскеу, Каланчевская көш.,29/2 ;GBP_CORRESPONDENT_BANK_NAME
+Expobank LLC, Kalanchevskaya Street, 29/2, Moscow, 107078, Russia;ООО «Экспобанк», Россия;ООО «Экспобанк», Россия;Expobank» ЖШҚ, Ресей, 107078, Мәскеу, Каланчевская көш.,29/2 ;RUB_CORRESPONDENT_BANK_NAME
+Expobank LLC, Kalanchevskaya Street, 29/2, Moscow, 107078, Russia;ООО «Экспобанк», Россия;ООО «Экспобанк», Россия;Expobank» ЖШҚ, Ресей, 107078, Мәскеу, Каланчевская көш.,29/2 ;CHF_CORRESPONDENT_BANK_NAME
+Password recovery;Восстановление пароля;Восстановление пароля;Восстановление пароля;login_recovery
+JSC “Bank ExpoCredit”;АО «Банк ЭкспоКредит»;АО «Банк ЭкспоКредит»;«ЭкспоКредит Банкі» АҚ;KZT_BANK_NAME
+Open Account;Открытие Счета;Открытие Счета;Открытие Счета;OpenAccount
+Open Credit;Выдача займа;Выдача займа;Выдача займа;OpenCredit
+Close Credit;досрочное погашение кредита;досрочное погашение кредита;досрочное погашение кредита;CloseCredit
+Create Card;выпуск карты;выпуск карты;выпуск карты;CreateCard
+ReCreate Card;Перевыпуск карты;Перевыпуск карты;Перевыпуск карты;ReCreateCard
+Unpublish DemandType when demands are present in base is forbidden;Запрещена отмена публикации если уже есть созданные заявления в базе;Запрещена отмена публикации если уже есть созданные заявления в базе;Запрещена отмена публикации если уже есть созданные заявления в базе;customRequestType.unpublishedError
+Here is the text of the agreement, a multi-line part;Здесь будет находится текст соглашения, многострочная часть;Здесь будет находится текст соглашения, многострочная часть;Здесь будет находится текст соглашения, многострочная часть;translation_18
+Change in the amount of payment with preservation of the loan term-Change in the loan period with the remaining amount of payment;Изменение суммы выплаты с сохранением срока займа-Изменение срока займа с сохранением суммы выплаты;Изменение суммы выплаты с сохранением срока займа-Изменение срока займа с сохранением суммы выплаты;Изменение суммы выплаты с сохранением срока займа-Изменение срока займа с сохранением суммы выплаты;translation_19
+Closing of the account is possible only if there are no funds on the account;Закрытие счета возможно только при отсутствии денежных средств на счете;Закрытие счета возможно только при отсутствии денежных средств на счете;Закрытие счета возможно только при отсутствии денежных средств на счете;translation_20
+Confirmation of consent to the terms of deposit opening;Подтверждение о согласии с условиями открытия вклада;Подтверждение о согласии с условиями открытия вклада;Подтверждение о согласии с условиями открытия вклада;translation_21
+Confirmation of consent to the terms of issue of the card;Подтверждение о согласии с условиями выпуска карты;Подтверждение о согласии с условиями выпуска карты;Подтверждение о согласии с условиями выпуска карты;translation_22
+Swiss franc;Швейцарский франк;Швейцарский франк;Швейцарский франк;currency_frank
+Corporation "AsiaCredit Bank";Акционерное общество "AsiaCredit Bank (АзияКредит Банк)";Акционерное общество "AsiaCredit Bank (АзияКредит Банк)";Акционерное общество "AsiaCredit Bank (АзияКредит Банк)";bank_owner_full_name
+One of localization values a not filled;Одно из значений для локализации не заполнено;Одно из значений для локализации не заполнено;Одно из значений для локализации не заполнено;constant.validation.multi.value.empty
+Commerzbank AG, Frankfurt am Main, Germany;Commerzbank AG, Frankfurt am Main, Germany;Commerzbank AG, Frankfurt am Main, Germany;Commerzbank AG, Frankfurt am Main, Germany;EUR_CORRESPONDENT_BANK_NAME_1
+Raiffeisen Bank International A.G. Vienna, Austria;Raiffeisen Bank International A.G. Vienna, Austria;Raiffeisen Bank International A.G. Vienna, Austria;Raiffeisen Bank International A.G. Vienna, Austria;EUR_CORRESPONDENT_BANK_NAME_2
+ALFA-BANK;ALFA-BANK;ALFA-BANK;ALFA-BANK;USD_CORRESPONDENT_BANK_NAME_1
+KAZKOMMERTSBANK, ALMATY, KZ;KAZKOMMERTSBANK, ALMATY, KZ;KAZKOMMERTSBANK, ALMATY, KZ;KAZKOMMERTSBANK, ALMATY, KZ;USD_CORRESPONDENT_BANK_NAME_2
+Halyk Saving Bank Kazakhstan,  ALMATY,  KZ;Halyk Saving Bank Kazakhstan,  ALMATY,  KZ;Halyk Saving Bank Kazakhstan,  ALMATY,  KZ;Halyk Saving Bank Kazakhstan,  ALMATY,  KZ;USD_CORRESPONDENT_BANK_NAME_3
+SBERBANK;SBERBANK;SBERBANK;SBERBANK;RUB_CORRESPONDENT_BANK_NAME_1
+ALFA-BANK. МОСКВА. РОССИЯ;ALFA-BANK. МОСКВА. РОССИЯ;ALFA-BANK. МОСКВА. РОССИЯ;ALFA-BANK. МОСКВА. РОССИЯ;RUB_CORRESPONDENT_BANK_NAME_2
+Commerzbank A.G.;Commerzbank A.G.;Commerzbank A.G.;Commerzbank A.G.;GBP_CORRESPONDENT_BANK_NAME_1
+Commerzbank A.G.;Commerzbank A.G.;Commerzbank A.G.;Commerzbank A.G.;CHF_CORRESPONDENT_BANK_NAME_1
+INDUSTRIAL AND COMMERCIAL BANK OF CHINA, BEIJING, CHINA;INDUSTRIAL AND COMMERCIAL BANK OF CHINA, BEIJING, CHINA;INDUSTRIAL AND COMMERCIAL BANK OF CHINA, BEIJING, CHINA;INDUSTRIAL AND COMMERCIAL BANK OF CHINA, BEIJING, CHINA;CNY_CORRESPONDENT_BANK_NAME_1
+INDUSTRIAL AND COMMERCIAL  BANK OF CHINA,  ALMATY,  KZ;INDUSTRIAL AND COMMERCIAL  BANK OF CHINA,  ALMATY,  KZ;INDUSTRIAL AND COMMERCIAL  BANK OF CHINA,  ALMATY,  KZ;INDUSTRIAL AND COMMERCIAL  BANK OF CHINA,  ALMATY,  KZ;CNY_CORRESPONDENT_BANK_NAME_2
+АО "AsiaCredit Bank (АзияКредит Банк)";АО "AsiaCredit Bank (АзияКредит Банк)";АО "AsiaCredit Bank (АзияКредит Банк)";АО "AsiaCredit Bank (АзияКредит Банк)";property_asia_bank
+Акционерное общество "BANK EXPOCREDIT (БАНК ЭКСПОКРЕДИТ)";Акционерное общество "BANK EXPOCREDIT (БАНК ЭКСПОКРЕДИТ)";Акционерное общество "BANK EXPOCREDIT (БАНК ЭКСПОКРЕДИТ)";Акционерное общество "BANK EXPOCREDIT (БАНК ЭКСПОКРЕДИТ)";translation_24
+АО "Bank Expocredit (Банк Экспокредит)";АО "Bank Expocredit (Банк Экспокредит)";АО "Bank Expocredit (Банк Экспокредит)";АО "Bank Expocredit (Банк Экспокредит)";translation_25
+Default X Bank;Default X Bank;Default X Bank;Default X Bank;translation_26
+is Active;Задача активна;Задача активна;Задача активна;isActive
+Mo;Пн;Пн;Пн;short_MONDAY
+Tu;Вт;Вт;Вт;short_TUESDAY
+We;Ср;Ср;Ср;short_WEDNESDAY
+Th;Чт;Чт;Чт;short_THURSDAY
+Fr;Пт;Пт;Пт;short_FRIDAY
+St;Сб;Сб;Сб;short_SATURDAY
+Su;Вс;Вс;Вс;short_SUNDAY
+Days off;Нерабочие дни;Нерабочие дни;Жұмыс емес күндер;days_off
+24 hours a day;Круглосуточно;Круглосуточно;тәулік бойы;work_24_hours
+Invalid value(values);Значение(одно из значений) заполнено неверно;Значение(одно из значений) заполнено неверно;Значение(одно из значений) заполнено неверно;constant.validation.multi.value.invalid
+VAT;НДС;НДС;НДС;VAT_CODE
+Национальные валюты;Национальные валюты;Национальные валюты;Национальные валюты;CURRENCY_CODE
+Окно синхронизации ОТП токена;Окно синхронизации ОТП токена;Окно синхронизации ОТП токена;Окно синхронизации ОТП токена;LOOK_AHEAD_RESYNCHRONIZATION_WINDOW
+Длина пароля ОТП токена;Длина пароля ОТП токена;Длина пароля ОТП токена;Длина пароля ОТП токена;OTP_TOKEN_LENGTH
+Максимально количество неверных попыток ОТП токена;Максимально количество неверных попыток ОТП токена;Максимально количество неверных попыток ОТП токена;Максимально количество неверных попыток ОТП токена;INCORRECT_ATTEMPTS
+Полное наименование;Полное наименование;Полное наименование;Полное наименование;FULL_BANK_NAME
+Сокращённое наименование;Сокращённое наименование;Сокращённое наименование;Сокращённое наименование;SHORT_BANK_NAME
+БИК;БИК;БИК;БИК;property_BIK
+БИН;БИН;БИН;БИН;property_BIN
+КБЕ;КБЕ;КБЕ;КБЕ;property_KBE
+Код ОКПО;Код ОКПО;Код ОКПО;Код ОКПО;property_OKPO_CODE
+Юридический адрес;Юридический адрес;Юридический адрес;Юридический адрес;property_BANK_ADDRESS
+минимальная длина логина;минимальная длина логина;минимальная длина логина;минимальная длина логина;property_MIN_LOGIN_LENGTH
+максимальная длина логина;максимальная длина логина;максимальная длина логина;максимальная длина логина;property_MAX_LOGIN_LENGTH
+минимальная длина пароля;минимальная длина пароля;минимальная длина пароля;минимальная длина пароля;property_MIN_PWD_LENGTH
+максимальная длина пароля;максимальная длина пароля;максимальная длина пароля;максимальная длина пароля;property_MAX_PWD_LENGTH
+требуемые символы для пароля;требуемые символы для пароля;требуемые символы для пароля;требуемые символы для пароля;property_ALLOWED_PWD_SYMBOLS
+глубина истории паролей;глубина истории паролей;глубина истории паролей;глубина истории паролей;property_PWD_HISTORY_DEEP
+колличество неверных попыток паролей;колличество неверных попыток паролей;колличество неверных попыток паролей;колличество неверных попыток паролей;property_PWD_INCORRECT_ATTEMPTS
+срок действия пароля;срок действия пароля;срок действия пароля;срок действия пароля;property_PWD_LIFE
+колличество дней до уведомления пользователя об окночании срока пароля;колличество дней до уведомления пользователя об окночании срока пароля;колличество дней до уведомления пользователя об окночании срока пароля;колличество дней до уведомления пользователя об окночании срока пароля;property_PWD_NOTIFICATION
+Тип файла;Тип файла;Тип файла;Тип файла;property_FILE_TYPE
+Размер файла Мб;Размер файла Мб;Размер файла Мб;Размер файла Мб;property_FILE_SIZE
+Продолжительность сессии, c;Продолжительность сессии, c;Продолжительность сессии, c;Продолжительность сессии, c;property_SESSION_TIME
+Profile;Profile;Profile;Profile;property_PROFILE
+ProfilePassword;ProfilePassword;ProfilePassword;ProfilePassword;property_PROFILE_PASSWORD
+ManagerSN;ManagerSN;ManagerSN;ManagerSN;property_KEY_SERIAL_NUMBER
+Количество сессий;Количество сессий;Количество сессий;Количество сессий;property_SESSION_AMOUNT
+Default tariff;Default tariff;Default tariff;Default tariff;property_DEFAULT_TARIFF
+Размер тела письма;Размер тела письма;Размер тела письма;Размер тела письма ;property_LETTER_BODY_SIZE
+Длительность актуальности новости;Длительность актуальности новости;Длительность актуальности новости;Длительность актуальности новости;property_NEWS_ACTUALITY
+Период валютирования платежей (максимальное колличество дней);Период валютирования платежей (максимальное колличество дней);Период валютирования платежей (максимальное колличество дней);Период валютирования платежей (максимальное колличество дней);property_MAX_VALUE_DAYS
+URL шины банка;URL шины банка;URL шины банка;URL шины банка;property_INTEGRATION_ABS_URL
+Логин доступа к шине банка;Логин доступа к шине банка;Логин доступа к шине банка;Логин доступа к шине банка;property_INTEGRATION_ABS_LOGIN
+Пароль доступа к шине банка;Пароль доступа к шине банка;Пароль доступа к шине банка;Пароль доступа к шине банка;property_INTEGRATION_ABS_PASSWORD
+Срок действия смс-кода;Срок действия смс-кода;Срок действия смс-кода;Срок действия смс-кода;property_SMS_VALID_PERIOD
+Сообщение о получении кода для входа в интернет-банкинг;Сообщение о получении кода для входа в интернет-банкинг;Сообщение о получении кода для входа в интернет-банкинг;Сообщение о получении кода для входа в интернет-банкинг;translation_27
+Сообщение о получении кода для подтверждения документа;Сообщение о получении кода для подтверждения документа;Сообщение о получении кода для подтверждения документа;Сообщение о получении кода для подтверждения документа;translation_28
+Сообщение о получении кода для подтверждения смены пароля;Сообщение о получении кода для подтверждения смены пароля;Сообщение о получении кода для подтверждения смены пароля;Сообщение о получении кода для подтверждения смены пароля;translation_29
+Фиксированый КНП при конвертации валюты (покупка валюты);Фиксированый КНП при конвертации валюты (покупка валюты);Фиксированый КНП при конвертации валюты (покупка валюты);Фиксированый КНП при конвертации валюты (покупка валюты);translation_30
+Фиксированый КНП при конвертации валюты (продажа валюты);Фиксированый КНП при конвертации валюты (продажа валюты);Фиксированый КНП при конвертации валюты (продажа валюты);Фиксированый КНП при конвертации валюты (продажа валюты);translation_31
+Фиксированое назначение платежа при внутренних платежах (перевод со счета на счет в одной валюте);Фиксированое назначение платежа при внутренних платежах (перевод со счета на счет в одной валюте);Фиксированое назначение платежа при внутренних платежах (перевод со счета на счет в одной валюте);Фиксированое назначение платежа при внутренних платежах (перевод со счета на счет в одной валюте);translation_32
+Срок действия смс-кода;Срок действия смс-кода;Срок действия смс-кода;Срок действия смс-кода;translation_33
+SMPP HOST;SMPP HOST;SMPP HOST;SMPP HOST;translation_34
+SMPP PORT;SMPP PORT;SMPP PORT;SMPP PORT;translation_35
+SMPP USER;SMPP USER;SMPP USER;SMPP USER;translation_36
+SMPP PASSWORD;SMPP PASSWORD;SMPP PASSWORD;SMPP PASSWORD;translation_37
+SMPP TON;SMPP TON;SMPP TON;SMPP TON;translation_38
+SMPP NPI;SMPP NPI;SMPP NPI;SMPP NPI;translation_39
+Block Time;Время блокировки;Время блокировки;Время блокировки;property_USER_BLOCK_TIME
+Your account was blocked by administrator. For more information contact bank.;Ваша учетная запись была заблокирована администратором банка. Для уточнения деталей обратитесь в банк.;Ваша учетная запись была заблокирована администратором банка. Для уточнения деталей обратитесь в банк.;Ваша учетная запись была заблокирована администратором банка. Для уточнения деталей обратитесь в банк.;login.adminBlock
+Login may not be from this list;Логин не должен быть из списка;Логин не должен быть из списка;Логин не должен быть из списка;errorLoginFromList
+The number of incorrect passwords has been exceeded! Your account has been temporarily suspended!;Превышено колличество ввода неверных паролей! Ваша учетная запись временно заблокирована!;Превышено колличество ввода неверных паролей! Ваша учетная запись временно заблокирована!;Превышено колличество ввода неверных паролей! Ваша учетная запись временно заблокирована!;login_morePass
+Login and password cannot be the same;Логин и пароль не должны совпадать;Логин и пароль не должны совпадать;Логин и пароль не должны совпадать;passNotTheSame
+Password may be less then;Пароль должен быть меньше;Пароль должен быть меньше;Пароль должен быть меньше;passLessPass
+Password may be more then;Пароль должен быть больше;Пароль должен быть больше;Пароль должен быть больше;passMorePass
+Sender not found with INN;Отправитель не найден с ИИН;Отправитель не найден с ИИН;Отправитель не найден с ИИН;mt_sender_invalid_inn
+Invalid value date;дата валютирования должна быть больше или равна текущей дате;дата валютирования должна быть больше или равна текущей дате;дата валютирования должна быть больше или равна текущей дате;mt_invalid_value_date
+MT100: Invalid PSO;МТ100: неверный PSO;МТ100: неверный PSO;МТ100: неверный PSO;mt_invalid_pso
+MT100: Invalid VO;МТ100: неверный VO;МТ100: неверный VO;МТ100: неверный VO;mt_invalid_vo
+Currency must be KZT;валюта денег должна быть KZT;валюта денег должна быть KZT;валюта денег должна быть KZT;mt_invalid_currency
+не пренадлежыт кастомеру с ИИН;не пренадлежыт кастомеру с ИИН;не пренадлежыт кастомеру с ИИН;не пренадлежыт кастомеру с ИИН;acc_not_for_inn
+итоговая сумма не совпадает;итоговая сумма не совпадает;итоговая сумма не совпадает;итоговая сумма не совпадает;mt_invalid_result_amount
+Нарушена структура;Нарушена структура;Нарушена структура;Нарушена структура;mt_invalid_structure
+Cannot use the last;Невозможно использовать последние;Невозможно использовать последние;Невозможно использовать последние;passDepth
+passwords;паролей;паролей;паролей;passDepthPass
+Password creation;Создание пароля;Создание пароля;Создание пароля;login_passCreation
+Branch Atyrau;Филиал в г.Атырау;Филиал в г.Атырау;Филиал в г.Атырау;sp_Branch_Atyrau
+Branch Astana;Филиал в г.Астана;Филиал в г.Астана;Филиал в г.Астана;sp_Branch_Astana
+Branch Almaty;Филиал в г.Алматы;Филиал в г.Алматы;Филиал в г.Алматы;sp_Branch_Almaty
+Completed;Завершенная;Завершенная;Завершенная;ct_Completed
+Blocked;Заблокированная;Заблокированная;Заблокированная;ct_Blocked
+Currency purchase and sale course cannot be equal;Курс покупки не может быть равен курсу продажи;Курс покупки не может быть равен курсу продажи;Курс покупки не может быть равен курсу продажи;exchangeRate.equal.amount
+ExchangeRateDTO is null;ExchangeRateDTO is null;ExchangeRateDTO is null;ExchangeRateDTO is null;exchangeRateDTO.null
+Размер темы письма;Размер темы письма;Размер темы письма;Размер темы письма ;translation_43
+Internal error! Try sending letter later;Внутренняя ошибка! Попробуйте отправить письмо позже;Внутренняя ошибка! Попробуйте отправить письмо позже;Внутренняя ошибка! Попробуйте отправить письмо позже;message_sending_error
+null;Редактировать аккаунт;Редактировать аккаунт;null;privilege_account_edit
+Load cards;Загрузка карт;Загрузка карт;Загрузка карт;translation_45
+All statuses;Все статусы;Все статусы;Все статусы;user_status_all
+New;Новые;Новые;Новые;user_status_new
+Awaits signature;Ожидающие подписания;Ожидающие подписания;Ожидающие подписания;user_status_awaits_signature
+Signed;Ожидающие отправку;Ожидающие отправку;Ожидающие отправку;user_status_waiting
+In work;В обработке;В обработке;В обработке;user_status_in_work
+Executed;Исполнен;Исполнен;Исполнен;user_status_executed
+Revoked;Отозванные;Отозванные;Отозванные;user_status_revoked
+With errors;Содержащие ошибки;Содержащие ошибки;Содержащие ошибки;user_status_with_errors
+
+Signed;Подписан;Подписан;Подписан;state_signed
+Draft;Черновик;Черновик;Черновик;state_draft
+AwaitsSignature;Ожидает подписи;Ожидает подписи;Ожидает подписи;state_awaitssignature
+Deleted;Удалён;Удалён;Удалён;state_deleted
+SentToRBS;Отправлен в ДБО;Отправлен в ДБО;Отправлен в ДБО;state_senttorbs
+AcceptedInRBS;Принят в ДБО;Принят в ДБО;Принят в ДБО;state_acceptedinrbs
+AcceptedInABS;Принят в АБС;Принят в АБС;Принят в АБС;state_acceptedinabs
+NotAcceptedInABS;Не принят в АБС;Не принят в АБС;Не принят в АБС;state_notacceptedinabs
+Revoked;Отозван;Отозван;Отозван;state_revoked
+Paid;Отозван;Отозван;Отозван;state_paid
+Refused;Отказан;Отказан;Отказан;state_refused
+Executed;Исполнен;Исполнен;Исполнен;state_executed
+Accepted;Принят;Принят;Принят;state_accepted
+Pay;К оплате;К оплате;К оплате;state_pay
+Return;Возврат от банка получателя;Возврат от банка получателя;Возврат от банка получателя;state_return
+Standing order template;Шаблон длительного поручения;Шаблон длительного поручения;Шаблон длительного поручения;state_standing
+Send to bank;Отправленные в банк;Отправленные в банк;Отправленные в банк;user_status_sendtobank
+Suspended;Приостановлен;Приостановлен;Приостановлен;user_status_suspended
+
+
+CARD_STATEMENT;Выписка по картам;Выписка по картам;Выписка по картам;translation_40
+Load credits;Загрузка кредитов;Загрузка кредитов;Загрузка кредитов;translation_41
+Load customer;Загрузка организаций;Загрузка организаций;Загрузка организаций;translation_42
+Event id;ИД события;ИД события;ИД события;event_id
+Load localBanks;Загрузка локальных банков;Загрузка локальных банков;Загрузка локальных банков;job_LOCAL_BANK
+Load Banks;Загрузка иностранных банков;Загрузка иностранных банков;Загрузка иностранных банков;job_BANK
+Load KBK;Загрузка кодов бюджетной класификации;Загрузка кодов бюджетной класификации;Загрузка кодов бюджетной класификации;job_BUDGET_CLASSIFICATION_CODE
+Load KBE;Загрузка кодов бенефициара;Загрузка кодов бенефициара;Загрузка кодов бенефициара;job_BENEFICIARY_CODE
+Standing orders generator;Генерация регулярных платежей;Генерация регулярных платежей;Генерация регулярных платежей;job_STANDING_ORDERS
+Получения данных графика погашения по кредитному договору за выбранный клиентом период;Получения данных графика погашения по кредитному договору за выбранный клиентом период;Получения данных графика погашения по кредитному договору за выбранный клиентом период;Получения данных графика погашения по кредитному договору за выбранный клиентом период;job_CREDIT_SCHEDULE
+Description;Описание;Описание;Описание;common_operation_desc
+Male;Мужской;Мужской;Мужской;Male
+Female;Женский;Женский;Женский;Female
+Account statement depth (days);Глубина выписки по счету (дни);Глубина выписки по счету (дни);Глубина выписки по счету (дни);account_stm
+Card statement depth (days);Глубина выписки по карте (дни);Глубина выписки по карте (дни);Глубина выписки по карте (дни);card_stm
+Client with this tax code not found;Клиент с таким БИН/ИИН не найден;Клиент с таким БИН/ИИН не найден;Клиент с таким БИН/ИИН не найден;bin_not_found
+
+
+
+Field name;Название поля;Название поля;Название поля;provider_service_field_name
+Hint;Хинт;Хинт;Хинт;provider_service_hint
+Field mask;Маска поля;Маска поля;Маска поля;provider_service_field_mask
+Regular expression;Регулярное выражение;Регулярное выражение;Регулярное выражение;provider_service_regex
+Min field value;Мин значение поля;Мин значение поля;Мин значение поля;provider_service_min_field_value
+Max field value;Макс значение поля;Макс значение поля;Макс значение поля;provider_service_max_field_value
+Field index;Индекс поля;Индекс поля;Индекс поля;provider_service_field_index
+Create service;Создание услуги;Создание услуги;Создание услуги;provider_service_create_service
+Edit service;Редактирование услуги;Редактирование услуги;Редактирование услуги;provider_service_edit_service
+Category name;Название категории;Название категории;Название категории;provider_service_category_name
+
+Max payment amount;Максимальная сумма платежа;Максимальная сумма платежа;Максимальная сумма платежа;provider_service_max_amount
+Min payment amount;Минимальная сумма платежа;Минимальная сумма платежа;Минимальная сумма платежа;provider_service_min_amount
+Commission amount;Размер комиссии;Размер комиссии;Размер комиссии;provider_service_commission_amount
+Reference to file with logo of service;Ссылка на файл с логотипом усдуги;Ссылка на файл с логотипом усдуги;Ссылка на файл с логотипом усдуги;provider_service_logo_reference
+Regions list;Список регионов;Список регионов;Список регионов;provider_service_regions_list
+Cities list;Список городов;Список городов;Список городов;provider_service_cities_list
+Payment purpose template;Шаблон назначения платежа;Шаблон назначения платежа;Шаблон назначения платежа;provider_service_purpose_template
+Адрес OCSP сервера;Адрес OCSP сервера;Адрес OCSP сервера;OCSP server URL;property_EDS_URL_OCSP
+Адрес LDAP сервера;Адрес LDAP сервера;Адрес LDAP сервера;LDAP server URL;property_EDS_URL_LDAP
+Адрес WebRA сервера;Адрес WebRA сервера;Адрес WebRA сервера;WebRA server URL;property_EDS_URL_WEBRA
+Тип устройства по-умолчанию;Тип устройства по-умолчанию;Тип устройства по-умолчанию;Default device type;property_EDS_DEFAULT_DEVICE
+Профиль по-умолчанию;Профиль по-умолчанию;Профиль по-умолчанию;Default profile;property_EDS_DEFAULT_PROFILE
+The phone not found;Номер телефона для отправки пароля не найден!;Номер телефона для отправки пароля не найден!;Номер телефона для отправки пароля не найден!;phone_notFound
+Url where stores all service logo;Адрес где хранятся все логотипы услуг провайдеров;Адрес где хранятся все логотипы услуг провайдеров;Адрес где хранятся все логотипы услуг провайдеров;property_service_constant_logo_url
+
+
+Authorization service unavailable. Please try again in 5 minutes.;Авторизация не возможна. Попробуйте через 5 минут.;Авторизация не возможна. Попробуйте через 5 минут.;Авторизация не возможна. Попробуйте через 5 минут.;smsSenderError
+
+Type Document Identity;Загрузка типов документов удостоверяющих личность;Загрузка типов документов удостоверяющих личность;Загрузка типов документов удостоверяющих личность;job_DOCUMENT_IDENTITY
+Дочерняя организация Акционерное общество Банк ВТБ (Казахстан);Дочерняя организация Акционерное общество Банк ВТБ (Казахстан);Дочерняя организация Акционерное общество Банк ВТБ (Казахстан);Дочерняя организация Акционерное общество Банк ВТБ (Казахстан);VTB_FULL_BANK_NAME
+ДО АО Банк ВТБ (Казахстан);ДО АО Банк ВТБ (Казахстан);ДО АО Банк ВТБ (Казахстан);ДО АО Банк ВТБ (Казахстан);VTB_SHORT_BANK_NAME
+Template name cann't be empty;Имя шаблона не может быть пустым;Имя шаблона не может быть пустым;Имя шаблона не может быть пустым;document_templateNameIsNotNull
+Wrong length of field;Неправильная длина поля;Неправильная длина поля;Неправильная длина поля;wrong_length
+{0} kod pidtverdzhennia avtorizatsii dijnyj do {1};{0} kod pidtverdzhennia avtorizatsii dijnyj do {1};{0} kod pidtverdzhennia avtorizatsii dijnyj do {1};{0} kod pidtverdzhennia avtorizatsii dijnyj do {1};login.newPasswordSMS
+Document confirmation. Verification code: {0}. Do not tell anyone the code!;Podtverzhdenie dokumenta. Kod podtverzhdeniya: {0}. Nikomu ne govorite kod!;Podtverzhdenie dokumenta. Kod podtverzhdeniya: {0}. Nikomu ne govorite kod!;Podtverzhdenie dokumenta. Kod podtverzhdeniya: {0}. Nikomu ne govorite kod!;document_confirmationSMS
+Confirmation of {0} documents. Verification code: {1}. Do not tell anyone the code!;Podtverzhdenie {0} dokumentov. Kod podtverzhdeniya: {1}. Nikomu ne govorite kod!;Podtverzhdenie {0} dokumentov. Kod podtverzhdeniya: {1}. Nikomu ne govorite kod!;Podtverzhdenie {0} dokumentov. Kod podtverzhdeniya: {1}. Nikomu ne govorite kod!;document_confirmationSMSgroup
+Undefined;Неопределен;Неопределен;Неопределен;ps_Undefined
+
+THE BANK OF NEW YORK MELLON;THE BANK OF NEW YORK MELLON;THE BANK OF NEW YORK MELLON;THE BANK OF NEW YORK MELLON;VTB_USD_CORRESPONDENT_BANK_1
+JSC VTB Bank, Moscow, Russia;JSC VTB Bank, Moscow, Russia;JSC VTB Bank, Moscow, Russia;JSC VTB Bank, Moscow, Russia;VTB_USD_CORRESPONDENT_BANK_2
+VTB Bank (Deutschland) AG, Frankfurt am Main;VTB Bank (Deutschland) AG, Frankfurt am Main;VTB Bank (Deutschland) AG, Frankfurt am Main;VTB Bank (Deutschland) AG, Frankfurt am Main;VTB_EUR_CORRESPONDENT_BANK_1
+THE ROYAL BANK OF SCOTLAND, LONDON;THE ROYAL BANK OF SCOTLAND, LONDON;THE ROYAL BANK OF SCOTLAND, LONDON;THE ROYAL BANK OF SCOTLAND, LONDON;VTB_GBP_CORRESPONDENT_BANK_1
+VTB Bank (Deutschland) AG, Frankfurt am Main;VTB Bank (Deutschland) AG, Frankfurt am Main;VTB Bank (Deutschland) AG, Frankfurt am Main;VTB Bank (Deutschland) AG, Frankfurt am Main;VTB_GBP_CORRESPONDENT_BANK_2
+Банк ВТБ (ПАО), Москва, Россия;Банк ВТБ (ПАО), Москва, Россия;Банк ВТБ (ПАО), Москва, Россия;Банк ВТБ (КАҚ), Мәскеу, Ресей;VTB_RUB_CORRESPONDENT_BANK_1
+BANK ICBC (JSC), MOSCOW;BANK ICBC (JSC), MOSCOW;BANK ICBC (JSC), MOSCOW;BANK ICBC (JSC), MOSCOW;VTB_CNY_CORRESPONDENT_BANK_1
+JSC VTB Bank, Moscow, Russia;JSC VTB Bank, Moscow, Russia;JSC VTB Bank, Moscow, Russia;JSC VTB Bank, Moscow, Russia;VTB_CNY_CORRESPONDENT_BANK_2
+CITIGB2L Citibank N.a., LONDON;CITIGB2L Citibank N.a., LONDON;CITIGB2L Citibank N.a., LONDON;CITIGB2L Citibank N.a., LONDON;VTB_AUD_CORRESPONDENT_BANK_1
+JSC VTB Bank, Moscow, Russia;JSC VTB Bank, Moscow, Russia;JSC VTB Bank, Moscow, Russia;JSC VTB Bank, Moscow, Russia;VTB_AUD_CORRESPONDENT_BANK_2
+Australian dollar;Австралийский доллар;Австралийский доллар;Австралия доллары;currency_aud
+
+
+Cellular and satellite communication;Сотовая и спутниковая связь;Сотовая и спутниковая связь;Сотовая и спутниковая связь;cellular_communication
+Cellular and satellite communication;Сотовая и спутниковая связь;Сотовая и спутниковая связь;Сотовая и спутниковая связь;cellular_communication_full
+Communal payments;Коммунальные платежи;Коммунальные платежи;Коммунальные платежи;communal_payments
+Communal payments;Коммунальные платежи;Коммунальные платежи;Коммунальные платежи;communal_payments_full
+TV;Телевидение;Телевидение;Телевидение;tv
+TV;Телевидение;Телевидение;Телевидение;tv_full
+TV and Internet;Телевидение и интернет;Телевидение и интернет;Телевидение и интернет;tv_and_internet
+TV and Internet;Телевидение и интернет;Телевидение и интернет;Телевидение и интернет;tv_and_internet_full
+Интернет и IP телефония;Интернет и IP телефония;Интернет и IP телефония;Интернет и IP телефония;internet_and_ip
+Интернет и IP телефония;Интернет и IP телефония;Интернет и IP телефония;Интернет и IP телефония;internet_and_ip_full
+Реклама и охрана;Реклама и охрана;Реклама и охрана;Реклама и охрана;security_services
+Реклама и охрана;Реклама и охрана;Реклама и охрана;Реклама и охрана;security_services_full
+Online games;Игры Online;Игры Online;Игры Online;online_games
+Online games;Игры Online;Игры Online;Игры Online;online_games_full
+Charity;Благотворительность;Благотворительность;Благотворительность;charity
+Charity;Благотворительность;Благотворительность;Благотворительность;charity_full
+Fines for traffic offense;Штрафы за нарушение ПДД;Штрафы за нарушение ПДД;Штрафы за нарушение ПДД;traffic_fines
+Fines for traffic offense;Штрафы за нарушение ПДД;Штрафы за нарушение ПДД;Штрафы за нарушение ПДД;traffic_fines_full
+Educational services;Образовательные услуги;Образовательные услуги;Образовательные услуги;educational_services
+Educational services;Образовательные услуги;Образовательные услуги;Образовательные услуги;educational_services_full
+Tickets, lotteries, tourism;Билеты, лотереи, туризм;Билеты, лотереи, туризм;Билеты, лотереи, туризм;tourism
+Tickets, lotteries, tourism;Билеты, лотереи, туризм;Билеты, лотереи, туризм;Билеты, лотереи, туризм;tourism_full
+Bookmakers;Букмекерские конторы;Букмекерские конторы;Букмекерские конторы;bookmakers
+Bookmakers;Букмекерские конторы;Букмекерские конторы;Букмекерские конторы;bookmakers_full
+Publishers, placement of advertisements;Издательства, размещение объявлений;Издательства, размещение объявлений;Издательства, размещение объявлений;publishers
+Publishers, placement of advertisements;Издательства, размещение объявлений;Издательства, размещение объявлений;Издательства, размещение объявлений;publishers_full
+Online stores;Интернет магазины;Интернет магазины;Интернет магазины;online_stores
+Online stores;Интернет магазины;Интернет магазины;Интернет магазины;online_stores_full
+Information portals;Информационные порталы;Информационные порталы;Информационные порталы;information_portals
+Information portals;Информационные порталы;Информационные порталы;Информационные порталы;information_portals_full
+Goods by catalogs;Товары по каталогам;Товары по каталогам;Товары по каталогам;goods_by_catalogs
+Goods by catalogs;Товары по каталогам;Товары по каталогам;Товары по каталогам;goods_by_catalogs_full
+Discount projects;Скидочные проекты;Скидочные проекты;Скидочные проекты;discount_projects
+Discount projects;Скидочные проекты;Скидочные проекты;Скидочные проекты;discount_projects_full
+Taxi services;Службы такси;Службы такси;Службы такси;taxi_services
+Taxi services;Службы такси;Службы такси;Службы такси;taxi_services_full
+Shipping, delivery;Грузоперевозки, доставка;Грузоперевозки, доставка;Грузоперевозки, доставка;shipping
+Shipping, delivery;Грузоперевозки, доставка;Грузоперевозки, доставка;Грузоперевозки, доставка;shipping_full
+Hosting;Хостинг;Хостинг;Хостинг;hosting
+Hosting;Хостинг;Хостинг;Хостинг;hosting_full
+Electronic money;Электронные деньги;Электронные деньги;Электронные деньги;electronic_money
+Electronic money;Электронные деньги;Электронные деньги;Электронные деньги;electronic_money_full
+Flights;Авиабилеты;Авиабилеты;Авиабилеты;flights
+Flights;Авиабилеты;Авиабилеты;Авиабилеты;flights_full
+State services;Госуслуги;Госуслуги;Госуслуги;state_services
+State services;Госуслуги;Госуслуги;Госуслуги;state_services_full
+Other;Другие;Другие;Другие;other
+Other;Другие;Другие;Другие;other_full
+Купонные сервисы;Купонные сервисы;Купонные сервисы;Купонные сервисы;cuppons
+Купонные сервисы;Купонные сервисы;Купонные сервисы;Купонные сервисы;cuppons_full
+Косметика;Косметика;Косметика;Косметика;сosmetics
+Косметика;Косметика;Косметика;Косметика;сosmetics_full
+All;Все;Все;Все;all
+All;Все;Все;Все;all_full
+SMS code length;Длина СМС кода;Длина СМС кода;Длина СМС кода;property_SMS_PASSWORD_LENGTH
+Create account from credit;Создать счет на основании скредита;Создать счет на основании скредита;Создать счет на основании скредита;property_CREATE_ACCOUNT_FROM_CREDIT
+Create account from deposit;Создать счет на основании депозита;Создать счет на основании депозита;Создать счет на основании депозита;property_CREATE_ACCOUNT_FROM_DEPOSIT
+Create account from card;Создать счет на основании карты;Создать счет на основании карты;Создать счет на основании карты;property_CREATE_ACCOUNT_FROM_CARD
+
+Default EDS person profile;ЭЦП: профиль клиента по умолчанию;ЭЦП: профиль клиента по умолчанию;ЭЦП: профиль клиента по умолчанию;property_EDS_DEFAULT_PERSON_PROFILE
+New login password: {0}. Do not tell anyone the password!;Noviy palol vhoda: {0}. Nikomu ne govorite!;Noviy palol vhoda: {0}. Nikomu ne govorite!;Noviy palol vhoda: {0}. Nikomu ne govorite!;login.newLoginPassword
+Payment amount greater then planned balance. Planned balance = %1$s %2$s.;Сумма платежа больше чем плановый остаток. Плановый остаток = %1$s %2$s.;Сумма платежа больше чем плановый остаток. Плановый остаток = %1$s %2$s.;Сумма платежа больше чем плановый остаток. Плановый остаток = %1$s %2$s.;error_redBalance
+Amount of on payment could not be greater then %1$s hrn.;Сумма одного платежа не может превышать = %1$s грн.;Сумма одного платежа не может превышать = %1$s грн.;Сумма одного платежа не может превышать = %1$s грн.;error_maxPaymentAmountPerOperation
+Сумма платежей по данному документу и всем документам за день не может превышать = %1$s грн. У вас уже за сегодня подписано документов на = %2$s грн.;Сумма платежей по данному документу и всем документам за день не может превышать = %1$s грн.  У вас уже за сегодня подписано документов на = %2$s грн.;Сумма платежей по данному документу и всем документам за день не может превышать = %1$s грн. У вас уже за сегодня подписано документов на = %2$s грн.;Сумма платежей по данному документу и всем документам за день не может превышать = %1$s грн. У вас уже за сегодня подписано документов на = %2$s грн.;error_maxPaymentAmountPerDay
+Сумма платежей по данному документу и всем документам за месяц не может превышать = %1$s грн. У вас уже за месяц подписано документов на = %2$s грн.;Сумма платежей по данному документу и всем документам за месяц не может превышать = %1$s грн.  У вас уже за месяц подписано документов на = %2$s грн.;Сумма платежей по данному документу и всем документам за месяц не может превышать = %1$s грн. У вас уже за месяц подписано документов на = %2$s грн.;Сумма платежей по данному документу и всем документам за месяц не может превышать = %1$s грн. У вас уже за месяц подписано документов на = %2$s грн.;error_maxPaymentAmountPerMonth
+Документ созданный позже  %1$s не может быть проведен;Документ созданный позже  %1$s не может быть проведен;Документ созданный позже  %1$s не может быть проведен;Документ созданный позже  %1$s не может быть проведен;error_maxPeriodForDocumentExecution
+Receiver account number  [%1$s] does not corresponds to bank MFO  [%2$s];Счет получателя [%1$s] не соответствует указанному МФО банка [%2$s];Счет получателя [%1$s] не соответствует указанному МФО банка [%2$s];Счет получателя [%1$s] не соответствует указанному МФО банка [%2$s];error_accountNotCorrespondMFO
+
+Document with same account number, amount and receiver account number have already created today.;Документ с таким же номером счета, суммой платежа и счетом получателя уже создан сегодня.;Документ с таким же номером счета, суммой платежа и счетом получателя уже создан сегодня.;Документ с таким же номером счета, суммой платежа и счетом получателя уже создан сегодня;error_notUniqueMainFields
+Name of client with this tax code is;Имя клиента с таким БИН/ИНН -;Имя клиента с таким БИН/ИНН -;Имя клиента с таким БИН/ИНН -;name_of_customer_is
+Double tax code in database;База содержит более чем одного клиента с таким БИН/ИНН;База содержит более чем одного клиента с таким БИН/ИНН;База содержит более чем одного клиента с таким БИН/ИНН;double_tax_code_in_db
+Неверно указан Логин;Неверно указан Логин;Неверно указан Логин;Неверно указан Логин;restore_pwd_invalid_login
+Карта указана неверно для вашего логина;Карта указана неверно для вашего логина;Карта указана неверно для вашего логина;Карта указана неверно для вашего логина;restore_pwd_invalid_card
+Указанный смс пароль не верен. Попробуйте еще раз!;Указанный смс пароль не верен. Попробуйте еще раз!;Указанный смс пароль не верен. Попробуйте еще раз!;Указанный смс пароль не верен. Попробуйте еще раз!;restore_pwd_invalid_sms_code
+Invalid password;Неверно указан пароль;Неверно указан пароль;Неверно указан пароль;restore_pwd_invalid_password
+Transfer to another client card(P2P);Перевод на карту другого клиента(P2P);Перевод на карту другого клиента(P2P);Перевод на карту другого клиента(P2P);job_PAYCARD
+Beneficiary card is required;Карта получателя обязательная;Карта получателя обязательная;Карта получателя обязательная;benef_card_required
+Beneficiary card is invalid;Карта получателя неверная;Карта получателя неверная;Карта получателя неверная;benef_card_invalid_data
+
+Rate not found;Курс даной пары валют не найден;Курс даной пары валют не найден;Курс даной пары валют не найден;rate_invalid_data
+
+Beneficiary card length must be {0} characters;Карта получателя должна быть {0} символов;Карта получателя должна быть {0} символов;Карта получателя должна быть {0} символов;benef_card_required_length
+Sign level;null;null;null;sign_level
+Sign allow;null;null;null;sign_allow
+Organization role;null;null;null;organization_role
+Role;null;null;null;role
+Factor;null;null;null;factor
+Is sign allow;null;null;null;is_sign_allow
+Is sms required;null;null;null;is_sms_required
+Fetching of the list of bank branches;Получение списка филиалов банка;Получение списка филиалов банка;Получение списка филиалов банка;job_BANK_BRANCH
+Fetching of the list of countries;Получение списка стран;Получение списка стран;Получение списка стран;job_COUNTRY
+Default country;Страна по-умолчанию (2-хбуквенный код);Страна по-умолчанию (2-хбуквенный код);Страна по-умолчанию (2-хбуквенный код);default_country
+Fetching of the list of currencies;Получение списка валют;Получение списка валют;Получение списка валют;job_CURRENCY
+Accumulative;Сберегательный;Сберегательный;Жанақтаушы;SAVINGS_deposit_type
+Saving;НАКОПИТЕЛЬНЫЙ;НАКОПИТЕЛЬНЫЙ;Сақтаушы;ACCUMULATIVE_deposit_type
+Saved;Сохранено;Сохранено;Сақталды;common_saved
+Sent;Отправлено;Отправлено;Жіберілді;common_sent
+New;Новое;Новое;Жаңа;common_new_mail
+Read;Прочитано;Прочитано;Оқылды;common_read
+Request to bank error;Ошибка запроса в банк;Ошибка запроса в банк;Банк сұрауының қатесі;integrator.fatal
+Request to bank error;Ошибка запроса в банк;Ошибка запроса в банк;Банк сұрауының қатесі;integrator.config
+
+Invalid CAPTCHA;Код с картинки введен неверно;Код с картинки введен неверно;Код с картинки введен неверно;common_confirmation_invalid_captcha
+Incorrect SMS password;Неверный SMS пароль;Неверный SMS пароль;Неверный SMS пароль;common_confirmation_invalid_sms_code
+
+Send signup application form to email;Отправить копию заявления на регистрацию на e-mail;Отправить копию заявления на регистрацию на e-mail;Отправить копию заявления на регистрацию на e-mail;property_SIGNUP_SEND_APPLICATION_TO_EMAIL
+
+Email sender's mailbox;Почтовый ящик отправителя элекронной почты;Почтовый ящик отправителя элекронной почты;Поштова скринька відправника електронної пошти;property_EMAIL_SENDER_MAILBOX
+Тело письма сообщения о регистрации;Тело письма сообщения о регистрации;Тело письма сообщения о регистрации;Тело письма сообщения о регистрации;property_EMAIL_SIGNUP_MESSAGE_BODY
+Тема письма сообщения о регистрации;Тема письма сообщения о регистрации;Тема письма сообщения о регистрации;Тема письма сообщения о регистрации;property_EMAIL_SIGNUP_MESSAGE_SUBJECT
+The file name of the application for registration of a new user (Latin);Название файла заявления о регистрации нового пользователя (латиницей);Название файла заявления о регистрации нового пользователя (латиницей);Файл додатка для реєстрації нового користувача (латинь);property_SIGNUP_APPLICATION_FILENAME
+
+EXPORT_ACCOUNT_TRANSFER;EXPORT_ACCOUNT_TRANSFER;EXPORT_ACCOUNT_TRANSFER;EXPORT_ACCOUNT_TRANSFER;integration_EXPORT_ACCOUNT_TRANSFER
+EXPORT_INTERNATIONAL;EXPORT_INTERNATIONAL;EXPORT_INTERNATIONAL;EXPORT_INTERNATIONAL;integration_EXPORT_INTERNATIONAL
+EXPORT_DOMESTIC_TRANSFER;EXPORT_DOMESTIC_TRANSFER;EXPORT_DOMESTIC_TRANSFER;EXPORT_DOMESTIC_TRANSFER;integration_EXPORT_DOMESTIC_TRANSFER
+
+
+Error occuder during calendar approval. Same calendar is already in a system;Ошибка утверждения календаря. Такой календарь уже существует;Ошибка утверждения календаря. Такой календарь уже существует;Ошибка утверждения календаря. Такой календарь уже существует;calendar_ApprovalError
+Calendar approval successful;Каледнарь успешно подтвержден;Каледнарь успешно подтвержден;Каледнарь успешно подтвержден;calendar_ApproveSuccessful
+Write off;Списания;Списания;Списання;transaction_type_out
+Incoming;Поступления;Поступления;Надходження;transaction_type_in

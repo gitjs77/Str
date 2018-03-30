@@ -1,0 +1,1736 @@
+en;ru;uk;translation_key;output_channel
+keyColumns=translation_key;actionType=modify
+Accrued compensation;Начисленное вознаграждение;Нарахована винагорода;accrued_compensation;W
+Create keys;Создать ключи;Створити ключі;vc_keysRequest;W
+New document type;Добавить тип;Додати тип;signingrules_addDocType;W
+Symbol;Символ;Символ;currency_currencycode;W
+Value;Значение;Значення;global_settings.constants.table.col.value;W
+A calendar name;Название календаря;Назва календарю;calendarName;W
+Approved;Утверждён;Затверджений;approved;W
+Creating a Document type;Создание Типа документа;Створення типу документу;creatingDocType;W
+Payer detail;Плательщик;Платник;paymentOrder_payerDetail;W
+Terminal IP;IP терминала;IP терміналу;requests_terminal;W
+Incorrect email;Неверный email;Невірний e-mail;common_incorrectEmail;W
+Started;Старт;Старт;jobs.started;W
+Password confirmation;Подтверждение пароля;Підтвердження паролю;customeruser_passwordConfirmation;W
+Details;Просмотреть;Переглянути;organizations_details;W
+Create a new System module;Создать новый Модуль системы;Створити новий модуль системи;createNewSystemModule;W
+The first and second characters should be KZ.;Первый и второй символы должны быть KZ.;Перший та другий символи мають бути KZ.;paymentOrder_valid_firstCharsKZ;W
+Common;Общее;Загальні;companyPersonEdit_maintabTitle;W
+First name;Имя;Ім'я;paymentOrder_firstName;W
+Sending notifications channel;Канал отправки уведомлений;Канал відправки повідомлень;sendingNotificationsChannel;W
+Country creating;Создание страны;Створення країни;countryCreating;W
+Confirm Action:;Подтвердите действие:;Підтвердіть дії:;common_confirmAction;W
+Information from bank;Информация из Банка;Інформація з Банку;paymentOrder_bankInfo;W
+Operations with the Card product type;Действия;Дія;operationsWithCardProductType;W
+Arrest/block reason;Причина блокировки/ареста;Причина блокування/арешту;common_arrestBlockReason;W
+Add new currency;Добавить новую валюту;Додати нову валюту;currency_addnewcurrency;W
+View Edit Pension Template;Просмотр / Редактирование Шаблона  Пенсионного отчисления;Перегляд/редагування Шаблону Пенсійного відрахування;paymentOrder_viewEditPensionTemplate;W
+Create a bank;Создание банка;Створення банку;bankCreating;W
+Create auth factor;Создание многофакторной авторизации;Створення багатофакторної авторизації;authfactorcreate_title;W
+Name;Наименование;Назва;paymentOrder_payerName;W
+Operations with the Document status;Действия;Дія;operationsWithDocStatus;W
+User certificates;Сертификаты пользователя;Сертифікати користувача;userCertificates;W
+Document Type;Тип документа;Тип документу;createDemandType_documentType;W
+Bank details - Pension, social contributionsv;Реквизиты - Пенсионные, социальные отчисления;Реквізити - Пенсійні, соціальні відрахування;detailsPensionSocialContributions;W
+CSC with this code already exists;КБК с таким кодом уже существует;КБК з таким кодом вже існує;kbkCodeAlreadyExists;W
+Credit state;Состояние кредита;Стан кредиту;creditState;W
+Loan currency;Валюта займа;Валюта займу;loanCurrency;W
+Receiver;Получатель;Отримувач;invoice_receiver;W
+A current calendar loading error. Please reload the page or try again later;Ошибка загрузки текущего календаря. Перезагрузите страницу или попробуйте позже;Помилка завантаження поточного календаря. Перезавантажте сторінку або спробуйте пізніше ;currentCalendarLoadingErrorReload;W
+Done;Выполнен;Виконаний;common_done;W
+International post address;Международный почтовый адрес;Міжнародна поштова адреса;intPostAddress;W
+Create a new reason for the card block;Создать новую Причину блокировки карты;Створити нову Причину блокування карти;createCardBlockReason;W
+Default organization;Организация по умолчанию;Підприємство за умовчуванням;personal_default_org;W
+This field should not exceed 128 characters!;Это поле не должно превышать 128 символа!;Це пле не може перевищувати 128 символів!;noMore128Symbols;W
+Jobs Type;Типы работ;Типи робіт;navigation_jobsType;W
+view Edit Order Template;Просмотр / Редактирование Шаблона Платежного поручения;Перегляд/редагування Шаблону Платіжного відрахування;paymentOrder_viewEditTemplate;W
+Cancel selection;Отменить выделение;Відмінити виділення;grid_cancelselection;W
+Error loading currency. Refresh the page or try again later;Ошибка загрузки текущей валюты. Перезагрузите страницу или попробуйте позже;Помилка завантаження поточної валюти. Перезавантажте сторінку або спробуйте пізніше ;currency_error3;W
+Error creating currency. Refresh the page or try again later;Ошибка создания валюты. Перезагрузите страницу или попробуйте позже;Помилка створення валюти. Перезаваньажте сторінку або спробуйте пізніше;currency_error2;W
+Error updating currency. Refresh the page or try again later;Ошибка обновления валюты. Перезагрузите страницу или попробуйте позже;Помилка оновлення валюти. Перезавантажте сторінку або спробуйте пізніше;currency_error1;W
+Any;Не важен;Не важливий;signingrules_withoutorder;W
+The code must not exceed 6 digits;Код не должен превышать 6-х цифр;Код не повинен перевишувати 6-ти ціфр;noMore6Digits;W
+The System module with this code already exists;Модуль системы с таким кодом уже существует;Модуль системи з таким кодом вже існує;systemModuleWithSameCodeAlreadyExists;W
+Multicasting packages;Массовая рассылка;Масова розсилка;multicasting_packTitle;W
+Add New Pension Template;Создание Шаблона Пенчионного отчисления;Створення Шаблону Пенсійного відрахування;paymentOrder_addNewPensionTemplate;W
+Subject user name;Ф.И.О. измененного пользователя;П.І.Б. зміненого користувача;events_subjectname;W
+Payers account;Счет плательщика;Рахунок платника;domTransfer_payerAccount;W
+Customize issued currency;Настроить выдаваемые валюты;Налаштувати валюти до видачі;customizeIssuedCurrency;W
+Fee currency;Валюта счета взимания комиссии;Валюта рахунку утримання комісії;intTransfer_feeCurrency;W
+Status published : false;Статус публикации: не опубликовано;Статус публікації: не опубліковано;createDemandType_statusPublishedFalse;W
+Current email;Текущий email;Поточний e-mail;personal_currentEmail;W
+Events history;История действия;Історія подій;events_title;W
+Chapter;Раздел;Розділ;page_menudetailstitle;W
+Status;Статус;Статус;common_status;W
+Viewing/Editing the Card product type;Просмотр и редактирование Вида карточных продуктов;Перегляд і редагування Виду карточних продуктів;viewingEditingCardProductType;W
+Name;Наименование;Назва;paymentOrder_recipientName;W
+Filter settings;Настройки фильтра счетов;Налаштування фільтру рахунків;demandType_filterSettings;W
+Block requisites: document;Block requisites: document;Block requisites: document;documentBlock;W
+Privileges;Привилегии;Привілеї;companyPersonEdit_privilegestabTitle;W
+Organization's managers;Менеджеры организации;Менеджери організації;common_managers;W
+Create employee;Создать сотрудника;Створити співробітника;employee_createEmployee;W
+Organization;Организация;Організація;common_organization;W
+Masage From Bank;Сообщение из банка;Повідомлення з банку;common_MasageFromBank;W
+Viewing/Editing the Letter type;Просмотр и редактирование Типа письма;Перегляд і редагування Типу листа;viewingEditingLetterType;W
+Сумма возврата;Сумма возврата;Сума повернення;refunds.amount;W
+Incorrect passwords count;Количество неправильных паролей;Кількість невірних паролів;customeruser_incorrectPasswordCount;W
+Etit Job;Редактирование задачи;Редагування задачі;jobs.edit_job.title;W
+Document Date;Дата создания документа;Дата створення документу;common_documentDate;W
+First name;Имя;Ім'я;customeruser_firstName;W
+Deposit account;Счет депозита;Рахунок депозиту;depositAccount;W
+Reject;Отказать;Відмовити;action_reject;W
+Payment order;Платежное поручение;Платіжне доручення;domTransfer_paymentOrder;W
+Respnse;Содержание ответа;Зміст відповіді;requests_response;W
+Account;Счет;Рахунок;senderAccount;W
+Account balance;Остаток на счете;Залишок;paymentOrder_accountBalanceKZT;W
+Demand Category;Категории заявлений;Категорії заяв;CodeCategory_labelReference;W
+Payer;Плательшик;Платник;invoice_payer;W
+Receiver's BIN;БИН получателя;БІН отримувача;receiversBIN;W
+Notifications type;Тип уведомлений;Тип повідомлень;alertsType;W
+debit amount to;Сумма списания по;Сума списання по;accTransfer_debitAmountTo;W
+Status;Статус;Статус;customeruser_status;W
+Document status;Статус документа;Статус документу;common_docStatus;W
+Receivers name;Имя получателя;Ім'я отримувача;domTransfer_receiverName;W
+Blocked amount details;Детали заблокированой суммы;Деталі заблокованох суми;blockedAmountDetails;W
+Calendar creating error. Is it a duplicate?;Ошибка при создании календаря. Возможно это дубликат?;Помилка при створенні календаря. Можливо це дублікат?;savingCalendarError;W
+field type;тип поля;Тип поля;field_type;W
+id;ид;ID;CodeCategory_id;W
+Add account;Добавить счет;Додати рахунок;signingrules_addAccount;W
+Creaition date;Дата создания;Дата створення;news_createDate;W
+Amount;Сумма;Сума;invoice_amount;W
+Exchange rates;Курсы валют;Курси валют;navigation_handbookExchangeRates;W
+Manager action;Действие менеджера;Дія менеджера;events_manageraction;W
+Jobs List;Список работ;Список робіт;jobs.List;W
+Name;Наименование получателя;Назва отримувача;transferRequisites_recipientName;W
+VAT KZT;НДС сумма KZT;ПДВ;paymentOrder_vatKZT;W
+Session was blocked by administrator;Ваша сессия закрыта администратором банка;Ваша сесія припинена адміністратором банку;errorpage419_title;W
+All events selected;Все события выбраны;Всі події обрані;events_allselected;W
+New manager;Регистрация нового менеджера;Реєстрація нового менеджера;managers_add;W
+Demand Detail;Детали заявления;Деталі заяви;demandCreate_demandDetail;W
+Finish date;Заканчивая датой;Завершується датою;standing.order.to.date;W
+Create new payment order;Создание Платежного поручения;Створення Платіжного доручення;paymentOrder_addNewOrder;W
+Account number, the organization name, the organization BIN;№ счёта, Наименование организации, БИН организации;№ рахунку, Назва підприємства, BIN підприємства;accountNumberOrgNameOrgBin;W
+Commission;Комиссия;Комісія;paymentOrder_commission;W
+OTP tokens statuses;Статус OTP токенов;Статус ОТР токенов;otpTokensStatus;W
+Ip address;IP адрес;IP адреса;sessions_terminalip;W
+Documents;Документы;Документи;navigation_documents;W
+Viewing/Editing the System module;Просмотр и редактирование Модуля системы;Перегляд і редагування Модуля системи;viewingEditingSystemModule;W
+Input Template Name;Введите имя шаблона;Введіть ім'я шаблону;Payment_action_inputTemplateName;W
+Security tooltips;Советы по безопасности;Поради з безпеки;login_tips;W
+Current phone;Текущий телефон;Поточний телефон;personal_currentPhone;W
+Budget payment code description;Описание КБК;Опис КБК;paymentOrder_budgetCodeDescription;W
+Maximum incorrect passwords count;Максимальное количество неправильных паролей;Максимальна кількість невірних паролів;customeruser_maxIncorrectPasswordCount;W
+Validity of the account;Срок действия счета;Строк дії рахунку;accountValidity;W
+New user;Новый пользователь;Новий користувач;customerUser_add;W
+Amount;Сумма;Сума;paymentOrder_amount;W
+Deposit products types;Виды депозитных продуктов;Види депозитних продуктів;depositProductTypes;W
+Viewing card blocking/unblocking history;Просмотр истории блокировок/разблокировок карты;Перегляд історії блокувань / розблокувань карти;viewHistoryCardLockUnlock;W
+Re-issuance certificate requests;Запросы на перевыпуск сертификатов;Запит на перевипуск сертифікатів;certificationRequests;W
+Сlient editable;Настраивается клиентом;Налаштовується клієнтом;notificationtype_iseditablebyclient;W
+Rate;Курс;Курс;accTransfer_rate;W
+Course scale;Масштаб курса;Масштаю курсу;exchangeRates_courseScale;W
+Are you sure you want to delete the Deposit product type №;Вы действительно хотите удалить Вид депозитных продуктов №;Ви дійсно бажаєте видалити Вид депозитних продуктів №;sureYouWantDeleteDepositProductType;W
+Fees types;Типы комиссий;Типи комісій;feesTypes;W
+Provileges;Привилегии;Привілеї;roles_privileges;W
+Payers tax code;ИИН/БИН плательщика;ІПН/БІН платника;domTransfer_payerTaxCode;W
+KBE:;КБЕ:;КБЕ:;KBE;W
+Login up to;Вход до;Вхід до;companyperson_validto;W
+National name;Национальное название;Назва українською;district_name;W
+No exchange rate;Курс валют отсутствует;Курс валют відсутній;paymentOrder_exchangeRateEmpty;W
+Amount;Сумма;Сума;notification_amount;W
+Incorrect password;Неверный пароль;Невірний пароль;personal_incorrectPass;W
+Name;Наименование;Назва;global_settings.constants.table.col.name;W
+Dictionaries;Справочники;Довідники;navigation_handbooks;W
+Budget payment code;КБК;КБК;paymentOrder_budgetCode;W
+Direction;Направление;Напрям;direction;W
+Withdraw number;№ отзыва;№ відклику;withdraw_num;W
+Create signature rule;Создать правило для подписи;Створити правило для підпису;signingrules_add;W
+Payer bank's BIK;БИК Банка Плательщика;BIC банку Платника;transferRequisites_payerBankCode;W
+The City with the same code already exists;Город с таким кодом уже существует;Місто з таким кодом вже існує;cityWithSameCodeAlreadyExists;W
+Order;Порядок;Порядок;signingrules_order;W
+Branch;Подразделение;Підрозділ;manager_subdivision;W
+Document date;Дата документа;Дата документу;withdraw_doc_date;W
+Organization TaxCode;ИИН Организации;ЄДРПОУ організації;common_orgTaxCode;W
+Auth factors;Факторы авторизации;Фактори авторизації;companyPersonEdit_authtabTitle;W
+International transfer;Международный перевод валюты;Міжнародний перевод валюти;intTransfer_title;W
+ИИН/БИН отправителя;ИИН/БИН отправителя;ІПН/БІН відправника;invoice.payer.bin;W
+Templates;Шаблоны;Шаблони;common_Templates;W
+Enter the password for the key store;Введите пароль для хранилища ключей;Введіть пароль для сховища ключів;docSigning_inputProfilePassword;W
+Current balance;Текущий остаток;Поточний залишок;currentBalance;W
+Constant groups;Группы констант;Групи констант;navigation_group_constants;W
+Balance of remuneration in the currency of the loan;Остаток вознаграждения в валюте займа;Залишок винагороди в валюті займу;balanceRemunerationCurrencyLoan;W
+Blocked;Блокирован;Заблокований;signingrules_notactive;W
+The three-symbol code;Трехсимвольный код;Трьохсимвольний код;threeSymbolCode;W
+Accounts types;Виды счетов;Види рахунків;accountTypes;W
+Short name;Сокращенное название;Скорочена назва;shortName;W
+Updating district;Изменение области;Зміна області;districts_update;W
+Customize accepted currency;Настроить принимаемые валюты;Налаштувати валюти до прийому;customizeAcceptedCurrency;W
+This field should not exceed 255 characters!;Это поле не должно превышать 255 символа!;Це поле не може перевищувати 255 символів!;noMore255Symbols;W
+Receiver's bank;Банк получателя;Банк отримувача;receiversBank;W
+Values;Массив значений;Масив значень;global_settings.constants.values;W
+Exist field with wrong data, save unavailable;Есть неправильно заполненные поля, сохранение выполнено не будет;Є невірно заповнені поля, збереження введених даних неможливе;createDemandType_saveMassage;W
+Error Code;Код ошибки;Код помилки;jobs.errorCode;W
+Passwords do not match;Пароли не совпадают;Паролі не співпадають;customeruser_passwordsnotequals;W
+Operations with ATMs/Branches/Terminals;Действия;Дія;operationsWithAtmsBranchesTerminals;W
+An import date;Дата импорта;Дата імпорту;importDate;W
+User id;ИД пользователя;ID користувача;events_executorId;W
+This field can have no more than 255 characters;Это поле не должно превышать 255 символов!;Це поле не може перевищувати 255 символів!;common_field_max255chars;W
+Get from handbook;Заполнить из справочника;Заповнити з довідника;paymentOrder_getFromHandbook;W
+National payments;Платежные поручения в национальной валюте;Платіжні доручення в національній валюті;domTransfer_nationalPayments;W
+All calendars are selected;Все календари выбраны;Вмі календарі обрані;allCalendarsAreSelected;W
+Working documents;Документы в работу;Документи в роботі;navigation_workingDocs;W
+Type;Тип;Тип;withdraw_doc_type;W
+Payment details;Детали платежа;Деталі платежу;paymentOrder_paymentDetail;W
+Should not be 0;0 недопустимо;0 неприпустимо;common_greaterThanZero;W
+View payroll;Просмотр Зарплатного отчисления;Перегляд зарплатного відрахування;paymentOrder_viewPayroll;W
+Constants;Константы;Константи;navigation_constants;W
+Pension requisites;Реквизиты - Пенсионные отчисления;Реквізити - Пенсійні зарахування;transferRequisites_pensionRequisites;W
+Blocked amounts;Заблокированые суммы;Заблоковані суми;blockedAmounts;W
+Exchange rate;Курс сделки;Курс угоди;paymentOrder_exchangeRate;W
+Add New Social Template;Создание Шаблона Социального отчисления;Створення Шаблону Соціального відрахування;paymentOrder_addNewSocialTemplate;W
+Message template;Шаблон сообщения;Шаблон повідомлення;notification_template;W
+Contract number;Номер договора;Номер договору;contractNumber;W
+Districts;Области;Області;district_districts;W
+Money sender code/beneficiary code (CODE/KBE);Код отправителя денег/Код бенефициара(КОД/КБЕ);Код відправника коштів/Код бенефеціара(КОБ/КБЕ);senderCode;W
+Status;Состояние документа;Стан документу;withdraw_doc_status;W
+Clear settings;Сброс настроек;Скидання налаштувань;clear_settings;W
+Card currency;Валюта карты;Валюта карти;cardCurrency;W
+Accounts;Счета;Рахунки;signingrules_accounts;W
+Arrested sum;Арестованная сумма;Заарештована сума;common_arrestedSum;W
+OTP tokens;ОТП токены;ОТП токени;otpTokens;W
+Receiver;Получатель;Отримувач;domTransfer_receiver;W
+Server time for sync;Время сервера для синхронизации;Час серверу для синхронізації;serverTimeForSync;W
+Contract number;№ контракта;№ контракту;common_contractNumber;W
+Create new client;Создать нового клиента;Створити нового клієнта;organizationsCreate_create;W
+Managers roles;Роли менеджеров;Ролі менеджерів;navigation_managersroles;W
+Cards;Карты;Карти;cards;W
+Main;Главная;Головна;common_main;W
+Card products types;Виды карточных продуктов;Види карткових продуктів;cardProductTypes;W
+Add;Добавить;Додати ;common_add;W
+Debit currency;Валюта списания;Валюта списання;accTransfer_debitCurrency;W
+Payment from account;Платеж со счета;Платіж з рахунку;actions_paymentFromAccount;W
+Amount in account currency;Сумма в валюте счёта;Сума транзакції;amountInAccountCurrency;W
+Loan payment;Платеж по кредиту;Платіж за кредитом;actions_loanPayment;W
+Amount;Сумма;Сума;domTransfer_amountKZT;W
+Channel;Канал;Канал;sessions_channel;W
+Deposits;Депозиты;Депозити;navigation_deposits;W
+Bank branch;Филиал банка;Філія банку;bankBranch;W
+start;начало;початок;start;W
+Document Type;Тип Документа;Тип документу;DocumentType;W
+View and edit user;Просмотр и редактирование данных пользователя;Перегляд і редагування даних користувача;customeruser_editor_title;W
+Available limit;Доступный лимит;Доступний ліміт;availableLimit;W
+View social contribution;Просмотр Социального отчисления;Перегляд Соціального відрахування;paymentOrder_viewSocialContribution;W
+End of action;Конец действия;Кінець дії;exchangeRates_end;W
+Is multilanguage;Мультиязычная?;Мультимовна?;global_settings.constants.table.col.multi_lang;W
+Incorrect input;Данные введены некорректно;Дані введено некоректно;common_incorrectSymbol;W
+Published;Опубликовано;Опубліковано;demandType_public;W
+Populated Locality;Населённый пункт;Населений пункт;banks_populatedLocality;W
+Account closing date;Дата закрытия счёта;Дата закриття рахунку;account_closingDate;W
+National bank BIK;БИК банка национальный;BIC банку національний;banks_bikBankNat;W
+Error Message;Сообщение об ошибке;Повідомлення про помилку;jobs.errorMessage;W
+Clear notification settings;Удалить настройки уведомлений;Видалити налаштування повідомлень;clear_notification_settings;W
+operatingSystem;Операционная система;Операційна система;events_operatingSystem;W
+The amount of the loan agreement in the currency of the loan;Сумма кредитного договора в валюте займа;сума кредитного договору в валюті займу;amountAgreementCurrencyLoan;W
+Rows per page;Записей на странице;Записів на сторінці;grid_rowsperpage;W
+Payment;Платеж;Платіж;payment;W
+Date to;Период до;Період до;invoice_date_to;W
+rate from;Курс исполнения с;Курс виконання з;accTransfer_rateFrom;W
+Limit name;Название лимита;Назва ліміту;limit_name;W
+Request for re-issuance of card;Заявка на перевыпуск карты;Заявка на перевипуск карти;reIssuanceCardRequest;W
+Auto Filling;Автозаполнение реквизитов;Автозаповнення реквізитів;AutoFilling;W
+Код Отправителя;Код Отправителя;Код відправника;refunds.sender.kod;W
+;1 событие выбрано;1 подію обрано;events_1selected;W
+ID;ИД;ID;currency_currencyid;W
+class name;Название класса;Назва класу;jobs.class_name;W
+Create demand type;Создать тип заявления;Створити тип заяви;create_demand_type;W
+Amount from;Сумма от;Сума від;invoice_amount_from;W
+Device category;Категория устройства;Категорія пристрою;events_deviceCategory;W
+Blocked sum;Сумма в блоке;Сума в блоці;common_blockedSum;W
+Creating a Letter type;Создание Типа письма;Створення типу листа;creatingLetterType;W
+Clear all settings;Удалить все настройки;Видалити всі налаштування;clear_all_settings;W
+A credit status;Статус кредита;Статус кредита;creditStatus;W
+New card;Новая карта;Нова карта;applyForNewCard;W
+Shipping requisites;Отправка реквизитов;Відправка реквізитів;common_shippingRequisites;W
+Value date;Дата валютирования;Дата валютування;paymentOrder_valueDate;W
+Close the account;Закрыть счёт;Закрити рахунки;actions_closeAccount;W
+Чтобы войти в систему, нажмите;Чтобы войти в систему, нажмите;Щоб увійти в систему, натисніть;errorpage420_message;W
+Category Change;Изменить категорию;Змінити категорію;CodeCategory_Change;W
+Save the day;Сохранить день;Зберегти день;saveDay;W
+Information;Информация;Інформація;common_information;W
+Import;Импортировать;Імпортувати;common.import;W
+Invoices;Выставленные мне счета;Виставлені мені рахунки;invoice_name;W
+Period;Период;Період;paymentOrder_period;W
+Active;Включено;Включено;notification_active;W
+Viewing and editing the Channel;Просмотр и редактирование канала;Перегляд і редагування канала;viewingEditingChannel;W
+Create a new Deposit product type;Создать новый Вид депозитных продуктов;Створити новий Вид депозитних продуктів;createNewDepositProductType;W
+Are you sure you want to delete the System module №;Вы действительно хотите удалить Модуль системы №;Ви дійсно бажаєте видалити Модуль системи №;sureYouWantDeleteSystemModule;W
+Multicasting;Массовая рассылка;Масова розсилка;multicasting_packEditTitle;W
+Manager;Менеджер;Менеджер;managers_user;W
+events selected;событий выбрано;Подій обрано;events_X5selected;W
+Last name;Фамилия;Прізвище;customeruser_lastName;W
+Cards;Карты;Карти;navigation_corporatecards;W
+New deposit;Новый депозит;Новий депозит;applyForNewDeposit;W
+New;Новый;Новий;common_new;W
+All;Все;Всі;common_all;W
+Credit details;Детали кредита;Деталі кредиту;creditDetails;W
+Are you sure you want to delete the Letter type;Вы действительно хотите удалить Тип письма;Ви дійсно бажаєте видалити Тип письма;sureYouWantDeleteLetterType;W
+Card details;Детали карты;Деталі карти;cardDetails;W
+Organization BIN;БИН организации;БІН організації;withdraw_org_bin;W
+Document number;Номер;Номер;paymentOrder_documentNumber;W
+Delete;Удалить;Видалити;common_delete;W
+Deactivate;Деактивировать;Заблокувати;common_deactivate;W
+Activate;Активировать;Активувати;common_activate;W
+Code;Код;Код;role_code;W
+Available;Доступно;Доступно;is_available;W
+Ask period;Задать период;Задати період;standing_order_interval;W
+Wrong format;Неверный формат;Невірний формат;invalidFormat;W
+Approve;Утвердить;Затвердити;approve;W
+"Can't sign the document! Possible password incorrect.";Не удалось подписать документ! Возможно, пароль введен неправильно.;Не вдалось підписати документ! Можливо, пароль введено невірно;docSigning_signErr;W
+ABS id;Идентификатор в АБС;Ідентифікатор в АБС;manager_externalId;W
+Clear all;Очистить все;Очистити все;common_allItems;W
+International full name;Международное наименование;Міжнародне найменування;common_intFullName;W
+demand checked;заявление выбрано;Заяву обрано;demand_demandChecked;W
+Creating a Card unblocking reason;Создание Причины разблокировки карты;Створення причини розблокування карти;creatingCardUnblockreason;W
+International address. District;Международный адрес. Область;Міжнародна адреса. Область;common_addressIntDistrict;W
+New signature rule;Создание правила для подписи;Створення правилу для підпису;signingrules_new_title;W
+Temporary blocking;Временная блокировка;Тимчасове блокування ;temporaryBlockage;W
+To use all the features of Internet banking, click "Login".;Чтобы воспользоваться всеми функциями интернет-банкинга, нажмите "Вход".;Щоб скористатись усіма функціями інтернет-банкінгу, натисніть "Вхід";loginToUse;W
+Social contribution;Социальное отчисление;Соціальне відрахування;domTransfer_socialContribution;W
+Request;Содержание запроса;Зміст запиту;requests_request;W
+Creating a ATM/Branch/Terminal;Создание Банкомата/отделения/терминала;Створення банкомату / відділення / терміналу;creatingAtmBranchesTerminals;W
+Update client;Изменение клиента;Зміна клієнта;organizationsCreate_update;W
+Viewing/Editing the Document type;Просмотр и редактирование Типа документа;Перегляд і редагування Типу документу;viewingEditingDocType;W
+Not pair passwords;Пароли не совпадают;Паролі не співпадають;personal_notPairPass;W
+Edit an exchange rate type;Изменить тип курса валют;Змінити тип курсу валют;editExchangeRateType;W
+Card lock reason;Причина блокировки карты;Причини блокування карти;cardBlockingReason;W
+Calendar management;Управление календарём;Управління календарем;calendarManagement;W
+Day off;Выходной день;Вихідний день;DayResource.DayOff;W
+Close;Закрыть;Закрити;common_close;W
+Requisites;Реквизиты;Реквізити;withdraw_requisites;W
+Account;Счет;Рахунок;transferRequisites_recipientAccount;W
+Cards type with this code already exists;Вид карт с таким кодом уже существует;Вид карт з таким кодом вже існує;suchCardTypeAlreadyExist;W
+Address (Agent bank);Адрес (Банка Посредника);Адреса (Банку - Посередника);intTransfer_agentBankAddress;W
+Events types;Тип событий;Тип подій;eventsType;W
+Job group;Группа типов задач для запуска по расписанию;Група типів задач для запуску за розкладом;navigation_jobsGroup;W
+Accounts statuses;Статусы счетов;Статуси рахунків;accountStatuses;W
+Type;Тип;Тип;common_type;W
+Letter subject;Тема письма;Тема листа;letterSubject;W
+Post zip;Почтовый индекс;Поштовий індекс;common_zip;W
+Blocking;Блокировка;Блокування;blocking;W
+Requests log;Журнал запросов;Журнал запитів;navigation_requests;W
+New user;Регистрация нового пользователя;Реєстрація нового користувача;customeruser_new_title;W
+Online chat;Онлайн-чат;Онлайн-чат;onlineChat;W
+Term;Срок;Строк;term;W
+Country;Страна;Країна;district_countryFullName;W
+Error In Save Data;Произошла ошибка при сохранении данных;Виникла помилка при збереженні даних;common_ErrorInSaveData;W
+Manager roles;Роли менеджеров;Ролі менеджерів;managerroles_title;W
+IIN;ИИН;ІПН;common_iin;W
+Creating a budget classification code (BCC);Создание кода бюджетной классификации(КБК);Створення кода бюджетної класифікації (КБК);kbkCreating;W
+Edit filter;Настройки фильтра;Налаштування фільтру;common_editFilter;W
+Today;За сегодня;За сьогодні;common_today;W
+Revoke;Отозвать;Відкликати;personal_revoke;W
+Назначение платежа;Назначение платежа;Призначення платежу;paymentOrder_purpose;W
+Enter SMS password;Укажите СМС пароль;Вкажіть смс-пароль;login_enter_sms_password;W
+Demand Type;Тип заявления;Тип заяви;demandCreate_demandType;W
+Privileges;Привилегии;Привілеї;rolePermissions_title;W
+Login;Вход;Вхід;login_enter;W
+Day update error;Ошибка при обновления дня;Помилка при оновленні дня;dayUpdateError;W
+Delete;Удалить;Видалити;common.remove;W
+calendars selected;календаря выбрано;Календар обрано;calSelected;W
+Week;За неделю;За тиждень;common_week;W
+Наименование Отправителя;Наименование Отправителя;Назва Відправника;refunds.sender.name;W
+Bank dictionaries;Банковские справочники;Банківські довідники;bankHandbooks;W
+Sending notifications channels;Каналы отправки;Канали відправки;sendingNotificationsChannels;W
+Country code (Agent bank);Код страны (Банка Посредника);Код країни (Банку Посередника);intTransfer_agentBankCountryCode;W
+EGRPOU;ЕГРПОУ;ЄДРПОУ;paymentOrder_payerCode;W
+Reply;Ответить;Відповісти;reply;W
+Recipient detail;Получатель;Отримувач;paymentOrder_recipientDetail;W
+This field must have at least 6 digits!;Это поле должно содержать 6 цифр!;Це поле має містити 6 цифр!;common_field_atleast6digits;W
+users selected;пользователей выбрано;користувачів обрано;customeruser_X5selected;W
+The currency;Валюта;Валюта;exchangeRates_currency;W
+Wrong pair;Неправильная пара;Невірна пара;exchangeRates_wrongPair;W
+Category name;Имя категории;Ім'я категорії;CodeCategory_name;W
+Valid from;Действует с;Діє з;authfactor_from;W
+Open filter;Открыть фильтр;Відкрити фільтр;requests_openfiler;W
+Fee type;Тип комиссии;Тип комісії;intTransfer_feeType;W
+Ordering details:;Отправитель;Відправник;senderDetailsBlock;W
+I confirm that this payment/money transfer is not related to the financing of terrorist or extremist activities and otherwise supporting terrorism or extremism.;Подтверждаю, что данный платеж и (или) перевод денег не связан с финансированием террористической или экстремистской деятельности и иным пособничеством терроризму либо экстремизму.;Підтверджую, що даний платіж та (або) перевод коштів не пов'язаний з фінансуванням терористичної або екстреміської діяльності та іншого сприяння тероризму або екстремизму.;intTransfer_isNotLinkTerrorism;W
+Document history;История документа;Історія документу;documentHistory_documentHistory;W
+Create a new bank;Создать новый банк;Створити новий банк;createNewBank;W
+Card product type;Вид карточного продукта;Вид карточного продукту;cardProductType;W
+Date;Дата;Дата;common_date;W
+Identificator;Идентификатор;Ідентифікатор;common_id2;W
+Export to Excel;Экспорт в Excel;Експорт в Excel;CodeCategory_exportToExcel;W
+Working time: from;Рабочее время: с;Робочий час: з;workingTimeFrom;W
+Operations;Действия;Дія;common_documentOperations;W
+Agent bank cor. account;Кор. счет Банка Посредника;Кор.рахунок Банку Посередника;intTransfer_agentBankAccount;W
+Type;Тип константы;Тип константи;global_settings.constants.table.col.type;W
+Export;Экспорт;Екпорт;common_export;W
+I confirm that this payment/money transfer is not related to any foreign currency transaction which requires registration certificate, notification certificate or contract registration number.;Подтверждаю, что данный платеж и (или) перевод денег не связан с осуществлением физическим лицом валютной операции, требующей получения регистрационного свидетельства, свидетельства об уведомлении, учетного номера контракта.;Підтверджую, що даний платіжта (або) перевод грошей не пов'язаний зі здійсненням фізичною особою валютної операції, яка вимагає отримання реєстраційного свідоцтва, свідоцтва про повідомлення, реєстраційного номеру контракту;intTransfer_confirmation;W
+Status;Статус;Статус;signingrules_status;W
+Delete Current Row;Удалить текущее поле;Видалити поточне поле;demandType_deleteCurrentRow;W
+create Key For Translate;Ключ для перевода;Ключ для переводу;demandType_createKeyForTranslate;W
+Cancel;Отмена;Відміна;common_cancel;W
+Role;Роль;Роль;manager_role;W
+Currency;Валюта;Валюта;signingrules_currency;W
+View / Edit;Просмотр/Изменение;Перегляд / Зміна;common_viewEdit;W
+Tax Code;БИН;БІН;common_TaxCode;W
+Payer;Плательщик;Платник;standing.order.payer;W
+New email;Новый email;Новий e-mail;personal_newEmail;W
+Create a new Letter type;Создать новый Тип письма;Створити новий Тип листа;createNewLetterType;W
+Save purpose of payment;Запомнить назначение;Запам'ятати призначення;paymentOrder_savePaymentPurpose;W
+Sign;Подписать;Підписати;paymentOrder_sign;W
+VIN code;VIN код;VIN код;paymentOrder_vinCode;W
+Add new role;Добавить новую роль;Додати нову роль;roles_add;W
+Middle name;Отчество;По-батькові;customeruser_middleName;W
+Registration date;Признак блокировки;Ознака блокування;organizationsCreate_lockingIndication;W
+Payer;Плательщик;Платник;payer;W
+Active;Активный;Активний;signingrules_active;W
+Application version;Версия приложения;Версія додатку;events_applicationVersion;W
+An organization rank;Ранг организации;Ранг організації/підприємства;orgRank;W
+Letters;Письма;Листи;letters;W
+Are you sure you want to delete the Card type №;Вы действительно хотите удалить Вид карт №;Ви дійсно бажаєте видалити Вид карт №;sureYouWantDeleteCardType;W
+Transaction currency;Валюта транзакции;Валюта транзакції;transactionCurrency;W
+Session will expire in;Сессия завершится через;Сесія завершиться через;mainbar_sessionWillExpire;W
+Search;Поиск по содержимому запроса;Пошук за складовими запиту;requests_filtertitle;W
+International Bank Name;Международное наименование банка;Міжнародне найменування Банку;common_bankIntName;W
+Urgent payment;Срочный платеж;Строковий платіж;paymentOrder_urgentPayment;W
+Document to withdraw number;Номер отзываемого документа;Номер документу, що відкликається;withdraw_doc_num_full;W
+Pre Import;Подготовить импорт;Підготувати імпорт;upload_prepare;W
+Last name;Фамилия;Прізвище;paymentOrder_lastName;W
+International full name;Международное полное название;Міжнародне повне найменування;intFullName;W
+Send;Отправить;Відправити;login_send;W
+Banks;Банки;Банки;navigation_banks;W
+Code;БИН/ИИН Получателя;БІН/ІПН Отримувача;paymentOrder_recipientCode;W
+DS certificates;Сертификаты ЭЦП;Сертифікати ЕЦП;certificate.ds;W
+Registration date;Дата регистрации;Дата реєстрації;organizationsCreate_registrationDate;W
+Minimum balance;Неснимаемый остаток;Незнижувальний залишок;minimumBalance;W
+Phone;Телефон;Телефон;common_phone;W
+The card product type already exists;Вид карточных продуктов с таким кодом уже существует;Вид карточних продуктів з таким кодом вже існує;cardProductTypeAlreadyExists;W
+Operations with district;Действия;Дія;districts_operations;W
+Job state;Состояние модуля;Стан модуля;jobs.jobState;W
+Status;Статус;Статус;EventsExcelCreator.Status;W
+Payment detail;Детали платежа;Деталі платежу;paymentOrder_detail;W
+debit amount from;Сумма списания с;Сума списаня з;accTransfer_debitAmountFrom;W
+Calendar operations;Действия;Дія;calendarOperation;W
+Issue tranche;Выдать транш;Надати транш;actions_issueTranche;W
+Pension contribution;Пенсионное отчисление;Пенсійне відрахування;domTransfer_pensionContribution;W
+SMS;SMS;SMS;customeruser_sms;W
+Ownership Type;Форма собственности;Форма власності;common_ownership;W
+Notification properties;Настройки оповещений;Налаштування сповіщень;notification_title;W
+Publication date;Дата публикации;Дата публікації;multicasting_publicationDate;W
+Create new pension contribution;Создание Пенсионного отчисления;Створення Пенсійного відрахування;paymentOrder_addNewPensionContribution;W
+Payer's BIN;БИН плательщика;БІН платника;payersBIN;W
+Password id;Идентификатор пароля;Ідентифікатор пароля;customeruser_passwordId;W
+Subject;Тема;Тема;subject;W
+New;Новое;Нове;itNew;W
+Base currency and second currency should not have the same isoCode;Базовая валюта и вторая валюта не могут иметь один и тот же isoCode;Базова валюта і інша валюта не можуть мати однаковий isoCode;exchangeRate.currency.id.conflict;W
+№ Document , type demand;№ документа, тип заявления;№ документу, тип заявки;demand_serchHint;W
+IP;IP;IP;events_terminal;W
+Position;Должность;Посада;customeruser_position;W
+Intermediary bank details;Банк Посредник;Банк Посередник;intTransfer_agentBankRequisites;W
+Constants;Константы;Константи;global_settings.constants.screen.list;W
+Deposit details;Детали депозита;Деталі депозиту;depositDetails;W
+Debit details;Реквизиты продажи (Списания);Реквізити продажу (Списання);paymentOrder_debitRequisites;W
+The initial amount shall not exceed the final;Начальная сумма не должна превышать конечную;Початкова сума не повинна перевищувати кінцеву;domTransfer_comparison;W
+Select Type Document;По типу документа:;По типу документу;standingOder_selectTypeDoc;W
+Full Name;ФИО;ПІБ;customeruser_fullName;W
+Jobs history;История по задачам;Історія задач;jobs.history;W
+Credit account;Счет зачисления;Рахунок зарахування;accTransfer_creditAccount;W
+Login date/time;Вход;Вхід;sessions_valid_from;W
+Interest payment account;Счет выплаты вознаграждения;Рахунок виплати винагороди;interestPaymentAccount;W
+Credit details;Реквизиты  покупки (Зачисления);Реквізити купівлі (Зарахування);paymentOrder_creditRequisites;W
+No news;Новостей нет;Новин немає;noNews;W
+Certificate;Сертификат;Сертифікат;certificate;W
+SWIFT code;SWIFT код;SWIFT код;swiftCode;W
+Information about;Информация о;Інформація про;personal_informationAbout;W
+The cards status with this code already exists;Статус карт с таким кодом уже существует;Статус карт з таким кодом вже існує;cardStatusWithSameCodeAlreadyExists;W
+Configure document withdraw filter;Настройка фильтра отзыва платежей;Налаштування фільтру для відкликання платежів;withdraw_filter;W
+Group Name;Название группы типов задач;Назва групи типів задач;jobs.nameGroup;W
+International address. City;Международный адрес. Город;Міжнародна адреса. Місто;common_addressIntCity;W
+Viewing currency;Просмотр Валюты;Перегляд валюти;currency_viewtitle;W
+Operation with demand;Действия;Дія;demand_operation;W
+Description;Описание;Опис;global_settings.constants.table.col.desc;W
+Director;Руководитель;Керівник;paymentOrder_payerDirector;W
+Payments revokes;Отзывы платежей;Відкликання платежів;navigation_paymentsRevokes;W
+Daily schedule;Недельный график роботы;Тижневий графік роботи;dailySchedule;W
+My Dictionaries;Мои справочники;Мої довідники;navigation_myHandbooks;W
+Register in the VC;Зарегистрировать в УЦ;Зареєструвати в УЦ;vc_register;W
+Сообщение из банка;Сообщение из банка;Повідомлення з банку;refunds.msg.from.bank;W
+VIN code not provide;VIN код не предусмотрен;VIN код не передбачено;paymentOrder_vinCodeNotProvide;W
+Are you sure you want to delete the City;Вы действительно хотите удалить Город;Ви дійсно бажаєте видалити Місто;sureYouWantDeleteCity;W
+List for print is empty;Список для печати документов пуст;Список для друку документів пустий;document.printError.emptyList;W
+Actions;Действия;Дія;rolePermissions_actions;W
+Credits;Кредиты;Кредити;navigation_credits;W
+view Edit Payroll Template;Просмотр / Редактирование Шаблона  Зарплатного отчисления;Перегляд/редагування Шаблону Зарплатного відрахування;paymentOrder_viewEditPayrollTemplate;W
+Session expired;Срок сессии истек;Строк сесії завершився;errorpage420_title;W
+Schedule;Расписание;Розклад;jobs.cron.title;W
+Bank name;Наименование банка;Назва банку;common_bankName;W
+Standing order;Длительные поручения;Регулярні платежі;standing.order.title;W
+Add a new exchange rate type;Добавить новый тип курса валют;Додати новий тип курсу валют;addExchangeRateType;W
+Request view;Просмотр запроса;Перегляд запиту;requestview_title;W
+Full name;Полное название;Повна назва;currency_currencyfullname;W
+Operations with the card block reasons;Действия;Дія;operationsCardBlockReason;W
+Bank;Банк;Банк;bank;W
+Save;Сохранить;Зберегти;common_save;W
+International counterparty;Иностранные контрагенты;Іноземні контрагенти;counterparty_intCounterparties;W
+Repeat;Повторить;Зробити регулярним;paymentOrder_repeat;W
+Head;Заголовок;Назва;news_head;W
+International address. Address;Международный адрес. Адрес;Міжнародна адреса. Адреса;common_addressIntAddress;W
+Payroll;Зарплатное отчисление;Відрахування заробітної плати;domTransfer_payroll;W
+Exchange rates types;Типы курсов валют;Типи курсів валют;currencyExchangeTypes;W
+Calendar status;Статус календаря;Статус календаря;calendarStatus;W
+Sent to RBS;Отправить в банк;Відправити в банк;common.sentToRBS;W
+Deposit name;Название депозита;Назва депозиту;depositName;W
+Payment type;Вид платежа;Вид платежу;paymentType;W
+Incompressible balance;Несжимаемый остаток;Незнижувальний залишок;incompressibleBalance;W
+Customer menu;Меню пользователя;Меню користувача;page_customermenutitle;W
+Are you sure you want to delete the Card status;Вы действительно хотите удалить Статус карт;Ви дійсно бажаєте видалити Статус карт;sureYouWantDeleteCardStatus;W
+Deactivate;Деактивировать;Деактивувати;sessions_deactivate;W
+Contribution type;Тип отчисления;Тип відрахування;paymentOrder_employeeTransferCategory;W
+Create a new KBK;Создать новый КБК;Створити новий КБК;createNewKBK;W
+Signature rules;Правила подписи;Правила підпису;signatureRules;W
+The nominal interest rate;Номинальная ставка вознаграждения;Номінальна ставка винагороди;nominalInterestRate;W
+New phone;Новый телефон;Новий телефон;personal_newPhone;W
+Full name;Полное название;Повна назва;organizationsCreate_fullName;W
+Blocked;Блокирован;Заблокований;customeruser_blocked;W
+Account;Счет;Рахунок;paymentOrder_account;W
+Operation;Операция;Опис;operation;W
+Create new demand;Создать новое заявление;Створити нову заяву;demand_createNewDemand;W
+Are you sure you want to delete the ATM/Branch/Terminal;Вы действительно хотите удалить Банкомат/отделение/терминал;Ви дійсно бажаєте видалити Банкомат / відділення / термінал?;sureYouWantDeleteAtmBranchTerminal;W
+code;Код типа задачи;Код типу задачі;jobs.code;W
+include VAT =;в том числе НДС =;в т.ч. ПДВ;paymentOrder_withVat;W
+Add auth factor;Добавить фактор авторизации;Додати фактор авторизації;authfactor_add;W
+Document date;Дата документа;Дата документу;paymentOrder_documentDate;W
+Password;Пароль;Пароль;login_password;W
+Operations with credit;Действия;Дія;creditOperations;W
+Reset;Сбросить;Скинути;common_reset;W
+Choose File;Выберите файл;Виберіть файл;upload_chooseFile;W
+Purpose;Назначение;Призначення;invoice_paymentPurpouse;W
+Currency;Валюта;Валюта;limit_currency;W
+Cron Schedule;Строка cron;Рядок cron;jobs.schedule;W
+БИК Банка;БИК Банка;BIC Банку;refunds.sender.bik;W
+credit amount from;Сумма зачисления с;Сума зарахування з;accTransfer_creditAmountFrom;W
+Update menu;Обновить меню;Оновити меню;common_updateMenu;W
+Operation with Type;Действия;Дія;demandType_operetionWithType;W
+Organization name;Наименование организации;Назва підприємства;withdraw_org_name;W
+Status;Статус;Статус;invoice_status;W
+Operations with the account;Действия;Дія;common_accountOperations;W
+Quick links;Быстрые ссылки;Швидкі посилання;quickLinks;W
+beneficiary Account;Счет бенифициара;Рахунок бенефеціара;common_benefAccount;W
+Просмотр/редактирование группы констант;Просмотр/редактирование группы констант;Перегляд / Редагування групи констант;global_settings.constants.group.screen.view_edit;W
+Viewing and editing the Region;Просмотр и редактирование Региона;Перегляд і редагування Регіону;viewingEditingRegion;W
+District;Область;Область;district_district;W
+Error while getting data, please reloud page;Произошла ошибка при получении данных с сервера, перегрузите страницу;Виникла помилка при отриманні даних з серверу, перезавантажте сторінку;common_ErrorInGetData;W
+Expiration date;Дата окончания;Дата закінчення;expirationDate;W
+from;от;від;intTransfer_from;W
+Create a new Document status;Создать новый Статус документа;Створити новий Статус документа;createDocStatus;W
+Code group;Код группы типов задач;Код групи типів задач;jobs.codeGroup;W
+Delete category;Удалить категорию;Видалити категорію;CodeCategory_Delete;W
+Value repeat;Значение повторяется;Значення повторюється;paymentOrder_valueRepeat;W
+No data;Нет данных;Відсутні дані;common_noData;W
+Email;Электронная почта;Електронна пошта;common_email;W
+Type Jobs List;Список типов задач;Список типів задач;jobs.TypesList;W
+Short name;Краткое имя;Скорочене ім'я;manager_shortName;W
+Import;Импортировать;Імпортувати;upload_import;W
+Roles;Роли;Ролі;manager_roles;W
+Session timeout;Завершение сессии;Завершення сесії;mainbar_timeoutTitle;W
+Signature  allowed;Подпись разрешена;Підпис дозволено;authfactor_signAllowed;W
+The exchange rate is not actual;Обменный курс не актуален;Курс обміну не актуальний;exchangeRates_notActual;W
+City;Город;Місто;intTransfer_recipientBankCity;W
+Currency operations;Действия;Дія;currency_operations;W
+Are you sure you want to delete the Card unblock reason;Вы действительно хотите удалить Причину разблокировки карты;Ви дійсно бажаєте видалити Причину розблокування карти;sureYouWantDeleteCardUnblockType;W
+Password;Пароль;Пароль;customeruser_password;W
+Day data loading error;Ошибка при загрузке данных дня!;Помилка при завантаження даних дня!;dayDataLoadingError;W
+add New Payroll Template;Создание Шаблона Зарплатного отчисления;Створення Шаблону Зарплатного відрахування;paymentOrder_addNewPayrollTemplate;W
+Loan payments types;Виды платежей по кредитам;Види платежів по кредитах;loanPaymentsTypes;W
+Operation with Type;Действия;Дія;CodeCategory_OperationWithType;W
+Login to;Вход до;Вхід до;sessions_filterto;W
+Purchase course;Курс покупки;Курс купівлі;exchangeRates_coursePurchase;W
+SMS password;Смс пароль;SMS-пароль;login_sms_password;W
+Category code;Код категории;Код категорії;CodeCategory_code;W
+View/edit payroll;Просмотр/редактирование Зарплатного отчисления;Перегляд / Редагування Зарплатного відрахування;paymentOrder_viewEditPayroll;W
+Internet banking for corporate clients;Интернет-банкинг для корпоративных клиентов;Мій Бізнес Online;login_head;W
+Not active;Не активный;Не активний;sessions_notactive;W
+Event date, time;Дата и время совершения действия;Дата і час виконання дії;events_eventdatetime;W
+Regions;Регионы;Регіони;regions;W
+Currency course;Курс валюты;Курс валюти;exchangeRates_course;W
+source field;Источник автозаполнения;Джерело автозаповнення;temp_sourceField;W
+The Card blocking reason already exists;Причина разблокировки карты с таким кодом уже существует;Причина розблокування карти з таким кодом вже існує;cardUnblockReasonAlreadyExists;W
+Amount from;Сумма с;Сума з;domTransfer_amountFrom;W
+Counterparties;Контрагенты;Контрагенти;counterparty_counterparties;W
+Invoicing for payment;Выставление счета на оплату;Виставлення рахунку на сплату;actions_invoicingForPayment;W
+Document: Demand type;Документы:типы заявлений;Документи: типи заяв;demandType_document_typedemand;W
+Create standing order;Создание длительного поручения;Створення довгострокового доручення;standing_order_create;W
+The status has been changed successful!;Статус изменен успешно!;Статус змінено успішно!;statusChangedSuccessful;W
+Файл не может быть обработан ;Файл не может быть обработан ;Файл неможливо обробити;payment.import.error.common;W
+Creating a new deposit;Создание нового депозита;Створення нового депозиту;newDepositCreating;W
+Dictionary: Auth factors;Справочник: Типы многофакторной авторизации;Довідник: Типи багатофакторної авторизації;authfactors_title;W
+Cash transactions;Действия;Дія;exchangeRates_cashTransactions;W
+Password;Пароль;Пароль;authfactorcreate_password;W
+Residency code;Код;Код;senderResidencyCode;W
+Order the statement;Заказать выписку;Замовити виписку;common_orderTheExcerpt;W
+Inbox;Входящие;Вхідні;inbox;W
+Contract date;Дата договора;Дата договору;contractDate;W
+Password expiry date;Срок действия пароля;Строк дії паролю;customeruser_passwordExpiry;W
+Letter types;Типы письма;Типи листа;lettersTypes;W
+Cards types;Виды карт;Види карт;cardTypes;W
+Every;Каждые;Кожні;standing.order.every;W
+Users;Пользователи;Користувачі;navigation_users;W
+Credit type;Вид кредита;Вид кредиту;creditType;W
+Deposit number, the organization name, the organization BIN;№ депозитного договора, Наименование организации, БИН организации;Номер депозитного договору, Назва підприємства, BIN пыдприэмства;depositNumberOrgNameOrgBin;W
+Recivers list Setings;Настроить список получателей;Налаштувати перелік отримувачів;createDemandType_reciversSetings;W
+Outbox;Исходящие;Вихідні;outbox;W
+symbols;символов;символів;common_symbolsForMaxLength;W
+Create Cron String;Создать строку cron;Створити рядок CRON;jobs.createCronString;W
+EDS;ЭЦП;ЕЦП;eds;W
+Page;Страница;Сторінка;grid_page;W
+Country code;Код страны;Код країни;common_countryCode;W
+Date from;Период от;Період від;invoice_date_from;W
+Demand;Заявления;Заяви;navigation_demand;W
+Message;Сообщение;Повідомлення;multicasting_text;W
+Debit;Списание;Списання;accTransfer_debit;W
+Non-cash transactions;Безналичные операции;Безготівкові операції;exchangeRates_nonCashTransactions;W
+The two-symbol code;Двухсимвольный код;Двохсимвольний код;twoSymbolCode;W
+Dictionary: Banks;Справочник: Банки;Довідник: Банки;banks_handbookBanks;W
+Refill deposit;Пополнить депозит;Поповнити депозит;refillDeposit;W
+Operations with the Document type;Действия;Дія;operationsWithDocType;W
+Credit currency;Валюта зачисления;Валюта зарахування;accTransfer_creditCurrency;W
+Filter settings;Настройки фильтра менеджеров;Налаштування фільтру менеджерів;managers_filtertitle;W
+The currency pair;Валютная пара;Валютна пара;exchangeRates_currencyPair;W
+Serial;Серийный номер;Серійний номер;serial;W
+Internet banking;Интернет банкинг;Інтернет банкінг;internetBanking;W
+The page is not found;Страница не найдена;Сторінка не знайдена;notFound_not_found;W
+Payment to budget;Платёж в бюджет;Платіж до бюджету;paymentOrder_budgetPaymentDetail;W
+Purpose;Назначение платежа;Призначення платежу;domTransfer_purpose;W
+to;до;до;TOLowerCase;W
+Finished;Окончание;Завершення;jobs.finished;W
+New account;Новый счет;Новий рахунок;new_account;W
+error;ошибка;Помилка;common_error;W
+Year;Год;Рік;year;W
+Create copy;Создать копию;Створити копію;common_createCopy;W
+Month;За месяц;За місяць;common_month;W
+events selected;события выбрано;Подій обрано;events_X4selected;W
+Export to Excel;Экспорт в Excel;Експорт в Excel;common_exporttoexcel;W
+Edit Demand;Редактировать заявление;Редагувати заяву;demandCreate_EditDemand;W
+International short name;Международное краткое название;Міжнародне скорочене найменування;intShortName;W
+Accrued % amount;Сумма начисленных %;Сума нарахованих %:;amountAccruedPercentage;W
+Add a new exchange rate;Добавить новый курс валют;Додати новий курс валют;addExchangeRate;W
+Edit an exchange rate;Изменить курс валют;Змінати курс валют;editExchangeRate;W
+Operations with the Card unblock reason;Действия;Дія;operationsWithCardUnblockReason;W
+;Создание Шаблона Платежного поручения;Створення Шаблону Платіжного доручення;paymentOrder_addNewOrderTemplate;W
+Cancel search;Отменить поиск;Відмінити пошук;grid_cancelsearch;W
+Activate;Активировать;Активувати;common_activate;W
+1 calendar is selected;1 календарь выбран;1 календар обрано;oneCalendarIsSelected;W
+Kind;Вид;Вид;common_kind;W
+demands cheked;заявлений выбрано;Заяв обрано;demand_demandsChecked;W
+The certificate is missing;Сертификат отсутствует;Сертифікат відсутній;certificate.missing;W
+Agent bank swift;БИК/SWIFT Банка Посредника;BIC/SWIFT Банку Посередника;intTransfer_agentBankSwift;W
+This field must have at least 3 chars!;Это поле должно содержать 3 символа!;Це поле має містити 3 символи!;common_field_atleast3chars;W
+Worng Number Format;Не правильный формат числа;Невірний формат числа;common_WorngNumberFormat;W
+The code must only consist of digits;Код должен состоять только из цифр;Код має складатись лише із цифр;onlyDigitsCode;W
+Card number;Номер карты;Номер карти;cardNumber;W
+System modules;Модули системы;Модулі системи;systemModules;W
+Account;Счет;Рахунок;paymentOrder_recipientAccount;W
+This currency is not available to pay, contact the bank support;Данная валюта недоступна для оплаты, обратитесь в службу поддержки банка;Ця валюта недотупна для сплати, зверніться до банку;intTransfer_errorCurrencyUnavailable;W
+Course type;Тип курса;Тип курсу;exchangeRates_courseType;W
+Geoposition;Геопозиция;Геопозиція;geoposition;W
+Current password;Текущий пароль;Поточний пароль;personal_currentPass;W
+City (Agent bank);Город (Банка Посредника);Місто (Банку Посереднику);intTransfer_agentBankCity;W
+BIK nat.;БИК национальный;BIC національний;bikNat;W
+1 user selected;1 пользователь выбран;1 користувача обрано;customeruser_1selected;W
+Accounts;Счета;Рахунки;navigation_accounts;W
+Creating a Card status;Создание Статуса карт;Створення статусу карт;creatingCardStatus;W
+Credit number, the organization name, the organization BIN;№ кредитного договора, Наименование организации, БИН организации;Номер кредитного договору, Назва підприємства, BIN пыдприэмства;creditNumberOrgNameOrgBin;W
+Requests log;Журнал запросов;Журнал запитів;requests_title;W
+Exchange rates are not known;Курс не известен;Курс невідомий;exchangeRates_exchangeRatesAreNotKnown;W
+Demands Constructor;Конструктор заявлений;Конструктор заявок;navigation_demand_constructor;W
+This field must contains only digits;Это поле должно содержать только цифры!;Це поле має містити лише цифри!;common_field_onlydigits;W
+Account number;Номер счета;Номер рахунку;accountNumber;W
+Loan amount;Сумма займа;Сума займу;loanAmount;W
+Method;Метод;Метод;requests_method;W
+Creating a System module;Создание Модуля системы;Створення модуля системи;creatingSystemModule;W
+Value;Значение;Значення;global_settings.constants.value;W
+Individual exchange rate;Индивидуальный курс;Індивідуальний курс;paymentOrder_individualExchangeRate;W
+Information from payer to recipient;Информация отправителя получателю;Інформація відправника отримувачу;intTransfer_recipientInfo;W
+ ; ;;common_blank;W
+Digital code;Цифровой код;Цифровий код;currency_field_digitcode;W
+This field must have at least 3 digits!;Это поле должно содержать 3 цифры!;Це поле має містити 3 цифри!;common_field_atleast3digits;W
+Credit limit;Кредитный лимит;Ліміт;creditLimit;W
+Login;Логин;Логін;customeruser_login;W
+Sessions limit;Количество сессий;Кількість сесій;customeruser_sessionsLimit;W
+Creating new district;Создание новой области;Створення нової області;districts_create;W
+beneficiary Name;наименование бенефициара;Назва бенефеціара;common_benefName;W
+Viewing/Editing the Card status;Просмотр и редактирование Статуса карт;Перегляд і редагування Статусу карт;viewingEditingCardsStatus;W
+Demands Type;Типы Заявлений;Типи заяв;navigation_demandType;W
+Birth date;Дата рождения;Дата народження;paymentOrder_birthDate;W
+Role name;Название роли;Назва ролі;role_name;W
+Filter setting;Настройки фильтра событий;Налаштування фільтру подій;events_filtertitle;W
+fields Reference Field;Поле справочника;Поле довідника;temp_fieldsReferenceField;W
+Bank response;Сообщение из банка;Повідомлення з банку;paymentOrder_bankResponse;W
+Account;Счет;Рахунок;signingrules_account;W
+change_custom_field;Изменить текущее поле типа заявления;Змінити поточне поле типу заяви;change_custom_field;W
+Receiver;Получатель;Отримувач;standing.order.receiver;W
+The Letter type with this code already exists;Тип письма с таким кодом уже существует;Тип листа з таким кодом вже існує;letterTypeWithSameCodeAlreadyExists;W
+Curent demand saved;Текущее заявление сохранено;Поточну заяву збережено;demandCreate_Curent_demand_saved;W
+Category;Категория;Категорія;demandType_category;W
+Account;Счет;Рахунок;common_account;W
+Employee details;Детали сотрудника;Деталі співробітника;employee_detailsEmployee;W
+Valid to;Действует по;Діє по;authfactor_to;W
+credit amount to;Сумма зачисления по;Сума зарахування по;accTransfer_creditAmountTo;W
+Manager;Менеджер;Менеджер;paymentOrder_manager;W
+Transaction details;Детали транзакции;Деталі транзакції;transactionDetails;W
+Вы были удалены администратором банка;Вы были удалены администратором банка;Ви були видалені адміністратором банку;errorpage418_title;W
+This bank does not exist;Такой банк не существует;Такий банк не існує;paymentOrder_valid_bankNotExist;W
+Budget classification code (BCC);Код бюджетной классификации(КБК);Код бюджетної класифікації;budgetClassificationCode;W
+1 symbol;1 символ;1 символ;common_field_1symbol;W
+The request for re-issue of the certificate has been created. Expect the manager's response;Запрос на перевыпуск сертификата создан. Ожидайте ответ менеджера;Запит на перевірку сертифікатів створено. Очікуйте відповідь менеджера ;certReqCreated;W
+Manager initials;ФИО менеджера;ПІБ менеджера;managerInitials;W
+Save And Go to List;Сохранить и перейти в список;Зберегти та перейти до списку;createDemandType_saveAndGo;W
+Viewing/Editing the Bank;Просмотр и редактирование банка;Пеегляд і редагування банку;viewingEditingBank;W
+Name;Название;Назва;common_name;W
+The base currency;Базовая валюта;Базова валюта ;exchangeRates_baseCurrency;W
+options default;Значение по умолчанию;Значення за умовчуванням;options_default;W
+Dictionaries;Справочники;Довідники;navigation_commonHandbooks;W
+View;Просмотр;Перегляд;common_view;W
+First value;Первое значение;Перше значення;firstValue;W
+End state;Конечное состояние;Кінцевий статус;documentHistory_endState;W
+Days with a special Schedule;Дни со специальным графиком;Дні зі спеціальним графіком;daysWithASpecialSchedule;W
+Contract audit date;Дата учетного номера контракта;Дата облікового номера контракту;common_contractAuditDate;W
+Search;Поиск;Пошук;common_search;W
+Create a new City;Создать новый Город;Створити новий Город;createNewCity;W
+Account;Счет;Рахунок;invoice_account;W
+Sale course;Курс продажи;Курс продажу;exchangeRates_courseSale;W
+Yes;Да;Так;boolean_true;W
+Creating/Processing date;Дата создания/обработки;Дата транзакції;dateCreateProcessing;W
+Address;Адрес;Адреса;common_address;W
+Status;Статус;Статус;sessions_isactive;W
+The authority will be replaced after;Полномочия сменятся через;Повноваження зміняться через;mainbar_authorityChanges;W
+Standing orders;Длительные поручения;Регулярні платежі;navigation_standingOrders;W
+Regular payments;Регулярные платежи;Регулярні платежі;navigation_standingOrders_person;W
+Status;Признак блокировки;Ознака блокування;organization.grid.column.status;W
+External system;Внешняя система;Зовнішня система;externalSystem;W
+Employees list empty;Список сотрудников не заполнен;Список співробітників не заповнений;paymentOrder_employeesListEmpty;W
+Customer menu;Меню пользователя;Меню користувача;navigation_menutree_customer;W
+Standing Orders filter settings;Настройки фильтра длительных поручений;Налаштування фільтру довгострокових розпоряджень;standing_order_filter;W
+Login from;Вход после;Вхід після;sessions_filterfrom;W
+Channel (Web, mob);Канал обслуживания (Web, mob);Канал обслуговування (WEB,MOB);events_servicechannel;W
+BIN/IIN;ИИН/БИН;ІПН/БІН;paymentOrder_taxCode;W
+create key for translation;ключ для перевода;Ключ для переводу;demandType_createkeyForTranslate;W
+Description;Содержание;Зміст;news_desc;W
+Viewing/Editing;Просмотр/редактирование;Перегляд / Редагування;viewingEditingDeposit;W
+Read;Прочитано;Прочитано;read;W
+Organizations;Организации;Організації;organizations_organizations;W
+Events history;История действий;Історія подій;navigation_events;W
+View account transfer;Просмотр Перевода между своими счетами / Конвертации валюты;Перегляд Переводу між своїми рахунками / Конвертації валюти;paymentOrder_viewAccountTransfer;W
+Operations;Действия;Дія;exchangeRates_operations;W
+Multifactor authentication types;Типы многофакторной авторизации;Типи багатофакторної авторизації;authFactorsTypes;W
+Account transfer/currency exchange;Перевод между своими счетами/Конвертация валюты;Платежі між власними рахунками/Конвертація валюти;accTransfer_accountTransfer;W
+Account transfer, currency exchange;Перевод между своими счетами, Конвертация валюты;Платежі між власними рахунками, Конвертація валюти;accTransfer_accountTransfer1;W
+Document type;Тип документа;Тип документу;signingrules_docType;W
+Update the day;Обновить день;Оновити день;updateDay;W
+Account name;Название счёта;Назва рахунку;accountName;W
+Work;Рабочие;Робочі;common_workDocument;W
+Credit currency;Валюта зачисления;Валюта зарахування;paymentOrder_creditCurrency;W
+Name;Наименование;Назва;demandType_name;W
+Account opening date;Дата открытия счёта;дата відкриття рахунку;account_openingDate;W
+Add limit;Добавление лимита;Додавання ліміту;limit_add;W
+delete impossible, bcause exist linked data;Удаление невозможно из-за свзанных данных;Видалення еможливе через наявність пов'язаних даних;common_deleteimpossible;W
+Theme;Тема;Тема;multicasting_theme;W
+Errors:;Ошибки:;Помилки:;common_hasError;W
+Dictionary;Справочник;Довідник;temp_sourceCodeField;W
+Card type;Вид карты;Вид карти;cardType;W
+Director;Руководитель;Керівник;CompanyPerson_Director;W
+ISO code;Код ISO;Код ISO;currency_ISOcode;W
+Group;Группа получателей;Група отримувачів;multicasting_group;W
+Create a new Card type;Создать новый Вид карт;Створити новий Вид карт;createCardType;W
+Limit;Лимит;Ліміт;signingrules_limit;W
+Document statuses;Статусы документа;Статус документу;documentStatuses;W
+Reason;Причина;Причини;reason;W
+Can attache file;Возможность прикреплять файл;Можливість прикріпляти файл;Can_attache_file;W
+Max Execution Time;Максимальное время работы( в сек);Максимальний час роботи ( в сек.);jobs.maxExecutionTime;W
+Types;Типы;Типи;authfactorcreate_types;W
+Serial number;Серийный номер;Серійний номер;companyperson_certificate_sn;W
+Amount;Сумма;Сума;limit_amount;W
+Second value;Второе значение;Друге значення;secondValue;W
+Constant groups;Группы констант;Групи констант;global_settings.constants.group.screen.list;W
+Conversion;Конвертация;Конвертация;navigation_conversion;W
+This code already exist;Такой код не существует;Такий код не існує;paymentOrder_valid_codeNotExist;W
+Save Template;Сохранить шаблон;Зберегти шаблон;paymentOrder_updateTemplate;W
+Brought forward balance;Входящий остаток;Вхідний залишок;broughtForwardBalance;W
+incorrect Password mask;Пароль не соответствует маске;Пароль не відповідає масці;common_incorrectPass;W
+Notification receivers;Получатели  уведомления;Отримувачі повідомлення;Notification_receivers;W
+Block requisites: Payment details;Блок реквизитов: Детали платежа;Блок реквізитів: деталі платежу;paymentDetailsBlock;W
+Valid to;Действует по;Діє по;companyperson_certificate_to;W
+No;Нет;Ні;boolean_false;W
+Счет Отправителя;Счет Отправителя;Рахунок відправника;refunds.sender.acc;W
+Account;Счет;Рахунок;paymentOrder_payerAccount;W
+Fee details;Детали комисии;Деталі комісії;intTransfer_feeDetail;W
+Invoiced bills for payment;Invoiced bills for payment;Invoiced bills for payment;invoiced.title;W
+to;До;До;common_to;W
+Social contribution refund;Возврат по социальному отчислению;Повернення по соціальному відрахуванню;refunds.socialcontribution;W
+Card unblocking reason;Причина разблокировки карты;Причина розблокування карти;cardUnblockingReason;W
+KBE;КБЕ;КБЕ;paymentOrder_recipientResidencyCode;W
+Hide;Скрыть;Приховати;common_hide;W
+The day is updated!;День обновлён!;День оновлено!;dayIsUpdated;W
+New password;Новый пароль;Новий пароль;personal_newPass;W
+rate to;Курс исполнения по;Курс виконання по;accTransfer_rateTo;W
+Chief Accountant;Главный Бухгалтер;Головний Бухгалтер;CompanyPerson_ChiefAccountant;W
+Balance of principal in the loan currency;Остаток основного долга в валюте займа;Залишок основного боргу в валюті займу;balanceLoanCurrency;W
+Manager;Менеджер;Менеджер;common_manager;W
+Payers name;Наименование плательщика;Назва платника;domTransfer_payerName;W
+Name;Имя;Ім'я;login_name;W
+Confirm;Подтвердить;Підтвердити;common_confirm;W
+Calendars;Календари;Календарі;calendars;W
+Dictionary: Calendars;Справочник: Календари;Довідник: Календарі;handbookCalendars;W
+This field must have at least 1 char!;Это поле должно содержать 1 символ!;Це поле має містити 1 символ!;common_field_atleast1char;W
+Dictionary: Payment purpose;Справочник: Назначение платежа;Довідник: Призначення платежу;paymentOrder_handbookPaymentPurpose;W
+ABS number;Номер АБС;Номер АБС;AbsNumber;W
+Change phone;Изменить телефон;Змінити телефон;personal_changePhone;W
+Parameters;Параметры;Параметри;jobs.parameter.title;W
+Last update time;Дата последнего обновления курсов;Дата останнього оновлення курсів;exchangeRates_lastUpdDateTime;W
+Expiry;Действует до;Діє по;sessions_expiry;W
+BIN/TAX;БИН/ИИН;БІН/ІПН;refunds.tax.code;W
+Date to;Дата по;Дата по;common_periodTo;W
+The card block reason already exists;Причина блокировки карты с таким кодом уже существует;Причина блокування карти з таким кодом вже існує;cardBlockReasonExists;W
+Social requisites;Реквизиты - Социальные отчисления;Реквізити - Соціальні відрахування;transferRequisites_socialRequisites;W
+News;Новости;Новини;navigation_news;W
+Multiple values from the dictionary;Несколько значений из справочника;Декілька значень із довідника;global_settings.constants.handbook_multi_value;W
+ATMs/Branches/Terminals;Банкоматы/отделения/терминалы;Банкомати / Відділення / Термінали;atmBranchesTerminals;W
+Length should be 20 characters.;Длина должна составлять 20 символов.;Довжина має бути 20 символів;paymentOrder_valid_20chars;W
+Update;Обновить;Оновити;common_update;W
+Changing the purpose of payment;Изменение назначения платежа;Змінити призначення платежу;paymentOrder_changingThePurpose;W
+MFO;МФО банка;МФО Банку;common_bankCode;W
+Sync;Синхронизировать;Синхронізувати;sync;W
+Change name;Изменить название;Змінити назву;changeName;W
+Notification term;Дней до события;Днів до події;notification_period;W
+Print;Печатать;Друкувати;common_Print;W
+Region;Регион;Регіон;common_region;W
+Operations with the System module;Действия;Дія;operationsWithSystemModule;W
+Fee account;Счет взимания комиссии;Рахунок утримання комісії;intTransfer_feeAccount;W
+View and edit auth factors;Просмотр и редактирование типов многофакторной авторизации;Перегляд і редагування типів багатофакторної авторизації;authfactoredit_title;W
+Reason;Причина отзыва;Причина відклику;withdraw_reason;W
+Middle name;Отчество;По-батькові;paymentOrder_middleName;W
+Customer initials;ФИО пользователя;ПІБ користувача;customerInitials;W
+Filter settings;Настройки фильтра;Налаштування фільтру;filterSettings;W
+Demand Print;Печать заявления;Друк заяви;demandCreate_print;W
+Creating a Document status;Создание Статуса документа;Створення Статусу документу;creatingDocStatus;W
+Operations;Операции;Операції;common_operations;W
+Sign;Подписать;Підписати;common_sign;W
+View and edit manager;Просмотр и редактирование данных менеджера;Перегляд і редагування даних менеджера;manager_editor_title;W
+All;Все;Всі;global_settings.constants.group.all;W
+The Document status with the same code already exists;Статус документа с таким кодом уже существует;Статус документу з таким кодом вже існує;docStatusWithSameCodeAlreadyExists;W
+Bank name;Наименование Банка;Назва Банку;transferRequisites_recipientBankName;W
+Edit;Редактировать;Редагувати;common_edit;W
+Card replenishment;Пополнение карты;Поповнення карти;cardReplenishment;W
+International name;Интернациональное название;Міжнародна назва;district_intName;W
+The day is saved!;День сохранён!;День збережено;dayIsSaved;W
+Executor name;Ф.И.О. Пользователя;П.І.Б. користувача;events_executorname;W
+Working day;Рабочий день;Робочий день;DayResource.WorkingВay;W
+User;Пользователь;Користувач;customerUser_user;W
+Deposit type;Вид депозита;Вид депозиту;depositType;W
+Dictionary: Currency;Справочник: Валюта;Довідник: Валюта;currency_handBooktitle;W
+KOD;Код;Код;common_code;W
+calendars selected;календарей выбрано;Календарів обрано;calendarsSelected;W
+Operations with the Letter type;Действия;Дія;operationsWithLetterType;W
+Confirmation new password;Повтор нового пароля;Повтор нового паролю;personal_confirmNewPass;W
+Product name;Название продукта;Назва продукту;productName;W
+Amount to;Сумма до;Сума до;invoice_amount_to;W
+Schema;Схема;Схема;signingrules_schema;W
+Amount to;Сумма по;Сума по;domTransfer_amountTo;W
+Create a new Card unblock reason;Создать новую Причину разблокировки карты;Створити нову Причину розблокування карти;createCardUnblockReason;W
+Exposed orders;Выставленные мной счета;Виставлені мною рахунки;exposedorder_name;W
+Quick Link;Быстрая ссылка;Швидке посилання;quick_link;W
+Fax;Факс;Факс;fax;W
+Jobs;Задачи;Задачі;navigation_jobs;W
+Manager registration;Регистрация нового менеджера;Реєстрація нового менеджера;manager_new_title;W
+Address;Адрес;Адреса;intTransfer_recipientBankAddress;W
+Error. Digital Signature is not valid;Ошибка. Цифровая подпись не прошла проверку!;Помилка. Цифровий підпис не пройшов перевірку!;docSigning_errorSignatureInvalid;W
+Category Demands;Категории заявлений;Категорії заяв;navigation_labelReference;W
+Viewing and editing the country;Просмотр и редактирование страны;Перегляд і редагування країни;viewingEditingCountry;W
+Country;Страна;Країна;common_country;W
+This field should not exceed 500 characters!;Наименование не должно превышать 500 символов;Назва не повинна перевищувати 500 символів;nameNoMore500Symbols;W
+Currency transfer/conversion;Перевод/конвертация валюты;Платіж/конвертація валюти;actions_currencyTransferConversion;W
+Request for early repayment;Заявка на досрочное погашение кредита;Заявка на дострокове погашення кредиту;actions_earlyRepaymentOrder;W
+User type;Тип пользователя;Тип користувача;sessions_usertype;W
+Date of repeat;Дата повторения;Дата виконання;standing.order.standingDate;W
+International address. Post zip;Международный адрес. Почтовый индекс;Міжнародна адреса. Поштовий індекс;common_addressIntZip;W
+View pension contribution;Просмотр Пенсионноого отчисления;Перегляд Пенсійного відрахування;paymentOrder_viewPensionContribution;W
+Common balance;Общий остаток;Загальний залишок;common_balance;W
+Редактировать;Редактировать;Редагувати;organization.grid.change;W
+Активен;Активен;Активний;organization.grid.active;W
+Заблокирован;Заблокирован;Заблокований;organization.grid.blocked;W
+Calculate Vat;Рассчитать НДС;Розрахувати ПДВ;paymentOrder_calculateVat;W
+Viewing/Editing the Card blocking reason;Просмотр и редактирование Причины блокировки карты;Перегляд і редагування Причини блокування карти;viewingEditingCardBlockReason;W
+Subject DN;Владелец (DN);Власник (DN);companyperson_certificate_subjectDN;W
+Sessions;Сессии пользователей;Сесії користувачів;navigation_sessions;W
+Invalid format;Неверный формат;Невірний формат;paymentOrder_valid_wrongFormat;W
+Add authorized person;Добавить уполномоченное лицо;Додати уповноважену особу;companyPersons_add;W
+Date;Дата и время;Дата і час;documentHistory_date;W
+Credit name;Название кредита;Назва кредиту;creditName;W
+Deactivate;Заблокировать;Заблокувати;common_deactivate;W
+Number;Номер;Номер;common_number;W
+Viewing the exchange rate;Просмотр Курсов валют;Перегляд курсів валют;exchangeRates_view;W
+publish;Опубликовать;Опублікувати;createDemandType_publish;W
+Cashless cross course;Кросс-курс безналичный;крос-курс безготівковий;exchangeRates_cross;W
+Debts repayment account;Счет погашения задолженности;Рахунок погашення заборгованості;debtsRepaymentAccount;W
+SMS;SMS;SMS;authfactorcreate_SMS;W
+Demand filter settings;Настройки фильтра заявлений;Налаштування фільтру заяв;demand_filter;W
+Creating a City;Создание Города;Створення міста;creatingCity;W
+Chief accountant;Гл. бухгалтер;Гол.бухгалтер;paymentOrder_payerChiefAccountant;W
+Correspondent bank account;Корреспондентский счёт банка;Кореспондуючий рахунок банку;banks_correspondentBankAccount;W
+Contract date;Дата контракта;Дата контракту;common_contractDate;W
+Login after;Вход с;Вхід з;companyperson_validfrom;W
+Agent bank name;Наименование Банка Посредника;Назва Банку Посередника;intTransfer_agentBankName;W
+Blocked;Блокирован;Заблокований;common_blocked;W
+Client data;Клиентские данные;Клієнтські дані;clientData;W
+All users selected;Все пользователи выбраны;Всі користувачі обрані;customeruser_allselected;W
+OK;Применить;Застосувати;common_ok;W
+Operations with the Card type;Действия;Дія;operationsWithCardType;W
+users selected;пользователя выбрано;Користувача обрано;customeruser_X4selected;W
+Force password change;Сменить пароль;Змінити пароль;customeruser_forcePasswordChange;W
+Fix amount;Зафиксировать сумму;Зафіксувати суму;fix_amount;W
+Updating error. Is it a duplicate?;Ошибка при обновлении. Возможно это дубликат?;Помилка при оновленні. Можливо це дублікат?;updatingCalendarError;W
+Cannot make certificate request to the VC;Ошибка при запросе на Удостоверяющий Центр;Помилка при запиті до Центру підтвердження;vcReqError;W
+Counterparty bank requisites;Реквизиты Банка контрагента;Реквізити Банку контрагента;counterparty_bankRequisites;W
+Events to;События до;Події до;events_eventsto;W
+Viewing and editing the Notification type;Просмотр и редактирование типа уведомления;Перегляд і редагування типу повідомлення;viewingEditingNotificationType;W
+Payroll refund;Возврат по зарплатному отчислению;Повернення по зарплатному відрахуванню;refunds.payroll;W
+Версия броузера;Версия броузера;Версія браузера;events_browser;W
+Details / Edit;Просмотр деталей / редактировать;Перегляд  деталей / редагувати;common_detailsEdit;W
+Delivery Point;Точка доставки;Адреса доставки;demandType_delivery;W
+Sender's name or tax code;Наименование или ИИН/БИН организации отправителя;Назва або ІПН/БІН підприємства відправника;refunds.filter.sender;W
+Permissions;Настройка доступа;Налаштування доступу;navigation_permissions;W
+Create new category;Создать новую категорию;Створити нову категорію;CodeCategory_createNewCategory;W
+User type;Тип пользователя;Тип користувача;events_usertype;W
+Include VAT (12%);C НДС (12%);C НДС (12%);paymentOrder_vat12;W
+The card blocking history;История блокировок карты;Історія блокувань карти;cardBlockingHistory;W
+View/Edit Social Template;Просмотр/Редактирование Шаблона  Социального отчисления;Перегляд / Редагування Шаблону Соціального відрахування;paymentOrder_viewEditSocialTemplate;W
+Bank account;Кор. счет Банка;Кор.рахунок Банку;counterparty_bankAccount;W
+Code VO;Код VO;Код VO;intTransfer_codeVo;W
+Viewwing and editing Card Type;Просмотр и редактирование Вида карт;Перегляд і редагування Вида карт;viewingAndEditingCardType;W
+Synchronized successful!;Синхронизировано успешно!;Синхронізовано успішно!;syncSuccessful;W
+Exit;Выход;Вихід;login_exit;W
+View International transfer;Просмотр международного перевода валюты;Перегляд міжнародного переводу валюти;intTransfer_view;W
+Operations;Действия;Дія;common_depositOperations;W
+System Job;Задачи;Завдання;system_job;W
+Start date;Начиная с даты;Починаючи з дати;standing.order.from.date;W
+Filter settings;Настройки фильтра пользователей;Налаштування фільтру користувачів;customerUser_filtertitle;W
+Jobs history;История по задачам;Історія задач;navigation_jobs_history;W
+Filter settings;Настройки фильтра;Налаштування фільтру;common.filter.settings;W
+Wrong code;Неправильный код;Невірний код;paymentOrder_valid_wrongCode;W
+Receiver's name or tax code;Наименование или ИИН/БИН организации получателя;Назва або ІПН/БІН підприємства отримувача;refunds.filter.receiver;W
+Receivers account;Счет получателя;Рахунок отримувача;domTransfer_receiverAccount;W
+invoice date;Дата инвойса;Дата інвойсу;intTransfer_invoiceDate;W
+Edit authorized preson:;Редактирование параметров уполномоченного лица:;Редагування параметрів уповноваженої особи;companyPersonEdit_title;W
+Create International transfer;Создать международный перевод валюты;Створити міжнародний перевод валюти;intTransfer_create;W
+в строке;в строке;в рядку;payment.import.result.document.line.number;W
+Base document number;№ основного документа;№ основного документу;withdraw_doc_num;W
+Managers;Менеджеры;Менеджери;organizations_managers;W
+In processing;В процессе обработки;В процесі обробки ;common_inProcessing;W
+Sign right;Признак права подписи от имени банка;Ознака права підпису від імені банку;manager_isBankSign;W
+KPP;КПП;КПП;intTransfer_recipientKpp;W
+Import messages;Сообщения импорта;Повідомлення імпорту;upload_documentForUpload;W
+from;От;Від;common_from;W
+Managers list;Список менеджеров;Список менеджерів;managers_title;W
+Follow;Важен;Важлилий;signingrules_inorder;W
+Comment;Комментарий;Коментар;events_comment;W
+Creating a Card Type;Создание Вида карт;Створення виду карт;creatingCardType;W
+Are you sure you want to delete the Document status;Вы действительно хотите удалить Статус документа;Ви дійсно бажаєте видалити Статус документу;sureYouWantDeleteDocStatus;W
+Post address;Почтовый адрес;Поштова адреса;postAddress;W
+Account Details;Детали счёта;Деталі рахунку;common_accountDetails;W
+Change email;Изменить email;Змінити e-mail;personal_changeEmail;W
+Account status;Статус счёта;Статус звіту;accountStatus;W
+Invalid_email;не правильный email;Невірний e-mail;common_Invalid_email;W
+Payer's bank;Банк плательщика;Банк Платника;payersBank;W
+Onset of action;Начало действия;Початок дії;exchangeRates_start;W
+This is mandatory field !;Обязательное поле!;Обов'язкове поле!;common_mandatory_field;W
+Clean;Очистить;Очистити;common_clean;W
+Block requisites: Recipient;Блок реквизитов: Получатель;Блок реквізитів: Отримувач;recipientDetailsBlock;W
+Document Number;Номер документа;Номер документу;common_documentNumber;W
+This field should not exceed 64 characters!;Это поле не должно превышать 64 символа!;Це поле не може перевищувати 64 символи!;noMore64Symbols;W
+Clear;Очистить;Очистити;common_clear;W
+Transaction type;Тип транзакции;Тип транзакції;transactionType;W
+Valid from;Действует с;Діє з;companyperson_certificate_from;W
+Viewing/Editing the Document status;Просмотр и редактирование Статуса документа;Перегляд і редагування Статусу документу;viewingEditingDocStatus;W
+Create new payroll;Создание Зарплатного отчисления;Створення Зарплатного відрахування;paymentOrder_addNewPayroll;W
+ИИН/БИН получателя;ИИН/БИН получателя;ІПН/БІН отримувача;invoice.receiver.bin;W
+Croup Job List;Список Групп задач;Список груп задач;jobs.CroupList;W
+Wrong file type. Available:;Неверный тип файла. Допустимы:;Невірний тип файлу. Припустимі:;common_WrongFileType;W
+Managers;Менеджеры;Менеджери;navigation_managers;W
+Branch;Филиал;Відділення;common_branch;W
+Local banks;Локальные банки;Локальні банки;navigation_localBanks;W
+Warning;Предупреждение;Попередження;warning;W
+Residency code;КБЕ Получателя;КБЕ Отримувача;transferRequisites_recipientResidencyCode;W
+Country code;Код страны;Код країни;intTransfer_recipientBankCountryCode;W
+Add;Добавить;Додати ;paymentOrder_add;W
+Id;ИД;ID;common_id;W
+User action;Действие пользователя;Дія користувача;events_useraction;W
+Account type;Вид счёта;Вид рахунку;accountType;W
+Job Type;Название типа задачи;Назва типу задачі;jobs.jobType;W
+Change password;Смена пароля;Зміна паролю;changepassword__title;W
+Country;Страна;Країна;intTransfer_recipientBankCountry;W
+Change password;Смена пароля;Зміна паролю;customeruser_changepassword;W
+Exchange rates;Курсы валют;Курси валют;exchangeRates_exchangeRates;W
+Request URL;Request URL;Request URL;requests_url;W
+Allowed roles;Разрешенные роли;Дозволені ролі;authfactor_rolesAllowed;W
+Agent bank requisites;Реквизиты Банка посредника;Реквізити Банку посередника;counterparty_agentRequisites;W
+Signature rules;Правила подписи документов;Правила підпису документів;signingrules_title;W
+Add a new calendar;Добавить новый календарь;Додати новий календар;addNewCalendar;W
+Результат импорта документа №;Результат импорта документа №;Результат імпорту документа №;payment.import.result.document;W
+User roles;Роли пользователей;Ролі користувачів;roles_title;W
+View/edit constant;Просмотр/редактирование константы;Перегляд / Редагування константи;global_settings.constants.screen.view_edit;W
+Client;Клиент;Клієнт;client;W
+Invoice;Выставленный мне счет;Виставлений мені рахунок;intTransfer_invoice;W
+Release date;Дата выпуска;Дата випуску;releaseDate;W
+Search;Поиск;Пошук;grid_search;W
+Email;Email;Email;customeruser_email;W
+Amount in transaction currency;Сумма в валюте транзакции;Сума холда;amountInTransactionCurrency;W
+field name;имя поля;Ім'я поля;field_name;W
+Code;БИН/ИИН Получателя;БІН/ІПН Отримувача;transferRequisites_recipientCode;W
+Limits;Лимиты;Ліміти;companyPersonEdit_limittabTitle;W
+Description;Название;Назва;notification_description;W
+Working with OTP tokens;Работа с ОТП токенами;Робота з OTP-токенами;workingWithOtpTokens;W
+BIK;БИК;BIC;bik;W
+Create a new Card product type;Создать новый Вид карточных продуктов;Створити новий Вид карточних продуктів;createNewCardProductType;W
+Create new social contribution;Создание Социального отчисления;Створення Соціального відрахування;paymentOrder_addNewSocialContribution;W
+Subdivision;Подразделение;Підрозділ;managerView_subdivision;W
+All demand checked;Все заявления выбраны;Всі заяви обрані;demand_allDemandChecked;W
+Amount to;Сумма до;Сума до;signingrules_amountTo;W
+Sender;Наименование;Назва;senderName;W
+Users roles;Роли пользователей;Ролі користувачів;navigation_usersroles;W
+Status;Статус;Статус;events_status;W
+Beneficiary bank details;Банк Получателя;Банк отримувача;intTransfer_beneficiaryBankDetails;W
+OTP token;ОТП пароль;ОТП пароль;auth.opt.token;W
+Signature Level;Тип подписи;Тип підпису;companyperson_signLevel;W
+Create a new Document type;Создать новый Тип документа;Створити новий Тип документа;createDocType;W
+International bank BIK;БИК банка интернациональный;BIC банку інтернаціональний;banks_bikBankIntNat;W
+Action;Действие;Дія;events_action;W
+unpublish;Отменить публикацию;Відмінити публікацію;createDemandType_unpublish;W
+Bank code;БИК Банка Получателя;BIC банку Отримувача;transferRequisites_recipientBankCode;W
+Related Button;Связанные кнопка;Повязана кнопка;CustomRequestType_relatedButton;W
+Create;Создать;Створити;common_create;W
+This field should not exceed 20 characters!;Это поле не должно превышать 20 символа!;Це поле не може перевищувати 20 символів!;noMore20Symbols;W
+Required Field;Обязательность заполнения;Обов'язковість заповнення;requiredField;W
+Deleted;Удален;Видалений;customeruser_deleted;W
+Status published : true;Статус публикации: опубликовано;Статус публікації: опубліковано;createDemandType_statusPublishedTrue;W
+Withdraw;Отозвать;Відкликати;common_withdraw;W
+Bank name;Наименование;Назва;paymentOrder_recipientBankName;W
+The Document type with the same code already exists;Тип документа с таким кодом уже существует;Тип документу з таким кодом уже існує;docTypeWithSameCodeAlreadyExists;W
+type name;Название типа задачи;Назва типу задачі;jobs.type_name;W
+Name;Название;Назва;currency_currencyname;W
+Operations with bank;Действия;Дія;operationsWithBank;W
+Interest rate;Процентная ставка;Відсоткова ставка;interestRate;W
+KPP;КПП;КПП;counterparty_kpp;W
+Active;Активный;Активний;sessions_active;W
+Creating payment purpose;Создание назначения платежа;Створення призначення платежу;paymentOrder_createPaymentPurpose;W
+Attach file;Прикрепить файл;Прикріпити файл;intTransfer_uploadFile;W
+Date from;Дата с;Дата з;common_periodFrom;W
+Sign;Подписать;Підписати;common.sign;W
+Login;Логин;Логін;login_login;W
+The organization is not defined;Организация не определена;Підприємство не визначене;common_orgIsNotDefined;W
+Add role;Добавить роль;Додати роль;role_add;W
+Pay;Оплатить;Сплатити;action_pay;W
+Log in;Войти;Увійти;login_to_enter;W
+Effective interest rate;Эффективная процентная ставка;Ефективна відсоткова ставка;effectiveInterestRate;W
+Card block/unblock;Блокирование/Разблокирование карты;Блокування/Розблокування карти;cardBlockUnblock;W
+Users list;Список пользователей;Список користувачів;customeruser_userslist;W
+View/edit social contribution;Просмотр/редактирование Социального отчисления;Перегляд / Редагування Соціального відрахування;paymentOrder_viewEditSocialContribution;W
+No exchange rate types;Типы курсов валют отсутствуют;Типи курсів валют відсутні;noExchangeRateTypes;W
+Get;Получить;Отримати;common_get;W
+Account managers;Менеджеры счёта;Менеджери рахунку;common_accountManagers;W
+Card status;Статус карты;Статус карти;cardStatus;W
+Country (Agent bank);Страна (Банка Посредника);Країна (Банка Посередника);intTransfer_agentBankCountry;W
+A point type;Тип точки;Тип крапки;pointType;W
+Details;Просмотр деталей;Перегляд  деталей;common_details;W
+Authorized persons;Уполномоченные лица;Уповноважені особи;companyPersons_title;W
+Response code;Код ответа;Код відповіді;requests_responseCode;W
+Mail;Почта;Пошта;navigation_mail;W
+Operations with cards;Действия;Дія;cardsOperations;W
+Edit role;Редактирование роли;Редагування ролі;role_editTitle;W
+Create role;Создание роли;Створення ролі;role_createTitle;W
+Quick Links;Быстрые ссылки;Швидкі посилання;quick_links;W
+Display keyboard;Показать клавиатуру;Відобразити клавіатуру;login_display_keyboard;W
+Issuer DN;Издатель (DN);Видавник (DN);companyperson_certificate_issuerDN;W
+Massage;Сообщение;Повідомлення;documentHistory_massage;W
+Generator;Автономный генератор;Автономний генератор;authfactorcreate_generator;W
+Save as template;Создать шаблон;Створити шаблон;paymentOrder_createTemplate;W
+Change password;Изменить пароль;Змінити пароль;personal_changePassword;W
+Manager role;Роль менеджера;Роль менеджера;managerView_role;W
+Type already exist!;Тип с таким кодом уже существует;Тип з таким кодом вже існує;authfactoredit_alreadyexist;W
+Locality;Населённый пункт;Населений пункт;common_locality;W
+Group;Группа констант;Група констант;global_settings.constants.table.col.group;W
+Short name;Краткое имя;Скорочене ім'я;customeruser_shortName;W
+Clear quick links settings;Удалить настройки быстрых ссылок;Видалити налаштування швидких посилань;clear_links_settings;W
+Completition date;Дата завершения;Дата завершення;completionDate;W
+City;Город;Місто;common_city;W
+Countries;Страны;Країни;navigation_countries;W
+Closed;Закрытые;Закриті;common_closed;W
+Operations with the City;Действия;Дія;operationsWithCity;W
+Cards statuses;Статусы карт;Статуси карт;cardsStatuses;W
+Print;Печать;Друк;paymentOrder_print;W
+Requisites;Реквизиты;Реквізити;invoice_requisites;W
+Bank code;БИК Банка Получателя;BIC банку Отримувача;paymentOrder_recipientBankCode;W
+Expiration date;Срок действия;Строк дії;invoice_expire;W
+BIN;БИН/ИИН;ЄДРПОУ/ІПН;common_bin;W
+Accept;Принять;Прийняти;accept;W
+Sale;Продажа;Продаж;exchangeRates_sale;W
+Credit;Зачисление;Зарахування;accTransfer_credit;W
+New Demand type;Создать новый тип заявлени;Створити новий тип заяви;demandType_newDemand;W
+Purpose of payment;Назначение платежа;Призначення платежу;paymentOrder_paymentPurpose;W
+Менеджер;Менеджер;Менеджер;refunds.manager;W
+Are you sure you want to delete the Card product type №;Вы действительно хотите удалить Вид карточных продуктов №;Ви дійсно бажаєте видалити Вид карткових продуктів №;sureYouWantDeleteCardProductType;W
+New credit;Новый кредит;Новий кредит;credit_addNewDemand;W
+Currency;Валюта;Валюта;common_currency;W
+State;Состояние;Стан;common_state;W
+job group;Группа типа задачи;Група типу задачі;jobs.job_group;W
+Choosen File:;Выбранный Файл;Вибраний файл;upload_choosenFile;W
+Create a new ATM/Branch/Terminal;Создать новый Банкомат/отделение/терминал;Створити новий банкомат / відділення / термінал;createAtmBranchTerminal;W
+User account;Учетная запись;Обліковий запис;companyPersons_useraccount;W
+View/edit payment order;Просмотр/редактирование Платежного поручения;Перегляд / Редагування Платіжного доручення;paymentOrder_viewEditOrder;W
+Statement;Выписка;Виписка;navigation_statement;W
+Publication date;Дата публикации;Дата публікації;news_publDate;W
+demand end point;Точка доставки заявления;Адреса доставки заяви;CustomRequestType_demandEndPoint;W
+Signature;ЭЦП;ЕЦП;authfactorcreate_signature;W
+Balance;Остаток;Залишок;common_plannedBalance;W
+User management;Менеджмент;Менеджмент;navigation_management;W
+Edit signature rule;Редактирование правила для подписи;Редагування правила для підпису;signingrules_edit_title;W
+No currencies;Валюты отсутствуют;Валюти відсутні;noCurrencies;W
+Viewing/Editing the Card unblocking reason;Просмотр и редактирование Причины разблокировки карты;Перегляд і редагування Причини розблокування карти;viewingEditingCardUnblockReason;W
+Type;Тип;Тип;limit_type;W
+Submit;Отправить на подпись;Відправити на підпис;common.submit;W
+Transaction history filter settings;Настройки фильтра истории транзакций;Налаштування фільтру історії транзакцій;transactionsHistoryFilterSettings;W
+size field;размерность поля;Розмірність поля;temp_sizeField;W
+Debit currency;Валюта списания;Валюта списання;paymentOrder_debitCurrency;W
+Currency;Валюта;Валюта;intTransfer_currency;W
+Employees list;Список сотрудников;Список співробітників;paymentOrder_employeeList;W
+Executor;Исполнитель;Виконавець;events_executor;W
+Refunds;Возвраты;Повернення;navigation_returns;W
+Previous state;Начальное состояние;Початковий стан;documentHistory_previousState;W
+Sessions;Сессии пользователей;Сесії користувачів;sessions_title;W
+Create a new Card status;Создать новый Статус карт;Створити новий Ствтус карт;createCardStatus;W
+Event;Событие;Подія;eventview_title;W
+Are you sure you want to delete the Document type;Вы действительно хотите удалить Тип документа;Ви дійсно бажаєте видалити Тип документу;sureYouWantDeleteDocType;W
+Dictionary: Exchange rates;Справочник: Курс валют;Довідник: Курс валют;exchangeRates_handbook;W
+Invalid characters;Недопустимые символы;Неприпустимі символи;paymentOrder_valid_invalidCharacters;W
+Viewing and editing the budget classification code (CSC);Просмотр и редактирование Кода бюджетной классификации(КБК);Перегляд і редагування Кода бюджетної класифікації (КБК);viewingEditingKBK;W
+Events from;События с;Події з;events_eventsfrom;W
+field value;значение поля;значення поля;common_fieldValue;W
+Transaction history;История транзакций;Історія транзакцій;common_transactionHistory;W
+Document with this number already exist, we recommend use another number;Документ с таким номером уже существует, рекомендуем указать следующий номер;Документ з таким номером вже існує, рекомендуємо вказати наступний номер;paymentOrder_valid_documentExist;W
+Please click "Continue" to keep working;Пожалуйста нажмите "Продлить" чтобы работать далее;Будь ласка, натисніть "Продовжити" для продовження роботи;mainbar_timeoutActions;W
+System dictionaries;Системные справочники;Системні довідники;systemHandbooks;W
+Creating Account Type;Создание типа счёта;Створення типу рахунку;creatingAccountType;W
+Template Name;Имя шаблона;Ім'я шаблону;payment_templateName;W
+Re-issuance;Перевыпуск;Перевипуск;reissuance;W
+Do you confirm to remove this item?;Подтвердите действие: Вы действительно хотите удалить элемент ?;Підтвердіть дії: Ви дійсно бажаєте видалити елемент?;demandType_confirm;W
+Dictionary: Districts;Справочник: Области;Доідник: Області;districts_handbook;W
+Operations with KBK;Действия;Дія;operationsWithKBK;W
+Active;Активный;Активний;customeruser_active;W
+View/edit pension contribution;Просмотр/редактирование Пенсионноого отчисления;Перегляд / Редагування Пенсійного відрахування;paymentOrder_viewEditPensionContribution;W
+History;История;Історія;common_history;W
+Add New Demand;Добавить новое заявление;Додати нову заяву;demandCreate_addNewDemand;W
+Id;Идентификатор;Ідентифікатор;global_settings.constants.id;W
+BIC/SWIFT;БИК/SWIFT;BIC/SWIFT;intTransfer_bankSwift;W
+Exchange rates;Курс валют;Курс валют;navigation_exchangeRates;W
+Create Document;Создать платеж;Зберегти;common_createNewDocument;W
+Currency transfer;Международный перевод валюты;Міжнародний перевод валюти;navigation_currencyTransfer;W
+Clear column settings;Удалить настройки колонок;Видалити налаштування колонок;clear_column_settings;W
+Create new job;Создать новую задачу;Створити нову задачу;jobs.new_job.title;W
+Bank branches;Филиалы банка;Філії банку;bankBranches;W
+User;Пользователь;Користувач;documentHistory_user;W
+Residency code;КБЕ;КБЕ;common_kbe;W
+Наименование Банка;Наименование Банка;Назва Банку;refunds.sender.bank.name;W
+year;год;рік;yearLowerCase;W
+Rejected;Отклонён;Віхилений;common_rejected;W
+Value from dictionary;Значение из справочника;Значення із довідника;global_settings.constants.handbook_value;W
+Blocked transactions;Заблокированные транзакции;Заблоковані транзакції;blockedTransactions;W
+Balance;Остаток;Залишок;paymentOrder_balance;W
+Certificate type;Тип сертификата;Тип сертифікату;certTypes;W
+Code VO description;Описание VO;Опис VO;intTransfer_codeVoDescription;W
+Loan products types;Виды кредитных продуктов;Види карткових продуктів;creditProductTypes;W
+Max length;Поле должно быть не больше;Значення повинно бути не більше;common_maxLength;W
+Debit account;Счет списания;Рахунок списання;accTransfer_debitAccount;W
+Amount from;Сумма от;Сума від;signingrules_amountFrom;W
+Channel;Канал;Канал;events_channel;W
+Are you sure you want to delete the Card block reason;Вы действительно хотите удалить Причину блокировки карты;Ви дійсно бажаєте видалити Причину блокування карти;sureYouWantDeleteCardBlockReason;W
+This field must contains only letters;Это поле должно содержать только буквенные символы!;Це поле має містити лише літерні символи!;common_field_onlyletters;W
+Organization role;Роль в организации;Роль в підприємстві / організації;companyperson_organizationRole;W
+PDF;PDF;PDF;common_exporttopdf;W
+Payments;Платежи;Платежі;navigation_payments;W
+Contract audit number;Учетный номер контракта;Обліковий номер контракту;common_contractAuditNumber;W
+Purchase;Покупка;Купівля;exchangeRates_purchase;W
+Your text;Ваш текст;Ваш текст;yourText;W
+This field should not exceed 512 characters!;Это поле не должно превышать 512 символа!;Це поле не може перевищувати 512 символів!;noMore512Symbols;W
+Are you sure you want to delete the code of budget classification number;Вы действительно хотите удалить Код бюджетной классификации №;Ви дійсно бажаєте видалити Код бюджетної класифікації №;sureYouWantDeleteKBK;W
+Copy a calendar;Скопировать календарь;Скопіювати календар;copyCalendar;W
+Phone;Телефон;Телефон;customeruser_phone;W
+Refunds;Возвраты;Повернення;refunds.title;W
+National bank of Kazakhstan;Национальный банк Республики Казахстан;Національний банк України;exchangeRates_nbrk;W
+Amount;Сумма;Сума;domTransfer_amount;W
+Period;Периодичность;Періодичність;standing.order.periodicity;W
+Transliterate;Транслитерация;Транслітерація;intTransfer_transliterate;W
+Person type;Юридический статус;Юридичний статус;organizationsCreate_persontype;W
+Ordering customer name;Имя плательщика;Ім'я платника;common_fullName;W
+Creating a Card product type;Создание Вида карточных продуктов;Створенн виду карткових продуктів;creatingCardProductType;W
+Set as default;Установить по умолчанию;Встановити за умовчуванням;common_setDefault;W
+Additionaly;Дополнительно;Додатково;additionally;W
+IIN/BIN;БИН/ИИН;БІН/ІПН;senderBIN;W
+Operations with the Cards status;Действия;Дія;operationsWithCardsStatus;W
+Date;Дата;Дата;events_eventdate;W
+Carried forward balance;Исходящий остаток;Вихідний залишок;carriedForwardBalance;W
+add demand type field;добавить поле типа заявления;Додати поле типу заяви;add_custom_field;W
+Create new type;Создать новый тип;Створити новий тип;common_createNewType;W
+User name;ФИО;ПІБ;sessions_username;W
+3 letters;3 буквенных символа;3-літерних символа;common_field_3letters;W
+Calendars list error loading. Please reload the page or try again later;Ошибка загрузки списка календарей. Перезагрузите страницу или попробуйте позже;Помилка завантаження календарів. Перезавантажте сторінку або спробуйте пізніше ;calendarsLoadingErrorReload;W
+VC Tariffs;Тарифы УЦ;Тарифи УЦ;tariffs;W
+Block requisites: Info from bank;Блок реквизитов: Информациия от банка;Блок реквізитів: Інформація від Банку;refunds.infoFromBank;W
+Sent;Отправлено;Відправлено;sent;W
+Document types;Типы документов;Типи документів;signingrules_doctypes;W
+Your online session will expire in;Сессия завершится через;Сесія завершиться через;mainbar_timeoutWarning;W
+characters maximum length;символов максимальная длина;символів максимальна довжина;paymentOrder_valid_lengthLimit;W
+iban has wrong format;iban имеет не правильный формат; iban має невірний формат;common.iban.wrongCode;W
+Temporary certificate;Технологический сертификат;Технологічний сертифікат;companyperson_certificate_temp;W
+Send;Отправить;Відправити;send;W
+Employees;Сотрудники;Співробітники;navigation_employees;W
+Terminal IP;IP терминала;IP терміналу;events_terminal2;W
+Link;Ссылка;Посилання;link;W
+Change;Изменить;Змінити пароль;Common_change;W
+Pension contribution refund;Возврат по пенсионному отчислению;Повернення по пенсійному відрахуванню;refunds.pensioncontribution;W
+The total blocked amount;Общая заблокированная сумма;Загальна заблокована сума;totalBlockedAmount;W
+Cod;Код;Код;paymentOrder_payerResidencyCode;W
+Additional information;Дополнительная информация;Додаткова інформація;paymentOrder_info;W
+Manager menu;Меню менеджера;Меню менеджера;page_managermenutitle;W
+Correspondent account;Кор. счет;Кор.рахунок;intTransfer_correspondentAccount;W
+Cost;Стоимость;Вартість;cost;W
+template notification;Шаблон уведомления;Шаблон повідомлення;template_notification;W
+Roles;Роли;Ролі;companyPersonEdit_roletabTitle;W
+Counterparty;Контрагент;Контрагент;counterparty;W
+Continue;Продлить;Продовжити;mainbar_continue;W
+Operations with the Deposit product type;Действия;Дія;operationsWithDepositProductType;W
+Files;Файлы;Файли;intTransfer_files;W
+Block/Unblock card;Блокировка/Разблокировка карты;Блокування/Розблокування карти;title_block_unblock;W
+Card number;Номер карты;Номер карти;card_number;W
+Is blocked;Блокирован;Заблокований;card_number_is_blocked;W
+No data in the table;Данные в таблице отсутствуют;Дані в таблиці відсутні;grid_emptyRowLabel;W
+hour;Часы;Години;hour;W
+minute;Минуты;Хвилини;minute;W
+Demand;Заявление;Заява;demand_tab;W
+for document;По документу;По документу;for_document;W
+job Group;Группа задач;Група задач;jobsGroup.edit_jobGroup.title;W
+Draft number;Номер черновика;Номер чернетки;draft_number;W
+Draft type;Тип черновика;Тип чернетки;draft_type;W
+Intermediary bank;Банк посредник;Банк Посередник;bank_correspondent;W
+Document;Документ;Документ;document;W
+Login properties;Настройки входа;Налаштування входу;personal_login;W
+document;документом;документом;document1;W
+Click to hide this message;кликните чтобы скрыть это сообщение;Клікніть, щоб приховати повідомлення;Click_hide_this_message;W
+every Second;Каждую секунду;Кожну секунду;jobs.schedule.everySecond;W
+start From Second / Increment;Начиная с секунды / интервал;Починаючи з секунди / інтервал;jobs.schedule.startFromSecond;W
+specific Seconds;Указаны секунды;Вказані секунди;jobs.schedule.specificSecond;W
+beetween Second;Между секундами;Між секундами;jobs.schedule.beetweenSecond;W
+every Minute;Каждую минуту;Кожну хвилинк;jobs.schedule.everyMinute;W
+Start from minute / Increment;Начиная с минуты / интервал;Починаючи з хвилини / інтервал;jobs.schedule.startFromMinute;W
+specific Minutes;Указаны минуты;Вказані хвилини;jobs.schedule.specificMinute;W
+beetween Minute;Между минутами;Між хвилинами;jobs.schedule.beetweenMinute;W
+every Hour;Каждый час;Кожну годину;jobs.schedule.everyHour;W
+Start from hour / Increment;Начиная с часа / интервал;Починаючи з години / інтервал;jobs.schedule.startFromHour;W
+Specific hours;Указаны часы;Вказані години;jobs.schedule.specificHour;W
+beetween Hour;Между часами;Між годинами;jobs.schedule.beetweenHour;W
+Every day;Каждый день;Кожен день;jobs.schedule.everyDay;W
+Start from day of week;Начиная с дня недели;Починаючи з дня тижня;jobs.schedule.startFromDayOfWeek;W
+Start from day of month;Начиная с дня месяца;Починаючи з дня місяця;jobs.schedule.startFromDayOfMonth;W
+Specific day of week;Определенный день недели;Визначений день тижня;jobs.schedule.specificDayOfWeek;W
+Specific day of month;Определенный день месяца;Визначений день місяця;jobs.schedule.specificDayOfMonth;W
+every Month;Каждый месяц;Кожен місяць;jobs.schedule.everyMonth;W
+Start from month / Increment;Начиная с месяца / интервал;Починаючи з місяця / інтервал;jobs.schedule.ststartFromMonth;W
+specific Month;Определенные месяца;Визначені місяці;jobs.schedule.specificMonth;W
+beetween Month;Между месяцами;Між місяцями;jobs.schedule.beetweenMonth;W
+Second;Секунды ;Секунди;jobs.schedule.second;W
+Minute;Минуты ;Хвилини;jobs.schedule.minute;W
+Hour;Часы ;Години;jobs.schedule.hour;W
+Day;Дни ;Дні;jobs.schedule.day;W
+Month;Месяцы ;Місяці;jobs.schedule.Month;W
+every ;через каждый ;через кожний;jobs.Every;W
+Starting at second;Начиная с секунды;Починаючи з секунди;jobs.second_starting_at_second;W
+increment;через каждую;через кожну;jobs.Every_second;W
+Specific second (choose one or many);Определенная секунда (выберите одну или несколько);Визначена секунда (оберіть одну або декілька);jobs.Specific_second;W
+Every second between second;Каждую секунду между секундой ;Кожну секунду між секундою;jobs.every_second_between_second;W
+and second;и секундой;і секундою;jobs.and_second;W
+Starting at minute;Начиная с минуты;Починаючи з хвилини;jobs.minute_starting_at_minute;W
+Specific minute (choose one or many);Определенная минута (выберите одну или несколько);Визначена хвилина(оберіть одну або декілька);jobs.specific_minute;W
+Every minute between minute;Каждую минуту между минутой;Кожну хвилину між хвилиною;jobs.Every_minute_between;W
+and minute;и минутой;і хвилиною;jobs.and_minute;W
+Specific day of week (choose one or many);Определенный день недели (выберите один или несколько);Визначендень тижня (оберіть одну або декілька);jobs.Specific_day_of_week;W
+Specific month (choose one or many);Определенный месяц (выберите один или несколько);Визначений місяць (оберіть одну або декілька);jobs.Specific_month;W
+Starting in;Начиная с ;Починаючи з;jobs.month_starting_in;W
+Every Month between month;Каждый месяц между месяцем;Кожен місяць між місяцем;jobs.Every_Month_between;W
+and month;и месяцем;і місяцем;jobs.and_month;W
+Starting at day;Начиная с дня;Починаючи з дня;jobs.day_starting_at_day;W
+month starting on the;месяц начиная с;Місяць починаючи з;jobs.month_starting_on;W
+Specific day of month (choose one or many);Определенный день месяца (выберите один или несколько);Визначений день місяця (оберіть одну або декілька);jobs.Specific_day_of_month;W
+Starting at hour;Начиная с часа;Починаючи з години;jobs.hour_starting_at_hour;W
+Specific hour (choose one or many);Определенный час (выберите один или несколько);Визначена година (оберіть одну або декілька);jobs.Specific_hour;W
+Every hour between hour;каждый час между часом;Кожну годину між годиною;jobs.Every_hour_between;W
+and hour;и часом;і годиною;jobs.and_hour;W
+By amount;По сумме;По сумі;by_amount;W
+Expand filter;Раскрыть фильтр;Розкрити фільтр;expand_filter;W
+Close filter;Скрыть фильтр;Приховати фільтр;close_filter;W
+All receivers;Все получатели;Всі отримувачі;all_receivers;W
+New;Новых;Нових;notifications_new;W
+No new notifications;Нет новых уведомлений;Відсутні нові повідомлення;notifications_nonew;W
+All accounts;Счета;Рахунки;all_accounts;W
+All states;Все статусы;Всі статуси;all_states;W
+All payers;Все плательщики;Всі платники;all_payers;W
+Quick links properties;Настройка быстрых ссылок;Налаштування швидких посилань;quick_links_props;W
+Exposed order;Мной счета;Мною рахунки;exposed_tab;W
+Invoice;Мне счета;Мені рахунки;invoice_tab;W
+Awaits Signature;Ожидающие подписи;Очікує підпис;task_awaits;W
+Ready;Готовы к отправке;Готові до відправки;task_ready;W
+With error;С ошибкой;З помилкою;task_with_error;W
+Unpaid;Неоплаченые счета;Несплачені рахунки;task_unpaid;W
+ALL;ВСЕ;ВСІ ПЛАТЕЖІ;working_all;W
+ON SIGN;НА ПОДПИСЬ;На підпису;working_sign;W
+WITH ERROR;С ОШИБКОЙ;З ПОМИЛКОЮ;working_error;W
+FOR SEND;К ОТПРАВКЕ;До відправки;working_send;W
+Running;Запущена;Стартувала;jobs.isRunning;W
+change Active;Сменить активность;Змінити активність;jobs.changeActive;W
+Stop;Остановить;Зупинити;jobs.stop;W
+Loading;Идёт загрузка;Виконується завантаження;common_loading;W
+Creating key;Создаю ключ;Створюю ключ;signature_creatingKey;W
+Key has been created;Ключ создан;Ключ створено;signature_createdKey;W
+File import in progress;Идет загрузка файла;Виконується завантаження файлу;file_import_in_progress;W
+File import;Импорт документов;Імпорт документів;file_import_title;W
+Common balance;Общий суммарный остаток;Загальна сума залишку;common_sum_balance;W
+Logon to Personal Internet Banking;Вход в систему Интернет-банкинг;Вхід в систему Інтернет-банкінг;login_expo_head;W
+Departments;Отделения;Відділення;departments;W
+Tariffs;Тарифы;Тарифи ;common_tariffs;W
+Hereby I do authorize the Bank to submit the information about this payment/money transfer to the law-enforcement bodies and National Bank of the Republic of Kazakhstan, if so required.;Разрешаю уполномоченному банку представление информации о данном платеже и (или) переводе денег в правоохранительные органы Республики Казахстан и Национальный Банк по их требованию.;Разрешаю уполномоченному банку представление информации о данном платеже и (или) переводе денег в правоохранительные органы Республики Казахстан и Национальный Банк по их требованию.;intTransfer_isPermitGiveInformation;W
+User type;Тип пользователя;Тип користувача;events_executortype;W
+Documents are signing;Подписываются документ(ы);Підписуються документи;docSigning_processing;W
+Phone number;Номер телефона;Номер телефону;login_phone_number;W
+"Can't login by signature! Possible password incorrect.";Не удалось войти по цифровой подписи! Возможно, пароль введен неправильно.;Не вдалось увійти, користуючись цифровим підписом! Можливо, пароль введено невірно;login_signErr;W
+Interface language;Язык интерфейса;Мова інтерфейсу;personal_langSelector;W
+Favorite;Избранное;Обране;favorite;W
+Currency calculator;Калькулятор валюты;Калькулятор валюти;currency_calc;W
+Refreshed;Обновлено;Оновлено ;er_refreshed;W
+Buy;Покупка;Купівля;er_buy;W
+Sell;Продажа;Продаж;er_sell;W
+Buy;Покупаю;Купую;calc_buy;W
+Sell;Продаю;Продаю;calc_sell;W
+Calculate;Рассчитать;Розрахувати;calc_calc;W
+Reset;Сбросить;Скинути;calc_reset;W
+Result;Результат;Результат;calc_result;W
+All accounts;Все счета;Всі рахунки;common_all_accounts;W
+Operations history;История операций;Історія операцій;operation_history;W
+Format statement;Формат выписки;Формат виписки;format_statement;W
+File;Файл;Файл;st_file;W
+Search with purpose;Поиск по назначению платежа;Пошук за призначенням платежу;search_purpose;W
+Not chosen;Не выбрано;Не обрано;common_notChosen;W
+All operations;Все операции;Всі операції;dt_allOperations;W
+Main news;Главные новости;Головні новини;news_main;W
+Archive news;Архив новостей;Історія новин;archive_news;W
+Without template;Без шаблона;Без шаблону;without_temp;W
+By write-off amount;По сумме списания;По сумі списання;at_writeOff;W
+Enlistment amount;По сумме зачисления;По сумі зарахування;at_enlistment;W
+By rate;По курсу;По курсу;at_rate;W
+By write-off account;По счету списания;По рахунку списання;at_writeOffAcc;W
+By Enlistment account;По счету зачисления;По рахунку зарахування;at_enlistmentAcc;W
+By write-off currency;По валюте списания;По валюті списання;at_writeOffCurr;W
+By enlistment currency;По валюте зачисления;По валюті зарахування;at_enlistmentCurr;W
+All currencies;Все валюты;Всі валюти;all_currencies;W
+All categories;Все категории;Всі категорії;all_categories;W
+Forgot password;Забыли пароль;Забули пароль;login_forgot;W
+Show all;Показать все;Відобразити все;common_show_all;W
+SMS require;Требовать СМС при входе;Вимагати смс при вході;personal_smsrequire;W
+Bank information;Информация о банке;Інформація про банк;footer_bankInfo;W
+Bank requisites;Реквизиты банка;Реквізити банку;footer_requisites;W
+Licences and solutions;Лицензии и решения;Ліцензії і рішення;footer_licence;W
+Accountability;Отчетность;Звітність;footer_accountability;W
+International Payments;Платежи в ин. валюте;Платежі в ін.валюті;navigation_intTransfers_expo;W
+name En;Наименование Английское;Назва англійською;common.nameEn;W
+name Ru;Наименование Русское;Назва українською;common.nameRu;W
+name KK;Наименование Казахское;Назва українською;common.nameKK;W
+Resend sms;Повторить смс;Повторити sms;resend_sms;W
+BIN/IIN/INN;БИН/ИИН/ИНН;БІН/ІПН/ІПН;intTransfer_benefCode;W
+Connection error. Check your digital signature software;Ошибка подключения. Проверьте установлено ли необходимое программное обеспечение для работы с ЭЦП;Помилка підключення. Перевірте чи встановлене необхідне програмне обладнання для роботи з ЕЦП ;socket_closed;W
+Transfer between accounts;Перевод между счетами;Платежі між рахунками;actions_transfer;W
+Conversion;Конвертация;Конвертация;actions_conversion;W
+Value on all languages;Значение на нескольких языках;Значення декількома мовами;multilanguage_value_label;W
+Contracts;Контракты;Контракти;contracts;W
+Start time;Время начала работы;Час початку роботи;start_time;W
+End time;Время окончания работы;Час завершення роботи;end_time;W
+Break start time;Время начала перерыва;Час початку перерви;break_start_time;W
+Break end time;Время окончания перерыва;Час завершення перерви;break_end_time;W
+Length of amount too long;Размер числа превышает допустимое значение;Розмір числа перевищує припустиме значення;error_toLongField;W
+Set date in next format 31.12.2017;Введите дату в следующем формате 31.12.2017;Введіть дату в форматі: 31.12.2017;set_date_in_format;W
+Bank code;Код банка;Код банку;bankCode;W
+Required field when payment amount more or equals then 10 000$;Обязательное поле при сумме платежа большей или равной 10 000$;Обов'язкове поле при сумі платежу більше або дорівнює 10 000 дол.США;required_field_10000;W
+Template saved successfully;Шаблон успешно сохранен;Шаблон успішно збережено;template_saved;W
+Saving template;Сохранение шаблона;Збереження шаблону;template_saving;W
+Fill message template for channel;Заполните шаблон сообщения для канала;Заповніть шаблон повідомлення для каналу;notificationtype_messagetextempty;W
+Save;Сохранить;Зберегти;common_updateDocument;W
+Client's exposed order;Выставленные клиентам счета;Виставлення клієнтам рахунку;manager_exposedOrder;W
+Planned balance;Плановый остаток;Доступний залишок;common_planBalance;W
+Password doesn't match password policy;Комбинация символов не соответствует парольной политике;Комбінаія символів не відповідає парольній політиці;passPolicy;W
+Password constraints more than 2 sequence characters;Не более 2-х повторяющихся подряд символов;Не біьше 2-х повторюваних підряд симвлів ;passSequence;W
+Password constraints more than 2 sequence characters;Не более 2-х последовательных символов;Не біьше 2-х повторюваних симвлів ;passSeq2;W
+translation for type document;Переводы для тип заявления;Платіж для тип заяви;translation_for_type_document;W
+User id;Идентификатор пользователя;Ідентифікатор користувача;events_login;W
+Clear orders settings;Удалить настройки виджетов;Видалити налаштування віджетів;clear_orders_settings;W
+Mailing groups;Группы рассылки;Групи розсилки;mailing_groups;W
+Correspondence;Почтовая переписка;Поштова переписка;mailing_correspondence;W
+Mass mailing;Массовая рассылка;Масова розсилка;mass_mailing;W
+View/Edit;Просмотр/Редактирование;Перегляд / Редагування;letter_view_edit;W
+Sender name;Наименование отправителя;Назва відправника;sender_name;W
+Sender account;Счет отправителя;Рахунок відправника;sender_acc;W
+Receiver name;Наименование получателя;Назва отримувача;receiver_name;W
+External ID;ID клиента АБС;ID клієнта АБС;abs_client_id;W
+Should not contain;Не должно содержать;Не може включати;should_not_contain;W
+All types;Все типы;Всі типи;common_allTypes;W
+Birth place;Место рождения;Місце народження;person_birth_place;W
+Passport Number;Номер паспорта;Номер паспорту;person_passport_number;W
+Passport Start date;Дата начала действия пасспорта;Дата початку дії паспорту;person_passport_start_date;W
+Passport End date;Дата окончания действия пасспорта;Дата закінчення дії паспорту;person_passport_end_date;W
+Passport Place issue;Место выдачи пасспорта;Місце видачі паспорту;place_passport_issue;W
+Gender;Пол;Стать;gender;W
+Add Category;Добавить категорию;Додати категорію;provider_service_add_category;W
+Category of services;Категории услуг;Категорії послуг;provider_service_categories;W
+Name;Наименование;Назва;provider_service_name;W
+Full name;Полное наименование;Повне найменування ;provider_service_full_name;W
+Code;Код;Код;provider_service_full_code;W
+Upper category;Категория верхнего уровня;Категорія верхнього рівня;provider_service_upper_category;W
+Payment services;Платежные услуги;Плтіжні послуги;provider_service_payment_services;W
+View Payment services;Просмотр Платежных услуг;Перегляд Платіжних послуг;provider_service_payment_services_view;W
+Edit Payment services;Редактирование Платежных услуг;Редагування Платіжних послуг;m_provider_service_edit;W
+Service Provider;Агрегаторы услуг;Агрегатори послуг;provider_service_providers;W
+Add Provider;Добавить Агрегатор;Додати Агрегатор;provider_service_add_provider;W
+Services;Услуги;Послуги;provider_service_services;W
+Add Service;Добавить услугу;Додати послугу;provider_service_add_service;W
+Field type;Тип поля;Тип поля;provider_service_field_type;W
+Reference to dictionary;Ссылка на справочник;Посилання на довідник;provider_service_ref_to_dict;W
+Provider name;Название провайдера;Назва провайдера;provider_service_provider_name;W
+Add field;Добавить поле;Додати поле;provider_service_add_field;W
+Export to MT;Экспорт в МТ;Експорт в МТ;export_mt;W
+Export in MT format (documents):;Експортировано в формате МТ (документов):;Експортовано в форматі МТ (документів);export_mt_result;W
+Information;Информация;Інформація ;navigation_infoAndSuggestions;W
+Other operations;Прочие операции;Інші операції;navigation_otherTransactions;W
+International transfers;Перевод валюты;Платіж в валюті;navigation_intTransfers;W
+Invoices;Счета на оплату;Рахунки до сплати;navigation_invoices;W
+Accounts and products;Счета и продукты;Рахунки і продукти;navigation_p_person_products;W
+In national currency;В национальной валюте;В національній валюті;navigation_p_person_domTransfer;W
+In currency;В валюте;В валюті;navigation_p_person_intTransfer;W
+Transfers between own account;Между своими счетами;Між своїми рахунками;navigation_p_person_accountTransfer;W
+Card transfers;Переводы между картами;Платежі між картами;navigation_p_person_p2p;W
+To editing;Редактировать;Відкликати;action_toDraft;W
+Send for signature;На подпись;На підпис;action_sendForSignature;W
+symbols;символов;символів;common_symbolsForLength;W
+Length;Поле должно быть;Поле має бути;common_length;W
+Beneficiary account number and bank code could not be empty.;Номер счета и код банка плательщика не могут быть пустыми.;Номер рахунку і код банку не можуть бути пустими;error_acc_number_bik_not_null;W
+Account number and amount could not be empty.;Номер счета плательщика и сумма платежа не могут быть пустыми;Номер рахунку платника і сума платежу не можуть бути пустими;error_acc_number_amount_not_null;W
+5-7 account symbols must be -;5-7 символы счета должны быть -;5-7 символи рахунку мають бути - ;account_error_string2;W
+The specified beneficiary account does not correspond to the selected bank. Bank code;Указанный счет получателя не соответствует выбранному банку. Код банка;Вказаний рахунок отримувача не відповідає обраному банку. Код банку;account_error_string1;W
+Show;Показать;Відобразити;common_show;W
+Client;Клиенты;Клієнти;clients;W
+Активен;Активен;Активний;organization.grid.active;W
+Opened;Открытый;Відкитий;common_active;W
+Current accounts;Текущие счета;Рахунки;current_accounts;W
+Cash Flow;Финансовая динамика;Фінансова динаміка;graph_title;W
+Year;За год;За рік;graph_periodType_year;W
+Quarter;За квартал;За квартал;graph_periodType_quarter;W
+Month;За месяц;За місяць;graph_periodType_month;W
+Balance;Остаток;Залишок;graph_dataType_balance;W
+Credit;Приходы;Надходження;graph_dataType_credit;W
+Debet;Расходы;Видатки;graph_dataType_debet;W
+Domestic Payments;Платежи в нац. валюте;Платежі в нац.валюті;navigation_payments_expo;W
+Conversions;Конвертации;Конвертація;navigation_conversion_expo;W
+Welcome;Добро пожаловать;Ласкаво просимо;welcome;W
+IIN;ИИН;ІПН;paymentOrder_payerCode_expo;W
+Debit details;Реквизиты продажи;Реквізити продажу;document_conversionDebitDetails;W
+Credit details;Реквизиты  покупки;Реквізити купівлі;document_conversionCreditDetails;W
+Beneficiary details;Детали бенефициара;Деталі бенфеціара;paymentOrder_beneficiary;W
+Internal payments;Внутренние платежи;Внутрішні платежі;document_transfer;W
+The total length of the following Recipient fields;Суммарная длина следующих полей Получателя;Сумарна довжина наступних полів Отримувача;field_total_length;W
+should not exceed 140 chars;не должна превышать 140 символов;Не повинно перевищувати 140 символів;should_not_exceed_140;W
+Support contacts;Контакты службы клиентской поддержки:;Контакти служби клієнтської підтримки:;support_contacts;W
+Account transfer;Перевод между своими счетами / Конвертация валюты;Платежі між власними рахунками/Конвертація валюти;paymentOrder_addNewAccountTransfer;W
+Opened;Открытый;Відкитий;common_opened;W
+Your personal manager;Ваш персональный менеджер;Ваш персональний менеджер;personal_manager;W
+Search by beneficiary's details;Поиск по реквизитам получателя;Пошук за реквізитами отримувача;search_benefDetails;W
+Password change;Изменение пароля;Зміна паролю;personal_changingPass;W
+Validation for red balance;Проверка на красный баланс;Перевірка на червоний баланс;valid_redBalance;W
+Количество дней после создания документа на протяжении которого его можна подписать;Количество дней после создания документа на протяжении которого его можна подписать;Кількість днів після створення документу, протягом яких можливе його підписання;valid_maxPeriodForDocumentExecution;W
+Max amount for one payment (hrn.);Максимальная сумма по одному платежу (грн.);Максимальна сума по одному платежу (грн.);valid_maxAmountPerOperation;W
+Max payments amount for day (hrn.);Максимальная сумма по платежам за день (грн.);Максимальна сума по платежам за день (грн.);valid_maxAmountPerDay;W
+Max payments amount for month (hrn.);Максимальная сумма по платежам за месяц (грн.);Максимальна сума по платежам за місяць (грн.);valid_maxAmountPerMonth;W
+Validation for unique main fields;Проверка на уникальность по основным полям;Перевірка на унікальність за основним полями;valid_uniqueMainFields;W
+Validate account for  digital bank code;Проверка на соответсвие счета цифровому кода банка;Перевірка на відповідність рахунку цифровому коду банку;valid_validateAccountByBankCode;W
+Edit the letter;Редактировать письмо;Редагувати лист;letter_edit;W
+Reply letter;Ответить на письмо;Відповісти на лист;letter_reply;W
+View letter chain;Просмотр переписки;Перегляд переписки;letter_chain_view;W
+Sent to bank;Отправить в банк;Відправити в банк;action_sentToBank;W
+Confirm by;Подтвердить;Підписати;confirmation_title;W
+eSign;ЭЦП;ЕЦП;login_factor_Signature;W
+Create exposed order;Выставление нового счета;Виставлення нового рахунку ;invoice_createNew;W
+Информация;Информация;Інформація;page_expose_orders_information;W
+Show closed cards;Показать закрытые карты;Відобразити закриті карти;showClosedCards;W
+View and edit invoice;Просмотр/редактирование;Перегляд / Редагування;invoice_edit;W
+Loan term;Срок займа;Строк займу;loanTerm;W
+ months; месяца;місяця;months;W
+Conversion;Конвертация валюты;Конвертація валюти;document_conversion;W
+Name;Наименование;Назва;constraint_name;W
+Type;Тип;Тип;constraint_type;W
+Value;Значение;Значення;constraint_value;W
+Is required;Признак обязательности;Ознака обов'язковості;constraint_isRequired;W
+Error text;Текст ошибки;Текст помилки;constraint_error;W
+Validations;Валидации полей;Валідація полів;constraint_validations;W
+Enable;Включена;Включена;constraint_true;W
+Disable;Отключена;Відключена;constraint_false;W
+Warning;Предупреждение;Попередження;constraint_warn;W
+Mandatory field;Обязательное поле;Обов'язкове поле;constraint_required_field;W
+Max length;Максимальная длина поля;Максимальна довжина поля;constraint_max_length;W
+Min length;Минимальная длина поля;Мінімальна довжина поля;constraint_min_length;W
+Length;Длина поля;Довжина поля;constraint_length;W
+Regular expression;Регулярное выражение;Регулярний вираз;constraint_regexp;W
+Iban account validation;Iban валидация счета;iban валідація рахунку;constraint_iban;W
+Tax number validation;Валидация налогового номера;Валідація податкового номеру;constraint_tax_number;W
+Amount not null;Сумма не должна быть 0;Сума не може бути 0;constraint_amount_not_null;W
+Check in database;Проверка в базе данных;Перевірка в базі даних;constraint_check_db;W
+Check account for belonging to user;Проверка счета на принадлежность юзеру;Перевірка рахунку на належність юзеру;constraint_check_acc;W
+Control vat;Контроль НДС;Контроль ПДВ;constraint_vat;W
+Check value date;Проверка даты платежа;Перевірка дати платежу;constraint_value_date;W
+Common document validation;Общая валидация документа;Загальна валідація документу;constraint_global;W
+Document fields validation;Валидация полей документа;Валідація полів документу;constraint_fields_validation;W
+Employee fields validation;Валидация полей сотрудников;Валідація полів співробітників;constraint_employee_validation;W
+Handbook of KBE;Справочник КБЕ;Довідник КБЕ;constraint_db_residencyCodes;W
+Handbook of budget codes;Справочник бюджетных кодов;Довідник бюджетних кодів;constraint_db_budgetCodes;W
+Handbook of employee transfer categories;Справочник типов отчислений сотрудникам;Довідник типів відрахувань співробітникам;constraint_db_employeeTransferCategories;W
+Handbook of Fee type;Справочник типов комисий;Доідник типів комісій;constraint_db_feeType;W
+Handbook of countries;Справочник стран;Довідник країн;constraint_db_countries;W
+Handbook of banks;Справочник банков;Довідник банків;constraint_db_bank;W
+Handbook of local banks;Справочник локальных банков;Довідник локальних банків;constraint_db_localBanks;W
+Handbook of currencies;Справочник валют;Довідник валют;constraint_db_currency;W
+Yes;Да;Так;common_yes;W
+No;Нет;Ні;common_no;W
+Individual privilegies;Индивидуальные привилегии;Індивідуальні привілеї;companyperson_indprivileges;W
+Collapse;Свернуть;Згорнути;common_collapse;W
+Expand;Развернуть;Розвернути;common_expand;W
+Service point status;Состояние отделения;Стан відділення;service_point_status;W
+Open;Открыто;Відкрито;service_point_open;W
+Closed;Закрыто;Закрито;service_point_closed;W
+New currency;Создание новой Валюты;Створення нової валюти;currency_newcurrency;W
+Currency editor;Обновление Валюты;Оновлення Валюти;currency_currencyeditor;W
+Id;Ид;ID;common_short_id;W
+Non blocked;Не блокирован;Не блокований;common_nonBlocked;W
+Organization status;Статус организации;Статус підприємства /організації;common.organization.status;W
+Payment for services;Оплата услуг;Сплата послуг;payment_service_view;W
+Jobs;Задачи;Завдання;navigation_tasks;W
+View payment order;Просмотр платежного поручения;Перегляд платіжного доручення;paymentOrder_view;W
+View all rates;Посмотреть все курсы;Переглянути всі курси;err_all_rates;W
+SMS;SMS;SMS-пароль;login_factor_SMS;W
+Debit details;Реквизиты списания;Реквізити списання;document_transferDebitDetails;W
+Credit details;Реквизиты  зачисления;Реквізити зарахування;document_transferCreditDetails;W
+Tax code;ИНН;ІПН;common_tax_code;W
+Create Category;Создать категорию;Створити категорію;provider_service_create_category;W
+Edit Category;Редактировать категорию;Редагувати категорію;provider_service_edit_category;W
+Create Provider;Создать Агрегатор;Створити Агрегатор;provider_service_create_provider;W
+Edit Provider;Редактировать Агрегатор;Редагувати Агрегатор;provider_service_edit_provider;W
+Organization tax code;ИИН/БИН Организации;ІПН/БІН Організації;common_organization_tax_code;W
+Card does not supported;Карта не потдержуется;Карта не підтримується;error_card_does_not_supported;W
+View/edit template of card transfer;Просмотр/редактирование шаблона перевода между картами;Перегляд / Редагування Шаблону переводу між картами;view_edit_template_card_transfer;W
+Create card transfer;Создание перевода между картами;Створення переводу між картами;create_card_transfer;W
+Create template of card transfer;Создание шаблона перевода между картами;Створення Шаблону переводу між картами;Create_template_card_transfer;W
+View/edit card transfer;Просмотр/редактирование перевода между картами;Перегляд / Редагування переводу між картами;view_edit_card_transfer;W
+A Letter type;Тип письма;Тип листа;letterType;W
+View \ Edit International Template;Просмотр \ Редактирование  Шаблона международного платежа;Перегляд/редагування Шаблону міжнародного платежу;intTransfer_EditTemplate;W
+create International transfer Template;Создание Шаблона международного платежа;Створення Шаблону міжнародного платежу;intTransfer_createTemplate;W
+Action was taken;Выполнено действие;Виконана дія;didAction;W
+documents;документами;документами;documents1;W
+documents;документов;документів;documents2;W
+on;над;над;on;W
+Changing email;Изменение email;Зміна e-mail;personal_changingEmail;W
+Contract amount;Сумма контракта;Сума контракту;common_contractAmount;W
+Search by receiver;Поиск по получателю;Пошук по отримувачу;search_receiver_asia;W
+Type;Тип;Тип;account_type;W
+Registry;Реестр;Реєстр;common_list_of_employees;W
+Issue date;Дата выпуска;Дата випуску;issueDate;W
+Blocked sum;Заблокированная сумма;Заблокована сума;blockedSum;W
+Delete document?;Удалить документ?;Видалити документ?;delete_document_title;W
+Type;Тип;Тип;account_type;W
+Account transfer;Перевод между счетами;Платежі між рахунками;DocType_AccountTransfer;W
+Domestic transfer;Платеж в национальной валюте;Платіж в національній валюті;DocType_DomesticTransfer;W
+International transfer;Международный платеж;Міжнародний платіж;DocType_InternationalTransfer;W
+Document withdraw;Отзыв документа;Відкликання документу;DocType_DocumentWithdraw;W
+Exposed order;Выставленные мной счета;Виставлені мною рахунки;DocType_ExposedOrder;W
+Demand;Заявление;Заява;DocType_Demand;W
+Payment order;Платёжное поручение;Платіжне доручення;DocumentSubType_PaymentOrder;W
+Payroll;Зарплатное отчисление;Відрахування заробітної плати;DocumentSubType_Payroll;W
+Pension contribution;Пенсионное отчисление;Пенсійне відрахування;DocumentSubType_PensionContribution;W
+Social contribution;Социальное отчисление;Соціальне відрахування;DocumentSubType_SocialContribution;W
+P2P;Карточный перевод;Картковий перевод;DocumentSubType_P2P;W
+Email cannot be empty;Электронная почта не может быть пуста;Електронна пошта не може бути пустою;email_cant_be_empty;W
+Incorrect email. use email like: jack@gmail.com;Недействительный емейл адрес . Используйте емейл вида: jack@gmail.com;Недійсний e-mail. Використовуйте e-mail виду: jack@gmail.com;email_dont_match_regex;W
+Phone cannot be empty;Телефон не может быть пустым;Телефон не може бути пустим;phone_cant_be_empty;W
+Incorrect phone. Use the phone like: +38 097 777 7777;Неверный телефон. Используйте телефон вида: +38 097 777 7777;Невіоний телефон. Використовуйте телефон виду: +38 097 777 7777;phone_dont_match_regex;W
+Countries;Страны;Країни;common_countries;W
+publish;Опубликовать;Опублікувати;common_publish;W
+Account/card receiver;Счет/карта зачисления;Рахунок / карта зарахування;credit_card_acc_grid_column;W
+Account/card payer;Счет/карта списания;Рахунок / карта списання;debit_card_acc_grid_column;W
+New password could not match previous %d ones;Новый пароль не может соответствовать предыдущим %d паролям;Новий пароль не може повторювати попередні  %d паролі;passHistoryPolicy;W
+Documents commission;Комисия по платежным документам;Комісія за платіжним дорученням;commission_documents;W
+Calculate commission in banks ABS;Расчет комисии в АБС банка;Розрахунок комісії в АБС Банку;commission_calculate_in_abs;W
+Logo not found;Логотип не найден;Логотип не знайдено;commission_logo_not_found;W
+Logo file name;Имя файла логотипа;Ім'я файлк логотипу;commission_logo_file_name;W
+This letter has already taken in work;Это письмо уже взято в работу;Цей лист уже взято в роботу;common_letter_blocked;W
+Maximum letter body length - 2000!;Максимальная длина - 2000!;Максимальна довжина - 2000!;letter.validation.company.description.max.length;W
+Company person id is not present;Company person id is not present;Company person id is not present;letter.validation.company.person;W
+Letter body can not be empty;Текст письма не может быть пустым;Текст листа не може бути пустим;letter.validation.company.description;W
+Edit Category;Редактировать Категорию;Редагувати Категорію;CodeCategory_EditCategory;W
+Reason of blocking;Причина блокировки;Причини блокування;blocked_reason;W
+Unblock reason;Причина разблокировки;Причина розблокування;unblock_reason;W
+Place ID;ИД города;ID міста;place_id;W
+Custom request;Заявка;Заявка;job_EXPORT_CUSTOM_REQUEST;W
+Custom request state check;Проверка статусов заявок;Перевірка статусів заявок;job_CUSTOM_REQUEST_STATE_CHANGED;W
+Max length 60;Длина не должна превышать 60 символов;Довжина не повинна перевищувати 60 символів;validation.maxLength60;W
+Field could not be empty;Поле не может быть пустым;Поле не може бути пустим;validation.notEmpty;W
+Server-side validation error;Ошибка валидации на стороне сервера;Помилка валідації на боці серверу;default_backend_validation_error;W
+Request;Запрос;Запит;common.request;W
+Save;Сохранить;Зберегти;common.save;W
+Import new client;Импорт нового клиента;Імпорт нового клієнта;organizationsCreate_import;W
+Status in DB;Статус в базе;Статус в базі;common_status_in_db;W
+Wrong document type;Неправильный тип документа;Невірний тип документу;wrongDocumentType;W
+Default;По умолчанию;По замовчуванню;common_default;W
+Customer with such externalId already existed in DB;Организация с таким externalId уже существует в базе;Підприємство з таким externalId вже є в базі;customer.validation.externalId;W
+You don't have enough privileges for this action;У вас недостаточно прав для этой операции;У Вас недостатньо прав для цієї операції;error.accessDenied;W
+Download;Загрузить;Завантажити;common_download;W
+Choose certificate;Выберите сертификат;Виберіть сертифікат;login_choose_certificate;W
+Expiration time;Срок действия;Строк дії;login_expiration_time;W
+No keys available;Нет доступных ключей;Відсутні доступні ключі;login_no_keys;W
+There is no certificate in your key;В вашем ключе отсутствует сертификат;В вашому ключі відсутній сертифікат;login_no_keys_in_cert;W
+Do you want to save the certificate on token?;Желаете сохранить сертификат на токен?;Бажаєте зберегти сертифікат до токену?;common_is_save_cert;W
+Failed to save certificate;Не удалось сохранить сертификат;Не вдалось зберегти сертифікат;login_failed_save_cert;W
+Enter the password for the storage;Введите пароль на хранилище;Введіть пароль до сховища;login_enter_password;W
+The certificate was saved successfully. Enter the password for the storage;Сертификат сохранен успешно. Введите пароль на хранилище;Сертифікат збережено успішно. Введіть пароль до сховища;login_saved_enter_pass;W
+Log;Журнал;Журнал;navigation_requests_title;W
+Communication with clients;Коммуникации с клиентами;Комунікації з клієнтами;navigation_clients_communication;W
+User settings;Настройка пользователей;Налаштування користувачів;navigation_users_settings;W
+Is job active;Задача активна;Завдання активне;jobs.isActive;W
+Manager;Менеджер;Менеджер;letter.chat.manager;W
+Customer;Клиент;Клієнт;letter.chat.customer;W
+Functionality is under development;Функционал в разработке;Функціонал в розробці;functionality_is_under_development;W
+Notify on new letters;Уведомлять о новых сообщениях от пользователей;Повідомити про нові запити від користувачів;email_notification_on_new_letters;W
+Processing...;Обработка...;Обробка;common_await;W
+Min length;Поле должно быть не меньше;Значення повинно бути не менше;common_minLength;W
+Set active/not active;Сделать активным/неактивным;Зробити активним / неактивним;jobs.setActivity;W
+Actions with news;Действия с новостью;Дія з новиною;actions_with_news;W
+Client;Клиент;Клієнт;events_client;W
+Block;Блокировать;Блокувати;common_block;W
+Unblock;Разблокировать;Розблокувати;common_unblock;W
+Valid;Валидный;Валідний;key_ok;W
+Not for document signing;Не для подписания документов;Не для підписання документів;key_not_for_sign;W
+Unknown;Неизвестный;Невідомий;key_unknown;W
+Inactive;Неактивен;Неактивний;key_inactive;W
+Too early for signing;Рано для подписания;Зарано для підпису;key_too_early;W
+Revoked;Отозваный;Відкликаний;key_revoked;W
+Password expiration (min);Время жизни пароля (мин);Термін дії паролю (хв);key_expired;W
+Confirm job deletion?;Подтвердить удаление джоба?;Підтвердити видалення джобу?;jobs.delete.confirmation;W
+Error during job deletions;Ошибка при удалении джоба;Помилка при видаленні джобу;jobs.delete.error;W
+The application for cash in the cash desk is submitted for one working day (transaction day). In the absence of an application, an additional fee of 0.10% of the issued amount is withdrawn.;Заявление на получение наличности в кассе подается за один рабочий (операционный день). В случае отсутствия заявки снимается дополнительная комиссия в размере 0.10% от выдаваемой суммы.;Заявка на отримання готівки в касі подається за один робочий (операційний) день. У випадку відсутності заявки знімається додаткова комісія в розмірі 010% від суми такої видачі;translation_23;W
+Certificate expired or not exist;Сертификат не найден или истек;Сертифікат не знайдено або термін його дії скінчився;login.certificateExpiredOrNotExist;W
+New user warning;Предупреждение нового сотрудника;Попередження нового співробітника;privilege_new_user_warning;W
+Favorite widget view;Просмотр виджета избранное;Перегляд віджету вибране;privilege_favorite_widget_view;W
+BirthDate;Дата рождения;Дата народження;common_birthDate;W
+documen_seria;Серия документа;Серія документу;common_documen_seria;W
+Document number;Номер документа;Номер документу;common_document_number;W
+Post index;Почтовый индекс;Поштовий індекс;common_post_index;W
+Phone is empty;Телефон не заполнен;Телефон не заповнено;error_phone_is_empty;W
+Password can not be equal to phone;Пароль не должен соответствовать телефону;Пароль не може співпадати з номером телефону;error_password_equal_phone;W
+Year or month or day is empty;Год или месяц или день рождения не заполненны;Рік або місяць або день народження не заповнені;error_birthday_empty;W
+Password can not contain birthday;Пароль не может содержать в себе дату рождения;Пароль не може включати в себе дату народження;error_password_can_not_contain_birthday;W
+Password can not be:;Пароль не может быть:;Пароль не може бути:;error_password_can_not_be;W
+Login is empty;Логин не заполнен;Логін не заповнено;error_login_is_empty;W
+Password can not be equal to login;Пароль и логин не должны совпадать;Пароль і логін не повинні співпадати;error_password_can_not_be_equal_login;W
+Password and password confirmation are different;Пароль и подтверждение пароля не одинаковы;Пароль і підтвердження паролю не однакові;error_password_and_confirmation_different;W
+Forbidden for password words;Запрещенные для пароля слова;Заборонені для паролю слова;property_FORBIDDEN_PWD_WORDS;W
+Certificates for mobile;Сертификаты для мобильных;Сертифікати для мобільних;certificate_mobile_delivery;W
+Create request;Создать запрос;Створити запит;profile.createCertificateRequest;W
+Sign request;Подписать запрос;Підписати запит;profile.signCertificateRequest;W
+Unsigned;Не подписан;Не підписаний;common_unsigned;W
+of the month;месяц;Місяць;jobs.of_the_month_postfix;W
+Open / Close CRON manual;Открыть / закрыть CRON - мануал;Відкрити /закрити CRON - мануал;cron_manual.open_close;W
+CRON manual;CRON - мануал;CRON - інструкція;cron_manual.title;W
+Manual for correct cron setup;CRON - мануал для правильной настройки cron;CRON - інструкція для коректного налаштування cron;cron_manual.subtitle;W
+Open CRON manual;Открыть CRON - мануал;Відкрити CRON - мануал;cron_manual.open;W
+Close CRON manual;Закрыть CRON - мануал;Закрити CRON мануал;cron_manual.close;W
+CRON manually input;Ручной ввод CRON;Ручний ввод CRON;cron_manually_input.title;W
+CRON manually input;Ручной ввод CRON;Ручний ввод CRON;cron_manually_input.subtitle;W
+Enter CRON;Введите CRON;Введіть CRON;cron_manually_input.enter_cron;W
+Result CRON:;Результирующий CRON:;Результуючий CRON:;jobs.result_cron;W
+back_to_login;назад к логину;Назад до логіну;back_to_login;W
+Changing phone;Изменение телефона;Зміна телефону;personal_changingPhone;W
+Back;Назад;Назад;common_back;W
+Поле не может начинаться с нуля;Поле не может начинаться с нуля;Значення поля не може починатись з 0 (нуля);error_can_not_start_zero;W
+Поле должно быть 8 или 10 символов;Поле должно быть 8 или 10 символов;Значення повинно мати 8 або 10 символів;error_wrong_tax_code;W
+Дата регистрации документа;Дата регистрации документа;Дата реєстрації документа;document_registration_date;W
+Пояснительная информация;Пояснительная информация;Пояснювальна інформація;explanatoryInfo;W
+Идент. код плательщика, за которого выполняется платеж;Идент. код плательщика, за которого выполняется платеж;Ідентифікаційний код платника, за якого виконується платіж;thirdPartyTaxCode;W
+Код вида расчета;Код вида расчета;Код виду розрахунку;payment_code_type;W
+Серия/№ паспорта;Серия/№ паспорта;Серія / Номер паспорту;serial_passport_number;W
+НДС;НДС;ПДВ;field_vat;W
+Autopayment Rules;Правила автоавторизации платежей;Правила авторизації платежів;autopayment_rules;W
+Denied Payments;Запрещенные платежи;Заборонені платежі;deniedpayment_rules;W
+Create Autopayment Rules;Создание Правила автоавторизации платежей;Створення Правила авторизації платежів ;autopayment_rules_create;W
+Edit Autopayment Rules;Редактирование Правила автоавторизации платежей;Редагування Правила авторизації платежів;autopayment_rules_edit;W
+Delete Autopayment Rules?;Удалить Правило автоавторизации платежей?;Видалити Правило авторизації платежів?;autopayment_rules_delete;W
+Create Denied Payment Rules;Создание Правила запрещенных платежей;Створення правилу заборонених платежів;denied_payment_rules_create;W
+Edit Denied Payment Rules;Редактирование Правила запрещенных платежей;Редагування правила заборонених платежів;denied_payment_rules_edit;W
+Delete Denied Payment Rules?;Удалить Правило запрещенных платежей?;Видалити правило заборонених платежів?;denied_payment_rules_delete;W
+Payer Account Mask;Маска счета плательщика;Маска рахунку платника;payer_account_mask;W
+Recipient Account Mask;Маска счета получателя;Маска рахунку отримувача;recipient_account_mask;W
+Payment type;Тип платежа;Тип платежу;payment_type;W
+internal;внутренний;Внутрішній;payment_type_internal;W
+external;внешний;зовнішній;payment_type_external;W
+Invalid account key;Неверный ключ счета;невірний ключ рахунку;account_InvalidKey;W
+Rule already existed;Правило уже существует;Правило вже існує;error.validation.accounts_pair.existed;W
+Should be fulfilled all necessary translation fields;Должны быть заполнены все обязательные поля;Мають бути заповнені всі обов'язкові поля;error.validation.all_necessary_fields;W
+in;в;в;common.in;W
+Your personal manager;Ваш персональный менеджер;Ваш персональний менеджер;chat.your_manager;W
+is typing;печатает;Друкує;chat.typing;W
+Enter message;Введите текст сообщения;Введіть текст повідомлення;chat.enter_message;W
+Edit day;Редактирование дня;Редагування дня;calendar_EditDay;W
+Editing a calendar;Редактирование календаря;Редагування календаря;calendarEditing;W
+Creating a calendar;Создание календаря;Створення календаря;calendarCreating;W
+Monday;Понедельник;Понеділок;common.monday;W
+Tuesday;Вторник;Вівторок;common.tuesday;W
+Wednesday;Среда;Середа;common.wednesday;W
+Thursday;Четверг;Четвер;common.thursday;W
+Friday;Пятница;П'ятниця;common.friday;W
+Saturday;Субота;Субота;common.saturday;W
+Sunday;Воскресенье;Неділя;common.sunday;W
+Execution date;Дата выполнения;Дата виконання;execution_date;W
+Execution week day;День недели выполнения;День тижня виконання;execution_week_day;W
+Execution month day;День ежемесячного выполнения;День щоденного виконання;execution_month_day;W
+Проверка на операционное время;Проверка на операционное время;Проверка на операционное время;operation_time;W
+Вы отправляете документ в послеоперационное время. Согласно п.5.1.6 Тарифов за рассчетно-кассовое обслуживание клиентов ПАО "Альфа-Банк", за обработку данного документа предусмотрена дополнительная комиссия;Вы отправляете документ в послеоперационное время. Согласно п.5.1.6 Тарифов за рассчетно-кассовое обслуживание клиентов ПАО "Альфа-Банк", за обработку данного документа предусмотрена дополнительная комиссия;Вы отправляете документ в послеоперационное время. Согласно п.5.1.6 Тарифов за рассчетно-кассовое обслуживание клиентов ПАО "Альфа-Банк", за обработку данного документа предусмотрена дополнительная комиссия;error_after_operation_time;W
+Opened;Открытый;Відкритий;ps_Active;W
+Blocked;Заблокирован;Заблокований;ps_Blocked;W
+Closed;Закрытый;Закритий;ps_Closed;W
+Overdue;Просроченный;Прострочений;ps_Overdue;W
+New;Новый;Новий;ps_New;W
+Canceled;Отмененный;Відмінений;ps_Canceled;W
+Completed;Завершенный;Завершений;ps_Completed;W
+Undefined;Неопределен;Не визначен;ps_Undefined;W
+Blocked by credit;Заблоковано кредитом;Заблоковано кредитом;ps_BlockedByCredit;W
+Escrow;Условное депонирование;Умовне депонування;ps_Escrow;W
+Arrested;Арестованный;Арештований;ps_Arrested;W
+Temporary;Временный;Тимчасовий;ps_Temporary;W
+Reserved;Зарезервированный;Зарезервований;ps_Reserved;W
+Open;Открытый;Відкритий;ps_Open;W
+Limited;Лимитированный;Лімітований;ps_Limited;W
+Edit;Редактировать;Редагувати;workflow_actions_Edit;W
+Create copy;Создать копию;Створити копію;workflow_actions_CreateCopy;W
+Print;Печатать;Друкувати;workflow_actions_Print;W
+History;История;Історія;workflow_actions_History;W
+View;Просмотр;Перегляд;workflow_actions_View;W
