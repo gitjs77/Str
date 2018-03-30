@@ -1,0 +1,21 @@
+en;ru;kk;translation_key;output_channel
+keyColumns=translation_key;actionType=modify
+Loading;Загрузка;Тиеу;mobile.loading;M
+Mobile banking;Мобильный банкинг;Мобильді банкинг;mobile.banking;M
+Login to your account;Вход в личный кабинет;Жеке кабинетке;mobile.login;M
+Restore password;Восстановить пароль;Құпия сөзді қалпына келтіру;mobile.remindme;M
+Menu;Меню;Мәзір;mobile.menu;M
+Departments and ATMs;Отделения и банкоматы;Бөлімшелер және банкоматтар;mobile.departments;M
+Capabilities;Возможности;Мөмкіндіктері;mobile.capabilities;M
+About the Bank;О банке;Банк туралы;mobile.about;M
+Map;Карта;Карта;mobile.map;M
+List;Список;Тізім;mobile.list;M
+The field is not filled;Поле не заполнено;Жол толтырылған жоқ;mobile.not_filled;M
+Length of sms code ;Длина СМС кода ;СМС кодтың ұзындығы ;mobile.sms_length;M
+Invalid password!;Неверный пароль!;Дұрыс емес құпиясөз!;mobile.incorrect_password;M
+Telephone number must contain 10 symbols!;Телефон должен состоять из 10 символов!;Телефон 10 таңбадан тұруы керек!;mobile.phone_length_error;M
+It is required to enter valid card expiration date!;Необходимо заполнить валидный срок действия карты!;Картаның валидтік әрекет ету мерзімін толтыру қажет!;mobile.card_expiry_invalid;M
+Invalid IIN!;Неверный ИИН!;Дұрыс емес ЖСН!;mobile.invalid_tax_code;M
+It is required to enter valid number!;Необходимо заполнить валидный номер!;Валидтік нөмірді толтыру қажет!;mobile.card_number_invalid;M
+IIN;ИИН;ЖСН;mobile.common_tax_code;M
+The operation date;Дата операции;Операция күні;mobile.common_value_date;M

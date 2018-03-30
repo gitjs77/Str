@@ -1,0 +1,3130 @@
+﻿"id";"ru";"translation_key"
+1039;Тенге;currency_tenge
+1040;Доллар США;currency_us_dollar
+1041;Евро;currency_euro
+1042;Российский рубль;currency_rub
+1043;Гривня;currency_uah
+1044;Главное меню;page_main_menu
+1045;Обзор;page_review
+1046;Счета;page_accounts
+1047;Депозиты;demand_deposits
+1048;Кредиты;demand_credits
+1049;Корпоративные карты;translation_1
+1050;Личный кабинет;translation_2
+1051;Денежные операции;page_money_transactions
+1052;Платежи;translation_3
+1053;Международные переводы;translation_4
+1054;Перевод между своими счетами;translation_5
+1055;Конвертация;translation_6
+1056;Длительные поручения;translation_7
+1057;Прочие операции;page_other_transactions
+1058;Счета на оплату;translation_8
+1059;Документы на подпись;page_doc_for_signature
+1060;Возвраты;translation_9
+1061;Отзывы платежей;translation_10
+1062;Просмотр;privilege_account_view
+1063;Открыть новый;privilege_account_new
+1064;Остаток по всем счетам;privilege_account_balances
+1065;Закрытые счета;translation_11
+1066;Экспорт в Excel;privilege_account_excel
+1067;История транзакций;privilege_account_history
+1068;Выписка;privilege_account_statement
+1069;Закрыть счет;privilege_account_toClose
+1070;Платеж;privilege_account_payment
+1071;Перевод;privilege_account_transfer
+1072;Просмотр;privilege_deposits_view
+1073;Открыть новый;privilege_deposits_new
+1074;Показать закрытые;privilege_deposits_closed
+1075;Остаток;privilege_deposits_balances
+1076;Заказать выписку;privilege_deposits_statement
+1077;Пополнить счет;privilege_deposits_credit
+1078;Просмотр/Редактирование;privilege_deposits_edit
+1079;История транзакций;privilege_deposits_history
+1080;Закрыть;privilege_deposits_close
+1081;Скрыть;privilege_deposits_hide
+1082;Платеж;privilege_deposits_payment
+1083;Перевести;privilege_deposits_transfer
+1084;Информация и предложения;page_information_offers
+1085;Курс валют;translation_12
+1086;Выписка;translation_13
+1087;Почта;translation_14
+1088;Заявления;page_statements
+1089;История действий;translation_15
+1090;Справочники;page_handbooks
+1091;Общие;page_common
+1092;Мои;page_my
+1093;Просмотр;privilege_credits_view
+1094;Показать закрытые;privilege_credits_closed
+1095;Остаток;privilege_credits_balances
+1096;Новый кредит;privilege_credits_new
+1097;История транзакций;privilege_credits_history
+1098;Заказ выписки;privilege_credits_statement
+1099;Досрочное погашение;privilege_credits_close
+1100;Платеж;privilege_credits_payment
+1101;Скрыть;privilege_credits_hide
+1102;Просмотр;privilege_corpCards_view
+1103;Доступ;privilege_personal
+1104;Просмотр;privilege_finOperations_view
+1105;Просмотр;privilege_payments_view
+1106;Просмотр;privilege_int_transfers_view
+1107;Просмотр;privilege_transfers_view
+1108;Просмотр;privilege_conversion_view
+1109;Просмотр;privilege_standing_orders_view
+1110;Просмотр;privilege_otherOperations_view
+1111;Просмотр;privilege_invoices_view
+1112;Просмотр;privilege_docsSign_view
+1113;Просмотр;privilege_refunds_view
+1114;Просмотр;privilege_reversals_view
+1115;Просмотр;privilege_infoAndSuggestions_view
+1116;Просмотр;privilege_exchangeRate_view
+1117;Просмотр;privilege_statement_view
+1118;Просмотр;privilege_message_view
+1119;Просмотр;privilege_demand_view
+1120;Просмотр;privilege_history_view
+1121;Просмотр;privilege_handbooks_view
+1122;Просмотр;privilege_commonHandbooks_view
+1123;Просмотр;privilege_userHandbooks_view
+1124;Просмотр;privilege_root_view
+1125;Просмотр;privilege_assets_view
+1126;Просмотр;privilege_tasks_view
+1127;Заявка на выпуск;privilege_corpCards_new
+1128;Заявка на перевыпуск;privilege_corpCards_reiss
+1129;Остаток по всем;privilege_corpCards_balance
+1130;Показать закрытые карты;privilege_corpCards_closed
+1131;Детали заблокированной суммы;privilege_corpCards_blocked_details
+1132;История транзакций;privilege_corpCards_history
+1133;Выписка;privilege_corpCards_statement
+1134;Блокирование карты;privilege_corpCards_block
+1135;Перевод/конвертация валюты;privilege_corpCards_transfer
+1136;Пополнение карты;privilege_corpCards_credit
+1137;Создать новый;privilege_payments_add
+1138;Создать новый;privilege_int_transfers_add
+1139;Создать новый;privilege_refunds_add
+1140;Редактировать;privilege_int_transfers_edit
+1141;Создать;privilege_message_add
+1142;Отправить;privilege_message_sent
+1143;Ответить;privilege_message_reply
+1144;Создать;privilege_payment_service_add
+1145;Просмотр;privilege_payment_service_view
+1146;Редактировать;privilege_payment_service_edit
+1147;Экспорт в excel;privilege_history_excel
+1148;Редактировать кредит;privilege_credits_edit
+1149;Редактирование корпоративной карты;privilege_corpCards_edit
+1150;Главное меню;m_root
+1151;Клиентские данные;m_clientdata
+1152;Счета;m_accounts
+1153;Депозиты;m_deposits
+1154;Кредиты;m_credits
+1155;Корпоративные карты;m_corp_cards
+1156;Документы;m_documents
+1157;Календари;m_calendars
+1158;Работа с ОТР токенами;m_otp_tokens
+1159;Организации;m_organisations
+1160;Уполномоченные лица;m_auth_persons
+1161;Управление пользователями;m_management
+1162;Пользователи;m_users
+1163;Менеджеры;m_managers
+1164;История событий;m_event_history
+1165;Сессии пользователей;m_sessions
+1166;Журнал запросов;m_requests
+1167;Просмотр;m_root_view
+1168;Просмотр;m_clientdata_view
+1169;Просмотр;m_account_view
+1170;История;m_account_history
+1171;Просмотр;m_deposits_view
+1172;История;m_deposits_history
+1173;Просмотр;m_credits_view
+1174;История;m_credits_history
+1175;Просмотр;m_corpCards_view
+1176;Заблокированные суммы;m_corpCards_blocked
+1177;История;m_corpCards_history
+1178;Просмотр;m_documents_view
+1179;Просмотр;m_transfers_view
+1180;Просмотр;m_convertion_view
+1181;Просмотр;m_standing_orders_view
+1182;Просмотр;m_cl_orders_view
+1183;Просмотр;m_handbooks_view
+1184;Письма;m_letters
+1185;Новости;m_news
+1186;Конвертация;m_convertion
+1187;Справочники;m_handbooks
+1188;Банковские справочники;m_bank_hb
+1189;Системные справочники;m_system_hb
+1190;Настройка доступов;m_access
+1191;Длительные поручения;m_standing_orders
+1192;Заявления клиентов;m_cl_orders
+1193;Перевод между своими счетами;m_transfers
+1194;Константы;m_constants
+1195;Конструктор заявлений;m_constructor
+1196;Просмотр;m_bank_hb_view
+1197;Редактировать;m_bank_hb_edit
+1198;Просмотр;m_calendars_view
+1199;Создать;m_calendars_add
+1200;Редактировать;m_calendars_edit
+1201;Просмотр;m_system_hb_view
+1202;Редактировать;m_system_hb_edit
+1203;Просмотр;m_constants_view
+1204;Редактировать;m_constants_edit
+1205;Просмотр;m_access_view
+1206;Редактировать;m_access_edit
+1207;Просмотр;m_constructor_view
+1208;Редактировать;m_constructor_edit
+1209;Просмотр;m_management_view
+1210;Просмотр;m_users_view
+1211;Создать;m_users_add
+1212;Редактировать;m_users_edit
+1213;Смена пароля;m_users_password
+1214;Смена статуса;m_users_status
+1215;Просмотр;m_managers_view
+1216;Создать;m_managers_add
+1217;Редактировать;m_managers_edit
+1218;Смена пароля;m_managers_password
+1219;Смена статуса;m_managers_status
+1220;Просмотр;m_events_history_view
+1221;Просмотр;m_sessions_view
+1222;Деактивация;m_sessions_deactivate
+1223;Просмотр;m_requests_view
+1224;Просмотр;m_organisations_view
+1225;Создать;m_organisations_add
+1226;Редактировать;m_organisations_edit
+1227;Удаление;m_organisations_delete
+1228;Просмотр;m_auth_persons_view
+1229;Создать;m_auth_persons_add
+1230;Редактировать;m_auth_persons_edit
+1231;Просмотр;m_otp_tokens_view
+1232;Импорт;m_otp_tokens_import
+1233;Просмотр;m_message_view
+1234;Создать;m_message_add
+1235;Ответить;m_message_reply
+1236;Просмотр;m_news_view
+1237;Создать;m_news_add
+1238;Редактировать;privilege_payments_edit
+1239;Создать;privilege_conversion_add
+1240;Редактировать;privilege_conversion_edit
+1241;Создать;m_constructor_add
+1242;Отправка;m_message_sent
+1243;Онлайн чат;privilege_online_chat
+1244;Просмотр;m_singanurerule_view
+1245;Правила подписи;m_signaturerules
+1246;Создать;m_singanurerule_add
+1247;Редактировать;m_singanurerule_edit
+1248;Удаление;m_singanurerule_delete
+1249;Создать;privilege_transfers_add
+1250;Редактировать;privilege_transfers_edit
+1251;Редактировать статус документов;privilege_workflow_actions
+1252;Выставленные мне счета;page_invoices
+1253;Выставленные мною счета;page_expose_orders
+1254;Просмотр;privilege_invoice_view
+1255;Оплатить;privilege_invoice_pay
+1256;Просмотр;privilege_exposedorders_view
+1257;Создать;privilege_exposedorders_add
+1258;Редактировать;privilege_exposedorders_edit
+1259;Валюта Счета;accountCurrency
+1260;Текст соглашения;agreementText
+1261;Назначение счета;accountPurpose
+1262;Счет;custom_field_account
+1263;Условие Закрытия;custom_field_close_condition
+1264;Номера неиспользованных листов в чековой;custom_field_unused_sheet
+1265;Причина закрытия счета;custom_field_acc_closure_reason
+1266;Вид депозита;custom_field_deposit_type
+1267;Валюта депозита;custom_field_deposit_currency
+1268;Срок депозита;custom_field_loan_term
+1269;Подтверждение;custom_field_confirmation
+1270;Текст Соглашения;custom_field_text_agreement
+1271;Назначение вклада;custom_field_deposit_agreement
+1272;Депозит;custom_field_deposit
+1273;Счет для перечисления;custom_field_account_for_transfer
+1274;Причина закрытия;custom_field_close_reason
+1275;Вид займа;custom_field_loan_type
+1276;Валюта займа;custom_field_loan_currency
+1277;Срок займа;custom_field_loan_term_2
+1278;Сумма Займа;custom_field_loan_amount
+1279;Сканированные копии документов;custom_field_scanned_copies
+1405;Сумма депозитов;depositsSum
+1280;Подтверждение займа;custom_field_confirmation_loan
+1281;Текст соглашения;custom_field_text_agreement_2
+1282;Назнаения займа;custom_field_loan_purpose
+1283;Согласие с условием открытия счета;agreementOpeningAccounts
+1284;Кредит;custom_field_credit
+1285;Сумма погашения;custom_field_maturity_value
+1286;Сумма основного долга;custom_field_principal_debt
+1287;Изменение графика платежа;custom_field_payment_schedule
+1288;Вид карточного продукт;custom_field_type_card_products
+1289;Валюта карты;custom_field_currency_card
+1290;Подтверждение;custom_field_confirmation_2
+1291;Текст соглашения;custom_field_text_agreement_3
+1292;Назначение карты;custom_field_appointment_cards
+1293;Карта;custom_field_card
+1294;Причина перевыпуска;custom_field_reason_reissue
+1295;НАЛИЧНЫЙ;exchange_rate_cash
+1296;БЕЗНАЛИЧНЫЙ;exchange_rate_cashless
+1297;НАЦИОНАЛЬНЫЙ БАНК;exchange_rate_national
+1298;КРОСС;exchange_rate_cross
+1299;Фунт стерлингов;currency_gbr
+1300;Быстрые ссылки;m_quick_link
+1301;Редактировать;m_quicklink_edit
+1302;Перевыпуск сертификатов;m_cert_reissuing
+1303;Загрузка счетов;job_ACCOUNT
+1304;Запрос курсов валют;job_EXCHANGE_RATE
+1305;Запрос состояния документа;job_DOC_STATE_CHANGED
+1306;Международный перевод;job_EXPORT_INTERNATIONAL
+1307;Перевод между своими счетами;page_inner_transactions
+1308;Перевод в национальной валюте;job_EXPORT_DOMESTIC_TRANSFER
+1309;Задачи интеграции;job_group_integration
+1310;Задачи по документам;job_group_documents
+1311;Выставленные счета;job_exposedOrder
+1312;Типы курсов валют;job_CURRENCY_RATE_TYPE
+1313;Регионы;job_REGION
+1314;Интеграция;job_common
+1315;Города;job_CITY
+1316;Уведомления;job_NOTIFICATIONS
+1317;Справочник Российские банки;job_RU_BANK
+1318;Депозиты;job_DEPOSIT
+1319;Виды депозитов;job_DEPOSIT_KIND
+1320;Виды кредитов;job_CREDIT_KIND
+1321;Виды платежей по кредитам;job_CREDIT_PAYMENT_KIND
+1322;Виды карточных продуктов;job_CARD_PRODUCT_KIND
+1323;Виды карт;job_CARD_KIND
+1325;Календарь рабочих дней;job_CALENDAR
+1326;Банкоматы / отделения / терминалы;job_SERVICE_POINT
+1327;Режим работы банкоматов / отделений / терминалов;job_SERVICE_POINT_SCHEDULE
+1328;Создать новый документ;common_createDocument
+1329;Показать остаток по всем счетам;common_showBalance
+1330;Перейти на;notFound_go_to_the
+1331;Неверный логин или пароль;login.IncorrectLoginOrPassword
+1332;Валидные ключи отсутствуют;docSigning_noValidKeys
+1333;Экспорт в 1C;domestic_documentExport1c
+1334;Дата начала действия должна предшествовать дате окончания;exchangeRate.date.conflict
+1335;Согласие с условием открытия счета;demandCreate_agreeWithCondition
+1336;ИИН повторяется;paymentOrder_taxCodeRepeated
+1337;ошибка в;common_error_in
+1338;Message:;error.message
+1339;Ошибка ввода;common_InputError
+1340;Укажите логин;login_enter_login
+1341;Пароль;login_factor_Password
+1342;Идентификатор Пользователя(Id в системе);EventsExcelCreator.ExecutorId
+1343;Вход в систему;login_title
+1344;Тип справочника;global_settings.constants.table.col.handbook_type
+1345;Максимальная длина 1000 символов!;global_settings.constants.validation.max.1000
+1346;"1 депозит выбран";oneDepositIsSelected
+1347;Документ номер;upload_docNumber
+1348;Сделать видимым;common_makeVisible
+1349;Неверный текущий пароль;personal_incorrectCurrentPass
+1350;За месяц;common_forMonth
+1351;Продажа Наличный;CASH_SALE
+1352;ФИО;EventsExcelCreator.ExecutorName
+1353;Your request cannot be processed;error.title
+1354;Возникла ошибка при подписи документа;signature.signError
+1355;Код назначение платежа;common_purposeCode
+1356;Ваш профиль удален;login.ProfileDeleted
+1357;Название фактора авторизации;authfactor_name
+1358;Неверный смс пароль;login.IncorrectSMSPassword
+1359;Отправить в банк;paymentOrder_sentToBank
+1360;Подпись не требуется;signature.signIsNotRequired
+1361;Логин;UsersExcelCreator.Login
+1362;ФИО;EventsExcelCreator.SubjectName
+1363;налоговый код бенефициара;common_benefTaxCode
+1364;Показать сертификат;companyperson_certificate_display
+1365;Остаток по всех счетах;common_balanceByAllAccounts
+2002;Новое;common_new_mail
+1366;Детали корпоративной карты;corporateCardDetails
+1367;Активен;organization.active
+1368;Скрыть закрытые счета;common_hideClosedAccounts
+1369;Просрочен;common_overdue
+1370;Настройки фильтра сообщений;letterFilterSettings
+1371;Покупка Безналичный;CASHLESS_PURCHASE
+1372;Пользователь не определен;workflow_userNotDetected
+1373;Счет отправителя и счет получателя не должны быть одинаковыми;paymentOrder_dontDuplicateAccount
+1374;Открыть депозит;common_openDeposit
+1375;Импорт документов из 1с;common_documentImport1c
+1376;назначение платежа;common_purpose
+1377;Вид документов;common_kindDocument
+1378;Разблокировка;unblocking
+1379;Сохранить Документ;common_saveDocument
+1380;Выберите хранилище ключей;docSigning_chooseProfile
+1381;Минимальная длина 6 символов;auth.opt.token.min_length
+1382;Общий размер файлов не должен превышать;common_totalFileSizeShouldNotExceed
+1383;Сумма всех неисполненных платежей;nonOutstandingPayments
+1384;Международный почтовый индекс;common_intZip
+1385;Наличные;CASH
+1386;Получить ключи;docSigning_loadKeys
+1387;Организации;excel.organizations
+1388; депозитов выбрано;depAreSelected
+1389;Неработоспособность;IsInoperability
+1390;Персональная страница;personal_index
+1391;Выставленные мной счета список;exposeOrder.list
+1392;Создать контрагента;counterparty_create
+1393;Номер счета повторяется;counterparty_accountNumberRepeated
+1394;Чтобы войти в систему, нажмите;errorpage419_message
+1395;Покупка;PURCHASE
+1396;Подписание документа;docSigning_title
+1397;Добавить счет;counterparty_addAccount
+1398;Последнне продление;sessions_valid_to
+1399;Просмотр/редактирование контрагента;counterparty_edit
+1400;Кросс-курс;CROSS
+1401;Логин должен быть меньше 10 символов;login_login_req
+1402;Закрыть фильтр;requests_closefiler
+1403;По логину;login__passwordtab
+1404;Войти по логину и паролю;login_enter_loginpass
+1406;Календарь обновлён!;calendarIsUpdated
+1407;Пользователи;UsersExcelCreator.Title
+1408;Sorry, an error has occurred.;error.subtitle
+1409;Ответ;answer
+1410;Справочник: Локальные банки;banks_handbookLocalBanks
+1411;Пользователь с таким логином уже существует;common.validation.creation.customer.id.exist
+1412;Профили отсутствуют;docSigning_noValidProfiles
+1413;Работа с ОТП токенами;navigation_otp
+1414;Детали;common_detail
+1415;Код страны/Страна:;counterparty_countryCodeCountry
+1416;Назад;back
+1417;Перетяните сюда файл с отп токенами или кликните для вибора файла;otp.import.downloadArea
+1418;Безналичный продажа;exchangeRates_cashlessSale
+1419;Расширенный фильтр;common_full_search
+1420;Создать новый канал;createNewChannel
+1421;"1 счёт выбран";common_oneAccountSelected
+1422;Канал;EventsExcelCreator.Channel
+1423;Создать заявление на отзыв платежа;withdraw_create
+1424;Дата;withndraw_doc_date
+1425;Ещё новости;moreNews
+1426;Дополнительная аутентификация;additionallogin_title
+1427;Не более;noMore
+1428;Закрыть депозит;common_closeDeposit
+1429;Заблокированная сумма;blockedAmount
+1430;Календарь сохранён!;calendarIsSaved
+1431;Управления задачами;navigation_job_management
+1432;Введите пароль;docSigning_inputPassword
+1433;Дейсвия с письмом;letterActions
+1434;Просмотр и редактирование Банкомата/отделения/терминала;viewingEditingAtmBranchTerminal
+1435;Не оплачен;document.state.Accepted
+1436;Доступность в чате;managerView_isChat
+1437;Состояние документа финальное;workflow_stateisfinal
+1438;Международное;international
+1439;Города;cities
+1440;Просмотр организации;viewingOrganization
+1441;БИК/SWIFT Банка;counterparty_bankCode
+1442;Заголовок;header
+1443;Доходы и расходы;incomeAndExpenses
+1444;Новости банка;bankNews
+1445;ОБщая ошибка печати документов;document.printError.general
+1446;Получено;received
+1447;Не назначена пользователем;personal_noDefault
+3493;Печать;paymentOrder_print
+1448;Скрытые депозиты;hiddenDeposits
+1449;#;line.number.table.header
+1450;Список заявлений;demand.list
+1451;Кросс-курс безналичный;CASHLESS_CROSS_COURSE
+1452;Создание канала;creatingChannel
+1453;Счет не принадлежит текущей организации;common_The_account_does_not_belong_to_the_current_organization
+1454;Свернуть;common_rollUp
+1455;Национальный банк Республики Казахстан;NBRK
+1457;Неверная попытка. Количество оставшихся попыток: {};otp.fail_attempt.limit
+1458;Справочник не выбран!;global_settings.constants.validation.no_handbook_selected
+1459;Не найдена наша организация;common_cantFindCustomer
+1460;Показать остаток по всех картах;showAllCardsBalance
+1461;Дата платежа;paymentDate
+1462;Должен присутствовать идентификатор валюты;exchangeRate.currency.id.mustExists
+1463;Версия операционной системы, браузера;events_osversion
+1464;Счета контрагента;counterparty_accounts
+1465;Текущая организация не является владельцем документа;currentCustomerIsNotDocumentOwner
+1466;Скрыть остаток по всех кредитам;hideAllCreditsBalance
+1467;Электронная цифровая подпись;signature
+1468;Цифровая подпись успешно прошла проверку;signature.valid
+1469;Максимальная длина 8 символов;auth.opt.token.max_length
+1471;Удален;jobs.is_deleted
+1472;Реквизиты контрагента;counterparty_requisites
+1473;Это шаблон;document.isTemplate
+1474;Цифровая подпись не прошла проверку;signature.invalid
+1475;Прикрепление цифровой подписи;docSigning_attaching
+1476;На ваш телефон отправлена смс;login_sms_send
+1477;Роли;navigation_roles
+1478;Неправильный пароль или внутренняя ошибка;docSigning_errorText
+1479;Выбор элементов;choosingItems
+1480;Скрыть закрытые карты;hideClosedCards
+1481;Dear {0};email.activation.greeting
+1482;Показать остаток;showBalance
+1556;Просмотр страны;countryViewing
+1483;Пароль не должен быть пустым;common.validation.password.required
+1484; депозита выбрано;depositsAreDelected
+1485;Просмотр/редактирование международного перевода валюты;intTransfer_viewEdit
+1486;Название;page_pagename
+1487;код бенефициара;common_benefBankCode
+1488;Имя;UsersExcelCreator.Name
+1489;Просмотр локального банка;banks_viewLocalBank
+1490;Хранилище ключей;docSigning_profile
+1491;Показать закрытые счета;common_showClosedAccounts
+1492;Чтобы войти в систему, нажмите;errorpage418_message
+1493;Продажа;SALE
+1494;Автентификация по токену Вам не доступна;otp.otp_auth_not_allowed
+1495;Формат файла;fileFormat
+1496;Действия;organizations_operations
+1497;Константы;global_settings.constants.table.name
+1498;Действие;EventsExcelCreator.Action
+1499; счетов выбрано;common_accsSelected
+1500;Статус;UsersExcelCreator.Status
+1501;ibank Team.;email.signature
+1502;При входе по логину и паролю доступен только информационный сервис;login_alert
+1503;Сохранить сотрудников;paymentOrder_saveEmployees
+1504;Логическое значение;global_settings.constants.logical_value
+1505;Dear {0};email.reset.greeting
+1506;Вы используете технологический ключ. Перевыпустить на год?;reissuanceMessage
+1507;Алгоритм;algorithm
+1508;Суммарный остаток;sum_balance
+1509;История;paymentOrder_history
+1510;Такое назначение платежа уже существует;paymentOrder_purposeAlreadyExist
+1511;Ошибка при установки полей;Error_in_setFields
+1512;На просрочке;ps_Overdie
+1513;Дата;EventsExcelCreator.EventDateTime
+1514;ИД валюты должно быть цифрой;exchangeRate.currency.id.mustBeNumeric
+1515;здесь;notFound_here
+1516;Отсутствуют факторы авторизации;signature.noAuthFactors
+1517;БИК международный;bikInt
+1518;Выбранный файл;common_selectedFile
+1519;ibank account activation;email.activation.title
+1520;Роль используется;role_roleUsed
+1521;Список отзывов документов;documentWithdrow.list
+1522;Нацбанк;NB
+1523;Мб;Mb
+1557;Returns;navigation_refunds
+3902; месяца;months
+1524;Ваша учетная запись временно заблокирована! Ожидаемое время активации учетной записи, мин;login.ProfileIsNotActive
+1525;Regards,;email.reset.text2
+1526;For your ibank account a password reset was requested, please click on the URL below to reset it:;email.reset.text1
+1527;Введите имя получателя или счет;invoice_search
+1528;Поиск по наименованию или номеру счета;common_searchNameNumber
+1529;Документ без ошибок;Document_does_not_has_error
+1530;Ключ;docSigning_Key
+1531;Сумма кредитов:;credit_creditsSum
+1532;Просмотр/редактирование Перевода между своими счетами / Конвертации валюты;paymentOrder_viewEditAccountTransfer
+1533;Скачивайте мобильный банкинг;login_mobile
+1534;Текущая организация не является владельцем документа;signature.orgNotOwnerDoc
+1535;Копировать заявление;demandCreate_repeat
+1536;Назначение платежа не должно превышать 420 символов;paymentOrder_lessThen420Symbols
+1537;Вы уже вошли в систему;login.UserAlreadyLoggedIn
+1538;Максимальная длина 500 символов!;global_settings.constants.validation.max.500
+1539;Your ibank account has been created, please click on the URL below to access it:;email.creation.text1
+1540;Наличный продажа;exchangeRates_cashSale
+1541;Развернуть;common_Expand
+1542;В данном состоянии документа подпись невозможна;signature.cantBeSigned
+1543;Список документов;document.list
+1544;Счета выставленные мне;InvoiceOrder.list
+1545;Просмотр транзакции;transactionsViewing
+1546;Импорту XML файлов для OTP;otp.screen.import.title
+1547;Двухбуквенный код;twoLetterCode
+1548;Общие;rolePermissions_common
+1549;Дополнительная проверка по;common_additionalCheckingBy
+1550;Дополнительный аккаунт;additionalAccount
+1551;Predefined value;global_settings.constants.predefined_value
+1552;Просмотр заявления;demandCreate_ViewDemand
+1553;Новый пароль введен не правильно;login.NewPasswordIncorrect
+1554;Показать остаток по всех кредитам;showAllCreditsBalance
+1555;Номер;invoice_number
+1558;Не правильный формат пароля;common.validation.password.pattern
+1559;Скрыть закрытые депозиты;hideClosedDeposits
+1560;Логин;sessions_login
+1561;Имя шаблона;document.templateName
+1562;Безналичный;CASHLESS
+1563;Удалить текущее поле;createDemandType_deleteCurrentField
+1564;конец;ENDLowerCase
+1565;Комментарий;EventsExcelCreator.Comment
+1566;Покупка Наличный;CASH_PURCHASE
+1567;Войти по ЕЦП;login__signaturetab
+1568;Отзыв документа;withdraw_doc
+1569;Перевод;transfer
+1570;Даты не должны быть одинаковыми;exchangeRate.date.same
+1571;Пропустить и войти;login_skipandlogin
+1572;Your ibank account has been created, please click on the URL below to activate it:;email.activation.text1
+1573;Regards,;email.activation.text2
+1574;Начать чат;startChat
+1575;Не заполнен ИИН сотрудника;common_taxCodeIsEmpty
+1576;Справочник: Страны;handbookCountries
+1577;Код резидента бенефициара;common_benefResidencyCode
+1578;Введите сообщение;enterMessage
+1579;Все счета выбраны;common_allAccountsSelected
+1580;Меню менеджера;navigation_menutree_manager
+1581;Создать заявку на открытие счёта;common_applyNewAccount
+1582;Отменен;common_canceled
+1583;Создать письмо;letterCreate
+1584;ОТП;login_factor_Generator
+1585;Неверная попытка;otp.fail_attempt
+1586;Скрыть остаток по всем счетам;common_hideBalance
+1587;Просмотр деталей;banks_localBankOperations
+1588;в;common_in
+1589;IP;EventsExcelCreator.Terminal
+1590;Назначение платежа не изменилось;paymentOrder_paymentHasNotChanged
+1591;Импорт завершен;common_imported
+1592;Просмотр письма;letterViewing
+1593;Сертификат;companyperson_certificate
+1594;Выставленный мне счет;invoice_view_title
+1595;История сообщений;messageHistory
+1596;Удалить шаблон;common_deleteTemplates
+1597;Главная страница;notFound_main_page
+1598;Действия;paymentOrder_paymentPurposeOperations
+1599;ИД валют должны быть разными;exchangeRate.currency.id.same
+1600;Нет записей для экспорта;jobs.exportToExcel.emptyList
+1601;Безналичный покупка;exchangeRates_cashlessPurchase
+1602;Редактировать;company.persons.change
+1643;Мб;common_MB
+1603;поле не заполнено -;common_field_is_empty
+1604;Status:;error.status
+1605;Вы должны предоставить действительные данные!;valid.data.shouldExists
+1606;Роли;companyperson_roles
+1607;Правило подписи не найдено;workflow_signatureRuleNotFound
+1608;Скрыть закрытые кредиты;hideClosedCredits
+1609;Продажа Безналичный;CASHLESS_SALE
+1610;есть ошибки;common_has_error
+1611; счёта выбрано;common_accountsSelected
+1612;Статус документа не определен;workflow_statusNotFound
+1613;Закрытые депозиты;showClosedDeposits
+1614;Список валютных контрактов;counterparty_contractsList
+1615;Неверный тип файла. Допустимы;wrongFileType
+1616;Импорт документа;common_documentImport
+1617;Справочник полномочий;menutree_title
+1618;Личный кабинет;navigation_personalOffice
+1619;ibution=Просмотр/редактирование Пенсионноого отчисления;paymentOrder_viewEditPensionContr
+1620;Версия операционной системы, браузера;EventsExcelCreator.Osversion
+1621;Завершен;common_completed
+1622;Дата документа;invoice_date
+1623;Импорт ОТП токенов;navigation_otp.import
+1624;Трехбуквенный код;threeLetterCode
+1625;Отправить на подпись;paymentOrder_sendForSignature
+1626;Хранилища не найдены;docSigning_errorKeyList
+1627;Дата чата;chatDate
+1628;Переход не найден;workflow_actionNotFound
+1629;Необходимо указать идентификатор;id.shouldExists
+1630;Создать Шаблон;common_createTemplate
+1631;Id пользователя должно быть пустым;common.validation.creation.customer.id
+1632;Статус с таким кодом уже существует;statusWithSameCodeAlreadyExists
+1633;Company person is not visible for this manager;letter.validation.invalid.company.person
+1634;Создать новый статус;createNotificationType
+1635;Скрыть остаток по всех картах;hideAllCardsBalance
+1636;Поле руководитель пустое;common_director_is_empty
+1637;Дублирующиеся Бин сотрудников;common_duplicateEmployeeTaxCode
+1638;Действия;cardOperations
+1639;Ответ на письмо;letterReply
+1640;За неделю;common_forWeek
+1641;Заблокировать в УЦ;vc_block
+1642;Сохранить получателя;paymentOrder_saveCounterparty
+1644;Настройки;navigation_settings
+1645;текущее значение сохранено;CreateDemandType_curentItemSaved
+1646;Действия;invoice_operations
+1647;Показать закрытые кредиты;showClosedCredits
+1648;Добавить валютный контракт;counterparty_addContract
+1649;Выберите валюту платежа;intTransfer_chooseCurrency
+1650;Все документы выбраны;allDocsSelected
+1651;Счета организации(Номер счета);accTransfer_accounts
+1652;За сегодня;common_forDay
+1653;Вы действительно хотите удалить назначение платежа;paymentOrder_deletePaymentPurpose
+1654;Оплачен;document.state.Paid
+1655;Документ не найден;workflow_docNotFound
+1656;Токен заблокирован;otp.otp_token_blocked
+1657;ibank password reset;email.reset.title
+1658;Скрыть остаток;hideBalance
+1659;Детальнее/Редактировать;accTransfer_detailEdit
+1660;Выберите ключ;docSigning_chooseKey
+1661;Срок до;termTo
+1662;Признак блокировки;organization.grid.column.blocked.status
+1663;Максимальная длина 255 символов!;global_settings.constants.validation.max.255
+1664;Наличный покупка;exchangeRates_cashPurchase
+1665;Произошла ошибка во время парсинга файла в строке -;ImportPaymentExeption_error_while_parsing_in_line
+1666;Счет повторяется;paymentOrder_accountRepeated
+1667;История событий;EventsExcelCreator.Events
+1668;Создание типа уведомления;creatingNotificationType
+1669;КНП;invoice_knp
+1670;Войти с помощью отпечатка пальца;login_byfingerprint
+1671;ФИО;fio
+1672;Время;common_time
+1673;Купюрность;denomination
+1674;сумма снятия наличных денег меньше 2 миллионов казахстанских тенге или 20 тысяч долларов США или 15 тысяч  евро;demand_cash_validation_failed_message
+1675;валютирования меньше текущей;common_lessThenCurrent
+1676;между ;jobs.between
+1677;и ;jobs.and
+1678;месяцем;jobs.of_the_month
+1679;Японская йена;currency_jap
+1680;уведомлений;notifications_notifications
+1681;Заказ наличности;actions_DemandCash
+1682;Заказ наличности;navigation_Cash
+1683;Не активна;jobs.isNotActive
+1859;Описание;common_operation_desc
+1684;Просмотр/редактирование;edit_exposed
+1685;Создание счета;create_exposed
+1686;Китайский юань;currency_chin
+1687;На подтверждение;action_sendForConfirmation
+1688;Текущий;acc_current
+1689;Депозитный;acc_deposit
+1690;Кредитный;acc_credit
+1691;Карточный;acc_card
+1692;Валюты счетов не должны различатся;error_differentCurrency
+1693;Пароль не должен соответствовать логину;customeruser_passwordeqlogin
+1694;Пользователь с таким логином уже существует;customeruser_alreadyexist
+1695;Пользователь не найден;customeruser_notfound
+1696;Язык поумолчанию;clear_notification_defaultLanuage
+1697;Raiffeisen Bank International AG;EUR_CORRESPONDENT_BANK_NAME
+1698;ООО «Экспобанк», Россия;USD_CORRESPONDENT_BANK_NAME
+1699;ООО «Экспобанк», Россия;GBP_CORRESPONDENT_BANK_NAME
+1700;ООО «Экспобанк», Россия;RUB_CORRESPONDENT_BANK_NAME
+1701;ООО «Экспобанк», Россия;CHF_CORRESPONDENT_BANK_NAME
+1702;Восстановление пароля;login_recovery
+1703;АО «Банк ЭкспоКредит»;KZT_BANK_NAME
+1704;Открытие Счета;OpenAccount
+1705;Выдача займа;OpenCredit
+1706;досрочное погашение кредита;CloseCredit
+1707;выпуск карты;CreateCard
+1708;Перевыпуск карты;ReCreateCard
+1709;Запрещена отмена публикации если уже есть созданные заявления в базе;customRequestType.unpublishedError
+1710;Здесь будет находится текст соглашения, многострочная часть;translation_18
+1711;Изменение суммы выплаты с сохранением срока займа-Изменение срока займа с сохранением суммы выплаты;translation_19
+1712;Закрытие счета возможно только при отсутствии денежных средств на счете;translation_20
+1713;Подтверждение о согласии с условиями открытия вклада;translation_21
+1860;Мужской;Male
+1861;Женский;Female
+1714;Подтверждение о согласии с условиями выпуска карты;translation_22
+1715;Швейцарский франк;currency_frank
+1716;"Акционерное общество ""AsiaCredit Bank (АзияКредит Банк)""";bank_owner_full_name
+1717;Одно из значений для локализации не заполнено;constant.validation.multi.value.empty
+1718;Commerzbank AG, Frankfurt am Main, Germany;EUR_CORRESPONDENT_BANK_NAME_1
+1719;Raiffeisen Bank International A.G. Vienna, Austria;EUR_CORRESPONDENT_BANK_NAME_2
+1720;ALFA-BANK;USD_CORRESPONDENT_BANK_NAME_1
+1721;KAZKOMMERTSBANK, ALMATY, KZ;USD_CORRESPONDENT_BANK_NAME_2
+1722;Halyk Saving Bank Kazakhstan,  ALMATY,  KZ;USD_CORRESPONDENT_BANK_NAME_3
+1723;SBERBANK;RUB_CORRESPONDENT_BANK_NAME_1
+1724;ALFA-BANK. МОСКВА. РОССИЯ;RUB_CORRESPONDENT_BANK_NAME_2
+1725;Commerzbank A.G.;GBP_CORRESPONDENT_BANK_NAME_1
+1726;Commerzbank A.G.;CHF_CORRESPONDENT_BANK_NAME_1
+1727;INDUSTRIAL AND COMMERCIAL BANK OF CHINA, BEIJING, CHINA;CNY_CORRESPONDENT_BANK_NAME_1
+1728;INDUSTRIAL AND COMMERCIAL  BANK OF CHINA,  ALMATY,  KZ;CNY_CORRESPONDENT_BANK_NAME_2
+1729;"АО ""AsiaCredit Bank (АзияКредит Банк)""";property_asia_bank
+1730;"Акционерное общество ""BANK EXPOCREDIT (БАНК ЭКСПОКРЕДИТ)""";translation_24
+1731;"АО ""Bank Expocredit (Банк Экспокредит)""";translation_25
+1732;Default X Bank;translation_26
+1733;Задача активна;isActive
+1734;Пн;short_MONDAY
+1735;Вт;short_TUESDAY
+1736;Ср;short_WEDNESDAY
+1737;Чт;short_THURSDAY
+1738;Пт;short_FRIDAY
+1739;Сб;short_SATURDAY
+1740;Вс;short_SUNDAY
+1741;Нерабочие дни;days_off
+1742;Круглосуточно;work_24_hours
+1743;Значение(одно из значений) заполнено неверно;constant.validation.multi.value.invalid
+1744;НДС;VAT_CODE
+1745;Национальные валюты;CURRENCY_CODE
+1746;Окно синхронизации ОТП токена;LOOK_AHEAD_RESYNCHRONIZATION_WINDOW
+1747;Длина пароля ОТП токена;OTP_TOKEN_LENGTH
+1748;Максимально количество неверных попыток ОТП токена;INCORRECT_ATTEMPTS
+1749;Полное наименование;FULL_BANK_NAME
+1750;Сокращённое наименование;SHORT_BANK_NAME
+1751;БИК;property_BIK
+1752;БИН;property_BIN
+1753;КБЕ;property_KBE
+1754;Код ОКПО;property_OKPO_CODE
+1755;Юридический адрес;property_BANK_ADDRESS
+1756;минимальная длина логина;property_MIN_LOGIN_LENGTH
+1757;максимальная длина логина;property_MAX_LOGIN_LENGTH
+1758;минимальная длина пароля;property_MIN_PWD_LENGTH
+1759;максимальная длина пароля;property_MAX_PWD_LENGTH
+1760;требуемые символы для пароля;property_ALLOWED_PWD_SYMBOLS
+1761;глубина истории паролей;property_PWD_HISTORY_DEEP
+1762;колличество неверных попыток паролей;property_PWD_INCORRECT_ATTEMPTS
+1763;срок действия пароля;property_PWD_LIFE
+1764;колличество дней до уведомления пользователя об окночании срока пароля;property_PWD_NOTIFICATION
+1765;Тип файла;property_FILE_TYPE
+1766;Размер файла Мб;property_FILE_SIZE
+1767;Продолжительность сессии, c;property_SESSION_TIME
+1768;Profile;property_PROFILE
+1769;ProfilePassword;property_PROFILE_PASSWORD
+1770;ManagerSN;property_KEY_SERIAL_NUMBER
+1771;Количество сессий;property_SESSION_AMOUNT
+1772;Default tariff;property_DEFAULT_TARIFF
+1773;Размер тела письма;property_LETTER_BODY_SIZE
+1774;Длительность актуальности новости;property_NEWS_ACTUALITY
+1775;Период валютирования платежей (максимальное колличество дней);property_MAX_VALUE_DAYS
+1776;URL шины банка;property_INTEGRATION_ABS_URL
+1777;Логин доступа к шине банка;property_INTEGRATION_ABS_LOGIN
+1778;Пароль доступа к шине банка;property_INTEGRATION_ABS_PASSWORD
+1779;Срок действия смс-кода;property_SMS_VALID_PERIOD
+1780;Сообщение о получении кода для входа в интернет-банкинг;translation_27
+1781;Сообщение о получении кода для подтверждения документа;translation_28
+1782;Сообщение о получении кода для подтверждения смены пароля;translation_29
+1783;Фиксированый КНП при конвертации валюты (покупка валюты);translation_30
+1784;Фиксированый КНП при конвертации валюты (продажа валюты);translation_31
+1785;Фиксированое назначение платежа при внутренних платежах (перевод со счета на счет в одной валюте);translation_32
+1786;Срок действия смс-кода;translation_33
+1787;SMPP HOST;translation_34
+1788;SMPP PORT;translation_35
+1789;SMPP USER;translation_36
+1790;SMPP PASSWORD;translation_37
+1791;SMPP TON;translation_38
+1792;SMPP NPI;translation_39
+1793;Время блокировки;property_USER_BLOCK_TIME
+1794;Ваша учетная запись была заблокирована администратором банка. Для уточнения деталей обратитесь в банк.;login.adminBlock
+1795;Логин не должен быть из списка;errorLoginFromList
+1796;Превышено колличество ввода неверных паролей! Ваша учетная запись временно заблокирована!;login_morePass
+1797;Логин и пароль не должны совпадать;passNotTheSame
+1798;Пароль должен быть меньше;passLessPass
+1799;Пароль должен быть больше;passMorePass
+1800;Отправитель не найден с ИИН;mt_sender_invalid_inn
+1801;дата валютирования должна быть больше или равна текущей дате;mt_invalid_value_date
+1802;МТ100: неверный PSO;mt_invalid_pso
+1803;МТ100: неверный VO;mt_invalid_vo
+1804;валюта денег должна быть KZT;mt_invalid_currency
+1805;не пренадлежыт кастомеру с ИИН;acc_not_for_inn
+1806;итоговая сумма не совпадает;mt_invalid_result_amount
+1807;Нарушена структура;mt_invalid_structure
+1808;Невозможно использовать последние;passDepth
+1809;паролей;passDepthPass
+1810;Создание пароля;login_passCreation
+1811;Филиал в г.Атырау;sp_Branch_Atyrau
+1812;Филиал в г.Астана;sp_Branch_Astana
+1813;Филиал в г.Алматы;sp_Branch_Almaty
+1814;Завершенная;ct_Completed
+1815;Заблокированная;ct_Blocked
+2003;Прочитано;common_read
+1816;Курс покупки не может быть равен курсу продажи;exchangeRate.equal.amount
+1817;ExchangeRateDTO is null;exchangeRateDTO.null
+1818;Размер темы письма;translation_43
+1819;Внутренняя ошибка! Попробуйте отправить письмо позже;message_sending_error
+1820;Редактировать аккаунт;privilege_account_edit
+1821;Загрузка карт;translation_45
+1822;Все статусы;user_status_all
+1824;Ожидающие подписания;user_status_awaits_signature
+1825;Ожидающие отправку;user_status_waiting
+1831;Черновик;state_draft
+1832;Ожидает подписи;state_awaitssignature
+1834;Отправлен в ДБО;state_senttorbs
+1838;Отозван;state_revoked
+1839;Отозван;state_paid
+1840;Отказан;state_refused
+1843;К оплате;state_pay
+1844;Возврат от банка получателя;state_return
+1845;Шаблон длительного поручения;state_standing
+1846;Отправленные в банк;user_status_sendtobank
+1847;Приостановлен;user_status_suspended
+1848;Выписка по картам;translation_40
+1849;Загрузка кредитов;translation_41
+1850;Загрузка организаций;translation_42
+1851;ИД события;event_id
+1852;Загрузка локальных банков;job_LOCAL_BANK
+1853;Загрузка иностранных банков;job_BANK
+1854;Загрузка кодов назначения платежа;job_PAYMENT_CODE
+1855;Загрузка кодов бюджетной класификации;job_BUDGET_CLASSIFICATION_CODE
+1856;Загрузка кодов бенефициара;job_BENEFICIARY_CODE
+1857;Генерация регулярных платежей;job_STANDING_ORDERS
+1858;Получения данных графика погашения по кредитному договору за выбранный клиентом период;job_CREDIT_SCHEDULE
+1862;Глубина выписки по счету (дни);account_stm
+1863;Глубина выписки по карте (дни);card_stm
+1864;Клиент с таким БИН/ИИН не найден;bin_not_found
+1865;Название поля;provider_service_field_name
+1866;Хинт;provider_service_hint
+1867;Маска поля;provider_service_field_mask
+1868;Регулярное выражение;provider_service_regex
+1869;Мин значение поля;provider_service_min_field_value
+1870;Макс значение поля;provider_service_max_field_value
+1871;Индекс поля;provider_service_field_index
+1872;Создание услуги;provider_service_create_service
+1873;Редактирование услуги;provider_service_edit_service
+1874;Название категории;provider_service_category_name
+1875;Максимальная сумма платежа;provider_service_max_amount
+1876;Минимальная сумма платежа;provider_service_min_amount
+1877;Размер комиссии;provider_service_commission_amount
+1878;Ссылка на файл с логотипом усдуги;provider_service_logo_reference
+1879;Список регионов;provider_service_regions_list
+1880;Список городов;provider_service_cities_list
+1881;Шаблон назначения платежа;provider_service_purpose_template
+1882;Адрес OCSP сервера;property_EDS_URL_OCSP
+1883;Адрес LDAP сервера;property_EDS_URL_LDAP
+1884;Адрес WebRA сервера;property_EDS_URL_WEBRA
+1885;Тип устройства по-умолчанию;property_EDS_DEFAULT_DEVICE
+1886;Профиль по-умолчанию;property_EDS_DEFAULT_PROFILE
+1887;Номер телефона для отправки пароля не найден!;phone_notFound
+1888;Адрес где хранятся все логотипы услуг провайдеров;property_service_constant_logo_url
+1889;Авторизация не возможна. Попробуйте через 5 минут.;smsSenderError
+1890;Загрузка типов документов удостоверяющих личность;job_DOCUMENT_IDENTITY
+1891;Дочерняя организация Акционерное общество Банк ВТБ (Казахстан);VTB_FULL_BANK_NAME
+1892;ДО АО Банк ВТБ (Казахстан);VTB_SHORT_BANK_NAME
+1893;Имя шаблона не может быть пустым;document_templateNameIsNotNull
+1894;Неправильная длина поля;wrong_length
+1895;{0} kod pidtverdzhennia avtorizatsii dijnyj do {1};login.newPasswordSMS
+2177;Kw.rambler.ru, ;ps_130
+1896;Podtverzhdenie dokumenta. Kod podtverzhdeniya: {0}. Nikomu ne govorite kod!;document_confirmationSMS
+1897;Podtverzhdenie {0} dokumentov. Kod podtverzhdeniya: {1}. Nikomu ne govorite kod!;document_confirmationSMSgroup
+1898;Неопределен;ps_Undefined
+1899;THE BANK OF NEW YORK MELLON;VTB_USD_CORRESPONDENT_BANK_1
+1900;JSC VTB Bank, Moscow, Russia;VTB_USD_CORRESPONDENT_BANK_2
+1901;VTB Bank (Deutschland) AG, Frankfurt am Main;VTB_EUR_CORRESPONDENT_BANK_1
+1902;THE ROYAL BANK OF SCOTLAND, LONDON;VTB_GBP_CORRESPONDENT_BANK_1
+1903;VTB Bank (Deutschland) AG, Frankfurt am Main;VTB_GBP_CORRESPONDENT_BANK_2
+1904;Банк ВТБ (ПАО), Москва, Россия;VTB_RUB_CORRESPONDENT_BANK_1
+1905;BANK ICBC (JSC), MOSCOW;VTB_CNY_CORRESPONDENT_BANK_1
+1906;JSC VTB Bank, Moscow, Russia;VTB_CNY_CORRESPONDENT_BANK_2
+1907;CITIGB2L Citibank N.a., LONDON;VTB_AUD_CORRESPONDENT_BANK_1
+1908;JSC VTB Bank, Moscow, Russia;VTB_AUD_CORRESPONDENT_BANK_2
+1909;Австралийский доллар;currency_aud
+1910;Сотовая и спутниковая связь;cellular_communication
+1911;Сотовая и спутниковая связь;cellular_communication_full
+1912;Коммунальные платежи;communal_payments
+1913;Коммунальные платежи;communal_payments_full
+1914;Телевидение;tv
+1915;Телевидение;tv_full
+1916;Телевидение и интернет;tv_and_internet
+1917;Телевидение и интернет;tv_and_internet_full
+1918;Интернет и IP телефония;internet_and_ip
+1919;Интернет и IP телефония;internet_and_ip_full
+1920;Реклама и охрана;security_services
+1921;Реклама и охрана;security_services_full
+1922;Игры Online;online_games
+1923;Игры Online;online_games_full
+1924;Благотворительность;charity
+1925;Благотворительность;charity_full
+1926;Штрафы за нарушение ПДД;traffic_fines
+1927;Штрафы за нарушение ПДД;traffic_fines_full
+1928;Образовательные услуги;educational_services
+1929;Образовательные услуги;educational_services_full
+1930;Билеты, лотереи, туризм;tourism
+1931;Билеты, лотереи, туризм;tourism_full
+1932;Букмекерские конторы;bookmakers
+1933;Букмекерские конторы;bookmakers_full
+1934;Издательства, размещение объявлений;publishers
+1935;Издательства, размещение объявлений;publishers_full
+1936;Интернет магазины;online_stores
+1937;Интернет магазины;online_stores_full
+1938;Информационные порталы;information_portals
+1939;Информационные порталы;information_portals_full
+1940;Товары по каталогам;goods_by_catalogs
+1941;Товары по каталогам;goods_by_catalogs_full
+1942;Скидочные проекты;discount_projects
+1943;Скидочные проекты;discount_projects_full
+1944;Службы такси;taxi_services
+1945;Службы такси;taxi_services_full
+1946;Грузоперевозки, доставка;shipping
+1947;Грузоперевозки, доставка;shipping_full
+1948;Хостинг;hosting
+1949;Хостинг;hosting_full
+1950;Электронные деньги;electronic_money
+1951;Электронные деньги;electronic_money_full
+1952;Авиабилеты;flights
+1953;Авиабилеты;flights_full
+1954;Госуслуги;state_services
+1955;Госуслуги;state_services_full
+1956;Другие;other
+1957;Другие;other_full
+1958;Купонные сервисы;cuppons
+1959;Купонные сервисы;cuppons_full
+1960;Косметика;сosmetics
+1961;Косметика;сosmetics_full
+1962;Все;all
+1963;Все;all_full
+1964;Длина СМС кода;property_SMS_PASSWORD_LENGTH
+1965;Создать счет на основании скредита;property_CREATE_ACCOUNT_FROM_CREDIT
+1966;Создать счет на основании депозита;property_CREATE_ACCOUNT_FROM_DEPOSIT
+1967;Создать счет на основании карты;property_CREATE_ACCOUNT_FROM_CARD
+1968;ЭЦП: профиль клиента по умолчанию;property_EDS_DEFAULT_PERSON_PROFILE
+1969;Noviy palol vhoda: {0}. Nikomu ne govorite!;login.newLoginPassword
+1970;Сумма платежа больше чем плановый остаток. Плановый остаток = %1$s %2$s.;error_redBalance
+1971;Сумма одного платежа не может превышать = %1$s грн.;error_maxPaymentAmountPerOperation
+1997;Страна по-умолчанию (2-хбуквенный код);default_country
+1324;Получение списка валют;job_CURRENCY
+1998;Сберегательный;SAVINGS_deposit_type
+1999;НАКОПИТЕЛЬНЫЙ;ACCUMULATIVE_deposit_type
+2000;Сохранено;common_saved
+2001;Отправлено;common_sent
+1972;Сумма платежей по данному документу и всем документам за день не может превышать = %1$s грн.  У вас уже за сегодня подписано документов на = %2$s грн.;error_maxPaymentAmountPerDay
+1973;Сумма платежей по данному документу и всем документам за месяц не может превышать = %1$s грн.  У вас уже за месяц подписано документов на = %2$s грн.;error_maxPaymentAmountPerMonth
+1974;Документ созданный позже  %1$s не может быть проведен;error_maxPeriodForDocumentExecution
+1975;Счет получателя [%1$s] не соответствует указанному МФО банка [%2$s];error_accountNotCorrespondMFO
+1976;Документ с таким же номером счета, суммой платежа и счетом получателя уже создан сегодня.;error_notUniqueMainFields
+1977;Имя клиента с таким БИН/ИНН -;name_of_customer_is
+1978;База содержит более чем одного клиента с таким БИН/ИНН;double_tax_code_in_db
+1979;Неверно указан Логин;restore_pwd_invalid_login
+1980;Карта указана неверно для вашего логина;restore_pwd_invalid_card
+1981;Указанный смс пароль не верен. Попробуйте еще раз!;restore_pwd_invalid_sms_code
+1982;Неверно указан пароль;restore_pwd_invalid_password
+1983;Перевод на карту другого клиента(P2P);job_PAYCARD
+1984;Карта получателя обязательная;benef_card_required
+1985;Карта получателя неверная;benef_card_invalid_data
+1986;Курс даной пары валют не найден;rate_invalid_data
+1987;Карта получателя должна быть {0} символов;benef_card_required_length
+1988;;sign_level
+1989;;sign_allow
+1990;;organization_role
+1991;;role
+1992;;factor
+1993;;is_sign_allow
+1994;;is_sms_required
+1995;Получение списка филиалов банка;job_BANK_BRANCH
+1996;Получение списка стран;job_COUNTRY
+2004;Ошибка запроса в банк;integrator.fatal
+2005;Ошибка запроса в банк;integrator.config
+2006;Код с картинки введен неверно;common_confirmation_invalid_captcha
+2007;Неверный SMS пароль;common_confirmation_invalid_sms_code
+2008;Отправить копию заявления на регистрацию на e-mail;property_SIGNUP_SEND_APPLICATION_TO_EMAIL
+2009;Почтовый ящик отправителя элекронной почты;property_EMAIL_SENDER_MAILBOX
+2010;Тело письма сообщения о регистрации;property_EMAIL_SIGNUP_MESSAGE_BODY
+2011;Тема письма сообщения о регистрации;property_EMAIL_SIGNUP_MESSAGE_SUBJECT
+2012;Название файла заявления о регистрации нового пользователя (латиницей);property_SIGNUP_APPLICATION_FILENAME
+2013;EXPORT_ACCOUNT_TRANSFER;integration_EXPORT_ACCOUNT_TRANSFER
+2014;EXPORT_INTERNATIONAL;integration_EXPORT_INTERNATIONAL
+2015;EXPORT_DOMESTIC_TRANSFER;integration_EXPORT_DOMESTIC_TRANSFER
+2016;Ошибка утверждения календаря. Такой календарь уже существует;calendar_ApprovalError
+2017;Каледнарь успешно подтвержден;calendar_ApproveSuccessful
+2018;Списания;transaction_type_out
+2019;Поступления;transaction_type_in
+2020;Загрузка;mobile.loading
+2021;Мобильный банкинг;mobile.banking
+2022;Вход в личный кабинет;mobile.login
+2023;Восстановить пароль;mobile.remindme
+2024;Меню;mobile.menu
+2025;Отделения и банкоматы;mobile.departments
+2026;Возможности;mobile.capabilities
+2027;О банке;mobile.about
+2029;Карта;mobile.map
+2028;Список;mobile.list
+2030;Поле не заполнено;mobile.not_filled
+2031;Длина СМС кода ;mobile.sms_length
+2032;Неверный пароль!;mobile.incorrect_password
+2033;Телефон должен состоять из 10 символов!;mobile.phone_length_error
+2034;Необходимо заполнить валидный срок действия карты!;mobile.card_expiry_invalid
+2035;Неверный ИИН!;mobile.invalid_tax_code
+2036;Необходимо заполнить валидный номер!;mobile.card_number_invalid
+2037;ИИН;mobile.common_tax_code
+2038;Дата операции;mobile.common_value_date
+2039;ПАО «Альфа-Банк»;property_short_bank_name
+2040;Контакты банка;property_BANK_CONTACTS
+2041;МФО;property_MFO
+2042;"Текст поля ""Назначение платежа""";property_PAYMENT_PURPOSE_TEXT
+1823;Введен;user_status_new
+1826;В обработке;user_status_in_work
+1827;Проведен;user_status_executed
+1828;Отозван;user_status_revoked
+1829;Отклонен;user_status_with_errors
+1830;Подписан;state_signed
+1833;Удалён;state_deleted
+1835;Ждет обработки;state_acceptedinrbs
+1836;В обработке;state_acceptedinabs
+1837;Отклонен;state_notacceptedinabs
+2043;Отозван;Отозван
+1841;Исполнен;state_executed
+1842;Принят;state_accepted
+2044;Максимальная сумма одного платежа (грн.);property_MAX_PAYMENT_AMOUNT_PER_OPERATION
+2045;Максимальная сумма платежей за день (грн.);property_MAX_PAYMENT_AMOUNT_PER_DAY
+2046;Максимальная сумма платежей за месяц (грн.);property_MAX_PAYMENT_AMOUNT_PER_MONTH
+2047;Максимальное время проведения документа после создания;property_MAX_PERIOD_FOR_DOCUMENT_EXECUTION
+2048;Максимально допустимая частота обновления юзером статусов документов, сек.;property_MAX_FREQUENCY_FOR_ALLOWED_USER_UPDATE_DOCUMENT_STATE
+2049;Beeline (Кар-Тел);ps_1
+2050;Kcell;ps_2
+2051;Aсtiv;ps_3
+2052;TELE2;ps_4
+2053;Алтел;ps_5
+2054;"АО ""Казахтелеком""";ps_6
+2055;ТОО «2DAY Телеком» (Доступ в Интернет «Интернет Дома» от Beeline);ps_7
+2056;ТОО «ТОПАЗ-ТЕЛЕКОМ»;ps_8
+2057;Twinncom Network;ps_9
+2058;ОКТЕЛ;ps_10
+2059;СА-Телком фиксированная связь;ps_11
+2060;Балхаш Электронный Город. Интернет;ps_12
+2061;ТОО «Metro Net»;ps_13
+2062;ТОО «Promtel»;ps_14
+2063;ТОО «System Line»;ps_15
+2064;ТОО BeNetCom;ps_16
+2065;Skype;ps_17
+2066;Altel JET (Retail);ps_18
+2067;ТОО АстанаМегаТел;ps_19
+2068;АО «Транстелеком»;ps_20
+2069;АО «Транстелеком» (Direct);ps_21
+2070;ТОО «АлмаТВ»;ps_22
+2071;ТОО «Телекомпания «43 канал»;ps_23
+2072;"АО ""Казтелерадио полный пакет"" (OTAU TV)";ps_24
+2073;"ТОО ""Кабельные сети Костаная""";ps_25
+2074;ТАУ TV*;ps_26
+2075;Базис-Телеком г.Алматы;ps_27
+2076;Триколор ТВ;ps_28
+2077;НТВ-Плюс;ps_29
+2078;АЛСЕКО*;ps_30
+2079;ИВЦ*;ps_31
+2080;ЭПК forfait;ps_32
+2081;Жесказган ЭнергоСбыт;ps_33
+2082;АлматыЭнергосбыт (физ. лица)*;ps_34
+2083;Батыс Су Арнасы;ps_35
+2084;Омега XXI Шымкент [Энергопоток, КазТрансГазАймак, прочие];ps_36
+2178;Моя деревня, ;ps_131
+2085;[Омега XXI] Область;ps_37
+2086;ТОО Караганды ГорКомТранс;ps_38
+2087;Мюль Сервис;ps_39
+2088;Народный домофон;ps_40
+2089;Жолаушы-СК;ps_41
+2090;Кокшеэнергосервис*;ps_42
+2091;ЦентрКоммунПлат-АРС;ps_43
+2092;Предприятие Спецавто-транспорта;ps_44
+2093;ЕРЦ Капчагай;ps_45
+2094;РЦКУ Тараз [Жамбыл-жылу, КазТрансГаз Аймак, прочие];ps_46
+2095;ТОО «Костанайский ЭнергоЦентр»*;ps_47
+2096;АРЭК-Энергосбыт.Интернациональное*;ps_48
+2097;АРЭК-Энергосбыт.Кощи*;ps_49
+2098;Астана Газ Сервис*;ps_50
+2099;БалхашЭнерго.Электроэнергия*;ps_51
+2100;Бурабай Су Арнасы*;ps_52
+2101;ТОО Горэлектросети*;ps_53
+2102;Павлодарлифт*;ps_54
+2103;АО Кызылжар су;ps_55
+2104;Ремстройсервис*;ps_56
+2105;Риддер-ТЭЦ*;ps_57
+2106;РСЦ*;ps_58
+2107;СевКазЭнерго* (Аккайынский РЭС);ps_59
+2108;СевКазЭнерго* (Благовещенский УСЭЭ) ;ps_60
+2109;СевКазЭнерго* (Возвышенский РПБ) ;ps_61
+2110;СевКазЭнерго* (Есильский УСЭЭ) ;ps_62
+2111;СевКазЭнерго* (Жамбыльский РЭС) ;ps_63
+2112;СевКазЭнерго* (Корнеевский РПБ) ;ps_64
+2113;СевКазЭнерго* (Кызылжарский РЭС) ;ps_65
+2114;СевКазЭнерго*  (М.Жумабаева РЭС) ;ps_66
+2115;СевКазЭнерго* (Мамлютский РЭС);ps_67
+2116;СевКазЭнерго* (Петропавловск) ;ps_68
+2117;СевКазЭнерго* (Соколовский УСЭЭ) ;ps_69
+2118;СевКазЭнерго* (Тимирязевский РЭС);ps_70
+2119;МодусKZ Караганды*;ps_71
+2120;МодусKZ Кокшетау*;ps_72
+2121;Термотранзит*;ps_73
+2122; ТОО «ГрКомТранс по г.Караганда» ;ps_74
+2123;ГКП «Оскемен Водоканал»;ps_75
+2124;"ПКСК ""Данко""";ps_76
+2125;Атырауская теплоэлектроцентраль ;ps_77
+2126;"ТОО ""Астана-Тазарту""";ps_78
+2127;Метаком-Семей;ps_79
+2179;My lands, ;ps_132
+2180;Варвары, ;ps_133
+2181;JagPlay, ;ps_134
+2182;Mgates, ;ps_135
+2128;РЦКУ-Уральск [Батыс ЭнергоРесурсы, Орал Таза Сервис, КазТрансГаз Аймак, прочие];ps_80
+2129;[Цифрал, Актобе Таза Кала, КазТрансГаз Аймак, прочие];РЦКУ-Запад (Актобе) [Цифрал, Актобе Таза Кала, КазТрансГаз Аймак, прочие]
+2130;РЦКУ-Костанай [КазТрансГазАймак, ВДГО, прочие];ps_82
+2131;РЦКУ-Атырау [КазТрансГазАймак, ВДГО, прочие];ps_83
+2132;РЦКУ-Актау[КазТрансГазАймак, ВДГО, прочие];ps_84
+2133;Астана ЕРЦ;ps_85
+2134; УК тепловые сети;ps_86
+2135;"ТОО ""Карагандыжылусбыт""";ps_87
+2136;Тауекел-Т;ps_88
+2137;Тауекель-Н-Алгабас;ps_89
+2138;Жетісу газ кубыры;ps_90
+2139;Кызылордатеплоэлектроцентр;ps_91
+2140;ЕПД АРЦ Алматы газ;ps_92
+2141; ТОО Рудненский Водоканал;ps_93
+2142;ТОО «Шыгысэнерготрэйд»;ps_94
+2143;РЦКУ-Кызылорда [КазТрансГазАймак, ВДГО, прочие];ps_95
+2144;  Согринская ТЭЦ АЭС;ps_96
+2145;  ПавлодарЭнергоСбыт ЕРЦ;ps_97
+2146;"ТОО ""Шахтинсктеплоэнерго""";ps_98
+2147;"ТОО ""Павлодар-водоканал""";ps_99
+2148;Батыс Энерго Ресурсы;ps_100
+2149;РЦКУ Шымкент;ps_101
+2150;ОҢАЙ – Транспортная карта г.Алматы;ps_102
+2151;ТОО «САПАР» (www.avokzal.kz);ps_103
+2152;E-gov (Электронное правительство)*;ps_104
+2153;Оплата штрафов ПДД (г.Алматы)*;ps_105
+2154;Оплата штрафов ПДД (РК)*;ps_106
+2155;Mamba.ru;ps_107
+2156;Lava-Online, ;ps_108
+2157; Дозоры,;ps_109
+2158;[AtomFishing] Сервер Экстрим, ;ps_110
+2159;[AtomFishing] Сервер Возвращение, ;ps_111
+2160;Xcraft.ru,;ps_112
+2161;GameXP,;ps_113
+2162;The War Z, ;ps_114
+2163;Battle of Immortals, ;ps_115
+2164;Территория 2, ;ps_116
+2165; Последний предел,;ps_117
+2166; Tanki online, ;ps_119
+2167; Bloody World, ;ps_120
+2168;Gamenet, ;ps_121
+2169;One World, ;ps_122
+2170;Садовая империя, ;ps_123
+2171;Лордмансер, ;ps_124
+2172; Zzima.com,;ps_125
+2173;Поднебесье, ;ps_126
+2174; Murclub.ru, ;ps_127
+2175;Осада Онлайн, ;ps_128
+2176;Silkroad Online, ;ps_129
+2183;Войны мафии, ;ps_136
+2184;  Острова, ;ps_137
+2185;Peredovaya, ;ps_138
+2186;Звездные бои,;ps_139
+2187;Гарена, ;ps_140
+2188;Королевство;ps_141
+2189;Ганджубасовые войны;ps_142
+2190;Carnage;ps_143
+2191;"11х11 футбольный Менеджер";ps_144
+2192;Sky2Fly;ps_145
+2193;Герои войны и денег;ps_146
+2194;U.N.I.T.;ps_147
+2195;NeverLands;ps_148
+2196;Гладиаторы;ps_149
+2197;BananaWars;ps_150
+2198;Overkings;ps_151
+2199;Haddan;ps_152
+2200;Грани реальности;ps_153
+2201;Xsolla ;ps_154
+2202;VK реклама;ps_155
+2203;Steam (M);ps_156
+2204;World of Tanks (M);ps_157
+2205;ТОО «Букмекерская контора «OLIMP KZ»;ps_158
+2206;Букмекерская контора ТОО «PROFIT Betting» ( www.profitbet.kz);ps_159
+2207;ТОО Букмекерская контора Гол+Пас;ps_160
+2208;Альпари;ps_161
+2209;e-KZT;ps_162
+2210;ТОО «Редпрайс» (www.chocolifeme.kz);ps_163
+2211;"ТОО ""БиСмарт"" (besmart.kz)";ps_164
+2212;ТОО Мир купонов;ps_165
+2213;Flora Express;ps_166
+2214;LR Health and Beauty Systems;ps_167
+2215;ShopInfo.kz;ps_168
+2216;ТОО «INFOSMS.KZ»;ps_169
+2217;ТОО «Колёса» (www.kolesa,kz , www.krisha.kz);ps_170
+2218;Газета Автомания;ps_171
+2219;Газета Из рук в руки;ps_172
+2220;Газета Работа Сегодня;ps_173
+2221;ТОО «ЭВБИКА»;ps_174
+2222;ТОО «Прометей-Б»;ps_175
+2223;ТОО «Жедел-Сақшы»;ps_176
+2224;Жедел Кузет ;ps_177
+2225;ТОО Кузет-Моторс;ps_178
+2226;ТОО Кузет-Техмонтаж;ps_179
+2227;OLX.kz;ps_180
+2228;"ТОО ""Орифлэйм""";ps_181
+2229;AVON;ps_182
+2230;"ТОО ""Фаберлик - Казахстан""";ps_183
+2231;Mary Kay Kazakhstan;ps_184
+2232;ИС Параграф;ps_185
+2233;Beeline (Кар-Тел);ps_full_1
+2234;Kcell;ps_full_2
+2235;Aсtiv;ps_full_3
+2236;TELE2;ps_full_4
+2237;Алтел;ps_full_5
+2238;"АО ""Казахтелеком""";ps_full_6
+2239;ТОО «2DAY Телеком» (Доступ в Интернет «Интернет Дома» от Beeline);ps_full_7
+2240;ТОО «ТОПАЗ-ТЕЛЕКОМ»;ps_full_8
+2241;Twinncom Network;ps_full_9
+2242;ОКТЕЛ;ps_full_10
+2243;СА-Телком фиксированная связь;ps_full_11
+2332;РЦКУ Шымкент;ps_full_101
+3957;ИНН;common_tax_code
+2244;Балхаш Электронный Город. Интернет;ps_full_12
+2245;ТОО «Metro Net»;ps_full_13
+2246;ТОО «Promtel»;ps_full_14
+2247;ТОО «System Line»;ps_full_15
+2248;ТОО BeNetCom;ps_full_16
+2249;Skype;ps_full_17
+2250;Altel JET (Retail);ps_full_18
+2251;ТОО АстанаМегаТел;ps_full_19
+2252;АО «Транстелеком»;ps_full_20
+2253;АО «Транстелеком» (Direct);ps_full_21
+2254;ТОО «АлмаТВ»;ps_full_22
+2255;ТОО «Телекомпания «43 канал»;ps_full_23
+2256;"АО ""Казтелерадио полный пакет"" (OTAU TV)";ps_full_24
+2257;"ТОО ""Кабельные сети Костаная""";ps_full_25
+2258;ТАУ TV*;ps_full_26
+2259;Базис-Телеком г.Алматы;ps_full_27
+2260;Триколор ТВ;ps_full_28
+2261;НТВ-Плюс;ps_full_29
+2262;АЛСЕКО*;ps_full_30
+2263;ИВЦ*;ps_full_31
+2264;ЭПК forfait;ps_full_32
+2265;Жесказган ЭнергоСбыт;ps_full_33
+2266;АлматыЭнергосбыт (физ. лица)*;ps_full_34
+2267;Батыс Су Арнасы;ps_full_35
+2268;Омега XXI Шымкент [Энергопоток, КазТрансГазАймак, прочие];ps_full_36
+2269;[Омега XXI] Область;ps_full_37
+2270;ТОО Караганды ГорКомТранс;ps_full_38
+2271;Мюль Сервис;ps_full_39
+2272;Народный домофон;ps_full_40
+2273;Жолаушы-СК;ps_full_41
+2274;Кокшеэнергосервис*;ps_full_42
+2275;ЦентрКоммунПлат-АРС;ps_full_43
+2276;Предприятие Спецавто-транспорта;ps_full_44
+2277;ЕРЦ Капчагай;ps_full_45
+2278;РЦКУ Тараз [Жамбыл-жылу, КазТрансГаз Аймак, прочие];ps_full_46
+2279;ТОО «Костанайский ЭнергоЦентр»*;ps_full_47
+2280;АРЭК-Энергосбыт.Интернациональное*;ps_full_48
+2281;АРЭК-Энергосбыт.Кощи*;ps_full_49
+2282;Астана Газ Сервис*;ps_full_50
+2283;БалхашЭнерго.Электроэнергия*;ps_full_51
+2284;Бурабай Су Арнасы*;ps_full_52
+2285;ТОО Горэлектросети*;ps_full_53
+2286;Павлодарлифт*;ps_full_54
+2287;АО Кызылжар су;ps_full_55
+2288;Ремстройсервис*;ps_full_56
+2289;Риддер-ТЭЦ*;ps_full_57
+2290;РСЦ*;ps_full_58
+2291;СевКазЭнерго* (Аккайынский РЭС);ps_full_59
+2292;СевКазЭнерго* (Благовещенский УСЭЭ) ;ps_full_60
+2396;Flora Express;ps_full_166
+2293;СевКазЭнерго* (Возвышенский РПБ) ;ps_full_61
+2294;СевКазЭнерго* (Есильский УСЭЭ) ;ps_full_62
+2295;СевКазЭнерго* (Жамбыльский РЭС) ;ps_full_63
+2296;СевКазЭнерго* (Корнеевский РПБ) ;ps_full_64
+2297;СевКазЭнерго* (Кызылжарский РЭС) ;ps_full_65
+2298;СевКазЭнерго*  (М.Жумабаева РЭС) ;ps_full_66
+2299;СевКазЭнерго* (Мамлютский РЭС);ps_full_67
+2300;СевКазЭнерго* (Петропавловск) ;ps_full_68
+2301;СевКазЭнерго* (Соколовский УСЭЭ) ;ps_full_69
+2302;СевКазЭнерго* (Тимирязевский РЭС);ps_full_70
+2303;МодусKZ Караганды*;ps_full_71
+2304;МодусKZ Кокшетау*;ps_full_72
+2305;Термотранзит*;ps_full_73
+2306; ТОО «ГрКомТранс по г.Караганда» ;ps_full_74
+2307;ГКП «Оскемен Водоканал»;ps_full_75
+2308;"ПКСК ""Данко""";ps_full_76
+2309;Атырауская теплоэлектроцентраль ;ps_full_77
+2310;"ТОО ""Астана-Тазарту""";ps_full_78
+2311;Метаком-Семей;ps_full_79
+2312;РЦКУ-Уральск [Батыс ЭнергоРесурсы, Орал Таза Сервис, КазТрансГаз Аймак, прочие];ps_full_80
+2313;РЦКУ-Костанай [КазТрансГазАймак, ВДГО, прочие];ps_full_82
+2314;РЦКУ-Атырау [КазТрансГазАймак, ВДГО, прочие];ps_full_83
+2315;РЦКУ-Актау[КазТрансГазАймак, ВДГО, прочие];ps_full_84
+2316;Астана ЕРЦ;ps_full_85
+2317; УК тепловые сети;ps_full_86
+2318;"ТОО ""Карагандыжылусбыт""";ps_full_87
+2319;Тауекел-Т;ps_full_88
+2320;Тауекель-Н-Алгабас;ps_full_89
+2321;Жетісу газ кубыры;ps_full_90
+2322;Кызылордатеплоэлектроцентр;ps_full_91
+2323;ЕПД АРЦ Алматы газ;ps_full_92
+2324; ТОО Рудненский Водоканал;ps_full_93
+2325;ТОО «Шыгысэнерготрэйд»;ps_full_94
+2326;РЦКУ-Кызылорда [КазТрансГазАймак, ВДГО, прочие];ps_full_95
+2327;  Согринская ТЭЦ АЭС;ps_full_96
+2328;  ПавлодарЭнергоСбыт ЕРЦ;ps_full_97
+2329;"ТОО ""Шахтинсктеплоэнерго""";ps_full_98
+2330;"ТОО ""Павлодар-водоканал""";ps_full_99
+2331;Батыс Энерго Ресурсы;ps_full_100
+2333;ОҢАЙ – Транспортная карта г.Алматы;ps_full_102
+2334;ТОО «САПАР» (www.avokzal.kz);ps_full_103
+2335;E-gov (Электронное правительство)*;ps_full_104
+2336;Оплата штрафов ПДД (г.Алматы)*;ps_full_105
+2337;Оплата штрафов ПДД (РК)*;ps_full_106
+2338;Mamba.ru;ps_full_107
+2339;Lava-Online, ;ps_full_108
+2340; Дозоры,;ps_full_109
+2341;[AtomFishing] Сервер Экстрим, ;ps_full_110
+2342;[AtomFishing] Сервер Возвращение, ;ps_full_111
+2343;Xcraft.ru,;ps_full_112
+2344;GameXP,;ps_full_113
+2345;The War Z, ;ps_full_114
+2346;Battle of Immortals, ;ps_full_115
+2347;Территория 2, ;ps_full_116
+2348; Последний предел,;ps_full_117
+2349; Tanki online, ;ps_full_119
+2350; Bloody World, ;ps_full_120
+2351;Gamenet, ;ps_full_121
+2352;One World, ;ps_full_122
+2353;Садовая империя, ;ps_full_123
+2354;Лордмансер, ;ps_full_124
+2355; Zzima.com,;ps_full_125
+2356;Поднебесье, ;ps_full_126
+2357; Murclub.ru, ;ps_full_127
+2358;Осада Онлайн, ;ps_full_128
+2359;Silkroad Online, ;ps_full_129
+2360;Kw.rambler.ru, ;ps_full_130
+2361;Моя деревня, ;ps_full_131
+2362;My lands, ;ps_full_132
+2363;Варвары, ;ps_full_133
+2364;JagPlay, ;ps_full_134
+2365;Mgates, ;ps_full_135
+2366;Войны мафии, ;ps_full_136
+2367;  Острова, ;ps_full_137
+2368;Peredovaya, ;ps_full_138
+2369;Звездные бои,;ps_full_139
+2370;Гарена, ;ps_full_140
+2371;Королевство;ps_full_141
+2372;Ганджубасовые войны;ps_full_142
+2373;Carnage;ps_full_143
+2374;"11х11 футбольный Менеджер";ps_full_144
+2375;Sky2Fly;ps_full_145
+2376;Герои войны и денег;ps_full_146
+2377;U.N.I.T.;ps_full_147
+2378;NeverLands;ps_full_148
+2379;Гладиаторы;ps_full_149
+2380;BananaWars;ps_full_150
+2381;Overkings;ps_full_151
+2382;Haddan;ps_full_152
+2383;Грани реальности;ps_full_153
+2384;Xsolla ;ps_full_154
+2385;VK реклама;ps_full_155
+2386;Steam (M);ps_full_156
+2387;World of Tanks (M);ps_full_157
+2388;ТОО «Букмекерская контора «OLIMP KZ»;ps_full_158
+2389;Букмекерская контора ТОО «PROFIT Betting» ( www.profitbet.kz);ps_full_159
+2390;ТОО Букмекерская контора Гол+Пас;ps_full_160
+2391;Альпари;ps_full_161
+2392;e-KZT;ps_full_162
+2393;ТОО «Редпрайс» (www.chocolifeme.kz);ps_full_163
+2394;"ТОО ""БиСмарт"" (besmart.kz)";ps_full_164
+2395;ТОО Мир купонов;ps_full_165
+2397;LR Health and Beauty Systems;ps_full_167
+2398;ShopInfo.kz;ps_full_168
+2399;ТОО «INFOSMS.KZ»;ps_full_169
+2400;ТОО «Колёса» (www.kolesa,kz , www.krisha.kz);ps_full_170
+2401;Газета Автомания;ps_full_171
+2402;Газета Из рук в руки;ps_full_172
+2403;Газета Работа Сегодня;ps_full_173
+2404;ТОО «ЭВБИКА»;ps_full_174
+2405;ТОО «Прометей-Б»;ps_full_175
+2406;ТОО «Жедел-Сақшы»;ps_full_176
+2407;Жедел Кузет ;ps_full_177
+2408;ТОО Кузет-Моторс;ps_full_178
+2409;ТОО Кузет-Техмонтаж;ps_full_179
+2410;OLX.kz;ps_full_180
+2411;"ТОО ""Орифлэйм""";ps_full_181
+2412;AVON;ps_full_182
+2413;"ТОО ""Фаберлик - Казахстан""";ps_full_183
+2414;Mary Kay Kazakhstan;ps_full_184
+2415;ИС Параграф;ps_full_185
+2416;КЦМР;kcmr
+2417;КЦМР;kcmr_full
+2418;Начисленное вознаграждение;accrued_compensation
+2419;Создать ключи;vc_keysRequest
+2420;Добавить тип;signingrules_addDocType
+2421;Символ;currency_currencycode
+2422;Значение;global_settings.constants.table.col.value
+2423;Название календаря;calendarName
+2424;Утверждён;approved
+2425;Создание Типа документа;creatingDocType
+2426;Плательщик;paymentOrder_payerDetail
+2427;IP терминала;requests_terminal
+2428;Неверный email;common_incorrectEmail
+2429;Старт;jobs.started
+2430;Подтверждение пароля;customeruser_passwordConfirmation
+2431;Просмотреть;organizations_details
+2432;Создать новый Модуль системы;createNewSystemModule
+2433;Первый и второй символы должны быть KZ.;paymentOrder_valid_firstCharsKZ
+2434;Общее;companyPersonEdit_maintabTitle
+2435;Имя;paymentOrder_firstName
+2436;Канал отправки уведомлений;sendingNotificationsChannel
+2437;Создание страны;countryCreating
+2438;Подтвердите действие:;common_confirmAction
+2439;Информация из Банка;paymentOrder_bankInfo
+2440;Действия;operationsWithCardProductType
+2441;Причина блокировки/ареста;common_arrestBlockReason
+2442;Добавить новую валюту;currency_addnewcurrency
+2443;Просмотр / Редактирование Шаблона  Пенсионного отчисления;paymentOrder_viewEditPensionTemplate
+2444;Создание банка;bankCreating
+2445;Создание многофакторной авторизации;authfactorcreate_title
+2446;Наименование;paymentOrder_payerName
+2447;Действия;operationsWithDocStatus
+2448;Сертификаты пользователя;userCertificates
+2449;Тип документа;createDemandType_documentType
+2450;Реквизиты - Пенсионные, социальные отчисления;detailsPensionSocialContributions
+2705;Неверный формат;invalidFormat
+2451;КБК с таким кодом уже существует;kbkCodeAlreadyExists
+2452;Состояние кредита;creditState
+2453;Валюта займа;loanCurrency
+2454;Получатель;invoice_receiver
+2455;Ошибка загрузки текущего календаря. Перезагрузите страницу или попробуйте позже;currentCalendarLoadingErrorReload
+2456;Выполнен;common_done
+2457;Международный почтовый адрес;intPostAddress
+2458;Создать новую Причину блокировки карты;createCardBlockReason
+2459;Организация по умолчанию;personal_default_org
+2460;Это поле не должно превышать 128 символа!;noMore128Symbols
+2461;Типы работ;navigation_jobsType
+2462;Просмотр / Редактирование Шаблона Платежного поручения;paymentOrder_viewEditTemplate
+2463;Отменить выделение;grid_cancelselection
+2464;Ошибка загрузки текущей валюты. Перезагрузите страницу или попробуйте позже;currency_error3
+2465;Ошибка создания валюты. Перезагрузите страницу или попробуйте позже;currency_error2
+2466;Ошибка обновления валюты. Перезагрузите страницу или попробуйте позже;currency_error1
+2467;Не важен;signingrules_withoutorder
+2468;Код не должен превышать 6-х цифр;noMore6Digits
+2469;Модуль системы с таким кодом уже существует;systemModuleWithSameCodeAlreadyExists
+2470;Массовая рассылка;multicasting_packTitle
+2471;Создание Шаблона Пенчионного отчисления;paymentOrder_addNewPensionTemplate
+2472;Ф.И.О. измененного пользователя;events_subjectname
+2473;Счет плательщика;domTransfer_payerAccount
+2474;Настроить выдаваемые валюты;customizeIssuedCurrency
+2475;Валюта счета взимания комиссии;intTransfer_feeCurrency
+2476;Статус публикации: не опубликовано;createDemandType_statusPublishedFalse
+2477;Текущий email;personal_currentEmail
+2478;История действия;events_title
+2479;Раздел;page_menudetailstitle
+2480;Статус;common_status
+2481;Просмотр и редактирование Вида карточных продуктов;viewingEditingCardProductType
+2482;Наименование;paymentOrder_recipientName
+2483;Настройки фильтра счетов;demandType_filterSettings
+2484;Block requisites: document;documentBlock
+2485;Привилегии;companyPersonEdit_privilegestabTitle
+2486;Новый;ps_New
+2487;Менеджеры организации;common_managers
+2488;Создать сотрудника;employee_createEmployee
+2489;Организация;common_organization
+2490;Сообщение из банка;common_MasageFromBank
+2491;Просмотр и редактирование Типа письма;viewingEditingLetterType
+2492;Сумма возврата;refunds.amount
+2493;Количество неправильных паролей;customeruser_incorrectPasswordCount
+2494;Редактирование задачи;jobs.edit_job.title
+2495;Дата создания документа;common_documentDate
+2496;Имя;customeruser_firstName
+2497;Счет депозита;depositAccount
+2498;Отказать;action_reject
+2499;Платежное поручение;domTransfer_paymentOrder
+2500;Содержание ответа;requests_response
+2501;Счет;senderAccount
+2502;Остаток на счете;paymentOrder_accountBalanceKZT
+2503;Категории заявлений;CodeCategory_labelReference
+2504;Плательшик;invoice_payer
+2505;БИН получателя;receiversBIN
+2506;Тип уведомлений;alertsType
+2507;Сумма списания по;accTransfer_debitAmountTo
+2508;Статус;customeruser_status
+2509;Статус документа;common_docStatus
+2510;Имя получателя;domTransfer_receiverName
+2511;Детали заблокированой суммы;blockedAmountDetails
+2512;Ошибка при создании календаря. Возможно это дубликат?;savingCalendarError
+2513;тип поля;field_type
+2514;ид;CodeCategory_id
+2515;Добавить счет;signingrules_addAccount
+2516;Дата создания;news_createDate
+2517;Закрытый;ps_Closed
+2518;Сумма;invoice_amount
+2519;Курсы валют;navigation_handbookExchangeRates
+2520;Действие менеджера;events_manageraction
+2521;Список работ;jobs.List
+2522;Наименование получателя;transferRequisites_recipientName
+2523;НДС сумма KZT;paymentOrder_vatKZT
+2524;Ваша сессия закрыта администратором банка;errorpage419_title
+2525;Все события выбраны;events_allselected
+2526;Регистрация нового менеджера;managers_add
+2527;Детали заявления;demandCreate_demandDetail
+2528;Заканчивая датой;standing.order.to.date
+2529;Создание Платежного поручения;paymentOrder_addNewOrder
+2530;№ счёта, Наименование организации, БИН организации;accountNumberOrgNameOrgBin
+2531;Комиссия;paymentOrder_commission
+2532;Статус OTP токенов;otpTokensStatus
+2533;IP адрес;sessions_terminalip
+2534;Документы;navigation_documents
+2535;Просмотр и редактирование Модуля системы;viewingEditingSystemModule
+2536;Введите имя шаблона;Payment_action_inputTemplateName
+2537;Советы по безопасности;login_tips
+2538;Текущий телефон;personal_currentPhone
+2539;Описание КБК;paymentOrder_budgetCodeDescription
+2540;Максимальное количество неправильных паролей;customeruser_maxIncorrectPasswordCount
+2541;Срок действия счета;accountValidity
+2542;Новый пользователь;customerUser_add
+2543;Сумма;paymentOrder_amount
+2544;Виды депозитных продуктов;depositProductTypes
+2545;Просмотр истории блокировок/разблокировок карты;viewHistoryCardLockUnlock
+2546;Запросы на перевыпуск сертификатов;certificationRequests
+2547;Настраивается клиентом;notificationtype_iseditablebyclient
+2548;Курс;accTransfer_rate
+2549;Масштаб курса;exchangeRates_courseScale
+2550;Вы действительно хотите удалить Вид депозитных продуктов №;sureYouWantDeleteDepositProductType
+2551;Типы комиссий;feesTypes
+2552;Привилегии;roles_privileges
+2553;ИИН/БИН плательщика;domTransfer_payerTaxCode
+2554;КБЕ:;KBE
+2555;Вход до;companyperson_validto
+2556;Национальное название;district_name
+2557;Курс валют отсутствует;paymentOrder_exchangeRateEmpty
+2558;Сумма;notification_amount
+2559;Неверный пароль;personal_incorrectPass
+2560;Наименование;global_settings.constants.table.col.name
+2561;Справочники;navigation_handbooks
+2562;КБК;paymentOrder_budgetCode
+2563;Направление;direction
+2564;№ отзыва;withdraw_num
+2565;Создать правило для подписи;signingrules_add
+2566;БИК Банка Плательщика;transferRequisites_payerBankCode
+2567;Город с таким кодом уже существует;cityWithSameCodeAlreadyExists
+2568;Порядок;signingrules_order
+2569;Подразделение;manager_subdivision
+2570;Дата документа;withdraw_doc_date
+2571;ИИН Организации;common_orgTaxCode
+2572;Факторы авторизации;companyPersonEdit_authtabTitle
+2573;Международный перевод валюты;intTransfer_title
+2574;ИИН/БИН отправителя;invoice.payer.bin
+2575;Шаблоны;common_Templates
+2576;Введите пароль для хранилища ключей;docSigning_inputProfilePassword
+2577;Текущий остаток;currentBalance
+2578;Группы констант;navigation_group_constants
+2579;Остаток вознаграждения в валюте займа;balanceRemunerationCurrencyLoan
+2580;Блокирован;signingrules_notactive
+2581;Трехсимвольный код;threeSymbolCode
+2582;Виды счетов;accountTypes
+2583;Сокращенное название;shortName
+2584;Изменение области;districts_update
+2585;Настроить принимаемые валюты;customizeAcceptedCurrency
+2586;Это поле не должно превышать 255 символа!;noMore255Symbols
+2587;Банк получателя;receiversBank
+2588;Массив значений;global_settings.constants.values
+2589;Есть неправильно заполненные поля, сохранение выполнено не будет;createDemandType_saveMassage
+2590;Код ошибки;jobs.errorCode
+2591;Пароли не совпадают;customeruser_passwordsnotequals
+2592;Действия;operationsWithAtmsBranchesTerminals
+2593;Дата импорта;importDate
+2594;ИД пользователя;events_executorId
+2706;Утвердить;approve
+2595;Это поле не должно превышать 255 символов!;common_field_max255chars
+2596;Заполнить из справочника;paymentOrder_getFromHandbook
+2597;Платежные поручения в национальной валюте;domTransfer_nationalPayments
+2598;Все календари выбраны;allCalendarsAreSelected
+2599;Документы в работу;navigation_workingDocs
+2600;Тип;withdraw_doc_type
+2601;Детали платежа;paymentOrder_paymentDetail
+2602;"0 недопустимо";common_greaterThanZero
+2603;Просмотр Зарплатного отчисления;paymentOrder_viewPayroll
+2604;Константы;navigation_constants
+2605;Реквизиты - Пенсионные отчисления;transferRequisites_pensionRequisites
+2606;Заблокированые суммы;blockedAmounts
+2607;Курс сделки;paymentOrder_exchangeRate
+2608;Создание Шаблона Социального отчисления;paymentOrder_addNewSocialTemplate
+2609;Шаблон сообщения;notification_template
+2610;Номер договора;contractNumber
+2611;Области;district_districts
+2612;Код отправителя денег/Код бенефициара(КОД/КБЕ);senderCode
+2613;Состояние документа;withdraw_doc_status
+2614;Сброс настроек;clear_settings
+2615;Валюта карты;cardCurrency
+2616;Счета;signingrules_accounts
+2617;Арестованная сумма;common_arrestedSum
+2618;ОТП токены;otpTokens
+2619;Получатель;domTransfer_receiver
+2620;Время сервера для синхронизации;serverTimeForSync
+2621;№ контракта;common_contractNumber
+2622;Создать нового клиента;organizationsCreate_create
+2623;Роли менеджеров;navigation_managersroles
+2624;Карты;cards
+2625;Главная;common_main
+2626;Виды карточных продуктов;cardProductTypes
+2627;Добавить;common_add
+2628;Валюта списания;accTransfer_debitCurrency
+2629;Платеж со счета;actions_paymentFromAccount
+2631;Платеж по кредиту;actions_loanPayment
+2632;Сумма;domTransfer_amountKZT
+2633;Канал;sessions_channel
+2634;Депозиты;navigation_deposits
+2635;Филиал банка;bankBranch
+2636;начало;start
+2637;Тип Документа;DocumentType
+2638;Просмотр и редактирование данных пользователя;customeruser_editor_title
+2639;Заблокирован;ps_Blocked
+2640;Доступный лимит;availableLimit
+2641;Просмотр Социального отчисления;paymentOrder_viewSocialContribution
+2642;Конец действия;exchangeRates_end
+2643;Мультиязычная?;global_settings.constants.table.col.multi_lang
+2644;Данные введены некорректно;common_incorrectSymbol
+2645;Опубликовано;demandType_public
+2646;Населённый пункт;banks_populatedLocality
+2647;Дата закрытия счёта;account_closingDate
+2648;БИК банка национальный;banks_bikBankNat
+2649;Сообщение об ошибке;jobs.errorMessage
+2650;Удалить настройки уведомлений;clear_notification_settings
+2651;Операционная система;events_operatingSystem
+2652;Сумма кредитного договора в валюте займа;amountAgreementCurrencyLoan
+2653;Записей на странице;grid_rowsperpage
+2654;Платеж;payment
+2655;Период до;invoice_date_to
+2656;Курс исполнения с;accTransfer_rateFrom
+2657;Название лимита;limit_name
+2658;Заявка на перевыпуск карты;reIssuanceCardRequest
+2659;Автозаполнение реквизитов;AutoFilling
+2660;Код Отправителя;refunds.sender.kod
+2661;"1 событие выбрано";events_1selected
+2662;ИД;currency_currencyid
+2663;Название класса;jobs.class_name
+2664;Создать тип заявления;create_demand_type
+2665;Сумма от;invoice_amount_from
+2666;Категория устройства;events_deviceCategory
+2667;Сумма в блоке;common_blockedSum
+2668;Создание Типа письма;creatingLetterType
+2669;Удалить все настройки;clear_all_settings
+2670;Статус кредита;creditStatus
+2671;Новая карта;applyForNewCard
+2672;Отправка реквизитов;common_shippingRequisites
+2673;Дата валютирования;paymentOrder_valueDate
+2674;Закрыть счёт;actions_closeAccount
+2675;Чтобы войти в систему, нажмите;errorpage420_message
+2676;Изменить категорию;CodeCategory_Change
+2677;Сохранить день;saveDay
+2678;Информация;common_information
+2679;Импортировать;common.import
+2680;Выставленные мне счета;invoice_name
+2681;Период;paymentOrder_period
+2682;Включено;notification_active
+2683;Просмотр и редактирование канала;viewingEditingChannel
+2684;Создать новый Вид депозитных продуктов;createNewDepositProductType
+2685;Вы действительно хотите удалить Модуль системы №;sureYouWantDeleteSystemModule
+2686;Массовая рассылка;multicasting_packEditTitle
+2687;Менеджер;managers_user
+2688;событий выбрано;events_X5selected
+2689;Фамилия;customeruser_lastName
+2690;Карты;navigation_corporatecards
+2691;Новый депозит;applyForNewDeposit
+2692;Новый;common_new
+2694;Детали кредита;creditDetails
+2695;Вы действительно хотите удалить Тип письма;sureYouWantDeleteLetterType
+2696;Детали карты;cardDetails
+2697;БИН организации;withdraw_org_bin
+2698;Номер;paymentOrder_documentNumber
+2699;Удалить;common_delete
+2702;Код;role_code
+2703;Доступно;is_available
+2704;Задать период;standing_order_interval
+2693;Все;common_all
+2707;Не удалось подписать документ! Возможно, пароль введен неправильно.;docSigning_signErr
+2708;Идентификатор в АБС;manager_externalId
+2709;Очистить все;common_allItems
+2710;Международное наименование;common_intFullName
+2711;заявление выбрано;demand_demandChecked
+2712;Создание Причины разблокировки карты;creatingCardUnblockreason
+2713;Международный адрес. Область;common_addressIntDistrict
+2714;Создание правила для подписи;signingrules_new_title
+2715;Временная блокировка;temporaryBlockage
+2716;"Чтобы воспользоваться всеми функциями интернет-банкинга, нажмите ""Вход"".";loginToUse
+2717;Социальное отчисление;domTransfer_socialContribution
+2718;Содержание запроса;requests_request
+2719;Создание Банкомата/отделения/терминала;creatingAtmBranchesTerminals
+2720;Изменение клиента;organizationsCreate_update
+2721;Просмотр и редактирование Типа документа;viewingEditingDocType
+2722;Пароли не совпадают;personal_notPairPass
+2723;Изменить тип курса валют;editExchangeRateType
+2724;Причина блокировки карты;cardBlockingReason
+2725;Управление календарём;calendarManagement
+2726;Выходной день;DayResource.DayOff
+2727;Закрыть;common_close
+2728;Реквизиты;withdraw_requisites
+2729;Счет;transferRequisites_recipientAccount
+2730;Вид карт с таким кодом уже существует;suchCardTypeAlreadyExist
+2731;Адрес (Банка Посредника);intTransfer_agentBankAddress
+2732;Тип событий;eventsType
+2733;Группа типов задач для запуска по расписанию;navigation_jobsGroup
+2734;Статусы счетов;accountStatuses
+2735;Тип;common_type
+2736;Тема письма;letterSubject
+2737;Почтовый индекс;common_zip
+2738;Блокировка;blocking
+2739;Журнал запросов;navigation_requests
+2740;Регистрация нового пользователя;customeruser_new_title
+2741;Онлайн-чат;onlineChat
+2742;Срок;term
+2743;Страна;district_countryFullName
+2744;Произошла ошибка при сохранении данных;common_ErrorInSaveData
+2745;Роли менеджеров;managerroles_title
+2746;КНП;paymentOrder_purposeCode
+2747;ИИН;common_iin
+2748;Создание кода бюджетной классификации(КБК);kbkCreating
+2749;Настройки фильтра;common_editFilter
+2750;За сегодня;common_today
+2751;Отозвать;personal_revoke
+2752;Назначение платежа;paymentOrder_purpose
+2753;Укажите СМС пароль;login_enter_sms_password
+2754;Тип заявления;demandCreate_demandType
+2755;Привилегии;rolePermissions_title
+2756;Вход;login_enter
+2757;Ошибка при обновления дня;dayUpdateError
+2758;Удалить;common.remove
+2759;календаря выбрано;calSelected
+2760;За неделю;common_week
+2761;Наименование Отправителя;refunds.sender.name
+2762;Банковские справочники;bankHandbooks
+2763;Каналы отправки;sendingNotificationsChannels
+2764;Код страны (Банка Посредника);intTransfer_agentBankCountryCode
+2765;ЕГРПОУ;paymentOrder_payerCode
+2766;Ответить;reply
+2767;Получатель;paymentOrder_recipientDetail
+2768;Это поле должно содержать 6 цифр!;common_field_atleast6digits
+2769;пользователей выбрано;customeruser_X5selected
+2770;Валюта;exchangeRates_currency
+2771;Неправильная пара;exchangeRates_wrongPair
+2772;Имя категории;CodeCategory_name
+2773;Действует с;authfactor_from
+2774;Открыть фильтр;requests_openfiler
+2775;Тип комиссии;intTransfer_feeType
+2776;Отправитель;senderDetailsBlock
+2777;Подтверждаю, что данный платеж и (или) перевод денег не связан с финансированием террористической или экстремистской деятельности и иным пособничеством терроризму либо экстремизму.;intTransfer_isNotLinkTerrorism
+2778;История документа;documentHistory_documentHistory
+2779;Создать новый банк;createNewBank
+2780;Вид карточного продукта;cardProductType
+2781;Дата;common_date
+2782;Идентификатор;common_id2
+2783;Экспорт в Excel;CodeCategory_exportToExcel
+2784;Рабочее время: с;workingTimeFrom
+2785;Действия;common_documentOperations
+2786;Кор. счет Банка Посредника;intTransfer_agentBankAccount
+2787;Тип константы;global_settings.constants.table.col.type
+2788;Экспорт;common_export
+2789;Подтверждаю, что данный платеж и (или) перевод денег не связан с осуществлением физическим лицом валютной операции, требующей получения регистрационного свидетельства, свидетельства об уведомлении, учетного номера контракта.;intTransfer_confirmation
+2790;Статус;signingrules_status
+2791;Удалить текущее поле;demandType_deleteCurrentRow
+2792;Ключ для перевода;demandType_createKeyForTranslate
+2793;Отмена;common_cancel
+2794;Роль;manager_role
+2795;Описание КНП;paymentOrder_purposeCodeDescription
+2796;Валюта;signingrules_currency
+2797;Просмотр/Изменение;common_viewEdit
+2798;БИН;common_TaxCode
+2799;Плательщик;standing.order.payer
+2800;Новый email;personal_newEmail
+2801;Создать новый Тип письма;createNewLetterType
+2802;Запомнить назначение;paymentOrder_savePaymentPurpose
+2803;Подписать;paymentOrder_sign
+2804;VIN код;paymentOrder_vinCode
+2805;Добавить новую роль;roles_add
+2806;Отчество;customeruser_middleName
+2807;Признак блокировки;organizationsCreate_lockingIndication
+2808;Плательщик;payer
+2809;Активный;signingrules_active
+2810;Версия приложения;events_applicationVersion
+2811;Ранг организации;orgRank
+2812;Письма;letters
+2813;Вы действительно хотите удалить Вид карт №;sureYouWantDeleteCardType
+2814;Валюта транзакции;transactionCurrency
+2815;Сессия завершится через;mainbar_sessionWillExpire
+2816;Поиск по содержимому запроса;requests_filtertitle
+2817;Международное наименование банка;common_bankIntName
+2818;Срочный платеж;paymentOrder_urgentPayment
+2819;Номер отзываемого документа;withdraw_doc_num_full
+2820;Подготовить импорт;upload_prepare
+2821;Фамилия;paymentOrder_lastName
+2822;Международное полное название;intFullName
+2823;Отправить;login_send
+2824;Банки;navigation_banks
+2825;БИН/ИИН Получателя;paymentOrder_recipientCode
+2826;Сертификаты ЭЦП;certificate.ds
+2827;Дата регистрации;organizationsCreate_registrationDate
+2828;Неснимаемый остаток;minimumBalance
+2829;Телефон;common_phone
+2830;Вид карточных продуктов с таким кодом уже существует;cardProductTypeAlreadyExists
+2831;Действия;districts_operations
+2832;Состояние модуля;jobs.jobState
+2833;Статус;EventsExcelCreator.Status
+2834;Детали платежа;paymentOrder_detail
+2835;Сумма списания с;accTransfer_debitAmountFrom
+2836;Действия;calendarOperation
+2837;Выдать транш;actions_issueTranche
+2838;Пенсионное отчисление;domTransfer_pensionContribution
+2839;SMS;customeruser_sms
+2840;Форма собственности;common_ownership
+2841;Настройки оповещений;notification_title
+2842;Дата публикации;multicasting_publicationDate
+2843;Создание Пенсионного отчисления;paymentOrder_addNewPensionContribution
+2844;БИН плательщика;payersBIN
+2845;Идентификатор пароля;customeruser_passwordId
+2846;Тема;subject
+2847;Новое;itNew
+2848;Базовая валюта и вторая валюта не могут иметь один и тот же isoCode;exchangeRate.currency.id.conflict
+2849;№ документа, тип заявления;demand_serchHint
+2850;IP;events_terminal
+2851;Должность;customeruser_position
+2852;Банк Посредник;intTransfer_agentBankRequisites
+2853;Константы;global_settings.constants.screen.list
+2854;Детали депозита;depositDetails
+2855;Реквизиты продажи (Списания);paymentOrder_debitRequisites
+2856;Начальная сумма не должна превышать конечную;domTransfer_comparison
+2857;По типу документа:;standingOder_selectTypeDoc
+2858;ФИО;customeruser_fullName
+2859;История по задачам;jobs.history
+2860;Счет зачисления;accTransfer_creditAccount
+2861;Вход;sessions_valid_from
+2862;Счет выплаты вознаграждения;interestPaymentAccount
+2863;Реквизиты  покупки (Зачисления);paymentOrder_creditRequisites
+2864;Новостей нет;noNews
+2865;Сертификат;certificate
+2866;SWIFT код;swiftCode
+2867;Информация о;personal_informationAbout
+2868;Статус карт с таким кодом уже существует;cardStatusWithSameCodeAlreadyExists
+2869;Настройка фильтра отзыва платежей;withdraw_filter
+2870;Название группы типов задач;jobs.nameGroup
+2871;Международный адрес. Город;common_addressIntCity
+2872;Просмотр Валюты;currency_viewtitle
+2873;Действия;demand_operation
+2874;Описание;global_settings.constants.table.col.desc
+2875;Руководитель;paymentOrder_payerDirector
+2876;Отзывы платежей;navigation_paymentsRevokes
+2877;Недельный график роботы;dailySchedule
+2878;Мои справочники;navigation_myHandbooks
+2879;Зарегистрировать в УЦ;vc_register
+2880;Сообщение из банка;refunds.msg.from.bank
+2881;VIN код не предусмотрен;paymentOrder_vinCodeNotProvide
+2882;Вы действительно хотите удалить Город;sureYouWantDeleteCity
+2883;Список для печати документов пуст;document.printError.emptyList
+2884;Действия;rolePermissions_actions
+2885;Кредиты;navigation_credits
+2886;Просмотр / Редактирование Шаблона  Зарплатного отчисления;paymentOrder_viewEditPayrollTemplate
+2887;Срок сессии истек;errorpage420_title
+2888;Расписание;jobs.cron.title
+2889;Наименование банка;common_bankName
+2890;Длительные поручения;standing.order.title
+2891;Добавить новый тип курса валют;addExchangeRateType
+2892;Просмотр запроса;requestview_title
+2893;Полное название;currency_currencyfullname
+2894;Действия;operationsCardBlockReason
+2895;Банк;bank
+2896;Сохранить;common_save
+2897;Иностранные контрагенты;counterparty_intCounterparties
+2899;Заголовок;news_head
+2900;Международный адрес. Адрес;common_addressIntAddress
+2901;Зарплатное отчисление;domTransfer_payroll
+2902;Типы курсов валют;currencyExchangeTypes
+2903;Статус календаря;calendarStatus
+2904;Отправить в банк;common.sentToRBS
+2905;Название депозита;depositName
+2906;Вид платежа;paymentType
+2907;Несжимаемый остаток;incompressibleBalance
+2908;Меню пользователя;page_customermenutitle
+3014;Безналичные операции;exchangeRates_nonCashTransactions
+2909;Вы действительно хотите удалить Статус карт;sureYouWantDeleteCardStatus
+2910;Деактивировать;sessions_deactivate
+2911;Тип отчисления;paymentOrder_employeeTransferCategory
+2912;Создать новый КБК;createNewKBK
+2913;Правила подписи;signatureRules
+2914;Номинальная ставка вознаграждения;nominalInterestRate
+2915;Новый телефон;personal_newPhone
+2916;Полное название;organizationsCreate_fullName
+2917;Блокирован;customeruser_blocked
+2918;Счет;paymentOrder_account
+2919;Операция;operation
+2920;Создать новое заявление;demand_createNewDemand
+2921;Вы действительно хотите удалить Банкомат/отделение/терминал;sureYouWantDeleteAtmBranchTerminal
+2922;Код типа задачи;jobs.code
+2923;в том числе НДС =;paymentOrder_withVat
+2924;Добавить фактор авторизации;authfactor_add
+2925;Дата документа;paymentOrder_documentDate
+2926;Пароль;login_password
+2927;Действия;creditOperations
+2928;Сбросить;common_reset
+2929;Выберите файл;upload_chooseFile
+2930;Назначение;invoice_paymentPurpouse
+2931;Валюта;limit_currency
+2932;Строка cron;jobs.schedule
+2933;БИК Банка;refunds.sender.bik
+2934;Сумма зачисления с;accTransfer_creditAmountFrom
+2935;Обновить меню;common_updateMenu
+2936;Действия;demandType_operetionWithType
+2937;Наименование организации;withdraw_org_name
+2938;Статус;invoice_status
+2939;Действия;common_accountOperations
+2940;Быстрые ссылки;quickLinks
+2941;Счет бенифициара;common_benefAccount
+2942;Просмотр/редактирование группы констант;global_settings.constants.group.screen.view_edit
+2943;Просмотр и редактирование Региона;viewingEditingRegion
+2944;Область;district_district
+2945;Произошла ошибка при получении данных с сервера, перегрузите страницу;common_ErrorInGetData
+2946;Дата окончания;expirationDate
+2947;от;intTransfer_from
+2948;Создать новый Статус документа;createDocStatus
+2949;Код группы типов задач;jobs.codeGroup
+2950;Удалить категорию;CodeCategory_Delete
+2951;Значение повторяется;paymentOrder_valueRepeat
+2952;Нет данных;common_noData
+2953;Электронная почта;common_email
+2954;Список типов задач;jobs.TypesList
+2955;Краткое имя;manager_shortName
+2956;Импортировать;upload_import
+2957;Роли;manager_roles
+2958;Завершение сессии;mainbar_timeoutTitle
+2959;Подпись разрешена;authfactor_signAllowed
+2960;Обменный курс не актуален;exchangeRates_notActual
+2961;Город;intTransfer_recipientBankCity
+2962;Действия;currency_operations
+2963;Вы действительно хотите удалить Причину разблокировки карты;sureYouWantDeleteCardUnblockType
+2964;Пароль;customeruser_password
+2965;Ошибка при загрузке данных дня!;dayDataLoadingError
+2966;Создание Шаблона Зарплатного отчисления;paymentOrder_addNewPayrollTemplate
+2967;Виды платежей по кредитам;loanPaymentsTypes
+2968;Действия;CodeCategory_OperationWithType
+2969;Вход до;sessions_filterto
+2970;Курс покупки;exchangeRates_coursePurchase
+2972;Код категории;CodeCategory_code
+2973;Просмотр/редактирование Зарплатного отчисления;paymentOrder_viewEditPayroll
+2975;Не активный;sessions_notactive
+2976;Дата и время совершения действия;events_eventdatetime
+2977;Регионы;regions
+2978;Курс валюты;exchangeRates_course
+2979;Источник автозаполнения;temp_sourceField
+2980;Причина разблокировки карты с таким кодом уже существует;cardUnblockReasonAlreadyExists
+2981;Сумма с;domTransfer_amountFrom
+2982;Контрагенты;counterparty_counterparties
+2983;Выставление счета на оплату;actions_invoicingForPayment
+2984;Документы:типы заявлений;demandType_document_typedemand
+2985;Создание длительного поручения;standing_order_create
+2986;Статус изменен успешно!;statusChangedSuccessful
+2987;Файл не может быть обработан ;payment.import.error.common
+2988;Создание нового депозита;newDepositCreating
+2989;Справочник: Типы многофакторной авторизации;authfactors_title
+2990;Действия;exchangeRates_cashTransactions
+2991;Пароль;authfactorcreate_password
+2992;Код;senderResidencyCode
+2993;Заказать выписку;common_orderTheExcerpt
+2994;Входящие;inbox
+2995;Дата договора;contractDate
+2996;Срок действия пароля;customeruser_passwordExpiry
+2997;Типы письма;lettersTypes
+2998;Виды карт;cardTypes
+2999;Каждые;standing.order.every
+3000;Пользователи;navigation_users
+3001;Вид кредита;creditType
+3002;№ депозитного договора, Наименование организации, БИН организации;depositNumberOrgNameOrgBin
+3003;Настроить список получателей;createDemandType_reciversSetings
+3004;Исходящие;outbox
+3005;символов;common_symbolsForMaxLength
+3006;Создать строку cron;jobs.createCronString
+3007;ЭЦП;eds
+3008;Страница;grid_page
+3009;Код страны;common_countryCode
+3010;Период от;invoice_date_from
+3011;Заявления;navigation_demand
+3012;Сообщение;multicasting_text
+3013;Списание;accTransfer_debit
+3015;Двухсимвольный код;twoSymbolCode
+3016;Справочник: Банки;banks_handbookBanks
+3017;Пополнить депозит;refillDeposit
+3018;Действия;operationsWithDocType
+3019;Валюта зачисления;accTransfer_creditCurrency
+3020;Настройки фильтра менеджеров;managers_filtertitle
+3021;Валютная пара;exchangeRates_currencyPair
+3022;Серийный номер;serial
+3023;Интернет банкинг;internetBanking
+3024;Страница не найдена;notFound_not_found
+3025;Платёж в бюджет;paymentOrder_budgetPaymentDetail
+3026;Назначение платежа;domTransfer_purpose
+3027;до;TOLowerCase
+3028;Окончание;jobs.finished
+3029;Новый счет;new_account
+3030;ошибка;common_error
+3031;Год;year
+3032;Создать копию;common_createCopy
+3033;За месяц;common_month
+3034;события выбрано;events_X4selected
+3035;Экспорт в Excel;common_exporttoexcel
+3036;Редактировать заявление;demandCreate_EditDemand
+3037;Международное краткое название;intShortName
+3038;Сумма начисленных %;amountAccruedPercentage
+3039;Добавить новый курс валют;addExchangeRate
+3040;Изменить курс валют;editExchangeRate
+3041;Действия;operationsWithCardUnblockReason
+3042;Создание Шаблона Платежного поручения;paymentOrder_addNewOrderTemplate
+3043;Отменить поиск;grid_cancelsearch
+2701;Активировать;common_activate
+3044;"1 календарь выбран";oneCalendarIsSelected
+3045;Вид;common_kind
+3046;заявлений выбрано;demand_demandsChecked
+3047;Сертификат отсутствует;certificate.missing
+3048;БИК/SWIFT Банка Посредника;intTransfer_agentBankSwift
+3049;Это поле должно содержать 3 символа!;common_field_atleast3chars
+3050;Не правильный формат числа;common_WorngNumberFormat
+3051;Код должен состоять только из цифр;onlyDigitsCode
+3052;Номер карты;cardNumber
+3053;Модули системы;systemModules
+3054;Счет;paymentOrder_recipientAccount
+3055;Данная валюта недоступна для оплаты, обратитесь в службу поддержки банка;intTransfer_errorCurrencyUnavailable
+3056;Тип курса;exchangeRates_courseType
+3057;Геопозиция;geoposition
+3058;Текущий пароль;personal_currentPass
+3059;Город (Банка Посредника);intTransfer_agentBankCity
+3060;БИК национальный;bikNat
+3061;"1 пользователь выбран";customeruser_1selected
+3062;Счета;navigation_accounts
+3063;Создание Статуса карт;creatingCardStatus
+3064;№ кредитного договора, Наименование организации, БИН организации;creditNumberOrgNameOrgBin
+3065;Журнал запросов;requests_title
+3066;Курс не известен;exchangeRates_exchangeRatesAreNotKnown
+3067;Конструктор заявлений;navigation_demand_constructor
+3068;Это поле должно содержать только цифры!;common_field_onlydigits
+3069;Номер счета;accountNumber
+3070;Сумма займа;loanAmount
+3071;Метод;requests_method
+3072;Создание Модуля системы;creatingSystemModule
+3073;Значение;global_settings.constants.value
+3074;Индивидуальный курс;paymentOrder_individualExchangeRate
+3075;Информация отправителя получателю;intTransfer_recipientInfo
+3076; ;common_blank
+3077;Цифровой код;currency_field_digitcode
+3078;Это поле должно содержать 3 цифры!;common_field_atleast3digits
+3080;Логин;customeruser_login
+3081;Количество сессий;customeruser_sessionsLimit
+3082;Создание новой области;districts_create
+3083;наименование бенефициара;common_benefName
+3084;Просмотр и редактирование Статуса карт;viewingEditingCardsStatus
+3085;Типы Заявлений;navigation_demandType
+3086;Дата рождения;paymentOrder_birthDate
+3087;Название роли;role_name
+3088;Настройки фильтра событий;events_filtertitle
+3089;Поле справочника;temp_fieldsReferenceField
+3090;Сообщение из банка;paymentOrder_bankResponse
+3091;Счет;signingrules_account
+3092;Изменить текущее поле типа заявления;change_custom_field
+3093;Получатель;standing.order.receiver
+3094;Тип письма с таким кодом уже существует;letterTypeWithSameCodeAlreadyExists
+3095;Текущее заявление сохранено;demandCreate_Curent_demand_saved
+3096;Категория;demandType_category
+3097;Счет;common_account
+3098;Детали сотрудника;employee_detailsEmployee
+3099;Действует по;authfactor_to
+3100;Сумма зачисления по;accTransfer_creditAmountTo
+3101;Менеджер;paymentOrder_manager
+3102;Детали транзакции;transactionDetails
+3103;Вы были удалены администратором банка;errorpage418_title
+3104;Такой банк не существует;paymentOrder_valid_bankNotExist
+3105;Код бюджетной классификации(КБК);budgetClassificationCode
+3106;"1 символ";common_field_1symbol
+3107;Запрос на перевыпуск сертификата создан. Ожидайте ответ менеджера;certReqCreated
+3108;ФИО менеджера;managerInitials
+3109;Сохранить и перейти в список;createDemandType_saveAndGo
+3110;Просмотр и редактирование банка;viewingEditingBank
+3111;Название;common_name
+3112;Базовая валюта;exchangeRates_baseCurrency
+3113;Значение по умолчанию;options_default
+3114;Справочники;navigation_commonHandbooks
+3115;Просмотр;common_view
+3116;Первое значение;firstValue
+3117;Конечное состояние;documentHistory_endState
+3172;Типы;authfactorcreate_types
+3079;Лимит;creditLimit
+3118;Дни со специальным графиком;daysWithASpecialSchedule
+3119;Дата учетного номера контракта;common_contractAuditDate
+3120;Поиск;common_search
+3121;Создать новый Город;createNewCity
+3122;Счет;invoice_account
+3123;Курс продажи;exchangeRates_courseSale
+3124;Да;boolean_true
+3126;Адрес;common_address
+3127;Статус;sessions_isactive
+3128;Полномочия сменятся через;mainbar_authorityChanges
+3129;Длительные поручения;navigation_standingOrders
+3130;Регулярные платежи;navigation_standingOrders_person
+3131;Признак блокировки;organization.grid.column.status
+3132;Внешняя система;externalSystem
+3133;Список сотрудников не заполнен;paymentOrder_employeesListEmpty
+3134;Меню пользователя;navigation_menutree_customer
+3135;Настройки фильтра длительных поручений;standing_order_filter
+3136;Вход после;sessions_filterfrom
+3137;Канал обслуживания (Web, mob);events_servicechannel
+3138;ИИН/БИН;paymentOrder_taxCode
+3139;ключ для перевода;demandType_createkeyForTranslate
+3140;Содержание;news_desc
+3141;Просмотр/редактирование;viewingEditingDeposit
+3142;Прочитано;read
+3143;Организации;organizations_organizations
+3144;История действий;navigation_events
+3145;Просмотр Перевода между своими счетами / Конвертации валюты;paymentOrder_viewAccountTransfer
+3146;Действия;exchangeRates_operations
+3147;Типы многофакторной авторизации;authFactorsTypes
+3148;Перевод между своими счетами/Конвертация валюты;accTransfer_accountTransfer
+3149;Перевод между своими счетами, Конвертация валюты;accTransfer_accountTransfer1
+3150;Тип документа;signingrules_docType
+3151;Обновить день;updateDay
+3152;Название счёта;accountName
+3153;Рабочие;common_workDocument
+3154;Валюта зачисления;paymentOrder_creditCurrency
+3155;Наименование;demandType_name
+3156;Дата открытия счёта;account_openingDate
+3157;Добавление лимита;limit_add
+3158;Удаление невозможно из-за свзанных данных;common_deleteimpossible
+3159;Тема;multicasting_theme
+3160;Ошибки:;common_hasError
+3161;Справочник;temp_sourceCodeField
+3162;Вид карты;cardType
+3163;Руководитель;CompanyPerson_Director
+3164;Код ISO;currency_ISOcode
+3165;Группа получателей;multicasting_group
+3166;Создать новый Вид карт;createCardType
+3167;Лимит;signingrules_limit
+3168;Статусы документа;documentStatuses
+3169;Причина;reason
+3170;Возможность прикреплять файл;Can_attache_file
+3171;Максимальное время работы( в сек);jobs.maxExecutionTime
+3173;Серийный номер;companyperson_certificate_sn
+3174;Сумма;limit_amount
+3175;Второе значение;secondValue
+3176;Группы констант;global_settings.constants.group.screen.list
+3177;Конвертация;navigation_conversion
+3178;Такой код не существует;paymentOrder_valid_codeNotExist
+3179;Сохранить шаблон;paymentOrder_updateTemplate
+3180;Входящий остаток;broughtForwardBalance
+3181;Пароль не соответствует маске;common_incorrectPass
+3182;Получатели  уведомления;Notification_receivers
+3183;Блок реквизитов: Детали платежа;paymentDetailsBlock
+3184;Действует по;companyperson_certificate_to
+3185;Нет;boolean_false
+3186;Счет Отправителя;refunds.sender.acc
+3187;Счет;paymentOrder_payerAccount
+3188;Детали комисии;intTransfer_feeDetail
+3189;Invoiced bills for payment;invoiced.title
+3190;До;common_to
+3191;Возврат по социальному отчислению;refunds.socialcontribution
+3192;Причина разблокировки карты;cardUnblockingReason
+3193;КБЕ;paymentOrder_recipientResidencyCode
+3194;Скрыть;common_hide
+3195;День обновлён!;dayIsUpdated
+3196;Новый пароль;personal_newPass
+3197;Курс исполнения по;accTransfer_rateTo
+3198;Главный Бухгалтер;CompanyPerson_ChiefAccountant
+3199;Остаток основного долга в валюте займа;balanceLoanCurrency
+3200;Менеджер;common_manager
+3201;Наименование плательщика;domTransfer_payerName
+3202;Имя;login_name
+3203;Подтвердить;common_confirm
+3204;Календари;calendars
+3205;Справочник: Календари;handbookCalendars
+3206;Это поле должно содержать 1 символ!;common_field_atleast1char
+3207;Справочник: Назначение платежа;paymentOrder_handbookPaymentPurpose
+3208;Номер АБС;AbsNumber
+3209;Изменить телефон;personal_changePhone
+3210;Параметры;jobs.parameter.title
+3211;Дата последнего обновления курсов;exchangeRates_lastUpdDateTime
+3212;Действует до;sessions_expiry
+3213;БИН/ИИН;refunds.tax.code
+3214;Дата по;common_periodTo
+3215;Причина блокировки карты с таким кодом уже существует;cardBlockReasonExists
+3216;Реквизиты - Социальные отчисления;transferRequisites_socialRequisites
+3217;Новости;navigation_news
+3218;Несколько значений из справочника;global_settings.constants.handbook_multi_value
+3219;Банкоматы/отделения/терминалы;atmBranchesTerminals
+3220;Длина должна составлять 20 символов.;paymentOrder_valid_20chars
+3221;Обновить;common_update
+3222;Изменение назначения платежа;paymentOrder_changingThePurpose
+3223;МФО банка;common_bankCode
+3224;Синхронизировать;sync
+3225;Изменить название;changeName
+3489;Страны;navigation_countries
+3226;Дней до события;notification_period
+3227;Печатать;common_Print
+3228;Регион;common_region
+3229;Действия;operationsWithSystemModule
+3230;Счет взимания комиссии;intTransfer_feeAccount
+3231;Просмотр и редактирование типов многофакторной авторизации;authfactoredit_title
+3232;Причина отзыва;withdraw_reason
+3233;Отчество;paymentOrder_middleName
+3234;ФИО пользователя;customerInitials
+3235;Настройки фильтра;filterSettings
+3236;Печать заявления;demandCreate_print
+3237;Создание Статуса документа;creatingDocStatus
+3238;Операции;common_operations
+3239;Подписать;common_sign
+3240;Просмотр и редактирование данных менеджера;manager_editor_title
+3241;Все;global_settings.constants.group.all
+3242;Статус документа с таким кодом уже существует;docStatusWithSameCodeAlreadyExists
+3243;Наименование Банка;transferRequisites_recipientBankName
+3244;Редактировать;common_edit
+3245;Пополнение карты;cardReplenishment
+3246;Интернациональное название;district_intName
+3247;День сохранён!;dayIsSaved
+3248;Ф.И.О. Пользователя;events_executorname
+3249;Рабочий день;DayResource.WorkingВay
+3250;Пользователь;customerUser_user
+3251;Вид депозита;depositType
+3252;Справочник: Валюта;currency_handBooktitle
+3253;Код;common_code
+3254;календарей выбрано;calendarsSelected
+3255;Действия;operationsWithLetterType
+3256;Повтор нового пароля;personal_confirmNewPass
+3257;Название продукта;productName
+3258;Сумма до;invoice_amount_to
+3259;Схема;signingrules_schema
+3260;Сумма по;domTransfer_amountTo
+3261;Создать новую Причину разблокировки карты;createCardUnblockReason
+3262;Выставленные мной счета;exposedorder_name
+3263;Быстрая ссылка;quick_link
+3264;Факс;fax
+3265;Задачи;navigation_jobs
+3266;Регистрация нового менеджера;manager_new_title
+3267;Адрес;intTransfer_recipientBankAddress
+3268;Ошибка. Цифровая подпись не прошла проверку!;docSigning_errorSignatureInvalid
+3269;Категории заявлений;navigation_labelReference
+3270;Просмотр и редактирование страны;viewingEditingCountry
+3271;Страна;common_country
+3272;Наименование не должно превышать 500 символов;nameNoMore500Symbols
+3273;Перевод/конвертация валюты;actions_currencyTransferConversion
+3274;Заявка на досрочное погашение кредита;actions_earlyRepaymentOrder
+3275;Тип пользователя;sessions_usertype
+3277;Международный адрес. Почтовый индекс;common_addressIntZip
+3278;Просмотр Пенсионноого отчисления;paymentOrder_viewPensionContribution
+3279;Общий остаток;common_balance
+3280;Редактировать;organization.grid.change
+3282;Заблокирован;organization.grid.blocked
+3283;Рассчитать НДС;paymentOrder_calculateVat
+3284;Просмотр и редактирование Причины блокировки карты;viewingEditingCardBlockReason
+3285;Владелец (DN);companyperson_certificate_subjectDN
+3286;Сессии пользователей;navigation_sessions
+3287;Неверный формат;paymentOrder_valid_wrongFormat
+3288;Добавить уполномоченное лицо;companyPersons_add
+3289;Дата и время;documentHistory_date
+3290;Название кредита;creditName
+2700;Заблокировать;common_deactivate
+3291;Номер;common_number
+3292;Просмотр Курсов валют;exchangeRates_view
+3293;Опубликовать;createDemandType_publish
+3294;Кросс-курс безналичный;exchangeRates_cross
+3295;Счет погашения задолженности;debtsRepaymentAccount
+3296;SMS;authfactorcreate_SMS
+3297;Настройки фильтра заявлений;demand_filter
+3298;Создание Города;creatingCity
+3299;Гл. бухгалтер;paymentOrder_payerChiefAccountant
+3300;Корреспондентский счёт банка;banks_correspondentBankAccount
+3301;Дата контракта;common_contractDate
+3302;Вход с;companyperson_validfrom
+3303;Наименование Банка Посредника;intTransfer_agentBankName
+3304;Блокирован;common_blocked
+3305;Клиентские данные;clientData
+3306;Все пользователи выбраны;customeruser_allselected
+3307;Применить;common_ok
+3308;Действия;operationsWithCardType
+3309;пользователя выбрано;customeruser_X4selected
+3310;Сменить пароль;customeruser_forcePasswordChange
+3311;Зафиксировать сумму;fix_amount
+3312;Ошибка при обновлении. Возможно это дубликат?;updatingCalendarError
+3313;Ошибка при запросе на Удостоверяющий Центр;vcReqError
+3314;Реквизиты Банка контрагента;counterparty_bankRequisites
+3315;События до;events_eventsto
+3316;Просмотр и редактирование типа уведомления;viewingEditingNotificationType
+3317;Возврат по зарплатному отчислению;refunds.payroll
+3318;Версия броузера;events_browser
+3319;Просмотр деталей / редактировать;common_detailsEdit
+3320;Точка доставки;demandType_delivery
+3321;Наименование или ИИН/БИН организации отправителя;refunds.filter.sender
+3322;Настройка доступа;navigation_permissions
+3323;Создать новую категорию;CodeCategory_createNewCategory
+3324;Тип пользователя;events_usertype
+3325;C НДС (12%);paymentOrder_vat12
+3326;История блокировок карты;cardBlockingHistory
+3327;Просмотр/Редактирование Шаблона  Социального отчисления;paymentOrder_viewEditSocialTemplate
+3328;Кор. счет Банка;counterparty_bankAccount
+3329;Код VO;intTransfer_codeVo
+3330;Просмотр и редактирование Вида карт;viewingAndEditingCardType
+3331;Синхронизировано успешно!;syncSuccessful
+3332;Выход;login_exit
+3333;Просмотр международного перевода валюты;intTransfer_view
+3334;Действия;common_depositOperations
+3335;Задачи;system_job
+3336;Начиная с даты;standing.order.from.date
+3337;Настройки фильтра пользователей;customerUser_filtertitle
+3338;История по задачам;navigation_jobs_history
+3339;Настройки фильтра;common.filter.settings
+3340;Неправильный код;paymentOrder_valid_wrongCode
+3341;Наименование или ИИН/БИН организации получателя;refunds.filter.receiver
+3342;Счет получателя;domTransfer_receiverAccount
+3343;Дата инвойса;intTransfer_invoiceDate
+3344;Редактирование параметров уполномоченного лица:;companyPersonEdit_title
+3345;Создать международный перевод валюты;intTransfer_create
+3346;в строке;payment.import.result.document.line.number
+3347;№ основного документа;withdraw_doc_num
+3348;Менеджеры;organizations_managers
+3349;В процессе обработки;common_inProcessing
+3350;Признак права подписи от имени банка;manager_isBankSign
+3351;КПП;intTransfer_recipientKpp
+3352;Сообщения импорта;upload_documentForUpload
+3353;От;common_from
+3354;Список менеджеров;managers_title
+3355;Важен;signingrules_inorder
+3356;Комментарий;events_comment
+3357;Создание Вида карт;creatingCardType
+3358;Вы действительно хотите удалить Статус документа;sureYouWantDeleteDocStatus
+3359;Почтовый адрес;postAddress
+3360;Детали счёта;common_accountDetails
+3361;Изменить email;personal_changeEmail
+3362;Статус счёта;accountStatus
+3363;не правильный email;common_Invalid_email
+3364;Банк плательщика;payersBank
+3365;Начало действия;exchangeRates_start
+3366;Обязательное поле!;common_mandatory_field
+3367;Очистить;common_clean
+3368;Блок реквизитов: Получатель;recipientDetailsBlock
+3369;Номер документа;common_documentNumber
+3370;Это поле не должно превышать 64 символа!;noMore64Symbols
+3371;Очистить;common_clear
+3372;Тип транзакции;transactionType
+3373;Действует с;companyperson_certificate_from
+3374;Код назначения платежа(КНП);purposeCode
+3375;Просмотр и редактирование Статуса документа;viewingEditingDocStatus
+3376;Создание Зарплатного отчисления;paymentOrder_addNewPayroll
+3490;Закрытые;common_closed
+3377;ИИН/БИН получателя;invoice.receiver.bin
+3378;Список Групп задач;jobs.CroupList
+3379;Неверный тип файла. Допустимы:;common_WrongFileType
+3380;Менеджеры;navigation_managers
+3382;Локальные банки;navigation_localBanks
+3383;Предупреждение;warning
+3384;КБЕ Получателя;transferRequisites_recipientResidencyCode
+3385;Код страны;intTransfer_recipientBankCountryCode
+3386;Добавить;paymentOrder_add
+3387;ИД;common_id
+3388;Действие пользователя;events_useraction
+3389;Вид счёта;accountType
+3390;Название типа задачи;jobs.jobType
+3391;Смена пароля;changepassword__title
+3392;Страна;intTransfer_recipientBankCountry
+3393;Смена пароля;customeruser_changepassword
+3394;Курсы валют;exchangeRates_exchangeRates
+3395;Request URL;requests_url
+3396;Разрешенные роли;authfactor_rolesAllowed
+3397;Реквизиты Банка посредника;counterparty_agentRequisites
+3398;Правила подписи документов;signingrules_title
+3399;Добавить новый календарь;addNewCalendar
+3400;Результат импорта документа №;payment.import.result.document
+3401;Роли пользователей;roles_title
+3402;Просмотр/редактирование константы;global_settings.constants.screen.view_edit
+3403;Клиент;client
+3404;Выставленный мне счет;intTransfer_invoice
+3405;Дата выпуска;releaseDate
+3406;Поиск;grid_search
+3407;Email;customeruser_email
+3409;имя поля;field_name
+3410;БИН/ИИН Получателя;transferRequisites_recipientCode
+3411;Лимиты;companyPersonEdit_limittabTitle
+3412;Название;notification_description
+3413;Работа с ОТП токенами;workingWithOtpTokens
+3414;БИК;bik
+3415;Создать новый Вид карточных продуктов;createNewCardProductType
+3416;Создание Социального отчисления;paymentOrder_addNewSocialContribution
+3417;Подразделение;managerView_subdivision
+3418;Все заявления выбраны;demand_allDemandChecked
+3419;Сумма до;signingrules_amountTo
+3420;Наименование;senderName
+3421;Роли пользователей;navigation_usersroles
+3422;Статус;events_status
+3423;Банк Получателя;intTransfer_beneficiaryBankDetails
+3424;ОТП пароль;auth.opt.token
+3425;Тип подписи;companyperson_signLevel
+3426;Создать новый Тип документа;createDocType
+3427;БИК банка интернациональный;banks_bikBankIntNat
+3428;Действие;events_action
+3429;Отменить публикацию;createDemandType_unpublish
+3430;БИК Банка Получателя;transferRequisites_recipientBankCode
+3431;Связанные кнопка;CustomRequestType_relatedButton
+3432;Создать;common_create
+3491;Действия;operationsWithCity
+3492;Статусы карт;cardsStatuses
+3433;Это поле не должно превышать 20 символа!;noMore20Symbols
+3434;Обязательность заполнения;requiredField
+3435;Удален;customeruser_deleted
+3436;Статус публикации: опубликовано;createDemandType_statusPublishedTrue
+3437;Отозвать;common_withdraw
+3438;Наименование;paymentOrder_recipientBankName
+3439;Тип документа с таким кодом уже существует;docTypeWithSameCodeAlreadyExists
+3440;Название типа задачи;jobs.type_name
+3441;Название;currency_currencyname
+3442;Действия;operationsWithBank
+3443;Процентная ставка;interestRate
+3444;КПП;counterparty_kpp
+3445;Активный;sessions_active
+3446;Завершенный;ps_Completed
+3447;Создание назначения платежа;paymentOrder_createPaymentPurpose
+3448;Прикрепить файл;intTransfer_uploadFile
+3449;Дата с;common_periodFrom
+3450;Подписать;common.sign
+3451;Логин;login_login
+3452;Организация не определена;common_orgIsNotDefined
+3453;Добавить роль;role_add
+3454;Оплатить;action_pay
+3455;Войти;login_to_enter
+3456;Эффективная процентная ставка;effectiveInterestRate
+3457;Отмененный;ps_Canceled
+3458;Блокирование/Разблокирование карты;cardBlockUnblock
+3459;Список пользователей;customeruser_userslist
+3460;Просмотр/редактирование Социального отчисления;paymentOrder_viewEditSocialContribution
+3461;Типы курсов валют отсутствуют;noExchangeRateTypes
+3462;Получить;common_get
+3463;Менеджеры счёта;common_accountManagers
+3464;Статус карты;cardStatus
+3465;Страна (Банка Посредника);intTransfer_agentBankCountry
+3466;Тип точки;pointType
+3467;Просмотр деталей;common_details
+3468;Уполномоченные лица;companyPersons_title
+3469;Код ответа;requests_responseCode
+3470;Почта;navigation_mail
+3471;Действия;cardsOperations
+3472;Редактирование роли;role_editTitle
+3473;Создание роли;role_createTitle
+3474;Быстрые ссылки;quick_links
+3475;Показать клавиатуру;login_display_keyboard
+3476;Издатель (DN);companyperson_certificate_issuerDN
+3477;Сообщение;documentHistory_massage
+3478;Автономный генератор;authfactorcreate_generator
+3479;Создать шаблон;paymentOrder_createTemplate
+3480;Изменить пароль;personal_changePassword
+3481;Роль менеджера;managerView_role
+3482;Тип с таким кодом уже существует;authfactoredit_alreadyexist
+3483;Населённый пункт;common_locality
+3484;Группа констант;global_settings.constants.table.col.group
+3485;Краткое имя;customeruser_shortName
+3486;Удалить настройки быстрых ссылок;clear_links_settings
+3487;Дата завершения;completionDate
+3488;Город;common_city
+3494;Реквизиты;invoice_requisites
+3495;БИК Банка Получателя;paymentOrder_recipientBankCode
+3496;Срок действия;invoice_expire
+3498;Принять;accept
+3499;Продажа;exchangeRates_sale
+3500;Зачисление;accTransfer_credit
+3501;Создать новый тип заявлени;demandType_newDemand
+3502;Назначение платежа;paymentOrder_paymentPurpose
+3503;Менеджер;refunds.manager
+3504;Вы действительно хотите удалить Вид карточных продуктов №;sureYouWantDeleteCardProductType
+3505;Новый кредит;credit_addNewDemand
+3506;Валюта;common_currency
+3507;Состояние;common_state
+3508;Группа типа задачи;jobs.job_group
+3509;Выбранный Файл;upload_choosenFile
+3510;Создать новый Банкомат/отделение/терминал;createAtmBranchTerminal
+3511;Учетная запись;companyPersons_useraccount
+3512;Просмотр/редактирование Платежного поручения;paymentOrder_viewEditOrder
+3513;Выписка;navigation_statement
+3514;Дата публикации;news_publDate
+3515;Точка доставки заявления;CustomRequestType_demandEndPoint
+3516;ЭЦП;authfactorcreate_signature
+3517;Остаток;common_plannedBalance
+3518;Менеджмент;navigation_management
+3519;Редактирование правила для подписи;signingrules_edit_title
+3520;Валюты отсутствуют;noCurrencies
+3521;Просмотр и редактирование Причины разблокировки карты;viewingEditingCardUnblockReason
+3522;Тип;limit_type
+3523;Отправить на подпись;common.submit
+3524;Настройки фильтра истории транзакций;transactionsHistoryFilterSettings
+3525;размерность поля;temp_sizeField
+3526;Валюта списания;paymentOrder_debitCurrency
+3527;Валюта;intTransfer_currency
+3528;Список сотрудников;paymentOrder_employeeList
+3529;Исполнитель;events_executor
+3530;Возвраты;navigation_returns
+3531;Начальное состояние;documentHistory_previousState
+3532;Сессии пользователей;sessions_title
+3533;Создать новый Статус карт;createCardStatus
+3534;Событие;eventview_title
+3535;Вы действительно хотите удалить Тип документа;sureYouWantDeleteDocType
+3536;Справочник: Курс валют;exchangeRates_handbook
+3537;Недопустимые символы;paymentOrder_valid_invalidCharacters
+3538;Просмотр и редактирование Кода бюджетной классификации(КБК);viewingEditingKBK
+3539;События с;events_eventsfrom
+3540;значение поля;common_fieldValue
+3541;История транзакций;common_transactionHistory
+3542;Документ с таким номером уже существует, рекомендуем указать следующий номер;paymentOrder_valid_documentExist
+3594;Транслитерация;intTransfer_transliterate
+3543;"Пожалуйста нажмите ""Продлить"" чтобы работать далее";mainbar_timeoutActions
+3544;Системные справочники;systemHandbooks
+3545;Создание типа счёта;creatingAccountType
+3546;Имя шаблона;payment_templateName
+3547;Перевыпуск;reissuance
+3548;Подтвердите действие: Вы действительно хотите удалить элемент ?;demandType_confirm
+3549;Справочник: Области;districts_handbook
+3550;Действия;operationsWithKBK
+3551;Активный;customeruser_active
+3552;Просмотр/редактирование Пенсионноого отчисления;paymentOrder_viewEditPensionContribution
+3553;История;common_history
+3554;Добавить новое заявление;demandCreate_addNewDemand
+3555;Идентификатор;global_settings.constants.id
+3556;БИК/SWIFT;intTransfer_bankSwift
+3557;Курс валют;navigation_exchangeRates
+3559;Международный перевод валюты;navigation_currencyTransfer
+3560;Удалить настройки колонок;clear_column_settings
+3561;Создать новую задачу;jobs.new_job.title
+3562;Филиалы банка;bankBranches
+3563;Пользователь;documentHistory_user
+3564;КБЕ;common_kbe
+3565;Наименование Банка;refunds.sender.bank.name
+3566;год;yearLowerCase
+3567;Отклонён;common_rejected
+3568;Значение из справочника;global_settings.constants.handbook_value
+3569;Заблокированные транзакции;blockedTransactions
+3571;Тип сертификата;certTypes
+3572;Описание VO;intTransfer_codeVoDescription
+3573;Виды кредитных продуктов;creditProductTypes
+3574;Поле должно быть не больше;common_maxLength
+3575;Счет списания;accTransfer_debitAccount
+3576;Сумма от;signingrules_amountFrom
+3577;Канал;events_channel
+3578;Вы действительно хотите удалить Причину блокировки карты;sureYouWantDeleteCardBlockReason
+3579;Это поле должно содержать только буквенные символы!;common_field_onlyletters
+3580;Роль в организации;companyperson_organizationRole
+3581;PDF;common_exporttopdf
+3582;Платежи;navigation_payments
+3583;Учетный номер контракта;common_contractAuditNumber
+3584;Покупка;exchangeRates_purchase
+3585;Ваш текст;yourText
+3586;Это поле не должно превышать 512 символа!;noMore512Symbols
+3587;Вы действительно хотите удалить Код бюджетной классификации №;sureYouWantDeleteKBK
+3588;Скопировать календарь;copyCalendar
+3589;Телефон;customeruser_phone
+3590;Возвраты;refunds.title
+3591;Национальный банк Республики Казахстан;exchangeRates_nbrk
+3592;Сумма;domTransfer_amount
+3593;Периодичность;standing.order.periodicity
+3595;Юридический статус;organizationsCreate_persontype
+3596;Имя плательщика;common_fullName
+3597;Создание Вида карточных продуктов;creatingCardProductType
+3598;Установить по умолчанию;common_setDefault
+3599;Дополнительно;additionally
+3600;БИН/ИИН;senderBIN
+3601;Действия;operationsWithCardsStatus
+3602;Дата;events_eventdate
+3603;Исходящий остаток;carriedForwardBalance
+3604;добавить поле типа заявления;add_custom_field
+3605;Создать новый тип;common_createNewType
+3606;ФИО;sessions_username
+3607;"3 буквенных символа";common_field_3letters
+3608;Ошибка загрузки списка календарей. Перезагрузите страницу или попробуйте позже;calendarsLoadingErrorReload
+3609;Тарифы УЦ;tariffs
+3610;Блок реквизитов: Информациия от банка;refunds.infoFromBank
+3611;Отправлено;sent
+3612;Типы документов;signingrules_doctypes
+3613;Сессия завершится через;mainbar_timeoutWarning
+3614;символов максимальная длина;paymentOrder_valid_lengthLimit
+3615;iban имеет не правильный формат;common.iban.wrongCode
+3616;Технологический сертификат;companyperson_certificate_temp
+3617;Отправить;send
+3618;Сотрудники;navigation_employees
+3619;IP терминала;events_terminal2
+3620;Ссылка;link
+3621;Изменить;Common_change
+3622;Возврат по пенсионному отчислению;refunds.pensioncontribution
+3623;Общая заблокированная сумма;totalBlockedAmount
+3624;Код;paymentOrder_payerResidencyCode
+3625;Дополнительная информация;paymentOrder_info
+3626;Меню менеджера;page_managermenutitle
+3627;Кор. счет;intTransfer_correspondentAccount
+3628;Стоимость;cost
+3629;Шаблон уведомления;template_notification
+3630;Роли;companyPersonEdit_roletabTitle
+3631;Контрагент;counterparty
+3632;Продлить;mainbar_continue
+3633;Действия;operationsWithDepositProductType
+3634;Файлы;intTransfer_files
+3635;Блокировка/Разблокировка карты;title_block_unblock
+3636;Номер карты;card_number
+3637;Блокирован;card_number_is_blocked
+3638;Данные в таблице отсутствуют;grid_emptyRowLabel
+3639;Часы;hour
+3640;Минуты;minute
+3641;Заявление;demand_tab
+3642;По документу;for_document
+3643;Группа задач;jobsGroup.edit_jobGroup.title
+3644;Номер черновика;draft_number
+3645;Тип черновика;draft_type
+3646;Банк посредник;bank_correspondent
+3647;Документ;document
+3648;Настройки входа;personal_login
+3649;документом;document1
+3650;кликните чтобы скрыть это сообщение;Click_hide_this_message
+3651;Каждую секунду;jobs.schedule.everySecond
+3652;Начиная с секунды / интервал;jobs.schedule.startFromSecond
+3653;Указаны секунды;jobs.schedule.specificSecond
+3654;Между секундами;jobs.schedule.beetweenSecond
+3655;Каждую минуту;jobs.schedule.everyMinute
+3656;Начиная с минуты / интервал;jobs.schedule.startFromMinute
+3657;Указаны минуты;jobs.schedule.specificMinute
+3658;Между минутами;jobs.schedule.beetweenMinute
+3659;Каждый час;jobs.schedule.everyHour
+3660;Начиная с часа / интервал;jobs.schedule.startFromHour
+3661;Указаны часы;jobs.schedule.specificHour
+3662;Между часами;jobs.schedule.beetweenHour
+3663;Каждый день;jobs.schedule.everyDay
+3664;Начиная с дня недели;jobs.schedule.startFromDayOfWeek
+3665;Начиная с дня месяца;jobs.schedule.startFromDayOfMonth
+3666;Определенный день недели;jobs.schedule.specificDayOfWeek
+3667;Определенный день месяца;jobs.schedule.specificDayOfMonth
+3668;Каждый месяц;jobs.schedule.everyMonth
+3669;Начиная с месяца / интервал;jobs.schedule.ststartFromMonth
+3670;Определенные месяца;jobs.schedule.specificMonth
+3671;Между месяцами;jobs.schedule.beetweenMonth
+3672;Секунды ;jobs.schedule.second
+3673;Минуты ;jobs.schedule.minute
+3674;Часы ;jobs.schedule.hour
+3675;Дни ;jobs.schedule.day
+3676;Месяцы ;jobs.schedule.Month
+3677;через каждый ;jobs.Every
+3678;Начиная с секунды;jobs.second_starting_at_second
+3679;через каждую;jobs.Every_second
+3680;Определенная секунда (выберите одну или несколько);jobs.Specific_second
+3681;Каждую секунду между секундой ;jobs.every_second_between_second
+3682;и секундой;jobs.and_second
+3683;Начиная с минуты;jobs.minute_starting_at_minute
+3684;Определенная минута (выберите одну или несколько);jobs.specific_minute
+3685;Каждую минуту между минутой;jobs.Every_minute_between
+3686;и минутой;jobs.and_minute
+3687;Определенный день недели (выберите один или несколько);jobs.Specific_day_of_week
+3688;Определенный месяц (выберите один или несколько);jobs.Specific_month
+3689;Начиная с ;jobs.month_starting_in
+3690;Каждый месяц между месяцем;jobs.Every_Month_between
+3691;и месяцем;jobs.and_month
+3692;Начиная с дня;jobs.day_starting_at_day
+3693;месяц начиная с;jobs.month_starting_on
+3694;Определенный день месяца (выберите один или несколько);jobs.Specific_day_of_month
+3695;Начиная с часа;jobs.hour_starting_at_hour
+3696;Определенный час (выберите один или несколько);jobs.Specific_hour
+3697;каждый час между часом;jobs.Every_hour_between
+3698;и часом;jobs.and_hour
+3699;По сумме;by_amount
+3700;Раскрыть фильтр;expand_filter
+3701;Скрыть фильтр;close_filter
+3702;Все получатели;all_receivers
+3703;Новых;notifications_new
+3704;Нет новых уведомлений;notifications_nonew
+3705;Счета;all_accounts
+3706;Все статусы;all_states
+3707;Все плательщики;all_payers
+3708;Настройка быстрых ссылок;quick_links_props
+3709;Мной счета;exposed_tab
+3710;Мне счета;invoice_tab
+3711;Ожидающие подписи;task_awaits
+3712;Готовы к отправке;task_ready
+3713;С ошибкой;task_with_error
+3714;Неоплаченые счета;task_unpaid
+3717;С ОШИБКОЙ;working_error
+3718;К ОТПРАВКЕ;working_send
+3719;Запущена;jobs.isRunning
+3720;Сменить активность;jobs.changeActive
+3721;Остановить;jobs.stop
+3722;Идёт загрузка;common_loading
+3723;Создаю ключ;signature_creatingKey
+3724;Ключ создан;signature_createdKey
+3725;Идет загрузка файла;file_import_in_progress
+3726;Импорт документов;file_import_title
+3727;Общий суммарный остаток;common_sum_balance
+3728;Вход в систему Интернет-банкинг;login_expo_head
+3729;Отделения;departments
+3730;Тарифы;common_tariffs
+3731;Разрешаю уполномоченному банку представление информации о данном платеже и (или) переводе денег в правоохранительные органы Республики Казахстан и Национальный Банк по их требованию.;intTransfer_isPermitGiveInformation
+3732;Тип пользователя;events_executortype
+3733;Подписываются документ(ы);docSigning_processing
+3734;Номер телефона;login_phone_number
+3735;Не удалось войти по цифровой подписи! Возможно, пароль введен неправильно.;login_signErr
+3736;Язык интерфейса;personal_langSelector
+3737;Избранное;favorite
+3738;Калькулятор валюты;currency_calc
+3739;Обновлено;er_refreshed
+3740;Покупка;er_buy
+3741;Продажа;er_sell
+3742;Покупаю;calc_buy
+3743;Продаю;calc_sell
+3744;Рассчитать;calc_calc
+3745;Сбросить;calc_reset
+3746;Результат;calc_result
+3747;Все счета;common_all_accounts
+3748;История операций;operation_history
+3749;Формат выписки;format_statement
+3750;Файл;st_file
+3751;Поиск по назначению платежа;search_purpose
+3752;Не выбрано;common_notChosen
+3753;Все операции;dt_allOperations
+3754;Главные новости;news_main
+3755;Архив новостей;archive_news
+3756;Без шаблона;without_temp
+3757;По сумме списания;at_writeOff
+3758;По сумме зачисления;at_enlistment
+3759;По курсу;at_rate
+3760;По счету списания;at_writeOffAcc
+3761;По счету зачисления;at_enlistmentAcc
+3762;По валюте списания;at_writeOffCurr
+3763;По валюте зачисления;at_enlistmentCurr
+3764;Все валюты;all_currencies
+3765;Все категории;all_categories
+3766;Забыли пароль;login_forgot
+3767;Показать все;common_show_all
+3768;Требовать СМС при входе;personal_smsrequire
+3769;Информация о банке;footer_bankInfo
+3770;Реквизиты банка;footer_requisites
+3771;Лицензии и решения;footer_licence
+3772;Отчетность;footer_accountability
+3773;Платежи в ин. валюте;navigation_intTransfers_expo
+3774;Наименование Английское;common.nameEn
+3775;Наименование Русское;common.nameRu
+3776;Наименование Казахское;common.nameKK
+3777;Повторить смс;resend_sms
+3778;БИН/ИИН/ИНН;intTransfer_benefCode
+3779;Ошибка подключения. Проверьте установлено ли необходимое программное обеспечение для работы с ЭЦП;socket_closed
+3780;Перевод между счетами;actions_transfer
+3781;Конвертация;actions_conversion
+3782;Значение на нескольких языках;multilanguage_value_label
+3783;Контракты;contracts
+3784;Время начала работы;start_time
+3785;Время окончания работы;end_time
+3786;Время начала перерыва;break_start_time
+3787;Время окончания перерыва;break_end_time
+3788;Размер числа превышает допустимое значение;error_toLongField
+3789;Введите дату в следующем формате 31.12.2017;set_date_in_format
+3790;Код банка;bankCode
+3791;Обязательное поле при сумме платежа большей или равной 10 000$;required_field_10000
+3792;Шаблон успешно сохранен;template_saved
+3793;Сохранение шаблона;template_saving
+3794;Заполните шаблон сообщения для канала;notificationtype_messagetextempty
+3795;Сохранить;common_updateDocument
+3796;Выставленные клиентам счета;manager_exposedOrder
+3798;Комбинация символов не соответствует парольной политике;passPolicy
+3799;Не более 2-х повторяющихся подряд символов;passSequence
+3800;Не более 2-х последовательных символов;passSeq2
+3801;Переводы для тип заявления;translation_for_type_document
+3802;Идентификатор пользователя;events_login
+3803;Удалить настройки виджетов;clear_orders_settings
+3804;Группы рассылки;mailing_groups
+3805;Почтовая переписка;mailing_correspondence
+3806;Массовая рассылка;mass_mailing
+3807;Просмотр/Редактирование;letter_view_edit
+3808;Наименование отправителя;sender_name
+3809;Счет отправителя;sender_acc
+3810;Наименование получателя;receiver_name
+3811;ID клиента АБС;abs_client_id
+3812;Не должно содержать;should_not_contain
+3813;Все типы;common_allTypes
+3814;Место рождения;person_birth_place
+3815;Номер паспорта;person_passport_number
+3816;Дата начала действия пасспорта;person_passport_start_date
+3817;Дата окончания действия пасспорта;person_passport_end_date
+3818;Место выдачи пасспорта;place_passport_issue
+3819;Пол;gender
+3820;Добавить категорию;provider_service_add_category
+3821;Категории услуг;provider_service_categories
+3822;Наименование;provider_service_name
+3823;Полное наименование;provider_service_full_name
+3824;Код;provider_service_full_code
+3825;Категория верхнего уровня;provider_service_upper_category
+3826;Платежные услуги;provider_service_payment_services
+3827;Просмотр Платежных услуг;provider_service_payment_services_view
+3828;Редактирование Платежных услуг;m_provider_service_edit
+3829;Агрегаторы услуг;provider_service_providers
+3830;Добавить Агрегатор;provider_service_add_provider
+3831;Услуги;provider_service_services
+3832;Добавить услугу;provider_service_add_service
+3833;Тип поля;provider_service_field_type
+3834;Ссылка на справочник;provider_service_ref_to_dict
+3835;Название провайдера;provider_service_provider_name
+3836;Добавить поле;provider_service_add_field
+3837;Экспорт в МТ;export_mt
+3838;Експортировано в формате МТ (документов):;export_mt_result
+3839;Просроченный;ps_Overdue
+3840;Информация;navigation_infoAndSuggestions
+3841;Прочие операции;navigation_otherTransactions
+3842;Перевод валюты;navigation_intTransfers
+3843;Счета на оплату;navigation_invoices
+3844;Счета и продукты;navigation_p_person_products
+3845;В национальной валюте;navigation_p_person_domTransfer
+3846;В валюте;navigation_p_person_intTransfer
+3847;Между своими счетами;navigation_p_person_accountTransfer
+3848;Переводы между картами;navigation_p_person_p2p
+3850;На подпись;action_sendForSignature
+3851;символов;common_symbolsForLength
+3852;Поле должно быть;common_length
+3853;Номер счета и код банка плательщика не могут быть пустыми.;error_acc_number_bik_not_null
+3854;Номер счета плательщика и сумма платежа не могут быть пустыми;error_acc_number_amount_not_null
+3855;"5-7 символы счета должны быть -";account_error_string2
+3901;Срок займа;loanTerm
+3856;Указанный счет получателя не соответствует выбранному банку. Код банка;account_error_string1
+3857;Показать;common_show
+3858;Клиенты;clients
+3281;Активен;organization.grid.active
+3859;Открытый;common_active
+3861;Финансовая динамика;graph_title
+3862;За год;graph_periodType_year
+3863;За квартал;graph_periodType_quarter
+3864;За месяц;graph_periodType_month
+3865;Остаток;graph_dataType_balance
+3866;Приходы;graph_dataType_credit
+3867;Расходы;graph_dataType_debet
+3868;Платежи в нац. валюте;navigation_payments_expo
+3869;Конвертации;navigation_conversion_expo
+3870;Добро пожаловать;welcome
+3871;ИИН;paymentOrder_payerCode_expo
+3872;Реквизиты продажи;document_conversionDebitDetails
+3873;Реквизиты  покупки;document_conversionCreditDetails
+3874;Детали бенефициара;paymentOrder_beneficiary
+3875;Внутренние платежи;document_transfer
+3876;Суммарная длина следующих полей Получателя;field_total_length
+3877;не должна превышать 140 символов;should_not_exceed_140
+3878;Контакты службы клиентской поддержки:;support_contacts
+3879;Перевод между своими счетами / Конвертация валюты;paymentOrder_addNewAccountTransfer
+3880;Открытый;common_opened
+3881;Ваш персональный менеджер;personal_manager
+3882;Поиск по реквизитам получателя;search_benefDetails
+3883;Изменение пароля;personal_changingPass
+3884;Проверка на красный баланс;valid_redBalance
+3885;Количество дней после создания документа на протяжении которого его можна подписать;valid_maxPeriodForDocumentExecution
+3886;Максимальная сумма по одному платежу (грн.);valid_maxAmountPerOperation
+3887;Максимальная сумма по платежам за день (грн.);valid_maxAmountPerDay
+3888;Максимальная сумма по платежам за месяц (грн.);valid_maxAmountPerMonth
+3889;Проверка на уникальность по основным полям;valid_uniqueMainFields
+3890;Проверка на соответсвие счета цифровому кода банка;valid_validateAccountByBankCode
+3891;Редактировать письмо;letter_edit
+3892;Ответить на письмо;letter_reply
+3893;Просмотр переписки;letter_chain_view
+3894;Отправить в банк;action_sentToBank
+3896;ЭЦП;login_factor_Signature
+3897;Выставление нового счета;invoice_createNew
+3898;Информация;page_expose_orders_information
+3899;Показать закрытые карты;showClosedCards
+3900;Просмотр/редактирование;invoice_edit
+3903;Конвертация валюты;document_conversion
+3904;Наименование;constraint_name
+3905;Тип;constraint_type
+3906;Значение;constraint_value
+3907;Признак обязательности;constraint_isRequired
+3908;Текст ошибки;constraint_error
+3909;Валидации полей;constraint_validations
+3910;Включена;constraint_true
+3911;Отключена;constraint_false
+3912;Предупреждение;constraint_warn
+3913;Обязательное поле;constraint_required_field
+3914;Максимальная длина поля;constraint_max_length
+3915;Минимальная длина поля;constraint_min_length
+3916;Длина поля;constraint_length
+3917;Регулярное выражение;constraint_regexp
+3918;Iban валидация счета;constraint_iban
+3919;Валидация налогового номера;constraint_tax_number
+3920;Сумма не должна быть 0;constraint_amount_not_null
+3921;Проверка в базе данных;constraint_check_db
+3922;Проверка счета на принадлежность юзеру;constraint_check_acc
+3923;Контроль НДС;constraint_vat
+3924;Проверка даты платежа;constraint_value_date
+3925;Общая валидация документа;constraint_global
+3926;Валидация полей документа;constraint_fields_validation
+3927;Валидация полей сотрудников;constraint_employee_validation
+3928;Справочник КБЕ;constraint_db_residencyCodes
+3929;Справочник бюджетных кодов;constraint_db_budgetCodes
+3930;Справочник КНП;constraint_db_purposeCodes
+3931;Справочник типов отчислений сотрудникам;constraint_db_employeeTransferCategories
+3932;Справочник типов комисий;constraint_db_feeType
+3933;Справочник стран;constraint_db_countries
+3934;Справочник банков;constraint_db_bank
+3935;Справочник локальных банков;constraint_db_localBanks
+3936;Справочник валют;constraint_db_currency
+3937;Да;common_yes
+3938;Нет;common_no
+3939;Индивидуальные привилегии;companyperson_indprivileges
+3940;Для физических лиц?;knp_for_individuals
+3941;Свернуть;common_collapse
+3942;Развернуть;common_expand
+3943;Состояние отделения;service_point_status
+3944;Открыто;service_point_open
+3945;Закрыто;service_point_closed
+3946;Создание новой Валюты;currency_newcurrency
+1456;Обновление Валюты;currency_currencyeditor
+3947;Ид;common_short_id
+3948;Не блокирован;common_nonBlocked
+3949;Статус организации;common.organization.status
+3950;Оплата услуг;payment_service_view
+3951;Задачи;navigation_tasks
+3952;Просмотр платежного поручения;paymentOrder_view
+3953;Посмотреть все курсы;err_all_rates
+3955;Реквизиты списания;document_transferDebitDetails
+3956;Реквизиты  зачисления;document_transferCreditDetails
+3958;Создать категорию;provider_service_create_category
+3959;Редактировать категорию;provider_service_edit_category
+3960;Создать Агрегатор;provider_service_create_provider
+3961;Редактировать Агрегатор;provider_service_edit_provider
+3962;ИИН/БИН Организации;common_organization_tax_code
+3963;Карта не потдержуется;error_card_does_not_supported
+3964;Просмотр/редактирование шаблона перевода между картами;view_edit_template_card_transfer
+3965;Создание перевода между картами;create_card_transfer
+3966;Создание шаблона перевода между картами;Create_template_card_transfer
+3967;Просмотр/редактирование перевода между картами;view_edit_card_transfer
+3968;Тип письма;letterType
+3969;Просмотр \ Редактирование  Шаблона международного платежа;intTransfer_EditTemplate
+3970;Создание Шаблона международного платежа;intTransfer_createTemplate
+3971;Выполнено действие;didAction
+3972;документами;documents1
+3973;документов;documents2
+3974;над;on
+3975;Изменение email;personal_changingEmail
+3976;Сумма контракта;common_contractAmount
+3977;Поиск по получателю;search_receiver_asia
+3979;Реестр;common_list_of_employees
+3980;Дата выпуска;issueDate
+3981;Заблокированная сумма;blockedSum
+3982;Удалить документ?;delete_document_title
+3978;Тип;account_type
+3983;Перевод между счетами;DocType_AccountTransfer
+3984;Платеж в национальной валюте;DocType_DomesticTransfer
+3985;Международный платеж;DocType_InternationalTransfer
+3986;Отзыв документа;DocType_DocumentWithdraw
+3987;Выставленные мной счета;DocType_ExposedOrder
+3988;Заявление;DocType_Demand
+3989;Платёжное поручение;DocumentSubType_PaymentOrder
+3990;Зарплатное отчисление;DocumentSubType_Payroll
+3991;Пенсионное отчисление;DocumentSubType_PensionContribution
+3992;Социальное отчисление;DocumentSubType_SocialContribution
+3993;Карточный перевод;DocumentSubType_P2P
+3994;Электронная почта не может быть пуста;email_cant_be_empty
+3995;Недействительный емейл адрес . Используйте емейл вида: jack@gmail.com;email_dont_match_regex
+3996;Телефон не может быть пустым;phone_cant_be_empty
+3997;Неверный телефон. Используйте телефон вида: +38 097 777 7777;phone_dont_match_regex
+3998;Страны;common_countries
+3999;Опубликовать;common_publish
+4000;Счет/карта зачисления;credit_card_acc_grid_column
+4001;Счет/карта списания;debit_card_acc_grid_column
+4002;Новый пароль не может соответствовать предыдущим %d паролям;passHistoryPolicy
+4003;Комисия по платежным документам;commission_documents
+4004;Расчет комисии в АБС банка;commission_calculate_in_abs
+4005;Логотип не найден;commission_logo_not_found
+4006;Имя файла логотипа;commission_logo_file_name
+4007;Это письмо уже взято в работу;common_letter_blocked
+4008;Максимальная длина - 2000!;letter.validation.company.description.max.length
+4009;Company person id is not present;letter.validation.company.person
+4010;Текст письма не может быть пустым;letter.validation.company.description
+4011;Редактировать Категорию;CodeCategory_EditCategory
+4012;Причина блокировки;blocked_reason
+4013;Причина разблокировки;unblock_reason
+4014;ИД города;place_id
+4015;Заявка;job_EXPORT_CUSTOM_REQUEST
+4016;Проверка статусов заявок;job_CUSTOM_REQUEST_STATE_CHANGED
+4017;КНП с таким кодом уже существует;knp_with_this_code_already_exist
+4018;Длина не должна превышать 60 символов;validation.maxLength60
+4019;Поле не может быть пустым;validation.notEmpty
+4020;Ошибка валидации на стороне сервера;default_backend_validation_error
+4021;Запрос;common.request
+4022;Сохранить;common.save
+4023;Импорт нового клиента;organizationsCreate_import
+4024;Статус в базе;common_status_in_db
+4025;Неправильный тип документа;wrongDocumentType
+4026;По умолчанию;common_default
+4027;Организация с таким externalId уже существует в базе;customer.validation.externalId
+4028;У вас недостаточно прав для этой операции;error.accessDenied
+4029;Загрузить;common_download
+4030;Выберите сертификат;login_choose_certificate
+4031;Срок действия;login_expiration_time
+4032;Нет доступных ключей;login_no_keys
+4033;В вашем ключе отсутствует сертификат;login_no_keys_in_cert
+4034;Желаете сохранить сертификат на токен?;common_is_save_cert
+4035;Не удалось сохранить сертификат;login_failed_save_cert
+1470;Введите пароль на хранилище;login_enter_password
+4036;Сертификат сохранен успешно. Введите пароль на хранилище;login_saved_enter_pass
+4037;Журнал;navigation_requests_title
+4038;Коммуникации с клиентами;navigation_clients_communication
+4039;Настройка пользователей;navigation_users_settings
+4040;Задача активна;jobs.isActive
+4041;Менеджер;letter.chat.manager
+4042;Клиент;letter.chat.customer
+4043;Функционал в разработке;functionality_is_under_development
+4044;Уведомлять о новых сообщениях от пользователей;email_notification_on_new_letters
+4045;Обработка...;common_await
+4046;Поле должно быть не меньше;common_minLength
+4047;Сделать активным/неактивным;jobs.setActivity
+4048;Действия с новостью;actions_with_news
+4049;Клиент;events_client
+4050;Блокировать;common_block
+4051;Разблокировать;common_unblock
+4052;Валидный;key_ok
+4053;Не для подписания документов;key_not_for_sign
+4054;Неизвестный;key_unknown
+4055;Неактивен;key_inactive
+4056;Рано для подписания;key_too_early
+4057;Отозваный;key_revoked
+4058;Время жизни пароля (мин);key_expired
+4059;Подтвердить удаление джоба?;jobs.delete.confirmation
+4060;Ошибка при удалении джоба;jobs.delete.error
+4061;Заявление на получение наличности в кассе подается за один рабочий (операционный день). В случае отсутствия заявки снимается дополнительная комиссия в размере 0.10% от выдаваемой суммы.;translation_23
+4062;Сертификат не найден или истек;login.certificateExpiredOrNotExist
+4063;Предупреждение нового сотрудника;privilege_new_user_warning
+4064;Просмотр виджета избранное;privilege_favorite_widget_view
+4065;Дата рождения;common_birthDate
+4066;Серия документа;common_documen_seria
+4067;Номер документа;common_document_number
+4068;Почтовый индекс;common_post_index
+4069;Телефон не заполнен;error_phone_is_empty
+4070;Пароль не должен соответствовать телефону;error_password_equal_phone
+4071;Год или месяц или день рождения не заполненны;error_birthday_empty
+4072;Пароль не может содержать в себе дату рождения;error_password_can_not_contain_birthday
+4073;Пароль не может быть:;error_password_can_not_be
+4074;Логин не заполнен;error_login_is_empty
+4075;Пароль и логин не должны совпадать;error_password_can_not_be_equal_login
+4076;Пароль и подтверждение пароля не одинаковы;error_password_and_confirmation_different
+4077;Запрещенные для пароля слова;property_FORBIDDEN_PWD_WORDS
+4078;Сертификаты для мобильных;certificate_mobile_delivery
+4079;Создать запрос;profile.createCertificateRequest
+4080;Подписать запрос;profile.signCertificateRequest
+4081;Не подписан;common_unsigned
+4082;месяц;jobs.of_the_month_postfix
+4083;Открыть / закрыть CRON - мануал;cron_manual.open_close
+4084;CRON - мануал;cron_manual.title
+4085;CRON - мануал для правильной настройки cron;cron_manual.subtitle
+4086;Открыть CRON - мануал;cron_manual.open
+4087;Закрыть CRON - мануал;cron_manual.close
+4088;Ручной ввод CRON;cron_manually_input.title
+4089;Ручной ввод CRON;cron_manually_input.subtitle
+4090;Введите CRON;cron_manually_input.enter_cron
+4091;Результирующий CRON:;jobs.result_cron
+4092;назад к логину;back_to_login
+4093;Изменение телефона;personal_changingPhone
+4094;Назад;common_back
+4095;Поле не может начинаться с нуля;error_can_not_start_zero
+4096;Поле должно быть 8 или 10 символов;error_wrong_tax_code
+4097;Дата регистрации документа;document_registration_date
+4098;Пояснительная информация;explanatoryInfo
+4099;Идент. код плательщика, за которого выполняется платеж;thirdPartyTaxCode
+4100;Код вида расчета;payment_code_type
+4101;Серия/№ паспорта;serial_passport_number
+4102;НДС;field_vat
+4103;Правила автоавторизации платежей;autopayment_rules
+4104;Запрещенные платежи;deniedpayment_rules
+4105;Создание Правила автоавторизации платежей;autopayment_rules_create
+4106;Редактирование Правила автоавторизации платежей;autopayment_rules_edit
+4107;Удалить Правило автоавторизации платежей?;autopayment_rules_delete
+4108;Создание Правила запрещенных платежей;denied_payment_rules_create
+4109;Редактирование Правила запрещенных платежей;denied_payment_rules_edit
+4110;Удалить Правило запрещенных платежей?;denied_payment_rules_delete
+4111;Маска счета плательщика;payer_account_mask
+4112;Маска счета получателя;recipient_account_mask
+4113;Тип платежа;payment_type
+4114;внутренний;payment_type_internal
+4115;внешний;payment_type_external
+4116;Неверный ключ счета;account_InvalidKey
+4117;Правило уже существует;error.validation.accounts_pair.existed
+4118;Должны быть заполнены все обязательные поля;error.validation.all_necessary_fields
+4119;в;common.in
+4120;Ваш персональный менеджер;chat.your_manager
+4121;печатает;chat.typing
+4122;Введите текст сообщения;chat.enter_message
+4123;Редактирование дня;calendar_EditDay
+4124;Редактирование календаря;calendarEditing
+4125;Создание календаря;calendarCreating
+4126;Понедельник;common.monday
+4127;Вторник;common.tuesday
+4128;Среда;common.wednesday
+4129;Четверг;common.thursday
+4130;Пятница;common.friday
+4131;Субота;common.saturday
+4132;Воскресенье;common.sunday
+4133;Дата выполнения;execution_date
+4134;День недели выполнения;execution_week_day
+4135;День ежемесячного выполнения;execution_month_day
+4136;Открытый;ps_Active
+4137;Письмо в организацию;letter_to
+4138;Рассылка группе организаций;letter_distribution
+4139;Денежные операции;navigation_transactions
+4140;Платежи и переводы;navigation_transactions_person
+4141;Счета и карты;navigation_products
+4142;Наименование;intTransfer_payerName
+4143;ЕГРПОУ/ИНН;intTransfer_payerCode
+3860;Счета;current_accounts
+4144;Перевод между своими счетами;navigation_inner_transactions
+3381;Отделение;common_branch
+3497;ЕГРПОУ/ИНН;common_bin
+4145;Документ невозможно подписать, желаете сохранить документ?;error_cant_sign_document_wish_save
+3797;Доступный остаток;common_planBalance
+4146;Доступно;common_planBalance1
+3570;Остаток;paymentOrder_balance
+4147;Баланс;paymentOrder_balance1
+4148;Номер счета;account_number
+4149;Заблокированная сумма;common_blockedSum1
+4150;Лимит овердрафта;common_overdraftLimit
+4151;Сумма по документам, которые обрабатываются по счету;account_sumOfWorkingDocuments
+4152;Просмотр деталей;viewCardDetails
+4153;Доступный кредит;creditCardAvailable
+4154;Ативная;ps_card_Active
+4155;Заблокирована;ps_card_Blocked
+4156;Закрыта;ps_card_Closed
+3125;Дата транзакции;dateCreateProcessing
+2630;Сумма транзакции;amountInAccountCurrency
+3408;Сумма холда;amountInTransactionCurrency
+4157;Тип холда;holdType
+4158;Наименование оборудования;operationPlace
+4159;Код операции;operationCode
+4160;Перечень балансовых номеров счетов для интеграции с АБС банка;property_INTEGRATION_REQUEST_ACCOUNT_BALANCE_NUMBERS
+3715;ВСЕ ПЛАТЕЖИ;working_all
+4161;ПОСТУПЛЕНИЯ;working_incoming
+4162;СПИСАНИЯ;working_outgoing
+4163;МОИ ДОКУМЕНТЫ;working_my_documents
+3716;НА ПОДПИСИ;working_sign
+3558;Сохранить;common_createNewDocument
+2971;SMS-пароль;login_sms_password
+3954;SMS-пароль;login_factor_SMS
+4164;Подписать;document_sign
+3895;Подписать;confirmation_title
+3849;Отозвать;action_toDraft
+2898;Сделать регулярным;paymentOrder_repeat
+3276;Дата выполнения;standing.order.standingDate
+2974;Мой Бизнес Online;login_head
+4165;ШАБЛОНЫ ПЛАТЕЖЕЙ;navigation_PaymentTemplates
+4166;Просмотр/Изменение;common_viewEditLabel
+4167;Невозможно создание документа с такой корреспонденцией. Проверьте, верно ли ввели реквизиты или обратитесь в банк.;accounts_pair_denied_message
