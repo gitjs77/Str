@@ -2,81 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a2df35c0-be80-4b02-b4ca-873354ae5c9c" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/UniversalTranslationMerger/UniversalTranslationMerger.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/AppendKeysThatNotContainsInTheOtherTables$_appendRowsNotContainsInTheOtherTables_closure1.class" afterPath="$PROJECT_DIR$/out/production/untitled1/AppendKeysThatNotContainsInTheOtherTables$_appendRowsNotContainsInTheOtherTables_closure1.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/AppendKeysThatNotContainsInTheOtherTables$_appendRowsNotContainsInTheOtherTables_closure2.class" afterPath="$PROJECT_DIR$/out/production/untitled1/AppendKeysThatNotContainsInTheOtherTables$_appendRowsNotContainsInTheOtherTables_closure2.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/AppendKeysThatNotContainsInTheOtherTables$_appendRowsNotContainsInTheOtherTables_closure3.class" afterPath="$PROJECT_DIR$/out/production/untitled1/AppendKeysThatNotContainsInTheOtherTables$_appendRowsNotContainsInTheOtherTables_closure3.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/AppendKeysThatNotContainsInTheOtherTables$_appendRowsNotContainsInTheOtherTables_closure4.class" afterPath="$PROJECT_DIR$/out/production/untitled1/AppendKeysThatNotContainsInTheOtherTables$_appendRowsNotContainsInTheOtherTables_closure4.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/AppendKeysThatNotContainsInTheOtherTables$_appendRowsNotContainsInTheOtherTables_closure5.class" afterPath="$PROJECT_DIR$/out/production/untitled1/AppendKeysThatNotContainsInTheOtherTables$_appendRowsNotContainsInTheOtherTables_closure5.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/AppendKeysThatNotContainsInTheOtherTables.class" afterPath="$PROJECT_DIR$/out/production/untitled1/AppendKeysThatNotContainsInTheOtherTables.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/ChangeDataInCsv/ChangeDataInBankCsv$_changeDataInCsvByCulumnIndex_closure1.class" afterPath="$PROJECT_DIR$/out/production/untitled1/ChangeDataInCsv/ChangeDataInBankCsv$_changeDataInCsvByCulumnIndex_closure1.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/ChangeDataInCsv/ChangeDataInBankCsv$_changeDataInCsvByCulumnIndex_closure2$_closure4.class" afterPath="$PROJECT_DIR$/out/production/untitled1/ChangeDataInCsv/ChangeDataInBankCsv$_changeDataInCsvByCulumnIndex_closure2$_closure4.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/ChangeDataInCsv/ChangeDataInBankCsv$_changeDataInCsvByCulumnIndex_closure2.class" afterPath="$PROJECT_DIR$/out/production/untitled1/ChangeDataInCsv/ChangeDataInBankCsv$_changeDataInCsvByCulumnIndex_closure2.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/ChangeDataInCsv/ChangeDataInBankCsv$_changeDataInCsvByCulumnIndex_closure3.class" afterPath="$PROJECT_DIR$/out/production/untitled1/ChangeDataInCsv/ChangeDataInBankCsv$_changeDataInCsvByCulumnIndex_closure3.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/ChangeDataInCsv/ChangeDataInBankCsv.class" afterPath="$PROJECT_DIR$/out/production/untitled1/ChangeDataInCsv/ChangeDataInBankCsv.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/CheckCsvForNullAndSize$_checkCsvForNullsCellAndCorrectStructure_closure1.class" afterPath="$PROJECT_DIR$/out/production/untitled1/CheckCsvForNullAndSize$_checkCsvForNullsCellAndCorrectStructure_closure1.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/CheckCsvForNullAndSize$_checkCsvForNullsCellAndCorrectStructure_closure2$_closure4.class" afterPath="$PROJECT_DIR$/out/production/untitled1/CheckCsvForNullAndSize$_checkCsvForNullsCellAndCorrectStructure_closure2$_closure4.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/CheckCsvForNullAndSize$_checkCsvForNullsCellAndCorrectStructure_closure2.class" afterPath="$PROJECT_DIR$/out/production/untitled1/CheckCsvForNullAndSize$_checkCsvForNullsCellAndCorrectStructure_closure2.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/CheckCsvForNullAndSize$_checkCsvForNullsCellAndCorrectStructure_closure3$_closure5.class" afterPath="$PROJECT_DIR$/out/production/untitled1/CheckCsvForNullAndSize$_checkCsvForNullsCellAndCorrectStructure_closure3$_closure5.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/CheckCsvForNullAndSize$_checkCsvForNullsCellAndCorrectStructure_closure3.class" afterPath="$PROJECT_DIR$/out/production/untitled1/CheckCsvForNullAndSize$_checkCsvForNullsCellAndCorrectStructure_closure3.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/CheckCsvForNullAndSize.class" afterPath="$PROJECT_DIR$/out/production/untitled1/CheckCsvForNullAndSize.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/CheckInputCsvFrombank$_checkIncomingCsvFromBank_closure1.class" afterPath="$PROJECT_DIR$/out/production/untitled1/CheckInputCsvFrombank$_checkIncomingCsvFromBank_closure1.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/CheckInputCsvFrombank$_checkIncomingCsvFromBank_closure2$_closure4.class" afterPath="$PROJECT_DIR$/out/production/untitled1/CheckInputCsvFrombank$_checkIncomingCsvFromBank_closure2$_closure4.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/CheckInputCsvFrombank$_checkIncomingCsvFromBank_closure2.class" afterPath="$PROJECT_DIR$/out/production/untitled1/CheckInputCsvFrombank$_checkIncomingCsvFromBank_closure2.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/CheckInputCsvFrombank$_checkIncomingCsvFromBank_closure3$_closure5.class" afterPath="$PROJECT_DIR$/out/production/untitled1/CheckInputCsvFrombank$_checkIncomingCsvFromBank_closure3$_closure5.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/CheckInputCsvFrombank$_checkIncomingCsvFromBank_closure3.class" afterPath="$PROJECT_DIR$/out/production/untitled1/CheckInputCsvFrombank$_checkIncomingCsvFromBank_closure3.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/CheckInputCsvFrombank.class" afterPath="$PROJECT_DIR$/out/production/untitled1/CheckInputCsvFrombank.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/CsvCompare$_main_closure1.class" afterPath="$PROJECT_DIR$/out/production/untitled1/CsvCompare$_main_closure1.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/CsvCompare$_main_closure2.class" afterPath="$PROJECT_DIR$/out/production/untitled1/CsvCompare$_main_closure2.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/CsvCompare$_main_closure3.class" afterPath="$PROJECT_DIR$/out/production/untitled1/CsvCompare$_main_closure3.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/CsvCompare$_main_closure4.class" afterPath="$PROJECT_DIR$/out/production/untitled1/CsvCompare$_main_closure4.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/CsvCompare$_main_closure5.class" afterPath="$PROJECT_DIR$/out/production/untitled1/CsvCompare$_main_closure5.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/CsvCompare.class" afterPath="$PROJECT_DIR$/out/production/untitled1/CsvCompare.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/CsvCompareTest$_main_closure1.class" afterPath="$PROJECT_DIR$/out/production/untitled1/CsvCompareTest$_main_closure1.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/CsvCompareTest$_main_closure2.class" afterPath="$PROJECT_DIR$/out/production/untitled1/CsvCompareTest$_main_closure2.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/CsvCompareTest$_main_closure3.class" afterPath="$PROJECT_DIR$/out/production/untitled1/CsvCompareTest$_main_closure3.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/CsvCompareTest$_main_closure4.class" afterPath="$PROJECT_DIR$/out/production/untitled1/CsvCompareTest$_main_closure4.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/CsvCompareTest$_main_closure5.class" afterPath="$PROJECT_DIR$/out/production/untitled1/CsvCompareTest$_main_closure5.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/CsvCompareTest$_main_closure6.class" afterPath="$PROJECT_DIR$/out/production/untitled1/CsvCompareTest$_main_closure6.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/CsvCompareTest.class" afterPath="$PROJECT_DIR$/out/production/untitled1/CsvCompareTest.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/CsvMerger$_mergeCsvTranslationWebSpecific_closure1.class" afterPath="$PROJECT_DIR$/out/production/untitled1/CsvMerger$_mergeCsvTranslationWebSpecific_closure1.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/CsvMerger$_mergeCsvTranslationWebSpecific_closure2.class" afterPath="$PROJECT_DIR$/out/production/untitled1/CsvMerger$_mergeCsvTranslationWebSpecific_closure2.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/CsvMerger$_mergeCsvTranslationWebSpecific_closure3.class" afterPath="$PROJECT_DIR$/out/production/untitled1/CsvMerger$_mergeCsvTranslationWebSpecific_closure3.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/CsvMerger.class" afterPath="$PROJECT_DIR$/out/production/untitled1/CsvMerger.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/CsvMergerTranslationSpecific$_mergeCsvTranslationSpecific_closure1.class" afterPath="$PROJECT_DIR$/out/production/untitled1/CsvMergerTranslationSpecific$_mergeCsvTranslationSpecific_closure1.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/CsvMergerTranslationSpecific$_mergeCsvTranslationSpecific_closure2.class" afterPath="$PROJECT_DIR$/out/production/untitled1/CsvMergerTranslationSpecific$_mergeCsvTranslationSpecific_closure2.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/CsvMergerTranslationSpecific.class" afterPath="$PROJECT_DIR$/out/production/untitled1/CsvMergerTranslationSpecific.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/FileWriterTest.class" afterPath="$PROJECT_DIR$/out/production/untitled1/FileWriterTest.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/MapInit$_main_closure1.class" afterPath="$PROJECT_DIR$/out/production/untitled1/MapInit$_main_closure1.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/MapInit.class" afterPath="$PROJECT_DIR$/out/production/untitled1/MapInit.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/RecursiveFileSearch/FileSearch.class" afterPath="$PROJECT_DIR$/out/production/untitled1/RecursiveFileSearch/FileSearch.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/RecursiveFileSearch/FileSearchGroovy$_writeResults_closure1.class" afterPath="$PROJECT_DIR$/out/production/untitled1/RecursiveFileSearch/FileSearchGroovy$_writeResults_closure1.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/RecursiveFileSearch/FileSearchGroovy.class" afterPath="$PROJECT_DIR$/out/production/untitled1/RecursiveFileSearch/FileSearchGroovy.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/Test$_main_closure1.class" afterPath="$PROJECT_DIR$/out/production/untitled1/Test$_main_closure1.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/Test$_main_closure2.class" afterPath="$PROJECT_DIR$/out/production/untitled1/Test$_main_closure2.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/Test.class" afterPath="$PROJECT_DIR$/out/production/untitled1/Test.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/TestCreationMapFromList$_main_closure1.class" afterPath="$PROJECT_DIR$/out/production/untitled1/TestCreationMapFromList$_main_closure1.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/TestCreationMapFromList$_main_closure2.class" afterPath="$PROJECT_DIR$/out/production/untitled1/TestCreationMapFromList$_main_closure2.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/TestCreationMapFromList.class" afterPath="$PROJECT_DIR$/out/production/untitled1/TestCreationMapFromList.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/TestLinkedListOrder$_main_closure1.class" afterPath="$PROJECT_DIR$/out/production/untitled1/TestLinkedListOrder$_main_closure1.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/TestLinkedListOrder$_main_closure2.class" afterPath="$PROJECT_DIR$/out/production/untitled1/TestLinkedListOrder$_main_closure2.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/TestLinkedListOrder$_main_closure3.class" afterPath="$PROJECT_DIR$/out/production/untitled1/TestLinkedListOrder$_main_closure3.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/TestLinkedListOrder$_main_closure4.class" afterPath="$PROJECT_DIR$/out/production/untitled1/TestLinkedListOrder$_main_closure4.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/TestLinkedListOrder$_main_closure5.class" afterPath="$PROJECT_DIR$/out/production/untitled1/TestLinkedListOrder$_main_closure5.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/TestLinkedListOrder$_main_closure6.class" afterPath="$PROJECT_DIR$/out/production/untitled1/TestLinkedListOrder$_main_closure6.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/TestLinkedListOrder.class" afterPath="$PROJECT_DIR$/out/production/untitled1/TestLinkedListOrder.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/csvCheck/CsvCheckByParameters$_checkCsvByParameters_closure1.class" afterPath="$PROJECT_DIR$/out/production/untitled1/csvCheck/CsvCheckByParameters$_checkCsvByParameters_closure1.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/csvCheck/CsvCheckByParameters$_checkCsvByParameters_closure2.class" afterPath="$PROJECT_DIR$/out/production/untitled1/csvCheck/CsvCheckByParameters$_checkCsvByParameters_closure2.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/csvCheck/CsvCheckByParameters$_checkCsvByParameters_closure3$_closure5.class" afterPath="$PROJECT_DIR$/out/production/untitled1/csvCheck/CsvCheckByParameters$_checkCsvByParameters_closure3$_closure5.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/csvCheck/CsvCheckByParameters$_checkCsvByParameters_closure3.class" afterPath="$PROJECT_DIR$/out/production/untitled1/csvCheck/CsvCheckByParameters$_checkCsvByParameters_closure3.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/csvCheck/CsvCheckByParameters$_checkCsvByParameters_closure4$_closure6.class" afterPath="$PROJECT_DIR$/out/production/untitled1/csvCheck/CsvCheckByParameters$_checkCsvByParameters_closure4$_closure6.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/csvCheck/CsvCheckByParameters$_checkCsvByParameters_closure4.class" afterPath="$PROJECT_DIR$/out/production/untitled1/csvCheck/CsvCheckByParameters$_checkCsvByParameters_closure4.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/csvCheck/CsvCheckByParameters.class" afterPath="$PROJECT_DIR$/out/production/untitled1/csvCheck/CsvCheckByParameters.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/csvCheck/IncorrectDataException.class" afterPath="$PROJECT_DIR$/out/production/untitled1/csvCheck/IncorrectDataException.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/result.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/result.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/untitled1.iml" afterPath="$PROJECT_DIR$/untitled1.iml" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/UniversalTranslationMerger/UniversalTranslationMerger.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/UniversalTranslationMerger/UniversalTranslationMerger.java" afterPath="$PROJECT_DIR$/src/UniversalTranslationMerger/UniversalTranslationMerger.java" />
+      <change beforePath="$PROJECT_DIR$/src/UniversalTranslationMerger/result.txt" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -91,18 +20,28 @@
       <file leaf-file-name="MergeTranslationsByTranslationKey.groovy" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/MergeTranslationsbyTranslationKey/MergeTranslationsByTranslationKey.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="155">
+            <state relative-caret-position="221">
               <caret line="29" column="28" lean-forward="false" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UniversalTranslationMerger.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="UniversalTranslationMerger.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/UniversalTranslationMerger/UniversalTranslationMerger.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+            <state relative-caret-position="-66">
+              <caret line="51" column="27" lean-forward="true" selection-start-line="51" selection-start-column="27" selection-end-line="51" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UniversalTranslationMerger2.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/UniversalTranslationMerger/UniversalTranslationMerger2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="753">
+              <caret line="41" column="50" lean-forward="true" selection-start-line="41" selection-start-column="50" selection-end-line="41" selection-end-column="50" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -123,7 +62,7 @@
       <file leaf-file-name="newTranslationUa.csv" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/UniversalTranslationMerger/newTranslationUa.csv">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="447">
+            <state relative-caret-position="461">
               <caret line="3129" column="22" lean-forward="false" selection-start-line="3129" selection-start-column="22" selection-end-line="3129" selection-end-column="22" />
               <folding />
             </state>
@@ -173,6 +112,7 @@
         <option value="$PROJECT_DIR$/src/UniversalTranslationMerger/01--translation.mobile.csv" />
         <option value="$PROJECT_DIR$/src/UniversalTranslationMerger/newTranslationUa.csv" />
         <option value="$PROJECT_DIR$/src/UniversalTranslationMerger/UniversalTranslationMerger.java" />
+        <option value="$PROJECT_DIR$/src/UniversalTranslationMerger/UniversalTranslationMerger2.java" />
       </list>
     </option>
   </component>
@@ -267,7 +207,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.UniversalTranslationMerger2">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
@@ -282,6 +222,25 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="UniversalTranslationMerger.UniversalTranslationMerger" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="untitled1" />
+      <envs />
+    </configuration>
+    <configuration name="UniversalTranslationMerger2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="UniversalTranslationMerger.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="UniversalTranslationMerger.UniversalTranslationMerger2" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -367,9 +326,14 @@
       <option name="PROGRAM_PARAMETERS" />
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Application.UniversalTranslationMerger" />
+      <item index="1" class="java.lang.String" itemvalue="Application.UniversalTranslationMerger2" />
+    </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Application.UniversalTranslationMerger" />
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Application.UniversalTranslationMerger2" />
+        <item index="1" class="java.lang.String" itemvalue="Application.UniversalTranslationMerger" />
       </list>
     </recent_temporary>
   </component>
@@ -390,12 +354,12 @@
       <workItem from="1521722902021" duration="22000" />
       <workItem from="1522418047586" duration="332000" />
       <workItem from="1522418520237" duration="3337000" />
-      <workItem from="1522422963908" duration="7753000" />
+      <workItem from="1522422963908" duration="11922000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12558000" />
+    <option name="totallyTimeSpent" value="16727000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1053" extended-state="0" />
@@ -414,7 +378,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22820237" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11271367" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.110042736" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -462,9 +426,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="14" column="38" lean-forward="false" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -625,7 +587,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/MergeTranslationsbyTranslationKey/MergeTranslationsByTranslationKey.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
+        <state relative-caret-position="221">
           <caret line="29" column="28" lean-forward="false" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
           <folding />
         </state>
@@ -633,7 +595,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/UniversalTranslationMerger/newTranslationUa.csv">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="447">
+        <state relative-caret-position="461">
           <caret line="3129" column="22" lean-forward="false" selection-start-line="3129" selection-start-column="22" selection-end-line="3129" selection-end-column="22" />
           <folding />
         </state>
@@ -649,8 +611,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/UniversalTranslationMerger/result.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="360">
+          <caret line="20" column="29" lean-forward="false" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
           <folding />
         </state>
       </provider>
@@ -673,8 +635,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/UniversalTranslationMerger/UniversalTranslationMerger.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+        <state relative-caret-position="-66">
+          <caret line="51" column="27" lean-forward="true" selection-start-line="51" selection-start-column="27" selection-end-line="51" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UniversalTranslationMerger/UniversalTranslationMerger2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="753">
+          <caret line="41" column="50" lean-forward="true" selection-start-line="41" selection-start-column="50" selection-end-line="41" selection-end-column="50" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
