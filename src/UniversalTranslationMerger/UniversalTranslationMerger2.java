@@ -28,7 +28,8 @@ public class UniversalTranslationMerger2 {
                                                   final int outputFileTranslationKeyIndex, final int inputFileTranslationKeyIndex,
                                                   final int outputFileDataIndex, final int inputFileDataIndex) throws IOException {
 
-        final File result = new File("src/UniversalTranslationMerger/result.txt");
+        final File result = new File(pathToInputTranslationFile.substring(0, pathToInputTranslationFile.lastIndexOf(".")) + "_MERGED"
+        + pathToInputTranslationFile.substring(pathToInputTranslationFile.lastIndexOf(".")));
         final FileWriter fw = new FileWriter(result);
 
         final List<String> outputTranslationsFileSeparatedStrings =

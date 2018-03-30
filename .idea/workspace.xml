@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a2df35c0-be80-4b02-b4ca-873354ae5c9c" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/UniversalTranslationMerger/UniversalTranslationMerger.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/UniversalTranslationMerger/UniversalTranslationMerger.java" afterPath="$PROJECT_DIR$/src/UniversalTranslationMerger/UniversalTranslationMerger.java" />
+      <change beforePath="$PROJECT_DIR$/src/UniversalTranslationMerger/UniversalTranslationMerger2.java" afterPath="$PROJECT_DIR$/src/UniversalTranslationMerger/UniversalTranslationMerger2.java" />
       <change beforePath="$PROJECT_DIR$/src/UniversalTranslationMerger/result.txt" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -40,8 +38,8 @@
       <file leaf-file-name="UniversalTranslationMerger2.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/UniversalTranslationMerger/UniversalTranslationMerger2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="753">
-              <caret line="41" column="50" lean-forward="true" selection-start-line="41" selection-start-column="50" selection-end-line="41" selection-end-column="50" />
+            <state relative-caret-position="487">
+              <caret line="34" column="67" lean-forward="true" selection-start-line="34" selection-start-column="67" selection-end-line="34" selection-end-column="67" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -354,12 +352,12 @@
       <workItem from="1521722902021" duration="22000" />
       <workItem from="1522418047586" duration="332000" />
       <workItem from="1522418520237" duration="3337000" />
-      <workItem from="1522422963908" duration="11922000" />
+      <workItem from="1522422963908" duration="12235000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16727000" />
+    <option name="totallyTimeSpent" value="17040000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1053" extended-state="0" />
@@ -373,9 +371,9 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32938644" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32938644" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22820237" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22820237" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.110042736" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -609,6 +607,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/UniversalTranslationMerger/UniversalTranslationMerger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-66">
+          <caret line="51" column="27" lean-forward="true" selection-start-line="51" selection-start-column="27" selection-end-line="51" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/UniversalTranslationMerger/result.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -633,18 +639,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/UniversalTranslationMerger/UniversalTranslationMerger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-66">
-          <caret line="51" column="27" lean-forward="true" selection-start-line="51" selection-start-column="27" selection-end-line="51" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/UniversalTranslationMerger/UniversalTranslationMerger2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="753">
-          <caret line="41" column="50" lean-forward="true" selection-start-line="41" selection-start-column="50" selection-end-line="41" selection-end-column="50" />
+        <state relative-caret-position="487">
+          <caret line="34" column="67" lean-forward="true" selection-start-line="34" selection-start-column="67" selection-end-line="34" selection-end-column="67" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
